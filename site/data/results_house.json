@@ -1,0 +1,17 @@
+{
+ "generated": "2026-10-19T22:55:43+00:00",
+ "source": "Open America results feed (official state counts; no projections)",
+ "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
+ "year": 2026,
+ "office": "House",
+ "live": false,
+ "as_of": null,
+ "counts": {
+  "called": {},
+  "races": 0,
+  "not_called": 0,
+  "reporting": 0,
+  "with_precincts": 0
+ },
+ "races": {}
+}

@@ -1,0 +1,1709 @@
+{
+ "generated": "2026-10-19T22:55:09+00:00",
+ "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+ "wikipedia_revid": 1381061625,
+ "license": "CC BY-SA 4.0 (Wikipedia)",
+ "count": 35,
+ "races": [
+  {
+   "key": "AK-S",
+   "state": "AK",
+   "state_name": "Alaska",
+   "special": false,
+   "pvi": "R+6",
+   "incumbent": {
+    "name": "Dan Sullivan",
+    "party": "Republican"
+   },
+   "status": "Incumbent advanced to general",
+   "candidates": [
+    {
+     "name": "Gerald Heikes",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Mary Peltola",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Dan J. Sullivan",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Dan S. Sullivan",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Lean D (flip)",
+    "Econ Oct 15, 2026": "Tossup",
+    "FPO Oct 17, 2026": "Lean D (flip)",
+    "Fox Oct 13, 2026": "Tossup",
+    "IE Oct 15, 2026": "Tossup",
+    "NBC Oct 19, 2026": "Tossup",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Lean D (flip)",
+    "Silver Oct 15, 2026": "Lean D (flip)",
+    "ST Oct 18, 2026": "Lean D (flip)"
+   },
+   "calendar": {
+    "primary": "August 18, 2026",
+    "poll_close_et": "12 am and 1 am"
+   }
+  },
+  {
+   "key": "AL-S",
+   "state": "AL",
+   "state_name": "Alabama",
+   "special": false,
+   "pvi": "R+15",
+   "incumbent": {
+    "name": "Tommy Tuberville",
+    "party": "Republican"
+   },
+   "status": "Incumbent retiring to run for governor",
+   "candidates": [
+    {
+     "name": "Barry Moore",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Everett Wess",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "May 19, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "AR-S",
+   "state": "AR",
+   "state_name": "Arkansas",
+   "special": false,
+   "pvi": "R+15",
+   "incumbent": {
+    "name": "Tom Cotton",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Tom Cotton",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Hallie Shoffner",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Jeff Wadlin",
+     "party": "Libertarian",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Likely R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "March 3, 2026",
+    "poll_close_et": "8:30 pm"
+   }
+  },
+  {
+   "key": "CO-S",
+   "state": "CO",
+   "state_name": "Colorado",
+   "special": false,
+   "pvi": "D+6",
+   "incumbent": {
+    "name": "John Hickenlooper",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Mark Baisley",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Christopher Baum",
+     "party": "Approval Voting",
+     "note": null
+    },
+    {
+     "name": "Bob Chew",
+     "party": "Forward",
+     "note": null
+    },
+    {
+     "name": "John Hickenlooper",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Blake Huber",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Adam Withrow",
+     "party": "Unity",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "June 30, 2026",
+    "poll_close_et": "9 pm"
+   }
+  },
+  {
+   "key": "DE-S",
+   "state": "DE",
+   "state_name": "Delaware",
+   "special": false,
+   "pvi": "D+8",
+   "incumbent": {
+    "name": "Chris Coons",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Chris Coons",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Michael Katz",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "September 15, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "FL-S-special",
+   "state": "FL",
+   "state_name": "Florida",
+   "special": true,
+   "pvi": "R+5",
+   "incumbent": {
+    "name": "Ashley Moody",
+    "party": "Republican"
+   },
+   "status": "Interim appointee nominated",
+   "candidates": [
+    {
+     "name": "Neil Gillespie",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Ashley Moody",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Angie Nixon",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Likely R",
+    "Econ Oct 15, 2026": "Likely R",
+    "FPO Oct 17, 2026": "Likely R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Likely R",
+    "NBC Oct 19, 2026": "Likely R",
+    "RCP Oct 12, 2026": "Lean R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Likely R",
+    "ST Oct 18, 2026": "Likely R"
+   },
+   "calendar": {
+    "primary": "August 18, 2026",
+    "poll_close_et": "7 pm and 8 pm"
+   }
+  },
+  {
+   "key": "GA-S",
+   "state": "GA",
+   "state_name": "Georgia",
+   "special": false,
+   "pvi": "R+1",
+   "incumbent": {
+    "name": "Jon Ossoff",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Mike Collins",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Jon Ossoff",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Likely D",
+    "DDHQ Oct 15, 2026": "Likely D",
+    "Econ Oct 15, 2026": "Likely D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Likely D",
+    "IE Oct 15, 2026": "Lean D",
+    "NBC Oct 19, 2026": "Likely D",
+    "RCP Oct 12, 2026": "Lean D",
+    "Sabato Oct 14, 2026": "Likely D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "May 19, 2026",
+    "poll_close_et": "7 pm"
+   }
+  },
+  {
+   "key": "IA-S",
+   "state": "IA",
+   "state_name": "Iowa",
+   "special": false,
+   "pvi": "R+6",
+   "incumbent": {
+    "name": "Joni Ernst",
+    "party": "Republican"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Ashley Hinson",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Thomas Laehn",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Josh Turek",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Tossup",
+    "Econ Oct 15, 2026": "Lean R",
+    "FPO Oct 17, 2026": "Tossup",
+    "Fox Oct 13, 2026": "Tossup",
+    "IE Oct 15, 2026": "Tilt R",
+    "NBC Oct 19, 2026": "Tossup",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Tossup",
+    "Silver Oct 15, 2026": "Tossup",
+    "ST Oct 18, 2026": "Tossup"
+   },
+   "calendar": {
+    "primary": "June 2, 2026",
+    "poll_close_et": "9 pm"
+   }
+  },
+  {
+   "key": "ID-S",
+   "state": "ID",
+   "state_name": "Idaho",
+   "special": false,
+   "pvi": "R+18",
+   "incumbent": {
+    "name": "Jim Risch",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Todd Achilles",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Natalie Fleming",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Matt Loesby",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Jim Risch",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "May 19, 2026",
+    "poll_close_et": "10 pm and 11 pm"
+   }
+  },
+  {
+   "key": "IL-S",
+   "state": "IL",
+   "state_name": "Illinois",
+   "special": false,
+   "pvi": "D+6",
+   "incumbent": {
+    "name": "Dick Durbin",
+    "party": "Democratic"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Whitfield Harrington Jr.",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Juliana Stratton",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Don Tracy",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "March 17, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "KS-S",
+   "state": "KS",
+   "state_name": "Kansas",
+   "special": false,
+   "pvi": "R+8",
+   "incumbent": {
+    "name": "Roger Marshall",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "David Graham",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Adam Hamilton",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Roger Marshall",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Lean R",
+    "Econ Oct 15, 2026": "Tossup",
+    "FPO Oct 17, 2026": "Tossup",
+    "Fox Oct 13, 2026": "Lean R",
+    "IE Oct 15, 2026": "Tilt R",
+    "NBC Oct 19, 2026": "Lean R",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Tossup",
+    "Silver Oct 15, 2026": "Tossup",
+    "ST Oct 18, 2026": "Tossup"
+   },
+   "calendar": {
+    "primary": "August 4, 2026",
+    "poll_close_et": "8 pm and 9 pm"
+   }
+  },
+  {
+   "key": "KY-S",
+   "state": "KY",
+   "state_name": "Kentucky",
+   "special": false,
+   "pvi": "R+15",
+   "incumbent": {
+    "name": "Mitch McConnell",
+    "party": "Republican"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Andy Barr",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Charles Booker",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Christopher Campbell",
+     "party": "Independent",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "May 19, 2026",
+    "poll_close_et": "6 pm and 7 pm"
+   }
+  },
+  {
+   "key": "LA-S",
+   "state": "LA",
+   "state_name": "Louisiana",
+   "special": false,
+   "pvi": "R+11",
+   "incumbent": {
+    "name": "Bill Cassidy",
+    "party": "Republican"
+   },
+   "status": "Incumbent lost renomination",
+   "candidates": [
+    {
+     "name": "Jamie Davis",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Julia Letlow",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Likely R",
+    "Econ Oct 15, 2026": "Likely R",
+    "FPO Oct 17, 2026": "Likely R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "May 16, 2026",
+    "poll_close_et": "9 pm"
+   }
+  },
+  {
+   "key": "MA-S",
+   "state": "MA",
+   "state_name": "Massachusetts",
+   "special": false,
+   "pvi": "D+14",
+   "incumbent": {
+    "name": "Ed Markey",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Shiva Ayyadurai",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "John Deaton",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Ed Markey",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Joe Tache",
+     "party": "Socialism and Liberation",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "September 1, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "ME-S",
+   "state": "ME",
+   "state_name": "Maine",
+   "special": false,
+   "pvi": "D+4",
+   "incumbent": {
+    "name": "Susan Collins",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Susan Collins",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Troy Jackson",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Tossup",
+    "Econ Oct 15, 2026": "Lean D (flip)",
+    "FPO Oct 17, 2026": "Lean D (flip)",
+    "Fox Oct 13, 2026": "Tossup",
+    "IE Oct 15, 2026": "Tossup",
+    "NBC Oct 19, 2026": "Lean D (flip)",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Tossup",
+    "Silver Oct 15, 2026": "Lean D (flip)",
+    "ST Oct 18, 2026": "Lean D (flip)"
+   },
+   "calendar": {
+    "primary": "June 9, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "MI-S",
+   "state": "MI",
+   "state_name": "Michigan",
+   "special": false,
+   "pvi": "EVEN",
+   "incumbent": {
+    "name": "Gary Peters",
+    "party": "Democratic"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Lydia Christensen",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Abdul El-Sayed",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Walter P. Kristy",
+     "party": "Natural Law",
+     "note": null
+    },
+    {
+     "name": "Tim Long",
+     "party": "U.S. Taxpayers",
+     "note": null
+    },
+    {
+     "name": "Douglas P. Marsh",
+     "party": "Green",
+     "note": null
+    },
+    {
+     "name": "Mike Rogers",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Lean D",
+    "Econ Oct 15, 2026": "Lean D",
+    "FPO Oct 17, 2026": "Lean D",
+    "Fox Oct 13, 2026": "Tossup",
+    "IE Oct 15, 2026": "Tilt D",
+    "NBC Oct 19, 2026": "Lean D",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Lean D",
+    "Silver Oct 15, 2026": "Likely D",
+    "ST Oct 18, 2026": "Lean D"
+   },
+   "calendar": {
+    "primary": "August 4, 2026",
+    "poll_close_et": "8 pm and 9 pm"
+   }
+  },
+  {
+   "key": "MN-S",
+   "state": "MN",
+   "state_name": "Minnesota",
+   "special": false,
+   "pvi": "D+3",
+   "incumbent": {
+    "name": "Tina Smith",
+    "party": "DFL"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Peggy Flanagan",
+     "party": "DFL",
+     "note": null
+    },
+    {
+     "name": "Marisa Simonetti",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Michele Tafoya",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Rebecca Whiting",
+     "party": "Libertarian",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Likely D",
+    "DDHQ Oct 15, 2026": "Likely D",
+    "Econ Oct 15, 2026": "Lean D",
+    "FPO Oct 17, 2026": "Likely D",
+    "Fox Oct 13, 2026": "Lean D",
+    "IE Oct 15, 2026": "Lean D",
+    "NBC Oct 19, 2026": "Likely D",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Lean D",
+    "Silver Oct 15, 2026": "Likely D",
+    "ST Oct 18, 2026": "Likely D"
+   },
+   "calendar": {
+    "primary": "August 11, 2026",
+    "poll_close_et": "9 pm"
+   }
+  },
+  {
+   "key": "MS-S",
+   "state": "MS",
+   "state_name": "Mississippi",
+   "special": false,
+   "pvi": "R+11",
+   "incumbent": {
+    "name": "Cindy Hyde-Smith",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Scott Colom",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Cindy Hyde-Smith",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Ty Pinkins",
+     "party": "Independent",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Likely R",
+    "Econ Oct 15, 2026": "Likely R",
+    "FPO Oct 17, 2026": "Likely R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Likely R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "March 10, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "MT-S",
+   "state": "MT",
+   "state_name": "Montana",
+   "special": false,
+   "pvi": "R+10",
+   "incumbent": {
+    "name": "Steve Daines",
+    "party": "Republican"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Kurt Alme",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Kyle Austin",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Alani Bankhead",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Seth Bodnar",
+     "party": "Independent",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Likely R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Likely R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Likely R",
+    "RCP Oct 12, 2026": "Likely R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "June 2, 2026",
+    "poll_close_et": "10 pm"
+   }
+  },
+  {
+   "key": "NC-S",
+   "state": "NC",
+   "state_name": "North Carolina",
+   "special": false,
+   "pvi": "R+1",
+   "incumbent": {
+    "name": "Thom Tillis",
+    "party": "Republican"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Shannon Bray",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Roy Cooper",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Michael Dublin",
+     "party": "Green",
+     "note": null
+    },
+    {
+     "name": "Michael Whatley",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Likely D (flip)",
+    "DDHQ Oct 15, 2026": "Likely D (flip)",
+    "Econ Oct 15, 2026": "Likely D (flip)",
+    "FPO Oct 17, 2026": "Likely D (flip)",
+    "Fox Oct 13, 2026": "Likely D (flip)",
+    "IE Oct 15, 2026": "Lean D (flip)",
+    "NBC Oct 19, 2026": "Likely D (flip)",
+    "RCP Oct 12, 2026": "Likely D (flip)",
+    "Sabato Oct 14, 2026": "Lean D (flip)",
+    "Silver Oct 15, 2026": "Solid D (flip)",
+    "ST Oct 18, 2026": "Likely D (flip)"
+   },
+   "calendar": {
+    "primary": "March 3, 2026",
+    "poll_close_et": "7:30 pm"
+   }
+  },
+  {
+   "key": "NE-S",
+   "state": "NE",
+   "state_name": "Nebraska",
+   "special": false,
+   "pvi": "R+10",
+   "incumbent": {
+    "name": "Pete Ricketts",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Chuck Conboy",
+     "party": "America First",
+     "note": null
+    },
+    {
+     "name": "Mike Marvin",
+     "party": "Legal Marijuana Now",
+     "note": null
+    },
+    {
+     "name": "Dan Osborn",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Robin Richards",
+     "party": "Working People",
+     "note": null
+    },
+    {
+     "name": "Pete Ricketts",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Likely R",
+    "DDHQ Oct 15, 2026": "Likely R",
+    "Econ Oct 15, 2026": "Lean R",
+    "FPO Oct 17, 2026": "Likely R",
+    "Fox Oct 13, 2026": "Likely R",
+    "IE Oct 15, 2026": "Lean R",
+    "NBC Oct 19, 2026": "Likely R",
+    "RCP Oct 12, 2026": "Lean R",
+    "Sabato Oct 14, 2026": "Lean R",
+    "Silver Oct 15, 2026": "Lean R",
+    "ST Oct 18, 2026": "Lean R"
+   },
+   "calendar": {
+    "primary": "May 12, 2026",
+    "poll_close_et": "9 pm"
+   }
+  },
+  {
+   "key": "NH-S",
+   "state": "NH",
+   "state_name": "New Hampshire",
+   "special": false,
+   "pvi": "D+2",
+   "incumbent": {
+    "name": "Jeanne Shaheen",
+    "party": "Democratic"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "Edmond LaPlante",
+     "party": "Constitution",
+     "note": null
+    },
+    {
+     "name": "Chris Pappas",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "John E. Sununu",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Lean D",
+    "DDHQ Oct 15, 2026": "Likely D",
+    "Econ Oct 15, 2026": "Likely D",
+    "FPO Oct 17, 2026": "Likely D",
+    "Fox Oct 13, 2026": "Lean D",
+    "IE Oct 15, 2026": "Tilt D",
+    "NBC Oct 19, 2026": "Lean D",
+    "RCP Oct 12, 2026": "Lean D",
+    "Sabato Oct 14, 2026": "Likely D",
+    "Silver Oct 15, 2026": "Likely D",
+    "ST Oct 18, 2026": "Likely D"
+   },
+   "calendar": {
+    "primary": "September 8, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "NJ-S",
+   "state": "NJ",
+   "state_name": "New Jersey",
+   "special": false,
+   "pvi": "D+4",
+   "incumbent": {
+    "name": "Cory Booker",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Cory Booker",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Veronica Fernandez",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Joanne Kuniansky",
+     "party": "Socialist Workers",
+     "note": null
+    },
+    {
+     "name": "Justin Murphy",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "June 2, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "NM-S",
+   "state": "NM",
+   "state_name": "New Mexico",
+   "special": false,
+   "pvi": "D+4",
+   "incumbent": {
+    "name": "Ben Ray Luján",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Ben Ray Luján",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Larry Marker",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Likely D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "June 2, 2026",
+    "poll_close_et": "9 pm"
+   }
+  },
+  {
+   "key": "OH-S-special",
+   "state": "OH",
+   "state_name": "Ohio",
+   "special": true,
+   "pvi": "R+5",
+   "incumbent": {
+    "name": "Jon Husted",
+    "party": "Republican"
+   },
+   "status": "Interim appointee nominated",
+   "candidates": [
+    {
+     "name": "Sherrod Brown",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Jon Husted",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Greg Levy",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "William Redpath",
+     "party": "Libertarian",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Tossup",
+    "Econ Oct 15, 2026": "Lean D (flip)",
+    "FPO Oct 17, 2026": "Lean D (flip)",
+    "Fox Oct 13, 2026": "Tossup",
+    "IE Oct 15, 2026": "Tossup",
+    "NBC Oct 19, 2026": "Tossup",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Tossup",
+    "Silver Oct 15, 2026": "Lean D (flip)",
+    "ST Oct 18, 2026": "Lean D (flip)"
+   },
+   "calendar": {
+    "primary": "May 5, 2026",
+    "poll_close_et": "7:30 pm"
+   }
+  },
+  {
+   "key": "OK-S",
+   "state": "OK",
+   "state_name": "Oklahoma",
+   "special": false,
+   "pvi": "R+17",
+   "incumbent": {
+    "name": "Alan Armstrong",
+    "party": "Republican"
+   },
+   "status": "Interim appointee ineligible to run",
+   "candidates": [
+    {
+     "name": "Kevin Hern",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Ron Meinhardt",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Curtis Stinnett",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "N'Kiyla Jasmine Thomas",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Sevier White",
+     "party": "Libertarian",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "June 16, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "OR-S",
+   "state": "OR",
+   "state_name": "Oregon",
+   "special": false,
+   "pvi": "D+8",
+   "incumbent": {
+    "name": "Jeff Merkley",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Gary Lyndon Dye",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Chris Henry",
+     "party": "Progressive",
+     "note": null
+    },
+    {
+     "name": "Jeff Merkley",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "David Brock Smith",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "May 19, 2026",
+    "poll_close_et": "10 pm and 11 pm"
+   }
+  },
+  {
+   "key": "RI-S",
+   "state": "RI",
+   "state_name": "Rhode Island",
+   "special": false,
+   "pvi": "D+8",
+   "incumbent": {
+    "name": "Jack Reed",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Michael Bahry",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Raymond McKay",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Jack Reed",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "September 9, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "SC-S",
+   "state": "SC",
+   "state_name": "South Carolina",
+   "special": false,
+   "pvi": "R+8",
+   "incumbent": {
+    "name": "Darline Graham",
+    "party": "Republican"
+   },
+   "status": "Interim appointee nominated in runoff",
+   "candidates": [
+    {
+     "name": "Annie Andrews",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Darline Graham",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Mark Hackett",
+     "party": "Constitution",
+     "note": null
+    },
+    {
+     "name": "Kasie Whitener",
+     "party": "Libertarian",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Likely R",
+    "DDHQ Oct 15, 2026": "Lean R",
+    "Econ Oct 15, 2026": "Lean R",
+    "FPO Oct 17, 2026": "Lean R",
+    "Fox Oct 13, 2026": "Likely R",
+    "IE Oct 15, 2026": "Lean R",
+    "NBC Oct 19, 2026": "Likely R",
+    "RCP Oct 12, 2026": "Lean R",
+    "Sabato Oct 14, 2026": "Likely R",
+    "Silver Oct 15, 2026": "Likely R",
+    "ST Oct 18, 2026": "Likely R"
+   },
+   "calendar": {
+    "primary": "June 9, 2026",
+    "poll_close_et": "7 pm"
+   }
+  },
+  {
+   "key": "SD-S",
+   "state": "SD",
+   "state_name": "South Dakota",
+   "special": false,
+   "pvi": "R+15",
+   "incumbent": {
+    "name": "Mike Rounds",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Brian Bengs",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Mike Rounds",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Likely R",
+    "FPO Oct 17, 2026": "Likely R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Likely R"
+   },
+   "calendar": {
+    "primary": "June 2, 2026",
+    "poll_close_et": "8 pm and 9 pm"
+   }
+  },
+  {
+   "key": "TN-S",
+   "state": "TN",
+   "state_name": "Tennessee",
+   "special": false,
+   "pvi": "R+14",
+   "incumbent": {
+    "name": "Bill Hagerty",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Marquita Bradshaw",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Tharon Chandler",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Andrew Gerena",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Bill Hagerty",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Jeremy Hearn",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Robert Jones",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "James Macon III",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Yoshi Matthews",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "David Sutman Jr.",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Catherine Whitson",
+     "party": "Independent",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "August 6, 2026",
+    "poll_close_et": "8 pm"
+   }
+  },
+  {
+   "key": "TX-S",
+   "state": "TX",
+   "state_name": "Texas",
+   "special": false,
+   "pvi": "R+6",
+   "incumbent": {
+    "name": "John Cornyn",
+    "party": "Republican"
+   },
+   "status": "Incumbent lost renomination in runoff",
+   "candidates": [
+    {
+     "name": "Ted Brown",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Ken Paxton",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "James Talarico",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Tossup",
+    "DDHQ Oct 15, 2026": "Tossup",
+    "Econ Oct 15, 2026": "Tossup",
+    "FPO Oct 17, 2026": "Tossup",
+    "Fox Oct 13, 2026": "Tossup",
+    "IE Oct 15, 2026": "Tossup",
+    "NBC Oct 19, 2026": "Tossup",
+    "RCP Oct 12, 2026": "Tossup",
+    "Sabato Oct 14, 2026": "Tossup",
+    "Silver Oct 15, 2026": "Lean D (flip)",
+    "ST Oct 18, 2026": "Lean D (flip)"
+   },
+   "calendar": {
+    "primary": "March 3, 2026",
+    "poll_close_et": "8 pm and 9 pm"
+   }
+  },
+  {
+   "key": "VA-S",
+   "state": "VA",
+   "state_name": "Virginia",
+   "special": false,
+   "pvi": "D+3",
+   "incumbent": {
+    "name": "Mark Warner",
+    "party": "Democratic"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Bert Mizusawa",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Mark Warner",
+     "party": "Democratic",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid D",
+    "DDHQ Oct 15, 2026": "Safe D",
+    "Econ Oct 15, 2026": "Safe D",
+    "FPO Oct 17, 2026": "Safe D",
+    "Fox Oct 13, 2026": "Solid D",
+    "IE Oct 15, 2026": "Solid D",
+    "NBC Oct 19, 2026": "Solid D",
+    "RCP Oct 12, 2026": "Solid D",
+    "Sabato Oct 14, 2026": "Safe D",
+    "Silver Oct 15, 2026": "Solid D",
+    "ST Oct 18, 2026": "Safe D"
+   },
+   "calendar": {
+    "primary": "August 4, 2026",
+    "poll_close_et": "7 pm"
+   }
+  },
+  {
+   "key": "WV-S",
+   "state": "WV",
+   "state_name": "West Virginia",
+   "special": false,
+   "pvi": "R+21",
+   "incumbent": {
+    "name": "Shelley Moore Capito",
+    "party": "Republican"
+   },
+   "status": "Incumbent renominated",
+   "candidates": [
+    {
+     "name": "Rachel Fetty Anderson",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Shelley Moore Capito",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "S. Marshall Wilson",
+     "party": "Constitution",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "May 12, 2026",
+    "poll_close_et": "7:30 pm"
+   }
+  },
+  {
+   "key": "WY-S",
+   "state": "WY",
+   "state_name": "Wyoming",
+   "special": false,
+   "pvi": "R+23",
+   "incumbent": {
+    "name": "Cynthia Lummis",
+    "party": "Republican"
+   },
+   "status": "Incumbent retiring",
+   "candidates": [
+    {
+     "name": "James W. Byrd",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Harriet Hageman",
+     "party": "Republican",
+     "note": null
+    }
+   ],
+   "ratings": {
+    "Cook Oct 6, 2026": "Solid R",
+    "DDHQ Oct 15, 2026": "Safe R",
+    "Econ Oct 15, 2026": "Safe R",
+    "FPO Oct 17, 2026": "Safe R",
+    "Fox Oct 13, 2026": "Solid R",
+    "IE Oct 15, 2026": "Solid R",
+    "NBC Oct 19, 2026": "Solid R",
+    "RCP Oct 12, 2026": "Solid R",
+    "Sabato Oct 14, 2026": "Safe R",
+    "Silver Oct 15, 2026": "Solid R",
+    "ST Oct 18, 2026": "Safe R"
+   },
+   "calendar": {
+    "primary": "August 18, 2026",
+    "poll_close_et": "9 pm"
+   }
+  }
+ ]
+}

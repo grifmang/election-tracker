@@ -1,0 +1,15 @@
+:root{--d:#1f5fbf;--r:#c8312f;--i:#6b5ca5;--bg:#f6f7f9;--b:#dde1e6}
+*{box-sizing:border-box}body{margin:0;font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:#1b1f24}
+header{background:#13213a;color:#fff;padding:16px 24px 0}h1{margin:0;font-size:24px}.sub{margin:4px 0 12px;opacity:.8}
+nav button{background:none;border:0;color:#cfd8e8;padding:10px 14px;font-size:14px;cursor:pointer;border-bottom:3px solid transparent}
+nav button.active{color:#fff;border-color:#f5c542}main{padding:20px 24px;max-width:1300px;margin:auto}
+.tab{display:none}.tab.active{display:block}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.card{background:#fff;border:1px solid var(--b);border-radius:8px;padding:14px}.card .v{font-size:26px;font-weight:700}.card .l{color:#5b6573;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:900px){.grid2{grid-template-columns:1fr}}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--b);margin:8px 0 20px}th,td{padding:6px 8px;border-bottom:1px solid #eef0f3;text-align:left;vertical-align:top}
+th{background:#eef1f5;font-size:12px;text-transform:uppercase;letter-spacing:.03em;cursor:pointer;position:sticky;top:0}td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+.D{color:var(--d);font-weight:600}.R{color:var(--r);font-weight:600}.O{color:var(--i)}.muted{color:#5b6573}.na{color:#9aa3ae;font-style:italic}
+.notice{background:#fff8e1;border:1px solid #f0d58a;padding:10px 14px;border-radius:6px;margin-bottom:10px}
+input#senfilter,select{padding:6px 8px;border:1px solid var(--b);border-radius:6px;min-width:260px;margin-right:12px}.row{margin:8px 0}
+.tag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:10px;background:#eef1f5;margin-left:4px}.tag.comp{background:#ffe2c2}
+footer{padding:16px 24px;color:#5b6573;font-size:12px;border-top:1px solid var(--b)}.bar{height:8px;background:#eef1f5;border-radius:4px;overflow:hidden;display:flex;min-width:120px}.bar span{display:block;height:100%}

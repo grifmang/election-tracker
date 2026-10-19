@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2026 Midterms Vote Tracker — House &amp; Senate</title>
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<header>
+  <h1>2026 Midterms Vote Tracker</h1>
+  <p class="sub">U.S. House (435) and Senate (35) general election, Tuesday Nov 3, 2026 · early vote now · results on election night</p>
+  <nav id="tabs">
+    <button data-tab="overview" class="active">Overview</button>
+    <button data-tab="senate">Senate</button>
+    <button data-tab="house">House</button>
+    <button data-tab="early">Early vote by state</button>
+    <button data-tab="results">Live results</button>
+    <button data-tab="sources">Sources</button>
+  </nav>
+</header>
+<main>
+<section id="overview" class="tab active">
+  <div class="cards" id="natcards"></div>
+  <p class="muted" id="countdown"></p>
+  <div class="grid2">
+    <div><h2>Early vote leaders (total ballots cast so far)</h2><table id="topstates"></table></div>
+    <div><h2>Race coverage</h2><table id="coverage"></table></div>
+  </div>
+</section>
+<section id="senate" class="tab"><h2>Senate races</h2>
+  <p class="muted">33 regular Class 2 seats + 2 specials (FL, OH). Ratings shown: Cook / Sabato / Inside Elections, as compiled on Wikipedia.</p>
+  <input id="senfilter" placeholder="Filter by state or candidate…"><table id="sentable"></table></section>
+<section id="house" class="tab"><h2>House races by state &amp; district</h2>
+  <div class="row"><select id="housestate"></select><label><input type="checkbox" id="compOnly"> Only UF-flagged competitive districts</label></div>
+  <table id="housetable"></table></section>
+<section id="early" class="tab"><h2>Early / absentee vote by state</h2>
+  <p class="muted">Ballots already cast (mail returned + in-person early). Party columns are <b>party registration</b> of voters, not votes for a party. Each state updates on its own schedule.</p>
+  <table id="evtable"></table>
+  <h2 id="evdhead">By congressional district</h2><div class="row"><select id="evdstate"></select></div><table id="evdtable"></table></section>
+<section id="results" class="tab"><h2>Live results</h2>
+  <div class="notice" id="resnotice"></div>
+  <div class="row"><label><input type="checkbox" id="demo2024"> Show 2024 replay (test data, NOT 2026)</label></div>
+  <h3>Senate</h3><table id="ressen"></table><h3>House</h3><table id="reshouse"></table></section>
+<section id="sources" class="tab"><h2>Sources &amp; caveats</h2><div id="srclist"></div></section>
+</main>
+<footer>Race lists: Wikipedia (CC BY-SA 4.0). Early vote: UF Election Lab (Dr. Michael McDonald). Results: official state counts via Open America feed. No numbers on this site are estimated or projected.</footer>
+<script src="app.js"></script></body></html>

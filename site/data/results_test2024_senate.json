@@ -1,0 +1,357 @@
+{
+ "generated": "2026-10-19T22:55:45+00:00",
+ "source": "Open America results feed (official state counts; no projections)",
+ "source_url": "https://openamerica.io/elections/results.json?year=2024&office=Senate",
+ "year": 2024,
+ "office": "Senate",
+ "live": false,
+ "as_of": "2026-09-23T17:47:54+00:00",
+ "counts": {
+  "called": {},
+  "races": 11,
+  "not_called": 11,
+  "reporting": 9,
+  "with_precincts": 10
+ },
+ "races": {
+  "AZ": {
+   "pct_in": 100.0,
+   "total": 3347964,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Ruben Gallego",
+     "party": "D",
+     "votes": 1676335,
+     "pct": 50.07
+    },
+    {
+     "name": "Kari Lake",
+     "party": "R",
+     "votes": 1595761,
+     "pct": 47.66
+    },
+    {
+     "name": "Eduardo Quintana",
+     "party": "G",
+     "votes": 75868,
+     "pct": 2.27
+    }
+   ]
+  },
+  "CT": {
+   "pct_in": 100.0,
+   "total": 1708252,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Christopher S. Murphy",
+     "party": "D",
+     "votes": 1000695,
+     "pct": 58.58
+    },
+    {
+     "name": "Matthew M. Corey",
+     "party": "R",
+     "votes": 678256,
+     "pct": 39.7
+    },
+    {
+     "name": "Robert Finley Hyde",
+     "party": "CHE",
+     "votes": 14879,
+     "pct": 0.87
+    },
+    {
+     "name": "Justin C. Paglino",
+     "party": "G",
+     "votes": 14422,
+     "pct": 0.84
+    }
+   ]
+  },
+  "FL": {
+   "pct_in": 97.08,
+   "total": 10757415,
+   "leader": "R",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Rick Scott",
+     "party": "R",
+     "votes": 5977706,
+     "pct": 55.57
+    },
+    {
+     "name": "Debbie Mucarsel-Powell",
+     "party": "D",
+     "votes": 4603077,
+     "pct": 42.79
+    },
+    {
+     "name": "Ben Everidge",
+     "party": "I",
+     "votes": 62683,
+     "pct": 0.58
+    },
+    {
+     "name": "Feena Bonoan",
+     "party": "LPF",
+     "votes": 57363,
+     "pct": 0.53
+    },
+    {
+     "name": "Tuan TQ Nguyen",
+     "party": "I",
+     "votes": 56586,
+     "pct": 0.53
+    }
+   ]
+  },
+  "IN": {
+   "pct_in": 100.0,
+   "total": 2829710,
+   "leader": "R",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Jim Banks",
+     "party": "R",
+     "votes": 1659416,
+     "pct": 58.64
+    },
+    {
+     "name": "Valerie McCray",
+     "party": "D",
+     "votes": 1097061,
+     "pct": 38.77
+    },
+    {
+     "name": "Andrew Horning",
+     "party": "L",
+     "votes": 73233,
+     "pct": 2.59
+    }
+   ]
+  },
+  "MN": {
+   "pct_in": 100.0,
+   "total": 3185745,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Amy Klobuchar",
+     "party": "D",
+     "votes": 1792441,
+     "pct": 56.26
+    },
+    {
+     "name": "Royce White",
+     "party": "R",
+     "votes": 1291712,
+     "pct": 40.55
+    },
+    {
+     "name": "Rebecca Whiting",
+     "party": "L",
+     "votes": 55215,
+     "pct": 1.73
+    },
+    {
+     "name": "Joyce Lynne Lacey",
+     "party": "IA",
+     "votes": 46377,
+     "pct": 1.46
+    }
+   ]
+  },
+  "TX": {
+   "pct_in": 100.0,
+   "total": 11291854,
+   "leader": "R",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Ted Cruz",
+     "party": "R",
+     "votes": 5990741,
+     "pct": 53.05
+    },
+    {
+     "name": "Colin Allred",
+     "party": "D",
+     "votes": 5031249,
+     "pct": 44.56
+    },
+    {
+     "name": "Ted Brown",
+     "party": "L",
+     "votes": 267039,
+     "pct": 2.36
+    },
+    {
+     "name": "Analisa Roche",
+     "party": "W",
+     "votes": 1906,
+     "pct": 0.02
+    },
+    {
+     "name": "Tracy Andrus",
+     "party": "W",
+     "votes": 919,
+     "pct": 0.01
+    }
+   ]
+  },
+  "UT": {
+   "pct_in": 100.0,
+   "total": 1463187,
+   "leader": "R",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "John Curtis",
+     "party": "R",
+     "votes": 914700,
+     "pct": 62.51
+    },
+    {
+     "name": "Caroline Gleich",
+     "party": "D",
+     "votes": 464515,
+     "pct": 31.75
+    },
+    {
+     "name": "Carlton E. Bowen",
+     "party": "IAP",
+     "votes": 83972,
+     "pct": 5.74
+    }
+   ]
+  },
+  "VA": {
+   "pct_in": 100.0,
+   "total": 4437026,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Timothy M. Kaine",
+     "party": "D",
+     "votes": 2417115,
+     "pct": 54.48
+    },
+    {
+     "name": "Hung Cao",
+     "party": "R",
+     "votes": 2019911,
+     "pct": 45.52
+    }
+   ]
+  },
+  "VT": {
+   "pct_in": 100.0,
+   "total": 362855,
+   "leader": "I",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Bernie Sanders",
+     "party": "I",
+     "votes": 229429,
+     "pct": 63.23
+    },
+    {
+     "name": "Gerald Malloy",
+     "party": "R",
+     "votes": 116512,
+     "pct": 32.11
+    },
+    {
+     "name": "Steve Berry",
+     "party": "I",
+     "votes": 7941,
+     "pct": 2.19
+    },
+    {
+     "name": "Matt Hill",
+     "party": "L",
+     "votes": 4530,
+     "pct": 1.25
+    },
+    {
+     "name": "Justin Schoville",
+     "party": "PEA",
+     "votes": 3339,
+     "pct": 0.92
+    },
+    {
+     "name": "Mark Stewart Greenstein",
+     "party": "EPI",
+     "votes": 1104,
+     "pct": 0.3
+    }
+   ]
+  },
+  "WA": {
+   "pct_in": null,
+   "total": 3801764,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Maria Cantwell",
+     "party": "D",
+     "votes": 2252577,
+     "pct": 59.25
+    },
+    {
+     "name": "Dr Raul Garcia",
+     "party": "R",
+     "votes": 1549187,
+     "pct": 40.75
+    }
+   ]
+  },
+  "WV": {
+   "pct_in": 100.0,
+   "total": 747702,
+   "leader": "R",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Jim Justice",
+     "party": "R",
+     "votes": 514079,
+     "pct": 68.75
+    },
+    {
+     "name": "Glenn Elliott",
+     "party": "D",
+     "votes": 207548,
+     "pct": 27.76
+    },
+    {
+     "name": "David Moran",
+     "party": "L",
+     "votes": 26075,
+     "pct": 3.49
+    }
+   ]
+  }
+ }
+}

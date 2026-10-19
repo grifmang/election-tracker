@@ -1,0 +1,32 @@
+# Scheduled data refresh + deploy to GitHub Pages
+name: refresh-and-deploy
+on:
+  push: {branches: [main]}
+  schedule: [{cron: "17 */2 * * *"}]   # every 2h during early voting; tighten to "*/5 * * * *" for Nov 3
+  workflow_dispatch: {}
+permissions: {contents: write, pages: write, id-token: write}
+concurrency: {group: pages, cancel-in-progress: false}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: Refresh data (keeps last good data if a source fails)
+        run: python pipeline/run_all.py || echo "::warning::data refresh failed; deploying last committed data"
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "data-bot"; git config user.email "data-bot@users.noreply.github.com"
+          git add site/data && git commit -m "data refresh $(date -u +%FT%TZ)" && git push || echo "no changes"
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: site}
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: {name: github-pages, url: "${{ steps.d.outputs.page_url }}"}
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
