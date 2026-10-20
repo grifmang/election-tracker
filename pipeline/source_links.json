@@ -1,0 +1,8 @@
+{
+ "_note": "Manual, verified replacements for state source URLs from the UF US.csv 'data_source' column that are dead or point at an unreachable host. Checked 2026-10-20.",
+ "overrides": {
+  "LA": {"url": "https://www.sos.la.gov/elections-voting/early-voting-statistics-statewide", "reason": "UF URL (sos.la.gov/ElectionsAndVoting/Pages/EarlyVotingStatisticsStatewide.aspx) returns 404; LA SOS moved the page"},
+  "OH": {"url": "https://www.ohiosos.gov/data", "reason": "UF URL data.ohiosos.gov/portal/election-dashboards only returns a bot-check page; Ohio SOS publicly points to OhioSoS.gov/Data for its absentee/early voting dashboard"}
+ },
+ "placeholder_values": ["TBD", "NA", "N/A", ""]
+}

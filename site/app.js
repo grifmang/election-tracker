@@ -4,6 +4,17 @@ const pcls = p => /^Democ|^D$/.test(p||'') ? 'D' : /^Repub|^R$/.test(p||'') ? 'R
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const ELECTION = new Date('2026-11-03T00:00:00-05:00');
 const D = {};
+const isUrl = u => typeof u === 'string' && /^https?:\/\//i.test(u);
+const ext = (u, t, title) => isUrl(u) ? `<a href="${esc(u)}" target="_blank" rel="noopener"${title?` title="${esc(title)}"`:''}>${t}</a>` : '';
+// Source cell: state's official source (link only when it's a real absolute URL, else plain-text agency name) + UF state page
+function srcCell(s){
+  const parts = [];
+  if (isUrl(s.source_link)) parts.push(ext(s.source_link, 'state source', s.source_link));
+  else if (s.source_label) parts.push(`<span class="muted">${esc(s.source_label)}</span>`);
+  if (isUrl(s.uf_state_url)) parts.push(ext(s.uf_state_url, 'UF page', 'UF Election Lab ' + s.name + ' page'));
+  return parts.join(' · ');
+}
+
 async function load(n){ try { const r = await fetch('data/'+n+'.json',{cache:'no-store'}); return r.ok ? r.json() : null; } catch(e){ return null; } }
 
 document.querySelectorAll('nav button').forEach(b => b.onclick = () => {
@@ -74,22 +85,23 @@ function house(){
 function early(){
   const z = v => v ? fmt(v) : '<span class="na" title="0 or not reported by state">—</span>';
   const rows = (D.ev?.states||[]).slice().sort((a,b)=>a.name.localeCompare(b.name)).map(s=>{
-    if (!s.not_in_tracker && !s.reporting) return `<tr><td>${s.name}</td><td colspan="6" class="na">No 2026 general-election data posted yet</td><td>${s.last_update||''} ${s.source_url?`<a href="${esc(s.source_url)}" target="_blank" rel="noopener">src</a>`:''}</td></tr>`;
-    if (s.not_in_tracker) return `<tr><td>${s.name}</td><td colspan="7" class="na">Not listed in the UF Election Lab tracker</td></tr>`;
+    if (!s.not_in_tracker && !s.reporting) return `<tr><td>${s.name}</td><td colspan="6" class="na">No 2026 general-election data posted yet</td><td>${s.last_update||''}<br>${srcCell(s)}</td></tr>`;
+    if (s.not_in_tracker) return `<tr><td>${s.name}</td><td colspan="6" class="na">Not listed in the UF Election Lab tracker</td><td>${srcCell(s)}</td></tr>`;
     const p = s.has_party_breakdown, tv = (s.voted_dem||0)+(s.voted_rep||0)+(s.voted_none||0);
     const bar = p&&tv ? `<div class="bar"><span style="width:${100*s.voted_dem/tv}%;background:var(--d)"></span><span style="width:${100*s.voted_none/tv}%;background:#b7bec8"></span><span style="width:${100*s.voted_rep/tv}%;background:var(--r)"></span></div>
       <span class="muted">D ${(100*s.voted_dem/tv).toFixed(1)}% · R ${(100*s.voted_rep/tv).toFixed(1)}% · Oth ${(100*s.voted_none/tv).toFixed(1)}%</span>` : '<span class="na">no party registration data</span>';
     return `<tr><td>${s.name}</td><td class="n" data-v="${s.voted_all}">${s.reporting?fmt(s.voted_all):'<span class="na">no data yet</span>'}</td><td class="n" data-v="${s.accept_all}">${z(s.accept_all)}</td>
       <td class="n" data-v="${s.inperson_all}">${z(s.inperson_all)}</td><td class="n" data-v="${s.request_all}">${z(s.request_all)}</td>
       <td class="n">${s.turnout_2022&&s.voted_all?(100*s.voted_all/s.turnout_2022).toFixed(1)+'%':'—'}</td><td>${bar}</td>
-      <td>${s.last_update||''} ${s.source_url?`<a href="${esc(s.source_url)}" target="_blank" rel="noopener">src</a>`:''}${s.notes?` <span title="${esc(s.notes)}">ⓘ</span>`:''}</td></tr>`; });
-  table($('#evtable'), [{t:'State'},{t:'Ballots cast',n:1},{t:'Mail returned',n:1},{t:'In-person early',n:1},{t:'Mail requested/sent',n:1},{t:'% of 2022 total',n:1},{t:'Cast by party registration'},{t:'Updated'}], rows);
+      <td>${s.last_update||''}${s.notes?` <span title="${esc(s.notes)}">ⓘ</span>`:''}<br>${srcCell(s)}</td></tr>`; });
+  table($('#evtable'), [{t:'State'},{t:'Ballots cast',n:1},{t:'Mail returned',n:1},{t:'In-person early',n:1},{t:'Mail requested/sent',n:1},{t:'% of 2022 total',n:1},{t:'Cast by party registration'},{t:'Updated / source'}], rows);
   const sts = D.evd?.states_with_district_data||[];
   $('#evdhead').textContent = `By congressional district (${sts.length} states publish usable district data)`;
   $('#evdstate').innerHTML = sts.map(s=>`<option>${s}</option>`).join(''); $('#evdstate').onchange = earlyD; earlyD();
 }
 function earlyD(){
-  const st = $('#evdstate').value;
+  const st = $('#evdstate').value, so = D.ev?.states.find(x=>x.state===st);
+  $('#evdsrc').innerHTML = so ? 'Source: ' + (srcCell(so) || '<span class="muted">UF Election Lab district file</span>') : '';
   const rows = (D.evd?.districts||[]).filter(d=>d.state===st).map(d=>`<tr><td>${d.key}</td><td class="n" data-v="${d.voted_all??-1}">${fmt(d.voted_all)}</td><td class="n">${fmt(d.accept_all)}</td><td class="n">${fmt(d.inperson_all)}</td><td class="n">${fmt(d.request_all)}</td>
     <td class="n">${fmt(d.accept_dem)}</td><td class="n">${fmt(d.accept_rep)}</td><td class="n">${fmt(d.accept_none)}</td></tr>`);
   table($('#evdtable'), [{t:'District'},{t:'Ballots cast',n:1},{t:'Mail returned',n:1},{t:'In-person',n:1},{t:'Requested',n:1},{t:'Mail ret. Dem reg',n:1},{t:'Mail ret. Rep reg',n:1},{t:'Mail ret. other',n:1}], rows);
@@ -112,10 +124,10 @@ function results(){
 }
 function sources(){
   $('#srclist').innerHTML = `<ul>
-  <li>Race lists, candidates, Senate ratings & poll-closing times: <a href="${D.house?.source}">${D.house?.source}</a>, <a href="${D.sen?.source}">${D.sen?.source}</a> (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>
-  <li>Early vote: <a href="${D.ev?.source}">UF Election Lab 2026 Early Voting</a> — ${esc(D.ev?.attribution)}. Data file: ${esc(D.ev?.data_url)}. ${D.ev?.caveats?.map(esc).join(' ')}</li>
+  <li>Race lists, candidates, Senate ratings & poll-closing times: ${ext(D.house?.source, esc(D.house?.source))}, ${ext(D.sen?.source, esc(D.sen?.source))} (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>
+  <li>Early vote: ${ext(D.ev?.source, "UF Election Lab 2026 Early Voting")} — ${esc(D.ev?.attribution)}. Data file: ${ext(D.ev?.data_url, esc(D.ev?.data_url))}. ${D.ev?.caveats?.map(esc).join(' ')}</li>
   <li>District early vote: ${esc(D.evd?.note)}</li>
-  <li>Competitive-district flags: ${esc(D.comp?.note)} <a href="${D.comp?.source}">csv</a></li>
+  <li>Competitive-district flags: ${esc(D.comp?.note)} ${ext(D.comp?.source, "csv")}</li>
   <li>Results: <a href="https://openamerica.io/elections/api/">Open America results feed</a> — official state counts, no projections.</li></ul>`;
 }
 

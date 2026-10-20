@@ -1,8 +1,36 @@
 """Early / absentee / mail vote from the UF Election Lab 2026 tracker (Dr. Michael McDonald).
 State totals: /data-downloads/earlyvote/2026/US.csv ; district files: <ST>_cd.csv (only some states).
 Numbers are passed through as published - no estimates."""
-import io, re, pandas as pd, requests
-from common import get, save, now_iso, ABBR2NAME, STATES
+import io, re, os, json, pandas as pd, requests
+from common import get, save, now_iso, ABBR2NAME, STATES, DATA
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+LINKS = json.load(open(os.path.join(HERE, "source_links.json")))
+UF_STATE = "https://election.lab.ufl.edu/early-vote/2026-early-voting/2026-general-election-early-vote-{}/"
+
+def _prev_uf_urls():
+    try:
+        return {x["state"]: x.get("uf_state_url") for x in json.load(open(os.path.join(DATA, "early_vote_states.json")))["states"]}
+    except Exception:
+        return {}
+
+def uf_state_url(name, prev):
+    """UF per-state page (same slug rule as UF's own JS). Only kept if it answers 200; on network error keep last known value."""
+    u = UF_STATE.format(re.sub(r"(^-+|-+$)", "", re.sub(r"[^a-z0-9]+", "-", name.lower())))
+    try:
+        r = requests.get(u, headers={"User-Agent": "Mozilla/5.0 ElectionTrackerPrototype/0.1"}, timeout=30)
+        return u if r.status_code == 200 else None
+    except requests.RequestException:
+        return prev
+
+def source_fields(st, raw):
+    """Split UF's data_source (sometimes a URL, sometimes just an agency name) into link + label."""
+    raw = None if raw is None or (isinstance(raw, float) and pd.isna(raw)) else str(raw).strip()
+    if raw in LINKS["placeholder_values"]: raw = None
+    ov = LINKS["overrides"].get(st)
+    if ov: return ov["url"], raw if raw and not raw.startswith("http") else None, raw
+    if raw and re.match(r"^https?://", raw): return raw, None, raw
+    return None, raw, raw
 
 BASE = "https://election.lab.ufl.edu/data-downloads/earlyvote/2026"
 PAGE = "https://election.lab.ufl.edu/early-vote/2026-early-voting/"
@@ -19,10 +47,12 @@ def num(v):
 
 def states():
     df = pd.read_csv(io.StringIO(get(f"{BASE}/US.csv").text))
-    out = []
+    out, prev = [], _prev_uf_urls()
     for _, r in df.iterrows():
+        link, label, raw = source_fields(r["state_abbv"], r["data_source"])
         rec = {"state": r["state_abbv"], "name": r["state"], "last_update": r["last_update"],
-               "source_url": None if pd.isna(r["data_source"]) else r["data_source"],
+               "source_link": link, "source_label": label, "source_raw": raw,
+               "uf_state_url": uf_state_url(r["state"], prev.get(r["state_abbv"])),
                "notes": None if pd.isna(r["notes"]) or r["notes"] == "NA" else r["notes"],
                "turnout_2022": num(r["turn_2022"])}
         for k in KEEP:
@@ -35,7 +65,8 @@ def states():
     listed = {o["state"] for o in out}
     missing = sorted(set(STATES.values()) - listed)
     for st in missing:
-        out.append({"state": st, "name": ABBR2NAME[st], "reporting": False, "not_in_tracker": True})
+        out.append({"state": st, "name": ABBR2NAME[st], "reporting": False, "not_in_tracker": True,
+                    "uf_state_url": uf_state_url(ABBR2NAME[st], prev.get(st)), "source_link": None, "source_label": None})
     out.sort(key=lambda x: x["state"])
     tot = {k: sum((o.get(k) or 0) for o in out) for k in ("voted_all", "accept_all", "inperson_all", "request_all")}
     return out, tot, missing
