@@ -13,3 +13,13 @@ th{background:#eef1f5;font-size:12px;text-transform:uppercase;letter-spacing:.03
 input#senfilter,select{padding:6px 8px;border:1px solid var(--b);border-radius:6px;min-width:260px;margin-right:12px}.row{margin:8px 0}
 .tag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:10px;background:#eef1f5;margin-left:4px}.tag.comp{background:#ffe2c2}
 footer{padding:16px 24px;color:#5b6573;font-size:12px;border-top:1px solid var(--b)}.bar{height:8px;background:#eef1f5;border-radius:4px;overflow:hidden;display:flex;min-width:120px}.bar span{display:block;height:100%}
+
+/* Early vote page: full-width, single-line tables; scroll horizontally on narrow screens */
+main:has(#early.active){max-width:none;padding-left:16px;padding-right:16px}
+#early .wide-scroll{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin:8px 0 20px;border:1px solid var(--b);background:#fff}
+#early .wide-scroll table{margin:0;border:0;width:100%;min-width:max-content}
+#early table.nowrap th,#early table.nowrap td{white-space:nowrap}
+#early table.nowrap .bar{display:inline-flex;vertical-align:middle;min-width:100px;width:100px;margin-right:6px}
+#early table.nowrap th:first-child,#early table.nowrap td:first-child{position:sticky;left:0;background:#fff;z-index:1;box-shadow:1px 0 0 #eef0f3}
+#early table.nowrap th:first-child{background:#eef1f5;z-index:2}
+#early .agency{display:inline-block;max-width:180px;overflow:hidden;text-overflow:ellipsis;vertical-align:bottom}

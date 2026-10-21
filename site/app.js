@@ -10,7 +10,7 @@ const ext = (u, t, title) => isUrl(u) ? `<a href="${esc(u)}" target="_blank" rel
 function srcCell(s){
   const parts = [];
   if (isUrl(s.source_link)) parts.push(ext(s.source_link, 'state source', s.source_link));
-  else if (s.source_label) parts.push(`<span class="muted">${esc(s.source_label)}</span>`);
+  else if (s.source_label) parts.push(`<span class="muted agency" title="${esc(s.source_label)}">${esc(s.source_label.replace(/^Data (file )?provided (by )?/i,'').replace(/Secretary of (the )?State/,'SOS'))}</span>`);
   if (isUrl(s.uf_state_url)) parts.push(ext(s.uf_state_url, 'UF page', 'UF Election Lab ' + s.name + ' page'));
   return parts.join(' · ');
 }
@@ -85,16 +85,16 @@ function house(){
 function early(){
   const z = v => v ? fmt(v) : '<span class="na" title="0 or not reported by state">—</span>';
   const rows = (D.ev?.states||[]).slice().sort((a,b)=>a.name.localeCompare(b.name)).map(s=>{
-    if (!s.not_in_tracker && !s.reporting) return `<tr><td>${s.name}</td><td colspan="6" class="na">No 2026 general-election data posted yet</td><td>${s.last_update||''}<br>${srcCell(s)}</td></tr>`;
-    if (s.not_in_tracker) return `<tr><td>${s.name}</td><td colspan="6" class="na">Not listed in the UF Election Lab tracker</td><td>${srcCell(s)}</td></tr>`;
+    if (!s.not_in_tracker && !s.reporting) return `<tr><td>${s.name}</td><td colspan="6" class="na">No 2026 general-election data posted yet</td><td>${s.last_update||''}</td><td>${srcCell(s)}</td></tr>`;
+    if (s.not_in_tracker) return `<tr><td>${s.name}</td><td colspan="6" class="na">Not listed in the UF Election Lab tracker</td><td></td><td>${srcCell(s)}</td></tr>`;
     const p = s.has_party_breakdown, tv = (s.voted_dem||0)+(s.voted_rep||0)+(s.voted_none||0);
-    const bar = p&&tv ? `<div class="bar"><span style="width:${100*s.voted_dem/tv}%;background:var(--d)"></span><span style="width:${100*s.voted_none/tv}%;background:#b7bec8"></span><span style="width:${100*s.voted_rep/tv}%;background:var(--r)"></span></div>
+    const bar = p&&tv ? `<span class="bar"><span style="width:${100*s.voted_dem/tv}%;background:var(--d)"></span><span style="width:${100*s.voted_none/tv}%;background:#b7bec8"></span><span style="width:${100*s.voted_rep/tv}%;background:var(--r)"></span></span>
       <span class="muted">D ${(100*s.voted_dem/tv).toFixed(1)}% · R ${(100*s.voted_rep/tv).toFixed(1)}% · Oth ${(100*s.voted_none/tv).toFixed(1)}%</span>` : '<span class="na">no party registration data</span>';
     return `<tr><td>${s.name}</td><td class="n" data-v="${s.voted_all}">${s.reporting?fmt(s.voted_all):'<span class="na">no data yet</span>'}</td><td class="n" data-v="${s.accept_all}">${z(s.accept_all)}</td>
       <td class="n" data-v="${s.inperson_all}">${z(s.inperson_all)}</td><td class="n" data-v="${s.request_all}">${z(s.request_all)}</td>
       <td class="n">${s.turnout_2022&&s.voted_all?(100*s.voted_all/s.turnout_2022).toFixed(1)+'%':'—'}</td><td>${bar}</td>
-      <td>${s.last_update||''}${s.notes?` <span title="${esc(s.notes)}">ⓘ</span>`:''}<br>${srcCell(s)}</td></tr>`; });
-  table($('#evtable'), [{t:'State'},{t:'Ballots cast',n:1},{t:'Mail returned',n:1},{t:'In-person early',n:1},{t:'Mail requested/sent',n:1},{t:'% of 2022 total',n:1},{t:'Cast by party registration'},{t:'Updated / source'}], rows);
+      <td>${s.last_update||''}${s.notes?` <span title="${esc(s.notes)}">ⓘ</span>`:''}</td><td>${srcCell(s)}</td></tr>`; });
+  table($('#evtable'), [{t:'State'},{t:'Ballots cast',n:1},{t:'Mail returned',n:1},{t:'In-person early',n:1},{t:'Mail req./sent',n:1},{t:'% of 2022',n:1},{t:'Cast by party reg.'},{t:'Updated'},{t:'Source'}], rows);
   const sts = D.evd?.states_with_district_data||[];
   $('#evdhead').textContent = `By congressional district (${sts.length} states publish usable district data)`;
   $('#evdstate').innerHTML = sts.map(s=>`<option>${s}</option>`).join(''); $('#evdstate').onchange = earlyD; earlyD();
