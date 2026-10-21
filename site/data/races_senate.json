@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-20T21:42:02+00:00",
+ "generated": "2026-10-21T00:40:09+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1381232451,
+ "wikipedia_revid": 1381239484,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -514,7 +514,7 @@
     "RCP Oct 12, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Tossup",
     "Silver Oct 20, 2026": "Tossup",
-    "ST Oct 20, 2026": "Tossup"
+    "ST Oct 20, 2026": "Lean R"
    },
    "calendar": {
     "primary": "August 4, 2026",
