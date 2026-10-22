@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T12:02:11+00:00",
+ "generated": "2026-10-22T17:17:33+00:00",
  "source": "https://election.lab.ufl.edu/data-downloads/earlyvote/2026/house_tossup_races.csv",
  "note": "Districts flagged by the UF Election Lab as rated Toss-up by at least one outlet; ratings as compiled by UF.",
  "districts": [
@@ -18,50 +18,33 @@
    "fox": "Likely|R|Flip",
    "silver": "Likely|R|Flip",
    "rcp": "Lean|R|Flip",
-   "last_scraped": "10/16/2026"
-  },
-  {
-   "state": "AZ",
-   "cd": "01",
-   "key": "AZ-01",
-   "n_tossup_outlets": "1",
-   "cook": "Lean|D|Flip",
-   "ie": "Tilt|D|Flip",
-   "sabato": "Tossup",
-   "econ": "Likely|D|Flip",
-   "splitticket": "Likely|D|Flip",
-   "ddhq": "Lean|D|Flip",
-   "fpo": "Likely|D|Flip",
-   "fox": "Lean|D|Flip",
-   "silver": "Lean|D|Flip",
-   "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "AZ",
    "cd": "02",
    "key": "AZ-02",
-   "n_tossup_outlets": "1",
+   "n_tossup_outlets": "3",
    "cook": "Likely|R",
    "ie": "Likely|R",
    "sabato": "Likely|R",
-   "econ": "Lean|R",
+   "econ": "Tossup",
    "splitticket": "Tossup",
    "ddhq": "Likely|R",
    "fpo": "Lean|R",
    "fox": "Likely|R",
    "silver": "Likely|R",
-   "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "rcp": "Tossup",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "AZ",
    "cd": "06",
    "key": "AZ-06",
-   "n_tossup_outlets": "3",
+   "n_tossup_outlets": "2",
    "cook": "Tossup",
    "ie": "Tossup",
-   "sabato": "Tossup",
+   "sabato": "Lean|D|Flip",
    "econ": "Likely|D|Flip",
    "splitticket": "Safe|D|Flip",
    "ddhq": "Likely|D|Flip",
@@ -69,7 +52,7 @@
    "fox": "Lean|D|Flip",
    "silver": "Lean|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "CA",
@@ -79,14 +62,14 @@
    "cook": "Tossup",
    "ie": "Tossup",
    "sabato": "Lean|D|Flip",
-   "econ": "Likely|D|Flip",
+   "econ": "Safe|D|Flip",
    "splitticket": "Lean|D|Flip",
    "ddhq": "Likely|D|Flip",
    "fpo": "Likely|D|Flip",
    "fox": "Tossup",
    "silver": "Likely|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "CO",
@@ -103,24 +86,24 @@
    "fox": "Lean|R",
    "silver": "Likely|R",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "CO",
    "cd": "04",
    "key": "CO-04",
-   "n_tossup_outlets": "3",
+   "n_tossup_outlets": "2",
    "cook": "Solid|R",
    "ie": "Solid|R",
-   "sabato": "Likely|R",
-   "econ": "Tossup",
+   "sabato": "Lean|R",
+   "econ": "Lean|R",
    "splitticket": "Tossup",
    "ddhq": "Likely|R",
    "fpo": "Likely|R",
    "fox": "Likely|R",
    "silver": "Likely|R",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "CO",
@@ -133,20 +116,20 @@
    "econ": "Lean|R",
    "splitticket": "Lean|R",
    "ddhq": "Likely|R",
-   "fpo": "Tossup",
+   "fpo": "Lean|D|Flip",
    "fox": "Lean|R",
    "silver": "Lean|R",
-   "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "rcp": "Tossup",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "CO",
    "cd": "08",
    "key": "CO-08",
-   "n_tossup_outlets": "3",
+   "n_tossup_outlets": "2",
    "cook": "Tossup",
    "ie": "Tossup",
-   "sabato": "Tossup",
+   "sabato": "Lean|D|Flip",
    "econ": "Lean|D|Flip",
    "splitticket": "Lean|D|Flip",
    "ddhq": "Likely|D|Flip",
@@ -154,7 +137,7 @@
    "fox": "Lean|D|Flip",
    "silver": "Likely|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "FL",
@@ -164,14 +147,14 @@
    "cook": "Likely|R",
    "ie": "Likely|R",
    "sabato": "Likely|R",
-   "econ": "Likely|D|Flip",
+   "econ": "Lean|D|Flip",
    "splitticket": "Lean|R",
    "ddhq": "Lean|R",
    "fpo": "Lean|R",
    "fox": "Lean|R",
    "silver": "Tossup",
    "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "FL",
@@ -188,30 +171,13 @@
    "fox": "Lean|R|Flip",
    "silver": "Tossup",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
-  },
-  {
-   "state": "FL",
-   "cd": "13",
-   "key": "FL-13",
-   "n_tossup_outlets": "1",
-   "cook": "Lean|R",
-   "ie": "Lean|R",
-   "sabato": "Likely|R",
-   "econ": "Lean|R",
-   "splitticket": "Likely|R",
-   "ddhq": "Likely|R",
-   "fpo": "Lean|R",
-   "fox": "Lean|R",
-   "silver": "Lean|R",
-   "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "FL",
    "cd": "14",
    "key": "FL-14",
-   "n_tossup_outlets": "4",
+   "n_tossup_outlets": "5",
    "cook": "Tossup",
    "ie": "Tossup",
    "sabato": "Tossup",
@@ -221,8 +187,8 @@
    "fpo": "Likely|D",
    "fox": "Tossup",
    "silver": "Likely|D",
-   "rcp": "Lean|D",
-   "last_scraped": "10/16/2026"
+   "rcp": "Tossup",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "FL",
@@ -232,14 +198,14 @@
    "cook": "Tossup",
    "ie": "Tilt|R|Flip",
    "sabato": "Tossup",
-   "econ": "Tossup",
-   "splitticket": "Lean|R|Flip",
+   "econ": "Lean|D",
+   "splitticket": "Tossup",
    "ddhq": "Tossup",
    "fpo": "Lean|D",
    "fox": "Tossup",
    "silver": "Lean|D",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "FL",
@@ -256,33 +222,16 @@
    "fox": "Lean|D",
    "silver": "Likely|D",
    "rcp": "Lean|D",
-   "last_scraped": "10/16/2026"
-  },
-  {
-   "state": "FL",
-   "cd": "27",
-   "key": "FL-27",
-   "n_tossup_outlets": "1",
-   "cook": "Lean|R",
-   "ie": "Lean|R",
-   "sabato": "Lean|R",
-   "econ": "Likely|R",
-   "splitticket": "Likely|R",
-   "ddhq": "Likely|R",
-   "fpo": "Lean|R",
-   "fox": "Lean|R",
-   "silver": "Likely|R",
-   "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "IA",
    "cd": "02",
    "key": "IA-02",
-   "n_tossup_outlets": "7",
+   "n_tossup_outlets": "6",
    "cook": "Tossup",
    "ie": "Tossup",
-   "sabato": "Tossup",
+   "sabato": "Lean|D|Flip",
    "econ": "Lean|D|Flip",
    "splitticket": "Lean|D|Flip",
    "ddhq": "Tossup",
@@ -290,41 +239,24 @@
    "fox": "Tossup",
    "silver": "Tossup",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
-  },
-  {
-   "state": "IA",
-   "cd": "03",
-   "key": "IA-03",
-   "n_tossup_outlets": "1",
-   "cook": "Lean|D|Flip",
-   "ie": "Tilt|D|Flip",
-   "sabato": "Tossup",
-   "econ": "Likely|D|Flip",
-   "splitticket": "Likely|D|Flip",
-   "ddhq": "Lean|D|Flip",
-   "fpo": "Likely|D|Flip",
-   "fox": "Lean|D|Flip",
-   "silver": "Likely|D|Flip",
-   "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "KY",
    "cd": "06",
    "key": "KY-06",
-   "n_tossup_outlets": "1",
+   "n_tossup_outlets": "3",
    "cook": "Lean|R",
    "ie": "Tilt|R",
    "sabato": "Lean|R",
    "econ": "Tossup",
-   "splitticket": "Lean|R",
+   "splitticket": "Tossup",
    "ddhq": "Lean|R",
    "fpo": "Lean|R",
    "fox": "Lean|R",
    "silver": "Likely|R",
-   "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "rcp": "Tossup",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "ME",
@@ -334,20 +266,20 @@
    "cook": "Lean|R|Flip",
    "ie": "Lean|R|Flip",
    "sabato": "Lean|R|Flip",
-   "econ": "Tossup",
+   "econ": "Lean|D",
    "splitticket": "Lean|R|Flip",
-   "ddhq": "Lean|R|Flip",
+   "ddhq": "Tossup",
    "fpo": "Lean|D",
    "fox": "Tossup",
    "silver": "Lean|R|Flip",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "MI",
    "cd": "04",
    "key": "MI-04",
-   "n_tossup_outlets": "7",
+   "n_tossup_outlets": "6",
    "cook": "Tossup",
    "ie": "Tilt|R",
    "sabato": "Tossup",
@@ -357,48 +289,65 @@
    "fpo": "Lean|D|Flip",
    "fox": "Tossup",
    "silver": "Tossup",
-   "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "rcp": "Lean|D|Flip",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "MI",
    "cd": "07",
    "key": "MI-07",
-   "n_tossup_outlets": "5",
+   "n_tossup_outlets": "4",
    "cook": "Tossup",
    "ie": "Tossup",
    "sabato": "Tossup",
-   "econ": "Tossup",
+   "econ": "Lean|D|Flip",
+   "splitticket": "Lean|D|Flip",
+   "ddhq": "Likely|D|Flip",
+   "fpo": "Likely|D|Flip",
+   "fox": "Tossup",
+   "silver": "Lean|D|Flip",
+   "rcp": "Lean|D|Flip",
+   "last_scraped": "10/22/2026"
+  },
+  {
+   "state": "MI",
+   "cd": "10",
+   "key": "MI-10",
+   "n_tossup_outlets": "3",
+   "cook": "Tossup",
+   "ie": "Tilt|R",
+   "sabato": "Tossup",
+   "econ": "Lean|D|Flip",
    "splitticket": "Lean|D|Flip",
    "ddhq": "Lean|D|Flip",
    "fpo": "Likely|D|Flip",
    "fox": "Tossup",
    "silver": "Lean|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
-   "state": "MI",
-   "cd": "10",
-   "key": "MI-10",
-   "n_tossup_outlets": "4",
-   "cook": "Tossup",
-   "ie": "Tilt|R",
-   "sabato": "Tossup",
-   "econ": "Lean|D|Flip",
-   "splitticket": "Lean|D|Flip",
-   "ddhq": "Tossup",
-   "fpo": "Likely|D|Flip",
-   "fox": "Tossup",
-   "silver": "Lean|D|Flip",
-   "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "state": "MN",
+   "cd": "01",
+   "key": "MN-01",
+   "n_tossup_outlets": "2",
+   "cook": "Lean|R",
+   "ie": "Likely|R",
+   "sabato": "Lean|R",
+   "econ": "Tossup",
+   "splitticket": "Likely|R",
+   "ddhq": "Lean|R",
+   "fpo": "Tossup",
+   "fox": "Likely|R",
+   "silver": "Lean|R",
+   "rcp": "Lean|R",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "MO",
    "cd": "02",
    "key": "MO-02",
-   "n_tossup_outlets": "2",
+   "n_tossup_outlets": "3",
    "cook": "Likely|R",
    "ie": "Solid|R",
    "sabato": "Lean|R",
@@ -408,8 +357,8 @@
    "fpo": "Tossup",
    "fox": "Lean|R",
    "silver": "Likely|R",
-   "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "rcp": "Tossup",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "MT",
@@ -426,7 +375,24 @@
    "fox": "Tossup",
    "silver": "Lean|R",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
+  },
+  {
+   "state": "NV",
+   "cd": "02",
+   "key": "NV-02",
+   "n_tossup_outlets": "1",
+   "cook": "Likely|R",
+   "ie": "Lean|R",
+   "sabato": "Lean|R",
+   "econ": "Tossup",
+   "splitticket": "Likely|R",
+   "ddhq": "Likely|R",
+   "fpo": "Lean|R",
+   "fox": "Likely|R",
+   "silver": "Likely|R",
+   "rcp": "Lean|R",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "NJ",
@@ -435,15 +401,15 @@
    "n_tossup_outlets": "1",
    "cook": "Solid|R",
    "ie": "Solid|R",
-   "sabato": "Safe|R",
-   "econ": "Lean|R",
+   "sabato": "Likely|R",
+   "econ": "Likely|R",
    "splitticket": "Safe|R",
    "ddhq": "Likely|R",
    "fpo": "Likely|R",
    "fox": "Likely|R",
    "silver": "Likely|R",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "NY",
@@ -460,16 +426,16 @@
    "fox": "Lean|D|Flip",
    "silver": "Lean|D|Flip",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "NC",
    "cd": "01",
    "key": "NC-01",
-   "n_tossup_outlets": "7",
+   "n_tossup_outlets": "6",
    "cook": "Tossup",
    "ie": "Tossup",
-   "sabato": "Tossup",
+   "sabato": "Lean|D",
    "econ": "Tossup",
    "splitticket": "Lean|D",
    "ddhq": "Tossup",
@@ -477,30 +443,30 @@
    "fox": "Tossup",
    "silver": "Lean|D",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "NC",
    "cd": "11",
    "key": "NC-11",
-   "n_tossup_outlets": "9",
+   "n_tossup_outlets": "7",
    "cook": "Tossup",
    "ie": "Tossup",
-   "sabato": "Tossup",
-   "econ": "Tossup",
+   "sabato": "Lean|D|Flip",
+   "econ": "Lean|D|Flip",
    "splitticket": "Lean|D|Flip",
    "ddhq": "Tossup",
    "fpo": "Tossup",
    "fox": "Tossup",
    "silver": "Tossup",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "OH",
    "cd": "07",
    "key": "OH-07",
-   "n_tossup_outlets": "8",
+   "n_tossup_outlets": "9",
    "cook": "Tossup",
    "ie": "Tossup",
    "sabato": "Tossup",
@@ -510,8 +476,8 @@
    "fpo": "Lean|D|Flip",
    "fox": "Tossup",
    "silver": "Tossup",
-   "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "rcp": "Tossup",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "OH",
@@ -528,7 +494,24 @@
    "fox": "Tossup",
    "silver": "Lean|D",
    "rcp": "Lean|D",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
+  },
+  {
+   "state": "OH",
+   "cd": "10",
+   "key": "OH-10",
+   "n_tossup_outlets": "1",
+   "cook": "Lean|R",
+   "ie": "Solid|R",
+   "sabato": "Likely|R",
+   "econ": "Likely|R",
+   "splitticket": "Safe|R",
+   "ddhq": "Likely|R",
+   "fpo": "Tossup",
+   "fox": "Likely|R",
+   "silver": "Likely|R",
+   "rcp": "Likely|R",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "OH",
@@ -545,30 +528,30 @@
    "fox": "Lean|R",
    "silver": "Likely|R",
    "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "PA",
    "cd": "01",
    "key": "PA-01",
-   "n_tossup_outlets": "5",
+   "n_tossup_outlets": "4",
    "cook": "Lean|R",
    "ie": "Lean|R",
    "sabato": "Lean|R",
-   "econ": "Tossup",
+   "econ": "Lean|R",
    "splitticket": "Tossup",
    "ddhq": "Lean|R",
    "fpo": "Likely|D|Flip",
    "fox": "Tossup",
    "silver": "Tossup",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "PA",
    "cd": "08",
    "key": "PA-08",
-   "n_tossup_outlets": "6",
+   "n_tossup_outlets": "5",
    "cook": "Tossup",
    "ie": "Tilt|D|Flip",
    "sabato": "Tossup",
@@ -578,17 +561,17 @@
    "fpo": "Likely|D|Flip",
    "fox": "Tossup",
    "silver": "Lean|D|Flip",
-   "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "rcp": "Lean|D|Flip",
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "PA",
    "cd": "10",
    "key": "PA-10",
-   "n_tossup_outlets": "2",
+   "n_tossup_outlets": "1",
    "cook": "Lean|D|Flip",
    "ie": "Tossup",
-   "sabato": "Tossup",
+   "sabato": "Lean|D|Flip",
    "econ": "Likely|D|Flip",
    "splitticket": "Likely|D|Flip",
    "ddhq": "Lean|D|Flip",
@@ -596,7 +579,7 @@
    "fox": "Lean|D|Flip",
    "silver": "Likely|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "SC",
@@ -605,7 +588,7 @@
    "n_tossup_outlets": "1",
    "cook": "Lean|R",
    "ie": "Lean|R",
-   "sabato": "Likely|R",
+   "sabato": "Lean|R",
    "econ": "Tossup",
    "splitticket": "Lean|R",
    "ddhq": "Lean|R",
@@ -613,7 +596,7 @@
    "fox": "Likely|R",
    "silver": "Likely|R",
    "rcp": "Lean|R",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "TX",
@@ -630,7 +613,7 @@
    "fox": "Tossup",
    "silver": "Lean|R",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "TX",
@@ -639,15 +622,15 @@
    "n_tossup_outlets": "3",
    "cook": "Likely|R",
    "ie": "Likely|R",
-   "sabato": "Likely|R",
+   "sabato": "Lean|R",
    "econ": "Lean|R",
    "splitticket": "Tossup",
    "ddhq": "Likely|R",
-   "fpo": "Likely|R",
+   "fpo": "Lean|R",
    "fox": "Likely|R",
    "silver": "Tossup",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "TX",
@@ -664,7 +647,7 @@
    "fox": "Lean|D",
    "silver": "Lean|D",
    "rcp": "Lean|D",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "TX",
@@ -673,15 +656,15 @@
    "n_tossup_outlets": "4",
    "cook": "Lean|R|Flip",
    "ie": "Lean|R|Flip",
-   "sabato": "Lean|R|Flip",
-   "econ": "Tossup",
+   "sabato": "Tossup",
+   "econ": "Lean|R|Flip",
    "splitticket": "Lean|D",
    "ddhq": "Tossup",
    "fpo": "Tossup",
    "fox": "Lean|R|Flip",
    "silver": "Lean|R|Flip",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "VA",
@@ -698,7 +681,7 @@
    "fox": "Tossup",
    "silver": "Tossup",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "VA",
@@ -715,7 +698,7 @@
    "fox": "Lean|D|Flip",
    "silver": "Likely|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "WA",
@@ -732,7 +715,7 @@
    "fox": "Lean|D",
    "silver": "Likely|D",
    "rcp": "Lean|D",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "WI",
@@ -749,16 +732,16 @@
    "fox": "Lean|R",
    "silver": "Lean|R",
    "rcp": "Tossup",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   },
   {
    "state": "WI",
    "cd": "03",
    "key": "WI-03",
-   "n_tossup_outlets": "4",
+   "n_tossup_outlets": "3",
    "cook": "Tossup",
    "ie": "Tossup",
-   "sabato": "Tossup",
+   "sabato": "Lean|D|Flip",
    "econ": "Lean|D|Flip",
    "splitticket": "Lean|D|Flip",
    "ddhq": "Likely|D|Flip",
@@ -766,7 +749,7 @@
    "fox": "Tossup",
    "silver": "Lean|D|Flip",
    "rcp": "Lean|D|Flip",
-   "last_scraped": "10/16/2026"
+   "last_scraped": "10/22/2026"
   }
  ]
 }
