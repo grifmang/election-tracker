@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:27:21+00:00",
+ "generated": "2026-10-23T23:13:05+00:00",
  "source": "https://election.lab.ufl.edu/early-vote/2026-early-voting/",
  "note": "Summed from UF district-by-county files. Coverage varies by state; some states' district files may not sum to the state total.",
  "states_with_district_data": [
@@ -3089,18 +3089,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 124414,
-   "accept_all": 82792,
-   "voted_all": 82792,
-   "request_dem": 65438,
-   "request_rep": 21343,
-   "request_none": 37633,
-   "accept_dem": 45698,
-   "accept_rep": 14071,
-   "accept_none": 23023,
-   "voted_dem": 45698,
-   "voted_rep": 14071,
-   "voted_none": 23023
+   "request_all": 144770,
+   "accept_all": 108562,
+   "voted_all": 108562,
+   "request_dem": 74613,
+   "request_rep": 26125,
+   "request_none": 44032,
+   "accept_dem": 58062,
+   "accept_rep": 19521,
+   "accept_none": 30979,
+   "voted_dem": 58062,
+   "voted_rep": 19521,
+   "voted_none": 30979
   },
   {
    "state": "ME",
@@ -3120,18 +3120,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 77060,
-   "accept_all": 52692,
-   "voted_all": 52692,
-   "request_dem": 34844,
-   "request_rep": 18998,
-   "request_none": 23218,
-   "accept_dem": 24871,
-   "accept_rep": 13086,
-   "accept_none": 14735,
-   "voted_dem": 24871,
-   "voted_rep": 13086,
-   "voted_none": 14735
+   "request_all": 91123,
+   "accept_all": 70118,
+   "voted_all": 70118,
+   "request_dem": 39820,
+   "request_rep": 23741,
+   "request_none": 27562,
+   "accept_dem": 31693,
+   "accept_rep": 18457,
+   "accept_none": 19968,
+   "voted_dem": 31693,
+   "voted_rep": 18457,
+   "voted_none": 19968
   },
   {
    "state": "MI",
