@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-27T01:30:50+00:00",
+ "generated": "2026-10-27T07:58:07+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1382148654,
+ "wikipedia_revid": 1382204451,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -45,11 +45,11 @@
     "FPO Oct 26, 2026": "Lean D (flip)",
     "Fox Oct 20, 2026": "Tossup",
     "IE Oct 15, 2026": "Tossup",
-    "NBC Oct 25, 2026": "Tossup",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Tossup",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Lean D (flip)",
     "Silver Oct 25, 2026": "Lean D (flip)",
-    "ST Oct 22, 2026": "Lean D (flip)"
+    "ST Oct 27, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "August 18, 2026",
@@ -86,11 +86,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 19, 2026",
@@ -132,11 +132,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "March 3, 2026",
@@ -193,11 +193,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "June 30, 2026",
@@ -234,11 +234,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 15, 2026",
@@ -280,11 +280,11 @@
     "FPO Oct 26, 2026": "Likely R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Likely R",
-    "NBC Oct 25, 2026": "Likely R",
-    "RCP Oct 25, 2026": "Lean R",
+    "NBC Oct 26, 2026": "Likely R",
+    "RCP Oct 26, 2026": "Lean R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Likely R",
-    "ST Oct 22, 2026": "Likely R"
+    "ST Oct 27, 2026": "Likely R"
    },
    "calendar": {
     "primary": "August 18, 2026",
@@ -321,11 +321,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Likely D",
     "IE Oct 15, 2026": "Lean D",
-    "NBC Oct 25, 2026": "Likely D",
-    "RCP Oct 25, 2026": "Likely D",
+    "NBC Oct 26, 2026": "Likely D",
+    "RCP Oct 26, 2026": "Likely D",
     "Sabato Oct 14, 2026": "Likely D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "May 19, 2026",
@@ -367,11 +367,11 @@
     "FPO Oct 26, 2026": "Tossup",
     "Fox Oct 20, 2026": "Tossup",
     "IE Oct 15, 2026": "Tilt R",
-    "NBC Oct 25, 2026": "Tossup",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Tossup",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Tossup",
     "Silver Oct 25, 2026": "Tossup",
-    "ST Oct 22, 2026": "Tossup"
+    "ST Oct 27, 2026": "Tossup"
    },
    "calendar": {
     "primary": "June 2, 2026",
@@ -418,11 +418,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 19, 2026",
@@ -464,11 +464,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "March 17, 2026",
@@ -510,11 +510,11 @@
     "FPO Oct 26, 2026": "Tossup",
     "Fox Oct 20, 2026": "Lean R",
     "IE Oct 15, 2026": "Tilt R",
-    "NBC Oct 25, 2026": "Tossup",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Tossup",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Tossup",
     "Silver Oct 25, 2026": "Tossup",
-    "ST Oct 22, 2026": "Lean R"
+    "ST Oct 27, 2026": "Lean R"
    },
    "calendar": {
     "primary": "August 4, 2026",
@@ -556,11 +556,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 19, 2026",
@@ -597,11 +597,11 @@
     "FPO Oct 26, 2026": "Likely R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 16, 2026",
@@ -648,11 +648,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 1, 2026",
@@ -689,11 +689,11 @@
     "FPO Oct 26, 2026": "Lean D (flip)",
     "Fox Oct 20, 2026": "Tossup",
     "IE Oct 15, 2026": "Tossup",
-    "NBC Oct 25, 2026": "Lean D (flip)",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Lean D (flip)",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Tossup",
     "Silver Oct 25, 2026": "Lean D (flip)",
-    "ST Oct 22, 2026": "Lean D (flip)"
+    "ST Oct 27, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "June 9, 2026",
@@ -750,11 +750,11 @@
     "FPO Oct 26, 2026": "Lean D",
     "Fox Oct 20, 2026": "Tossup",
     "IE Oct 15, 2026": "Tilt D",
-    "NBC Oct 25, 2026": "Lean D",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Lean D",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Lean D",
     "Silver Oct 25, 2026": "Likely D",
-    "ST Oct 22, 2026": "Lean D"
+    "ST Oct 27, 2026": "Lean D"
    },
    "calendar": {
     "primary": "August 4, 2026",
@@ -801,11 +801,11 @@
     "FPO Oct 26, 2026": "Likely D",
     "Fox Oct 20, 2026": "Lean D",
     "IE Oct 15, 2026": "Lean D",
-    "NBC Oct 25, 2026": "Likely D",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Likely D",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Lean D",
     "Silver Oct 25, 2026": "Likely D",
-    "ST Oct 22, 2026": "Likely D"
+    "ST Oct 27, 2026": "Likely D"
    },
    "calendar": {
     "primary": "August 11, 2026",
@@ -847,11 +847,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Likely R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Likely R",
+    "RCP Oct 26, 2026": "Likely R",
     "Sabato Oct 14, 2026": "Likely R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "March 10, 2026",
@@ -898,11 +898,11 @@
     "FPO Oct 26, 2026": "Likely R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Likely R",
-    "RCP Oct 25, 2026": "Likely R",
+    "NBC Oct 26, 2026": "Likely R",
+    "RCP Oct 26, 2026": "Likely R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Likely R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "June 2, 2026",
@@ -949,11 +949,11 @@
     "FPO Oct 26, 2026": "Likely D (flip)",
     "Fox Oct 20, 2026": "Likely D (flip)",
     "IE Oct 15, 2026": "Lean D (flip)",
-    "NBC Oct 25, 2026": "Likely D (flip)",
-    "RCP Oct 25, 2026": "Likely D (flip)",
+    "NBC Oct 26, 2026": "Likely D (flip)",
+    "RCP Oct 26, 2026": "Likely D (flip)",
     "Sabato Oct 14, 2026": "Lean D (flip)",
     "Silver Oct 25, 2026": "Solid D (flip)",
-    "ST Oct 22, 2026": "Safe D (flip)"
+    "ST Oct 27, 2026": "Safe D (flip)"
    },
    "calendar": {
     "primary": "March 3, 2026",
@@ -1005,11 +1005,11 @@
     "FPO Oct 26, 2026": "Likely R",
     "Fox Oct 20, 2026": "Likely R",
     "IE Oct 15, 2026": "Lean R",
-    "NBC Oct 25, 2026": "Likely R",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Likely R",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Lean R",
     "Silver Oct 25, 2026": "Lean R",
-    "ST Oct 22, 2026": "Lean R"
+    "ST Oct 27, 2026": "Lean R"
    },
    "calendar": {
     "primary": "May 12, 2026",
@@ -1051,11 +1051,11 @@
     "FPO Oct 26, 2026": "Likely D",
     "Fox Oct 20, 2026": "Lean D",
     "IE Oct 15, 2026": "Tilt D",
-    "NBC Oct 25, 2026": "Lean D",
-    "RCP Oct 25, 2026": "Lean D",
+    "NBC Oct 26, 2026": "Lean D",
+    "RCP Oct 26, 2026": "Lean D",
     "Sabato Oct 14, 2026": "Likely D",
     "Silver Oct 25, 2026": "Likely D",
-    "ST Oct 22, 2026": "Likely D"
+    "ST Oct 27, 2026": "Likely D"
    },
    "calendar": {
     "primary": "September 8, 2026",
@@ -1102,11 +1102,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "June 2, 2026",
@@ -1143,11 +1143,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Likely D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Likely D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "June 2, 2026",
@@ -1194,11 +1194,11 @@
     "FPO Oct 26, 2026": "Lean D (flip)",
     "Fox Oct 20, 2026": "Tossup",
     "IE Oct 15, 2026": "Tossup",
-    "NBC Oct 25, 2026": "Tossup",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Tossup",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Tossup",
     "Silver Oct 25, 2026": "Lean D (flip)",
-    "ST Oct 22, 2026": "Lean D (flip)"
+    "ST Oct 27, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "May 5, 2026",
@@ -1250,11 +1250,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "June 16, 2026",
@@ -1301,11 +1301,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "May 19, 2026",
@@ -1347,11 +1347,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 9, 2026",
@@ -1398,11 +1398,11 @@
     "FPO Oct 26, 2026": "Lean R",
     "Fox Oct 20, 2026": "Likely R",
     "IE Oct 15, 2026": "Lean R",
-    "NBC Oct 25, 2026": "Lean R",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Lean R",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Likely R",
     "Silver Oct 25, 2026": "Lean R",
-    "ST Oct 22, 2026": "Likely R"
+    "ST Oct 27, 2026": "Lean R"
    },
    "calendar": {
     "primary": "June 9, 2026",
@@ -1439,11 +1439,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "June 2, 2026",
@@ -1520,11 +1520,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "August 6, 2026",
@@ -1566,11 +1566,11 @@
     "FPO Oct 26, 2026": "Tossup",
     "Fox Oct 20, 2026": "Tossup",
     "IE Oct 15, 2026": "Tossup",
-    "NBC Oct 25, 2026": "Tossup",
-    "RCP Oct 25, 2026": "Tossup",
+    "NBC Oct 26, 2026": "Tossup",
+    "RCP Oct 26, 2026": "Tossup",
     "Sabato Oct 14, 2026": "Tossup",
     "Silver Oct 25, 2026": "Lean D (flip)",
-    "ST Oct 22, 2026": "Lean D (flip)"
+    "ST Oct 27, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "March 3, 2026",
@@ -1607,11 +1607,11 @@
     "FPO Oct 26, 2026": "Safe D",
     "Fox Oct 20, 2026": "Solid D",
     "IE Oct 15, 2026": "Solid D",
-    "NBC Oct 25, 2026": "Solid D",
-    "RCP Oct 25, 2026": "Solid D",
+    "NBC Oct 26, 2026": "Solid D",
+    "RCP Oct 26, 2026": "Solid D",
     "Sabato Oct 14, 2026": "Safe D",
     "Silver Oct 25, 2026": "Solid D",
-    "ST Oct 22, 2026": "Safe D"
+    "ST Oct 27, 2026": "Safe D"
    },
    "calendar": {
     "primary": "August 4, 2026",
@@ -1653,11 +1653,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 12, 2026",
@@ -1694,11 +1694,11 @@
     "FPO Oct 26, 2026": "Safe R",
     "Fox Oct 20, 2026": "Solid R",
     "IE Oct 15, 2026": "Solid R",
-    "NBC Oct 25, 2026": "Solid R",
-    "RCP Oct 25, 2026": "Solid R",
+    "NBC Oct 26, 2026": "Solid R",
+    "RCP Oct 26, 2026": "Solid R",
     "Sabato Oct 14, 2026": "Safe R",
     "Silver Oct 25, 2026": "Solid R",
-    "ST Oct 22, 2026": "Safe R"
+    "ST Oct 27, 2026": "Safe R"
    },
    "calendar": {
     "primary": "August 18, 2026",
