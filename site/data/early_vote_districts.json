@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T05:56:10+00:00",
+ "generated": "2026-10-29T13:13:24+00:00",
  "source": "https://election.lab.ufl.edu/early-vote/2026-early-voting/",
  "note": "Summed from UF district-by-county files. Coverage varies by state; some states' district files may not sum to the state total.",
  "states_with_district_data": [
@@ -64,14 +64,14 @@
     "accept_rep",
     "accept_none"
    ],
-   "request_all": 390163,
-   "accept_all": 164713,
-   "request_dem": 115702,
-   "request_rep": 159859,
-   "request_none": 114602,
-   "accept_dem": 54109,
-   "accept_rep": 73704,
-   "accept_none": 36900
+   "request_all": 390927,
+   "accept_all": 178319,
+   "request_dem": 115807,
+   "request_rep": 160318,
+   "request_none": 114802,
+   "accept_dem": 58000,
+   "accept_rep": 79661,
+   "accept_none": 40658
   },
   {
    "state": "AZ",
@@ -133,14 +133,14 @@
     "accept_rep",
     "accept_none"
    ],
-   "request_all": 422283,
-   "accept_all": 155286,
-   "request_dem": 103062,
-   "request_rep": 179727,
-   "request_none": 139494,
-   "accept_dem": 48420,
-   "accept_rep": 68052,
-   "accept_none": 38814
+   "request_all": 422472,
+   "accept_all": 158250,
+   "request_dem": 103091,
+   "request_rep": 179839,
+   "request_none": 139542,
+   "accept_dem": 49293,
+   "accept_rep": 69353,
+   "accept_none": 39604
   },
   {
    "state": "AZ",
@@ -156,14 +156,14 @@
     "accept_rep",
     "accept_none"
    ],
-   "request_all": 412713,
-   "accept_all": 194827,
-   "request_dem": 142882,
-   "request_rep": 138736,
-   "request_none": 131095,
-   "accept_dem": 80050,
-   "accept_rep": 66579,
-   "accept_none": 48198
+   "request_all": 412836,
+   "accept_all": 196888,
+   "request_dem": 142910,
+   "request_rep": 138808,
+   "request_none": 131118,
+   "accept_dem": 80642,
+   "accept_rep": 67543,
+   "accept_none": 48703
   },
   {
    "state": "AZ",
@@ -179,14 +179,14 @@
     "accept_rep",
     "accept_none"
    ],
-   "request_all": 303394,
-   "accept_all": 87014,
-   "request_dem": 139154,
-   "request_rep": 58926,
-   "request_none": 105314,
-   "accept_dem": 49955,
-   "accept_rep": 18200,
-   "accept_none": 18859
+   "request_all": 303542,
+   "accept_all": 90479,
+   "request_dem": 139212,
+   "request_rep": 58969,
+   "request_none": 105361,
+   "accept_dem": 51614,
+   "accept_rep": 19068,
+   "accept_none": 19797
   },
   {
    "state": "AZ",
@@ -225,14 +225,14 @@
     "accept_rep",
     "accept_none"
    ],
-   "request_all": 396766,
-   "accept_all": 135111,
-   "request_dem": 92970,
-   "request_rep": 174954,
-   "request_none": 128842,
-   "accept_dem": 38511,
-   "accept_rep": 65676,
-   "accept_none": 30924
+   "request_all": 396946,
+   "accept_all": 139042,
+   "request_dem": 92998,
+   "request_rep": 175061,
+   "request_none": 128887,
+   "accept_dem": 39475,
+   "accept_rep": 67723,
+   "accept_none": 31844
   },
   {
    "state": "CA",
@@ -2115,10 +2115,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11424,
-   "accept_all": 7478,
-   "inperson_all": 124290,
-   "voted_all": 131768
+   "request_all": 11406,
+   "accept_all": 7822,
+   "inperson_all": 134362,
+   "voted_all": 142184
   },
   {
    "state": "GA",
@@ -2130,10 +2130,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11449,
-   "accept_all": 7603,
-   "inperson_all": 111041,
-   "voted_all": 118644
+   "request_all": 11423,
+   "accept_all": 8041,
+   "inperson_all": 119994,
+   "voted_all": 128035
   },
   {
    "state": "GA",
@@ -2145,10 +2145,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11506,
-   "accept_all": 8221,
-   "inperson_all": 146381,
-   "voted_all": 154602
+   "request_all": 11524,
+   "accept_all": 8740,
+   "inperson_all": 158222,
+   "voted_all": 166962
   },
   {
    "state": "GA",
@@ -2160,10 +2160,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 9229,
-   "accept_all": 4958,
-   "inperson_all": 138714,
-   "voted_all": 143672
+   "request_all": 9204,
+   "accept_all": 5516,
+   "inperson_all": 150348,
+   "voted_all": 155864
   },
   {
    "state": "GA",
@@ -2175,10 +2175,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11427,
-   "accept_all": 6151,
-   "inperson_all": 160242,
-   "voted_all": 166393
+   "request_all": 11394,
+   "accept_all": 6767,
+   "inperson_all": 173977,
+   "voted_all": 180744
   },
   {
    "state": "GA",
@@ -2190,10 +2190,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11078,
-   "accept_all": 6067,
-   "inperson_all": 178337,
-   "voted_all": 184404
+   "request_all": 11028,
+   "accept_all": 6632,
+   "inperson_all": 192795,
+   "voted_all": 199427
   },
   {
    "state": "GA",
@@ -2205,10 +2205,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 12976,
-   "accept_all": 8145,
-   "inperson_all": 178772,
-   "voted_all": 186917
+   "request_all": 12969,
+   "accept_all": 8593,
+   "inperson_all": 193795,
+   "voted_all": 202388
   },
   {
    "state": "GA",
@@ -2220,10 +2220,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 9341,
-   "accept_all": 6037,
-   "inperson_all": 122346,
-   "voted_all": 128383
+   "request_all": 9335,
+   "accept_all": 6449,
+   "inperson_all": 132210,
+   "voted_all": 138659
   },
   {
    "state": "GA",
@@ -2235,10 +2235,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11913,
-   "accept_all": 7775,
-   "inperson_all": 149828,
-   "voted_all": 157603
+   "request_all": 11894,
+   "accept_all": 8158,
+   "inperson_all": 163910,
+   "voted_all": 172068
   },
   {
    "state": "GA",
@@ -2250,10 +2250,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11682,
-   "accept_all": 7647,
-   "inperson_all": 156090,
-   "voted_all": 163737
+   "request_all": 11680,
+   "accept_all": 8107,
+   "inperson_all": 169784,
+   "voted_all": 177891
   },
   {
    "state": "GA",
@@ -2265,10 +2265,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 13834,
-   "accept_all": 8386,
-   "inperson_all": 153871,
-   "voted_all": 162257
+   "request_all": 13794,
+   "accept_all": 9167,
+   "inperson_all": 167644,
+   "voted_all": 176811
   },
   {
    "state": "GA",
@@ -2280,10 +2280,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 11592,
-   "accept_all": 7743,
-   "inperson_all": 115983,
-   "voted_all": 123726
+   "request_all": 11576,
+   "accept_all": 8075,
+   "inperson_all": 126027,
+   "voted_all": 134102
   },
   {
    "state": "GA",
@@ -2295,10 +2295,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 10723,
-   "accept_all": 6213,
-   "inperson_all": 164220,
-   "voted_all": 170433
+   "request_all": 10722,
+   "accept_all": 6789,
+   "inperson_all": 178596,
+   "voted_all": 185385
   },
   {
    "state": "GA",
@@ -2310,10 +2310,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 9200,
-   "accept_all": 5961,
-   "inperson_all": 129781,
-   "voted_all": 135742
+   "request_all": 9183,
+   "accept_all": 6392,
+   "inperson_all": 141867,
+   "voted_all": 148259
   },
   {
    "state": "IA",
@@ -3322,18 +3322,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 56,
-   "inperson_all": 75,
-   "voted_all": 131,
-   "accept_dem": 23,
-   "accept_rep": 16,
-   "accept_none": 17,
-   "inperson_dem": 34,
-   "inperson_rep": 8,
-   "inperson_none": 33,
-   "voted_dem": 57,
-   "voted_rep": 24,
-   "voted_none": 50
+   "accept_all": 68,
+   "inperson_all": 83,
+   "voted_all": 151,
+   "accept_dem": 28,
+   "accept_rep": 20,
+   "accept_none": 20,
+   "inperson_dem": 38,
+   "inperson_rep": 10,
+   "inperson_none": 35,
+   "voted_dem": 66,
+   "voted_rep": 30,
+   "voted_none": 55
   },
   {
    "state": "NC",
@@ -3353,18 +3353,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 3277,
-   "inperson_all": 140474,
-   "voted_all": 143751,
-   "accept_dem": 1389,
-   "accept_rep": 713,
-   "accept_none": 1175,
-   "inperson_dem": 61117,
-   "inperson_rep": 38292,
-   "inperson_none": 41065,
-   "voted_dem": 62506,
-   "voted_rep": 39005,
-   "voted_none": 42240
+   "accept_all": 3562,
+   "inperson_all": 154186,
+   "voted_all": 157748,
+   "accept_dem": 1509,
+   "accept_rep": 774,
+   "accept_none": 1279,
+   "inperson_dem": 66205,
+   "inperson_rep": 42593,
+   "inperson_none": 45388,
+   "voted_dem": 67714,
+   "voted_rep": 43367,
+   "voted_none": 46667
   },
   {
    "state": "NC",
@@ -3384,18 +3384,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 7709,
-   "inperson_all": 144386,
-   "voted_all": 152095,
-   "accept_dem": 3359,
-   "accept_rep": 968,
-   "accept_none": 3382,
-   "inperson_dem": 69374,
-   "inperson_rep": 18820,
-   "inperson_none": 56192,
-   "voted_dem": 72733,
-   "voted_rep": 19788,
-   "voted_none": 59574
+   "accept_all": 8050,
+   "inperson_all": 158685,
+   "voted_all": 166735,
+   "accept_dem": 3504,
+   "accept_rep": 1018,
+   "accept_none": 3528,
+   "inperson_dem": 75378,
+   "inperson_rep": 21328,
+   "inperson_none": 61979,
+   "voted_dem": 78882,
+   "voted_rep": 22346,
+   "voted_none": 65507
   },
   {
    "state": "NC",
@@ -3415,18 +3415,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 2358,
-   "inperson_all": 104863,
-   "voted_all": 107221,
-   "accept_dem": 1118,
-   "accept_rep": 474,
-   "accept_none": 766,
-   "inperson_dem": 46561,
-   "inperson_rep": 29041,
-   "inperson_none": 29261,
-   "voted_dem": 47679,
-   "voted_rep": 29515,
-   "voted_none": 30027
+   "accept_all": 2669,
+   "inperson_all": 114747,
+   "voted_all": 117416,
+   "accept_dem": 1248,
+   "accept_rep": 548,
+   "accept_none": 873,
+   "inperson_dem": 50079,
+   "inperson_rep": 32389,
+   "inperson_none": 32279,
+   "voted_dem": 51327,
+   "voted_rep": 32937,
+   "voted_none": 33152
   },
   {
    "state": "NC",
@@ -3446,18 +3446,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 8966,
-   "inperson_all": 185595,
-   "voted_all": 194561,
-   "accept_dem": 4253,
-   "accept_rep": 725,
-   "accept_none": 3988,
-   "inperson_dem": 94828,
-   "inperson_rep": 17503,
-   "inperson_none": 73264,
-   "voted_dem": 99081,
-   "voted_rep": 18228,
-   "voted_none": 77252
+   "accept_all": 9399,
+   "inperson_all": 200951,
+   "voted_all": 210350,
+   "accept_dem": 4453,
+   "accept_rep": 788,
+   "accept_none": 4158,
+   "inperson_dem": 101565,
+   "inperson_rep": 19570,
+   "inperson_none": 79816,
+   "voted_dem": 106018,
+   "voted_rep": 20358,
+   "voted_none": 83974
   },
   {
    "state": "NC",
@@ -3477,18 +3477,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 3666,
-   "inperson_all": 125416,
-   "voted_all": 129082,
-   "accept_dem": 1456,
-   "accept_rep": 934,
-   "accept_none": 1276,
-   "inperson_dem": 45350,
-   "inperson_rep": 39937,
-   "inperson_none": 40129,
-   "voted_dem": 46806,
-   "voted_rep": 40871,
-   "voted_none": 41405
+   "accept_all": 3956,
+   "inperson_all": 137885,
+   "voted_all": 141841,
+   "accept_dem": 1556,
+   "accept_rep": 1018,
+   "accept_none": 1382,
+   "inperson_dem": 49149,
+   "inperson_rep": 44531,
+   "inperson_none": 44205,
+   "voted_dem": 50705,
+   "voted_rep": 45549,
+   "voted_none": 45587
   },
   {
    "state": "NC",
@@ -3508,18 +3508,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 4222,
-   "inperson_all": 115508,
-   "voted_all": 119730,
-   "accept_dem": 1633,
-   "accept_rep": 1067,
-   "accept_none": 1522,
-   "inperson_dem": 40574,
-   "inperson_rep": 38209,
-   "inperson_none": 36725,
-   "voted_dem": 42207,
-   "voted_rep": 39276,
-   "voted_none": 38247
+   "accept_all": 4586,
+   "inperson_all": 127503,
+   "voted_all": 132089,
+   "accept_dem": 1740,
+   "accept_rep": 1187,
+   "accept_none": 1659,
+   "inperson_dem": 44091,
+   "inperson_rep": 42829,
+   "inperson_none": 40583,
+   "voted_dem": 45831,
+   "voted_rep": 44016,
+   "voted_none": 42242
   },
   {
    "state": "NC",
@@ -3539,18 +3539,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 5257,
-   "inperson_all": 145032,
-   "voted_all": 150289,
-   "accept_dem": 2071,
-   "accept_rep": 1137,
-   "accept_none": 2049,
-   "inperson_dem": 51063,
-   "inperson_rep": 43458,
-   "inperson_none": 50511,
-   "voted_dem": 53134,
-   "voted_rep": 44595,
-   "voted_none": 52560
+   "accept_all": 5761,
+   "inperson_all": 159367,
+   "voted_all": 165128,
+   "accept_dem": 2229,
+   "accept_rep": 1274,
+   "accept_none": 2258,
+   "inperson_dem": 55240,
+   "inperson_rep": 48501,
+   "inperson_none": 55626,
+   "voted_dem": 57469,
+   "voted_rep": 49775,
+   "voted_none": 57884
   },
   {
    "state": "NC",
@@ -3570,18 +3570,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 4662,
-   "inperson_all": 123337,
-   "voted_all": 127999,
-   "accept_dem": 1660,
-   "accept_rep": 1005,
-   "accept_none": 1997,
-   "inperson_dem": 42938,
-   "inperson_rep": 36829,
-   "inperson_none": 43570,
-   "voted_dem": 44598,
-   "voted_rep": 37834,
-   "voted_none": 45567
+   "accept_all": 5115,
+   "inperson_all": 135961,
+   "voted_all": 141076,
+   "accept_dem": 1802,
+   "accept_rep": 1120,
+   "accept_none": 2193,
+   "inperson_dem": 46552,
+   "inperson_rep": 41401,
+   "inperson_none": 48008,
+   "voted_dem": 48354,
+   "voted_rep": 42521,
+   "voted_none": 50201
   },
   {
    "state": "NC",
@@ -3601,18 +3601,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 4480,
-   "inperson_all": 121176,
-   "voted_all": 125656,
-   "accept_dem": 1670,
-   "accept_rep": 1075,
-   "accept_none": 1735,
-   "inperson_dem": 45833,
-   "inperson_rep": 37537,
-   "inperson_none": 37806,
-   "voted_dem": 47503,
-   "voted_rep": 38612,
-   "voted_none": 39541
+   "accept_all": 4724,
+   "inperson_all": 132654,
+   "voted_all": 137378,
+   "accept_dem": 1752,
+   "accept_rep": 1141,
+   "accept_none": 1831,
+   "inperson_dem": 49441,
+   "inperson_rep": 41651,
+   "inperson_none": 41562,
+   "voted_dem": 51193,
+   "voted_rep": 42792,
+   "voted_none": 43393
   },
   {
    "state": "NC",
@@ -3632,18 +3632,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 4923,
-   "inperson_all": 131143,
-   "voted_all": 136066,
-   "accept_dem": 1886,
-   "accept_rep": 1137,
-   "accept_none": 1900,
-   "inperson_dem": 43735,
-   "inperson_rep": 43126,
-   "inperson_none": 44282,
-   "voted_dem": 45621,
-   "voted_rep": 44263,
-   "voted_none": 46182
+   "accept_all": 5488,
+   "inperson_all": 144229,
+   "voted_all": 149717,
+   "accept_dem": 2087,
+   "accept_rep": 1283,
+   "accept_none": 2118,
+   "inperson_dem": 47283,
+   "inperson_rep": 48308,
+   "inperson_none": 48638,
+   "voted_dem": 49370,
+   "voted_rep": 49591,
+   "voted_none": 50756
   },
   {
    "state": "NC",
@@ -3663,18 +3663,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 6560,
-   "inperson_all": 167747,
-   "voted_all": 174307,
-   "accept_dem": 2822,
-   "accept_rep": 1021,
-   "accept_none": 2717,
-   "inperson_dem": 56564,
-   "inperson_rep": 42433,
-   "inperson_none": 68750,
-   "voted_dem": 59386,
-   "voted_rep": 43454,
-   "voted_none": 71467
+   "accept_all": 7210,
+   "inperson_all": 183368,
+   "voted_all": 190578,
+   "accept_dem": 3025,
+   "accept_rep": 1187,
+   "accept_none": 2998,
+   "inperson_dem": 60990,
+   "inperson_rep": 47091,
+   "inperson_none": 75287,
+   "voted_dem": 64015,
+   "voted_rep": 48278,
+   "voted_none": 78285
   },
   {
    "state": "NC",
@@ -3694,18 +3694,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 4428,
-   "inperson_all": 116788,
-   "voted_all": 121216,
-   "accept_dem": 2041,
-   "accept_rep": 557,
-   "accept_none": 1830,
-   "inperson_dem": 67238,
-   "inperson_rep": 11204,
-   "inperson_none": 38346,
-   "voted_dem": 69279,
-   "voted_rep": 11761,
-   "voted_none": 40176
+   "accept_all": 4856,
+   "inperson_all": 128827,
+   "voted_all": 133683,
+   "accept_dem": 2268,
+   "accept_rep": 613,
+   "accept_none": 1975,
+   "inperson_dem": 73597,
+   "inperson_rep": 12601,
+   "inperson_none": 42629,
+   "voted_dem": 75865,
+   "voted_rep": 13214,
+   "voted_none": 44604
   },
   {
    "state": "NC",
@@ -3725,18 +3725,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 5336,
-   "inperson_all": 138969,
-   "voted_all": 144305,
-   "accept_dem": 2119,
-   "accept_rep": 1114,
-   "accept_none": 2103,
-   "inperson_dem": 51689,
-   "inperson_rep": 38662,
-   "inperson_none": 48618,
-   "voted_dem": 53808,
-   "voted_rep": 39776,
-   "voted_none": 50721
+   "accept_all": 5835,
+   "inperson_all": 152701,
+   "voted_all": 158536,
+   "accept_dem": 2314,
+   "accept_rep": 1235,
+   "accept_none": 2286,
+   "inperson_dem": 55751,
+   "inperson_rep": 43292,
+   "inperson_none": 53658,
+   "voted_dem": 58065,
+   "voted_rep": 44527,
+   "voted_none": 55944
   },
   {
    "state": "NC",
@@ -3756,18 +3756,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "accept_all": 4876,
-   "inperson_all": 129883,
-   "voted_all": 134759,
-   "accept_dem": 1906,
-   "accept_rep": 1047,
-   "accept_none": 1923,
-   "inperson_dem": 45730,
-   "inperson_rep": 38470,
-   "inperson_none": 45683,
-   "voted_dem": 47636,
-   "voted_rep": 39517,
-   "voted_none": 47606
+   "accept_all": 5278,
+   "inperson_all": 142321,
+   "voted_all": 147599,
+   "accept_dem": 2048,
+   "accept_rep": 1163,
+   "accept_none": 2067,
+   "inperson_dem": 49431,
+   "inperson_rep": 42710,
+   "inperson_none": 50180,
+   "voted_dem": 51479,
+   "voted_rep": 43873,
+   "voted_none": 52247
   },
   {
    "state": "NE",
@@ -4378,18 +4378,18 @@
    ],
    "request_all": 27,
    "accept_all": 0,
-   "inperson_all": 1,
-   "voted_all": 1,
+   "inperson_all": 0,
+   "voted_all": 0,
    "request_dem": 4,
    "request_rep": 10,
    "request_none": 13,
    "accept_dem": 0,
    "accept_rep": 0,
    "accept_none": 0,
-   "inperson_dem": 1,
+   "inperson_dem": 0,
    "inperson_rep": 0,
    "inperson_none": 0,
-   "voted_dem": 1,
+   "voted_dem": 0,
    "voted_rep": 0,
    "voted_none": 0
   },
@@ -4415,22 +4415,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 459289,
-   "accept_all": 64998,
-   "inperson_all": 42272,
-   "voted_all": 107270,
-   "request_dem": 131555,
-   "request_rep": 102845,
-   "request_none": 224886,
-   "accept_dem": 29590,
-   "accept_rep": 16919,
-   "accept_none": 18488,
-   "inperson_dem": 16956,
-   "inperson_rep": 15633,
-   "inperson_none": 9683,
-   "voted_dem": 46546,
-   "voted_rep": 32552,
-   "voted_none": 28171
+   "request_all": 456080,
+   "accept_all": 68128,
+   "inperson_all": 45421,
+   "voted_all": 113549,
+   "request_dem": 130491,
+   "request_rep": 101560,
+   "request_none": 224026,
+   "accept_dem": 30892,
+   "accept_rep": 17705,
+   "accept_none": 19530,
+   "inperson_dem": 18044,
+   "inperson_rep": 16865,
+   "inperson_none": 10512,
+   "voted_dem": 48936,
+   "voted_rep": 34570,
+   "voted_none": 30042
   },
   {
    "state": "NV",
@@ -4454,22 +4454,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 480934,
-   "accept_all": 95499,
-   "inperson_all": 50316,
-   "voted_all": 145815,
-   "request_dem": 110549,
-   "request_rep": 169339,
-   "request_none": 201046,
-   "accept_dem": 35142,
-   "accept_rep": 36703,
-   "accept_none": 23654,
-   "inperson_dem": 16525,
-   "inperson_rep": 23718,
-   "inperson_none": 10073,
-   "voted_dem": 51667,
-   "voted_rep": 60421,
-   "voted_none": 33727
+   "request_all": 476788,
+   "accept_all": 104525,
+   "inperson_all": 54200,
+   "voted_all": 158725,
+   "request_dem": 109428,
+   "request_rep": 167221,
+   "request_none": 200139,
+   "accept_dem": 38494,
+   "accept_rep": 39901,
+   "accept_none": 26130,
+   "inperson_dem": 17646,
+   "inperson_rep": 25597,
+   "inperson_none": 10957,
+   "voted_dem": 56140,
+   "voted_rep": 65498,
+   "voted_none": 37087
   },
   {
    "state": "NV",
@@ -4493,22 +4493,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 496857,
-   "accept_all": 72792,
-   "inperson_all": 55018,
-   "voted_all": 127810,
-   "request_dem": 134827,
-   "request_rep": 114520,
-   "request_none": 247510,
-   "accept_dem": 32149,
-   "accept_rep": 18728,
-   "accept_none": 21915,
-   "inperson_dem": 20847,
-   "inperson_rep": 20792,
-   "inperson_none": 13379,
-   "voted_dem": 52996,
-   "voted_rep": 39520,
-   "voted_none": 35294
+   "request_all": 492853,
+   "accept_all": 75863,
+   "inperson_all": 58974,
+   "voted_all": 134837,
+   "request_dem": 133503,
+   "request_rep": 112967,
+   "request_none": 246383,
+   "accept_dem": 33410,
+   "accept_rep": 19425,
+   "accept_none": 23028,
+   "inperson_dem": 22185,
+   "inperson_rep": 22305,
+   "inperson_none": 14484,
+   "voted_dem": 55595,
+   "voted_rep": 41730,
+   "voted_none": 37512
   },
   {
    "state": "NV",
@@ -4532,22 +4532,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 479476,
-   "accept_all": 62917,
-   "inperson_all": 45200,
-   "voted_all": 108117,
-   "request_dem": 138687,
-   "request_rep": 108857,
-   "request_none": 231929,
-   "accept_dem": 28136,
-   "accept_rep": 17062,
-   "accept_none": 17718,
-   "inperson_dem": 19263,
-   "inperson_rep": 16147,
-   "inperson_none": 9790,
-   "voted_dem": 47399,
-   "voted_rep": 33209,
-   "voted_none": 27508
+   "request_all": 475924,
+   "accept_all": 67870,
+   "inperson_all": 48685,
+   "voted_all": 116555,
+   "request_dem": 137447,
+   "request_rep": 107500,
+   "request_none": 230974,
+   "accept_dem": 29928,
+   "accept_rep": 18764,
+   "accept_none": 19177,
+   "inperson_dem": 20515,
+   "inperson_rep": 17473,
+   "inperson_none": 10697,
+   "voted_dem": 50443,
+   "voted_rep": 36237,
+   "voted_none": 29874
   },
   {
    "state": "OH",
@@ -4793,17 +4793,17 @@
     "voted_none"
    ],
    "request_all": 13797,
-   "accept_all": 6382,
-   "voted_all": 6382,
+   "accept_all": 7039,
+   "voted_all": 7039,
    "request_dem": 5973,
    "request_rep": 5628,
    "request_none": 2196,
-   "accept_dem": 2810,
-   "accept_rep": 2707,
-   "accept_none": 865,
-   "voted_dem": 2810,
-   "voted_rep": 2707,
-   "voted_none": 865
+   "accept_dem": 3096,
+   "accept_rep": 2990,
+   "accept_none": 953,
+   "voted_dem": 3096,
+   "voted_rep": 2990,
+   "voted_none": 953
   },
   {
    "state": "OK",
@@ -4824,17 +4824,17 @@
     "voted_none"
    ],
    "request_all": 7418,
-   "accept_all": 3645,
-   "voted_all": 3645,
-   "request_dem": 2676,
+   "accept_all": 3891,
+   "voted_all": 3891,
+   "request_dem": 2677,
    "request_rep": 3744,
-   "request_none": 998,
-   "accept_dem": 1374,
-   "accept_rep": 1874,
-   "accept_none": 397,
-   "voted_dem": 1374,
-   "voted_rep": 1874,
-   "voted_none": 397
+   "request_none": 997,
+   "accept_dem": 1460,
+   "accept_rep": 2000,
+   "accept_none": 431,
+   "voted_dem": 1460,
+   "voted_rep": 2000,
+   "voted_none": 431
   },
   {
    "state": "OK",
@@ -4854,18 +4854,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 8619,
-   "accept_all": 4220,
-   "voted_all": 4220,
+   "request_all": 8620,
+   "accept_all": 4656,
+   "voted_all": 4656,
    "request_dem": 3226,
-   "request_rep": 4220,
+   "request_rep": 4221,
    "request_none": 1173,
-   "accept_dem": 1655,
-   "accept_rep": 2122,
-   "accept_none": 443,
-   "voted_dem": 1655,
-   "voted_rep": 2122,
-   "voted_none": 443
+   "accept_dem": 1839,
+   "accept_rep": 2326,
+   "accept_none": 491,
+   "voted_dem": 1839,
+   "voted_rep": 2326,
+   "voted_none": 491
   },
   {
    "state": "OK",
@@ -4886,17 +4886,17 @@
     "voted_none"
    ],
    "request_all": 13062,
-   "accept_all": 6546,
-   "voted_all": 6546,
+   "accept_all": 7153,
+   "voted_all": 7153,
    "request_dem": 5520,
    "request_rep": 5515,
    "request_none": 2027,
-   "accept_dem": 2869,
-   "accept_rep": 2820,
-   "accept_none": 857,
-   "voted_dem": 2869,
-   "voted_rep": 2820,
-   "voted_none": 857
+   "accept_dem": 3125,
+   "accept_rep": 3077,
+   "accept_none": 951,
+   "voted_dem": 3125,
+   "voted_rep": 3077,
+   "voted_none": 951
   },
   {
    "state": "OK",
@@ -4916,18 +4916,18 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 22020,
-   "accept_all": 11957,
-   "voted_all": 11957,
-   "request_dem": 9267,
+   "request_all": 22021,
+   "accept_all": 12973,
+   "voted_all": 12973,
+   "request_dem": 9268,
    "request_rep": 9233,
    "request_none": 3520,
-   "accept_dem": 5067,
-   "accept_rep": 5261,
-   "accept_none": 1629,
-   "voted_dem": 5067,
-   "voted_rep": 5261,
-   "voted_none": 1629
+   "accept_dem": 5504,
+   "accept_rep": 5698,
+   "accept_none": 1771,
+   "voted_dem": 5504,
+   "voted_rep": 5698,
+   "voted_none": 1771
   },
   {
    "state": "PA",
@@ -5556,22 +5556,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 81020,
-   "accept_all": 81020,
-   "inperson_all": 1944,
-   "voted_all": 82964,
-   "request_dem": 29188,
-   "request_rep": 28666,
-   "request_none": 23166,
-   "accept_dem": 29188,
-   "accept_rep": 28666,
-   "accept_none": 23166,
-   "inperson_dem": 738,
-   "inperson_rep": 491,
-   "inperson_none": 715,
-   "voted_dem": 29926,
-   "voted_rep": 29157,
-   "voted_none": 23881
+   "request_all": 93039,
+   "accept_all": 93039,
+   "inperson_all": 2811,
+   "voted_all": 95850,
+   "request_dem": 33133,
+   "request_rep": 32925,
+   "request_none": 26981,
+   "accept_dem": 33133,
+   "accept_rep": 32925,
+   "accept_none": 26981,
+   "inperson_dem": 1101,
+   "inperson_rep": 702,
+   "inperson_none": 1008,
+   "voted_dem": 34234,
+   "voted_rep": 33627,
+   "voted_none": 27989
   },
   {
    "state": "UT",
@@ -5595,22 +5595,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 76254,
-   "accept_all": 76254,
-   "inperson_all": 597,
-   "voted_all": 76851,
-   "request_dem": 12571,
-   "request_rep": 42932,
-   "request_none": 20751,
-   "accept_dem": 12571,
-   "accept_rep": 42932,
-   "accept_none": 20751,
-   "inperson_dem": 130,
-   "inperson_rep": 286,
-   "inperson_none": 181,
-   "voted_dem": 12701,
-   "voted_rep": 43218,
-   "voted_none": 20932
+   "request_all": 83253,
+   "accept_all": 83253,
+   "inperson_all": 1115,
+   "voted_all": 84368,
+   "request_dem": 13797,
+   "request_rep": 46603,
+   "request_none": 22853,
+   "accept_dem": 13797,
+   "accept_rep": 46603,
+   "accept_none": 22853,
+   "inperson_dem": 231,
+   "inperson_rep": 517,
+   "inperson_none": 367,
+   "voted_dem": 14028,
+   "voted_rep": 47120,
+   "voted_none": 23220
   },
   {
    "state": "UT",
@@ -5634,22 +5634,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 75651,
-   "accept_all": 75651,
-   "inperson_all": 912,
-   "voted_all": 76563,
-   "request_dem": 10611,
-   "request_rep": 47752,
-   "request_none": 17288,
-   "accept_dem": 10611,
-   "accept_rep": 47752,
-   "accept_none": 17288,
-   "inperson_dem": 167,
-   "inperson_rep": 503,
-   "inperson_none": 242,
-   "voted_dem": 10778,
-   "voted_rep": 48255,
-   "voted_none": 17530
+   "request_all": 91577,
+   "accept_all": 91577,
+   "inperson_all": 1487,
+   "voted_all": 93064,
+   "request_dem": 12813,
+   "request_rep": 57640,
+   "request_none": 21124,
+   "accept_dem": 12813,
+   "accept_rep": 57640,
+   "accept_none": 21124,
+   "inperson_dem": 279,
+   "inperson_rep": 806,
+   "inperson_none": 402,
+   "voted_dem": 13092,
+   "voted_rep": 58446,
+   "voted_none": 21526
   },
   {
    "state": "UT",
@@ -5673,22 +5673,22 @@
     "voted_rep",
     "voted_none"
    ],
-   "request_all": 70117,
-   "accept_all": 70117,
-   "inperson_all": 739,
-   "voted_all": 70856,
-   "request_dem": 12085,
-   "request_rep": 39056,
-   "request_none": 18976,
-   "accept_dem": 12085,
-   "accept_rep": 39056,
-   "accept_none": 18976,
-   "inperson_dem": 191,
-   "inperson_rep": 325,
-   "inperson_none": 223,
-   "voted_dem": 12276,
-   "voted_rep": 39381,
-   "voted_none": 19199
+   "request_all": 83024,
+   "accept_all": 83024,
+   "inperson_all": 1125,
+   "voted_all": 84149,
+   "request_dem": 13974,
+   "request_rep": 46401,
+   "request_none": 22649,
+   "accept_dem": 13974,
+   "accept_rep": 46401,
+   "accept_none": 22649,
+   "inperson_dem": 270,
+   "inperson_rep": 489,
+   "inperson_none": 366,
+   "voted_dem": 14244,
+   "voted_rep": 46890,
+   "voted_none": 23015
   },
   {
    "state": "VA",
@@ -5715,10 +5715,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 46359,
-   "accept_all": 30390,
-   "inperson_all": 129933,
-   "voted_all": 160323
+   "request_all": 46329,
+   "accept_all": 31507,
+   "inperson_all": 137578,
+   "voted_all": 169085
   },
   {
    "state": "VA",
@@ -5730,10 +5730,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 48315,
-   "accept_all": 30865,
-   "inperson_all": 87783,
-   "voted_all": 118648
+   "request_all": 48284,
+   "accept_all": 31715,
+   "inperson_all": 94634,
+   "voted_all": 126349
   },
   {
    "state": "VA",
@@ -5745,10 +5745,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 36386,
-   "accept_all": 21302,
-   "inperson_all": 52949,
-   "voted_all": 74251
+   "request_all": 36393,
+   "accept_all": 21852,
+   "inperson_all": 57682,
+   "voted_all": 79534
   },
   {
    "state": "VA",
@@ -5760,10 +5760,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 36303,
-   "accept_all": 21915,
-   "inperson_all": 84242,
-   "voted_all": 106157
+   "request_all": 36304,
+   "accept_all": 22831,
+   "inperson_all": 90107,
+   "voted_all": 112938
   },
   {
    "state": "VA",
@@ -5775,10 +5775,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 36407,
-   "accept_all": 23696,
-   "inperson_all": 105479,
-   "voted_all": 129175
+   "request_all": 36413,
+   "accept_all": 24056,
+   "inperson_all": 110158,
+   "voted_all": 134214
   },
   {
    "state": "VA",
@@ -5790,10 +5790,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 27934,
-   "accept_all": 17827,
-   "inperson_all": 93001,
-   "voted_all": 110828
+   "request_all": 27933,
+   "accept_all": 18425,
+   "inperson_all": 98007,
+   "voted_all": 116432
   },
   {
    "state": "VA",
@@ -5805,10 +5805,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 42923,
-   "accept_all": 26736,
-   "inperson_all": 83165,
-   "voted_all": 109901
+   "request_all": 42865,
+   "accept_all": 27176,
+   "inperson_all": 89619,
+   "voted_all": 116795
   },
   {
    "state": "VA",
@@ -5820,10 +5820,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 54845,
-   "accept_all": 31029,
-   "inperson_all": 82447,
-   "voted_all": 113476
+   "request_all": 54838,
+   "accept_all": 32326,
+   "inperson_all": 87701,
+   "voted_all": 120027
   },
   {
    "state": "VA",
@@ -5835,10 +5835,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 24487,
-   "accept_all": 15746,
-   "inperson_all": 77155,
-   "voted_all": 92901
+   "request_all": 24488,
+   "accept_all": 16132,
+   "inperson_all": 82375,
+   "voted_all": 98507
   },
   {
    "state": "VA",
@@ -5850,10 +5850,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 49605,
-   "accept_all": 29459,
-   "inperson_all": 90139,
-   "voted_all": 119598
+   "request_all": 49571,
+   "accept_all": 30449,
+   "inperson_all": 96428,
+   "voted_all": 126877
   },
   {
    "state": "VA",
@@ -5865,10 +5865,10 @@
     "inperson_all",
     "voted_all"
    ],
-   "request_all": 59476,
-   "accept_all": 34093,
-   "inperson_all": 86659,
-   "voted_all": 120752
+   "request_all": 59426,
+   "accept_all": 35752,
+   "inperson_all": 93154,
+   "voted_all": 128906
   },
   {
    "state": "WA",
