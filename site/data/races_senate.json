@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-01T15:15:44+00:00",
+ "generated": "2026-11-01T20:34:03+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383203608,
+ "wikipedia_revid": 1383235527,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -40,7 +40,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Tossup",
     "FPO Oct 31, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
@@ -82,7 +82,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -129,7 +129,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -191,7 +191,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -233,7 +233,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -280,7 +280,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Likely R",
-    "DDHQ Oct 31, 2026": "Likely R",
+    "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
     "FPO Oct 31, 2026": "Likely R",
     "Fox Nov 1, 2026": "Solid R",
@@ -322,7 +322,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Likely D",
-    "DDHQ Oct 31, 2026": "Likely D",
+    "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Likely D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Likely D",
@@ -369,7 +369,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Lean R",
     "FPO Oct 31, 2026": "Tossup",
     "Fox Nov 1, 2026": "Tossup",
@@ -421,7 +421,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -468,7 +468,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -515,7 +515,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Tossup",
     "FPO Oct 31, 2026": "Tossup",
     "Fox Nov 1, 2026": "Tossup",
@@ -562,7 +562,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Likely R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -604,7 +604,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Likely R",
+    "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
     "FPO Oct 31, 2026": "Likely R",
     "Fox Nov 1, 2026": "Solid R",
@@ -656,7 +656,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -698,7 +698,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Lean D (flip)",
+    "DDHQ Nov 1, 2026": "Lean D (flip)",
     "Econ Nov 1, 2026": "Lean D (flip)",
     "FPO Oct 31, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
@@ -760,7 +760,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Lean D",
+    "DDHQ Nov 1, 2026": "Lean D",
     "Econ Nov 1, 2026": "Lean D",
     "FPO Oct 31, 2026": "Lean D",
     "Fox Nov 1, 2026": "Tossup",
@@ -812,7 +812,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Lean D",
-    "DDHQ Oct 31, 2026": "Likely D",
+    "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Lean D",
     "FPO Oct 31, 2026": "Likely D",
     "Fox Nov 1, 2026": "Lean D",
@@ -859,7 +859,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Likely R",
-    "DDHQ Oct 31, 2026": "Likely R",
+    "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Likely R",
@@ -911,7 +911,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Likely R",
+    "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
     "FPO Oct 31, 2026": "Likely R",
     "Fox Nov 1, 2026": "Solid R",
@@ -963,7 +963,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Likely D (flip)",
-    "DDHQ Oct 31, 2026": "Likely D (flip)",
+    "DDHQ Nov 1, 2026": "Likely D (flip)",
     "Econ Nov 1, 2026": "Likely D (flip)",
     "FPO Oct 31, 2026": "Likely D (flip)",
     "Fox Nov 1, 2026": "Likely D (flip)",
@@ -1020,7 +1020,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Lean R",
-    "DDHQ Oct 31, 2026": "Likely R",
+    "DDHQ Nov 1, 2026": "Lean R",
     "Econ Nov 1, 2026": "Likely R",
     "FPO Oct 31, 2026": "Likely R",
     "Fox Nov 1, 2026": "Lean R",
@@ -1067,7 +1067,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Lean D",
-    "DDHQ Oct 31, 2026": "Likely D",
+    "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Likely D",
     "FPO Oct 31, 2026": "Likely D",
     "Fox Nov 1, 2026": "Lean D",
@@ -1119,7 +1119,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -1161,7 +1161,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -1213,7 +1213,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Tossup",
     "FPO Oct 31, 2026": "Tossup",
     "Fox Nov 1, 2026": "Lean D (flip)",
@@ -1270,7 +1270,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -1322,7 +1322,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -1369,7 +1369,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -1421,7 +1421,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Lean R",
-    "DDHQ Oct 31, 2026": "Lean R",
+    "DDHQ Nov 1, 2026": "Lean R",
     "Econ Nov 1, 2026": "Lean R",
     "FPO Oct 31, 2026": "Lean R",
     "Fox Nov 1, 2026": "Tossup",
@@ -1463,7 +1463,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -1545,7 +1545,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -1592,7 +1592,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Oct 31, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Tossup",
     "FPO Oct 31, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
@@ -1634,7 +1634,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid D",
-    "DDHQ Oct 31, 2026": "Safe D",
+    "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
     "FPO Oct 31, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
@@ -1681,7 +1681,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
@@ -1723,7 +1723,7 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Oct 31, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
     "FPO Oct 31, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
