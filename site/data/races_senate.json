@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-02T01:33:44+00:00",
+ "generated": "2026-11-02T09:36:40+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383235527,
+ "wikipedia_revid": 1383358332,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -40,21 +40,21 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Nov 1, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Lean D (flip)",
     "Econ Nov 1, 2026": "Tossup",
-    "FPO Oct 31, 2026": "Lean D (flip)",
+    "FPO Nov 1, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tossup",
     "MS NOW Oct 29, 2026": "Tossup",
     "NBC Nov 1, 2026": "Tossup",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Lean D (flip)",
-    "Silver Oct 31, 2026": "Tossup",
-    "ST Oct 31, 2026": "Lean D (flip)"
+    "Silver Nov 1, 2026": "Tossup",
+    "ST Nov 2, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "August 18, 2026",
-    "poll_close_et": "12 am and 1 am"
+    "poll_close_et": "12 a.m. and 1 a.m."
    }
   },
   {
@@ -84,19 +84,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 19, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -131,19 +131,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "March 3, 2026",
-    "poll_close_et": "8:30 pm"
+    "poll_close_et": "8:30 p.m."
    }
   },
   {
@@ -193,19 +193,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "June 30, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   },
   {
@@ -235,19 +235,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 15, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -282,19 +282,19 @@
     "Cook Oct 30, 2026": "Likely R",
     "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
-    "FPO Oct 31, 2026": "Likely R",
+    "FPO Nov 1, 2026": "Likely R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Likely R",
     "MS NOW Oct 29, 2026": "Likely R",
     "NBC Nov 1, 2026": "Likely R",
     "RCP Oct 31, 2026": "Lean R",
     "Sabato Oct 29, 2026": "Likely R",
-    "Silver Oct 31, 2026": "Likely R",
-    "ST Oct 31, 2026": "Likely R"
+    "Silver Nov 1, 2026": "Likely R",
+    "ST Nov 2, 2026": "Likely R"
    },
    "calendar": {
     "primary": "August 18, 2026",
-    "poll_close_et": "7 pm and 8 pm"
+    "poll_close_et": "7 p.m. and 8 p.m."
    }
   },
   {
@@ -324,19 +324,19 @@
     "Cook Oct 30, 2026": "Likely D",
     "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Likely D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Likely D",
     "IE Oct 29, 2026": "Likely D",
     "MS NOW Oct 29, 2026": "Lean D",
     "NBC Nov 1, 2026": "Likely D",
     "RCP Oct 31, 2026": "Likely D",
     "Sabato Oct 29, 2026": "Likely D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "May 19, 2026",
-    "poll_close_et": "7 pm"
+    "poll_close_et": "7 p.m."
    }
   },
   {
@@ -371,19 +371,19 @@
     "Cook Oct 30, 2026": "Tossup",
     "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Lean R",
-    "FPO Oct 31, 2026": "Tossup",
+    "FPO Nov 1, 2026": "Tossup",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tossup",
     "MS NOW Oct 29, 2026": "Lean R",
     "NBC Nov 1, 2026": "Tossup",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Tossup",
-    "Silver Oct 31, 2026": "Tossup",
-    "ST Oct 31, 2026": "Tossup"
+    "Silver Nov 1, 2026": "Tossup",
+    "ST Nov 2, 2026": "Tossup"
    },
    "calendar": {
     "primary": "June 2, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   },
   {
@@ -423,19 +423,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 19, 2026",
-    "poll_close_et": "10 pm and 11 pm"
+    "poll_close_et": "10 p.m. and 11 p.m."
    }
   },
   {
@@ -470,19 +470,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "March 17, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -517,19 +517,19 @@
     "Cook Oct 30, 2026": "Tossup",
     "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Tossup",
-    "FPO Oct 31, 2026": "Tossup",
+    "FPO Nov 1, 2026": "Tossup",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tossup",
     "MS NOW Oct 29, 2026": "Lean R",
     "NBC Nov 1, 2026": "Tossup",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Tossup",
-    "Silver Oct 31, 2026": "Lean D (flip)",
-    "ST Oct 31, 2026": "Tossup"
+    "Silver Nov 1, 2026": "Lean D (flip)",
+    "ST Nov 2, 2026": "Tossup"
    },
    "calendar": {
     "primary": "August 4, 2026",
-    "poll_close_et": "8 pm and 9 pm"
+    "poll_close_et": "8 p.m. and 9 p.m."
    }
   },
   {
@@ -562,21 +562,21 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Solid R",
-    "DDHQ Nov 1, 2026": "Safe R",
+    "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 19, 2026",
-    "poll_close_et": "6 pm and 7 pm"
+    "poll_close_et": "6 p.m. and 7 p.m."
    }
   },
   {
@@ -606,19 +606,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
-    "FPO Oct 31, 2026": "Likely R",
+    "FPO Nov 1, 2026": "Likely R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Likely R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Likely R",
-    "Silver Oct 31, 2026": "Likely R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Likely R",
+    "ST Nov 2, 2026": "Likely R"
    },
    "calendar": {
     "primary": "May 16, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   },
   {
@@ -658,19 +658,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 1, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -700,19 +700,19 @@
     "Cook Oct 30, 2026": "Tossup",
     "DDHQ Nov 1, 2026": "Lean D (flip)",
     "Econ Nov 1, 2026": "Lean D (flip)",
-    "FPO Oct 31, 2026": "Lean D (flip)",
+    "FPO Nov 1, 2026": "Likely D (flip)",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tossup",
     "MS NOW Oct 29, 2026": "Tossup",
     "NBC Nov 1, 2026": "Lean D (flip)",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Tossup",
-    "Silver Oct 31, 2026": "Lean D (flip)",
-    "ST Oct 31, 2026": "Lean D (flip)"
+    "Silver Nov 1, 2026": "Likely D (flip)",
+    "ST Nov 2, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "June 9, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -760,21 +760,21 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Nov 1, 2026": "Lean D",
+    "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Lean D",
-    "FPO Oct 31, 2026": "Lean D",
+    "FPO Nov 1, 2026": "Likely D",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tilt D",
     "MS NOW Oct 29, 2026": "Tossup",
     "NBC Nov 1, 2026": "Lean D",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Lean D",
-    "Silver Oct 31, 2026": "Likely D",
-    "ST Oct 31, 2026": "Likely D"
+    "Silver Nov 1, 2026": "Likely D",
+    "ST Nov 2, 2026": "Likely D"
    },
    "calendar": {
     "primary": "August 4, 2026",
-    "poll_close_et": "8 pm and 9 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -814,19 +814,19 @@
     "Cook Oct 30, 2026": "Lean D",
     "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Lean D",
-    "FPO Oct 31, 2026": "Likely D",
+    "FPO Nov 1, 2026": "Likely D",
     "Fox Nov 1, 2026": "Lean D",
     "IE Oct 29, 2026": "Lean D",
     "MS NOW Oct 29, 2026": "Lean D",
     "NBC Nov 1, 2026": "Likely D",
     "RCP Oct 31, 2026": "Lean D",
     "Sabato Oct 29, 2026": "Likely D",
-    "Silver Oct 31, 2026": "Likely D",
-    "ST Oct 31, 2026": "Likely D"
+    "Silver Nov 1, 2026": "Likely D",
+    "ST Nov 2, 2026": "Likely D"
    },
    "calendar": {
     "primary": "August 11, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   },
   {
@@ -861,19 +861,19 @@
     "Cook Oct 30, 2026": "Likely R",
     "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Likely R",
     "IE Oct 29, 2026": "Likely R",
     "MS NOW Oct 29, 2026": "Likely R",
     "NBC Nov 1, 2026": "Likely R",
     "RCP Oct 31, 2026": "Likely R",
     "Sabato Oct 29, 2026": "Likely R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Likely R"
    },
    "calendar": {
     "primary": "March 10, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -913,19 +913,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Likely R",
     "Econ Nov 1, 2026": "Likely R",
-    "FPO Oct 31, 2026": "Likely R",
+    "FPO Nov 1, 2026": "Likely R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Likely R",
     "RCP Oct 31, 2026": "Likely R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Likely R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Likely R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "June 2, 2026",
-    "poll_close_et": "10 pm"
+    "poll_close_et": "10 p.m."
    }
   },
   {
@@ -965,19 +965,19 @@
     "Cook Oct 30, 2026": "Likely D (flip)",
     "DDHQ Nov 1, 2026": "Likely D (flip)",
     "Econ Nov 1, 2026": "Likely D (flip)",
-    "FPO Oct 31, 2026": "Likely D (flip)",
+    "FPO Nov 1, 2026": "Likely D (flip)",
     "Fox Nov 1, 2026": "Likely D (flip)",
     "IE Oct 29, 2026": "Lean D (flip)",
     "MS NOW Oct 29, 2026": "Lean D (flip)",
     "NBC Nov 1, 2026": "Likely D (flip)",
     "RCP Oct 31, 2026": "Likely D (flip)",
     "Sabato Oct 29, 2026": "Likely D (flip)",
-    "Silver Oct 31, 2026": "Solid D (flip)",
-    "ST Oct 31, 2026": "Safe D (flip)"
+    "Silver Nov 1, 2026": "Solid D (flip)",
+    "ST Nov 2, 2026": "Safe D (flip)"
    },
    "calendar": {
     "primary": "March 3, 2026",
-    "poll_close_et": "7:30 pm"
+    "poll_close_et": "7:30 p.m."
    }
   },
   {
@@ -1022,19 +1022,19 @@
     "Cook Oct 30, 2026": "Lean R",
     "DDHQ Nov 1, 2026": "Lean R",
     "Econ Nov 1, 2026": "Likely R",
-    "FPO Oct 31, 2026": "Likely R",
+    "FPO Nov 1, 2026": "Likely R",
     "Fox Nov 1, 2026": "Lean R",
     "IE Oct 29, 2026": "Tilt R",
     "MS NOW Oct 29, 2026": "Likely R",
-    "NBC Nov 1, 2026": "Likely R",
+    "NBC Nov 1, 2026": "Lean R",
     "RCP Oct 31, 2026": "Lean R",
     "Sabato Oct 29, 2026": "Lean R",
-    "Silver Oct 31, 2026": "Lean R",
-    "ST Oct 31, 2026": "Lean R"
+    "Silver Nov 1, 2026": "Lean R",
+    "ST Nov 2, 2026": "Lean R"
    },
    "calendar": {
     "primary": "May 12, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   },
   {
@@ -1069,19 +1069,19 @@
     "Cook Oct 30, 2026": "Lean D",
     "DDHQ Nov 1, 2026": "Likely D",
     "Econ Nov 1, 2026": "Likely D",
-    "FPO Oct 31, 2026": "Likely D",
+    "FPO Nov 1, 2026": "Likely D",
     "Fox Nov 1, 2026": "Lean D",
     "IE Oct 29, 2026": "Tilt D",
     "MS NOW Oct 29, 2026": "Lean D",
     "NBC Nov 1, 2026": "Lean D",
     "RCP Oct 31, 2026": "Lean D",
     "Sabato Oct 29, 2026": "Likely D",
-    "Silver Oct 31, 2026": "Likely D",
-    "ST Oct 31, 2026": "Likely D"
+    "Silver Nov 1, 2026": "Likely D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 8, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -1121,19 +1121,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "June 2, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -1163,19 +1163,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Likely D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "June 2, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   },
   {
@@ -1215,19 +1215,19 @@
     "Cook Oct 30, 2026": "Tossup",
     "DDHQ Nov 1, 2026": "Tossup",
     "Econ Nov 1, 2026": "Tossup",
-    "FPO Oct 31, 2026": "Tossup",
+    "FPO Nov 1, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Lean D (flip)",
     "IE Oct 29, 2026": "Tilt D (flip)",
     "MS NOW Oct 29, 2026": "Tossup",
     "NBC Nov 1, 2026": "Tossup",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Tossup",
-    "Silver Oct 31, 2026": "Lean D (flip)",
-    "ST Oct 31, 2026": "Lean D (flip)"
+    "Silver Nov 1, 2026": "Lean D (flip)",
+    "ST Nov 2, 2026": "Lean D (flip)"
    },
    "calendar": {
     "primary": "May 5, 2026",
-    "poll_close_et": "7:30 pm"
+    "poll_close_et": "7:30 p.m."
    }
   },
   {
@@ -1272,19 +1272,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "June 16, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -1324,19 +1324,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "May 19, 2026",
-    "poll_close_et": "10 pm and 11 pm"
+    "poll_close_et": "10 p.m. and 11 p.m."
    }
   },
   {
@@ -1371,19 +1371,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "September 9, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -1423,19 +1423,19 @@
     "Cook Oct 30, 2026": "Lean R",
     "DDHQ Nov 1, 2026": "Lean R",
     "Econ Nov 1, 2026": "Lean R",
-    "FPO Oct 31, 2026": "Lean R",
+    "FPO Nov 1, 2026": "Lean R",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tilt R",
     "MS NOW Oct 29, 2026": "Lean R",
     "NBC Nov 1, 2026": "Lean R",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Lean R",
-    "Silver Oct 31, 2026": "Lean R",
-    "ST Oct 31, 2026": "Lean R"
+    "Silver Nov 1, 2026": "Lean R",
+    "ST Nov 2, 2026": "Lean R"
    },
    "calendar": {
     "primary": "June 9, 2026",
-    "poll_close_et": "7 pm"
+    "poll_close_et": "7 p.m."
    }
   },
   {
@@ -1465,19 +1465,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Likely R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Likely R"
    },
    "calendar": {
     "primary": "June 2, 2026",
-    "poll_close_et": "8 pm and 9 pm"
+    "poll_close_et": "8 p.m. and 9 p.m."
    }
   },
   {
@@ -1547,19 +1547,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "August 6, 2026",
-    "poll_close_et": "8 pm"
+    "poll_close_et": "8 p.m."
    }
   },
   {
@@ -1592,21 +1592,21 @@
    ],
    "ratings": {
     "Cook Oct 30, 2026": "Tossup",
-    "DDHQ Nov 1, 2026": "Tossup",
+    "DDHQ Nov 1, 2026": "Lean D (flip)",
     "Econ Nov 1, 2026": "Tossup",
-    "FPO Oct 31, 2026": "Lean D (flip)",
+    "FPO Nov 1, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
     "IE Oct 29, 2026": "Tilt D (flip)",
     "MS NOW Oct 29, 2026": "Tossup",
     "NBC Nov 1, 2026": "Tossup",
     "RCP Oct 31, 2026": "Tossup",
     "Sabato Oct 29, 2026": "Tossup",
-    "Silver Oct 31, 2026": "Lean D (flip)",
-    "ST Oct 31, 2026": "Lean D (flip)"
+    "Silver Nov 1, 2026": "Likely D (flip)",
+    "ST Nov 2, 2026": "Likely D (flip)"
    },
    "calendar": {
     "primary": "March 3, 2026",
-    "poll_close_et": "8 pm and 9 pm"
+    "poll_close_et": "8 p.m. and 9 p.m."
    }
   },
   {
@@ -1636,19 +1636,19 @@
     "Cook Oct 30, 2026": "Solid D",
     "DDHQ Nov 1, 2026": "Safe D",
     "Econ Nov 1, 2026": "Safe D",
-    "FPO Oct 31, 2026": "Safe D",
+    "FPO Nov 1, 2026": "Safe D",
     "Fox Nov 1, 2026": "Solid D",
     "IE Oct 29, 2026": "Solid D",
     "MS NOW Oct 29, 2026": "Safe D",
     "NBC Nov 1, 2026": "Solid D",
     "RCP Oct 31, 2026": "Solid D",
     "Sabato Oct 29, 2026": "Safe D",
-    "Silver Oct 31, 2026": "Solid D",
-    "ST Oct 31, 2026": "Safe D"
+    "Silver Nov 1, 2026": "Solid D",
+    "ST Nov 2, 2026": "Safe D"
    },
    "calendar": {
     "primary": "August 4, 2026",
-    "poll_close_et": "7 pm"
+    "poll_close_et": "7 p.m."
    }
   },
   {
@@ -1683,19 +1683,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "May 12, 2026",
-    "poll_close_et": "7:30 pm"
+    "poll_close_et": "7:30 p.m."
    }
   },
   {
@@ -1725,19 +1725,19 @@
     "Cook Oct 30, 2026": "Solid R",
     "DDHQ Nov 1, 2026": "Safe R",
     "Econ Nov 1, 2026": "Safe R",
-    "FPO Oct 31, 2026": "Safe R",
+    "FPO Nov 1, 2026": "Safe R",
     "Fox Nov 1, 2026": "Solid R",
     "IE Oct 29, 2026": "Solid R",
     "MS NOW Oct 29, 2026": "Safe R",
     "NBC Nov 1, 2026": "Solid R",
     "RCP Oct 31, 2026": "Solid R",
     "Sabato Oct 29, 2026": "Safe R",
-    "Silver Oct 31, 2026": "Solid R",
-    "ST Oct 31, 2026": "Safe R"
+    "Silver Nov 1, 2026": "Solid R",
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {
     "primary": "August 18, 2026",
-    "poll_close_et": "9 pm"
+    "poll_close_et": "9 p.m."
    }
   }
  ]
