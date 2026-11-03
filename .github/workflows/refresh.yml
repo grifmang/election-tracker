@@ -2,15 +2,36 @@
 name: refresh-and-deploy
 on:
   push: {branches: [main]}
-  schedule: [{cron: "17 */2 * * *"}]   # every 2h during early voting; tighten to "*/5 * * * *" for Nov 3
+  schedule:
+    # ELECTION NIGHT (Nov 3, 2026): every 30 min until midnight ET (= 2026-11-04T05:00Z).
+    # Cron can't stop on a date, so the "gate" job below skips this entry after the cutoff.
+    # REVERT after Nov 5: delete this */30 entry and the gate's cutoff logic, leaving only the 2-hour cadence.
+    - cron: "*/30 * * * *"
+    # Normal cadence: every 2 hours. Skipped by the gate before the cutoff (the 30-min entry covers it), runs after.
+    - cron: "17 */2 * * *"
   workflow_dispatch: {}
 permissions: {contents: write, pages: write, id-token: write}
-concurrency: {group: pages, cancel-in-progress: false}
+# One run at a time for this workflow; a new run waits for the current one instead of cancelling it.
+concurrency: {group: "${{ github.workflow }}", cancel-in-progress: false}
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs: {run: "${{ steps.g.outputs.run }}"}
+    steps:
+      - id: g
+        env: {SCHED: "${{ github.event.schedule }}"}
+        run: |
+          now=$(date -u +%s); cutoff=$(date -u -d 2026-11-04T05:00:00Z +%s); run=true
+          if [ "$SCHED" = "*/30 * * * *" ] && [ "$now" -ge "$cutoff" ]; then run=false; echo "30-min election-night cadence ended (after midnight ET)"; fi
+          if [ "$SCHED" = "17 */2 * * *" ] && [ "$now" -lt "$cutoff" ]; then run=false; echo "2-hour run skipped; 30-min cadence active until midnight ET"; fi
+          echo "run=$run" >> "$GITHUB_OUTPUT"
   build:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
@@ -20,7 +41,15 @@ jobs:
         if: github.event_name != 'push'
         run: |
           git config user.name "data-bot"; git config user.email "data-bot@users.noreply.github.com"
-          git add site/data && git commit -m "data refresh $(date -u +%FT%TZ)" && git push || echo "no changes"
+          git add site/data
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "data refresh $(date -u +%FT%TZ)"
+          for i in 1 2 3; do
+            # rebase onto latest main first; on a data-file conflict keep this run's fresh data
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true; sleep $((i*5))
+          done
+          echo "::warning::could not push refreshed data; site still deploys this run's data"
       - uses: actions/upload-pages-artifact@v3
         with: {path: site}
   deploy:
