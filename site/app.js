@@ -112,7 +112,7 @@ function resTable(el, data, kind){
   const keys = kind==='S' ? (D.sen?.races||[]).map(r=>r.state) : (D.house?.races||[]).map(r=>r.key);
   const seen = new Set(), rows = [];
   for (const k of keys){ if (seen.has(k)) continue; seen.add(k); const r = races[k];
-    rows.push(`<tr><td>${k}</td>` + (r ? `<td class="n">${r.pct_in ?? '—'}%</td><td>${r.candidates.slice(0,3).map(c=>`<span class="${pcls(c.party)}">${esc(c.name)}</span> ${fmt(c.votes)} (${c.pct}%)`).join('<br>')}</td><td>${r.called?'Called: '+esc(r.winner):'Not called'}</td>`
+    rows.push(`<tr><td>${k}</td>` + (r ? `<td class="n">${r.pct_in ?? '—'}%</td><td>${r.candidates.slice(0,3).map(c=>`<span class="${pcls(c.party)}">${esc(c.name)}</span> ${fmt(c.votes)} (${c.pct==null?'—':c.pct+'%'})`).join('<br>')}</td><td>${r.called?'Called: '+esc(r.winner):'Not called'}</td>`
       : `<td colspan="3" class="na">${data?.live?'No feed for this race in current source':'Awaiting results (polls close Nov 3)'}</td>`) + '</tr>'); }
   table(el, [{t:kind==='S'?'State':'District'},{t:'% in',n:1},{t:'Leading candidates (votes)'},{t:'Call'}], rows);
 }
