@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T02:53:07Z",
+ "generated": "2026-11-04T03:02:12Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
-   "D": 10,
+   "D": 11,
    "R": 6,
    "I": 0,
    "O": 0,
-   "called": 16,
+   "called": 17,
    "conflicting": 0
   },
   "House": {
-   "D": 11,
+   "D": 13,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 12,
+   "called": 14,
    "conflicting": 0
   }
  },
@@ -31,6 +31,20 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117799609707765971",
      "created_at": "2026-11-04T02:02:28.000Z"
+    }
+   ]
+  },
+  {
+   "race": "CO-08",
+   "chamber": "House",
+   "winner_name": "Manny Rutinel",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117812803067424874",
+     "created_at": "2026-11-04T02:54:53.000Z"
     }
    ]
   },
@@ -94,6 +108,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117796851462132070",
      "created_at": "2026-11-04T01:51:30.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117812868854821199",
+     "created_at": "2026-11-04T02:55:09.000Z"
     }
    ]
   },
@@ -497,6 +516,20 @@
    ]
   },
   {
+   "race": "NE-02",
+   "chamber": "House",
+   "winner_name": "Denise Powell",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117812784037613650",
+     "created_at": "2026-11-04T02:54:49.000Z"
+    }
+   ]
+  },
+  {
    "race": "NH Senate",
    "chamber": "Senate",
    "winner_name": "Chris Pappas",
@@ -699,6 +732,30 @@
    ]
   },
   {
+   "race": "SC Senate",
+   "chamber": "Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117813321827021273",
+     "created_at": "2026-11-04T02:56:57.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117813651356684689",
+     "created_at": "2026-11-04T02:58:16.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117814099983933484",
+     "created_at": "2026-11-04T03:00:03.000Z"
+    }
+   ]
+  },
+  {
    "race": "TN Senate",
    "chamber": "Senate",
    "winner_name": "Bill Hagerty",
@@ -723,6 +780,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117805163998028016",
      "created_at": "2026-11-04T02:24:32.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117814307463610627",
+     "created_at": "2026-11-04T03:00:52.000Z"
     }
    ]
   },
@@ -805,6 +867,15 @@
    "source": "x"
   },
   {
+   "race": "CO-08",
+   "winner_name": "Manny Rutinel",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117812803067424874",
+   "created_at": "2026-11-04T02:54:53.000Z",
+   "source": "x"
+  },
+  {
    "race": "DE Senate",
    "winner_name": "Chris Coons",
    "party": "D",
@@ -883,6 +954,15 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117796851462132070",
    "created_at": "2026-11-04T01:51:30.000Z",
+   "source": "x"
+  },
+  {
+   "race": "FL Senate (special)",
+   "winner_name": "Ashley Moody",
+   "party": "R",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117812868854821199",
+   "created_at": "2026-11-04T02:55:09.000Z",
    "source": "x"
   },
   {
@@ -1426,6 +1506,15 @@
    "source": "x"
   },
   {
+   "race": "NE-02",
+   "winner_name": "Denise Powell",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117812784037613650",
+   "created_at": "2026-11-04T02:54:49.000Z",
+   "source": "x"
+  },
+  {
    "race": "NH Senate",
    "winner_name": "Chris Pappas",
    "party": "D",
@@ -1660,6 +1749,33 @@
    "source": "x"
   },
   {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117813321827021273",
+   "created_at": "2026-11-04T02:56:57.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117813651356684689",
+   "created_at": "2026-11-04T02:58:16.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117814099983933484",
+   "created_at": "2026-11-04T03:00:03.000Z",
+   "source": "x"
+  },
+  {
    "race": "TN Senate",
    "winner_name": "Bill Hagerty",
    "party": "R",
@@ -1675,6 +1791,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117805163998028016",
    "created_at": "2026-11-04T02:24:32.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-34",
+   "winner_name": "Vicente Gonzalez",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117814307463610627",
+   "created_at": "2026-11-04T03:00:52.000Z",
    "source": "x"
   },
   {

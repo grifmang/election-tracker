@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:53:07Z",
+ "generated": "2026-11-04T03:02:12Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,138 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117814307463610627",
+   "url": "https://x.com/DecisionDeskHQ/status/2117814307463610627",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Vicente Gonzalez wins the TX US House 34 General Election\n\n#DecisionMade: 9:59 PM EST\n\nFollow live results here: https://t.co/NKHUfpbpDJ https://t.co/yTvxtfWDtZ",
+   "created_at": "2026-11-04T03:00:52.000Z",
+   "races": [
+    "TX-34"
+   ]
+  },
+  {
+   "id": "2117814099983933484",
+   "url": "https://x.com/CBSNews/status/2117814099983933484",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Annie Andrews has won the race for U.S. Senate in South Carolina, CBS News projects. Andrews defeats Republican Sen. Darline Graham, who was appointed to the seat in July after the death of her brother, the late Sen. Lindsey Graham. https://t.co/T5iaja9HmX https://t.co/o281Fxbp3g",
+   "created_at": "2026-11-04T03:00:03.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117814030089785767",
+   "url": "https://x.com/NBCNews/status/2117814030089785767",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Maryland voters approve a constitutional amendment that paves the way for Democrats to redraw their state’s congressional map, NBC News projects. https://t.co/h68XXiHODK",
+   "created_at": "2026-11-04T02:59:46.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117813685007598068",
+   "url": "https://x.com/CNN/status/2117813685007598068",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrats have picked up 5 GOP-held House districts, including a Kentucky seat in a district that President Trump won by 15 points in 2024, CNN projects. The party is leading in scores of other races. Watch CNN and see results in real time with the Magic Wall on the CNN app. https://t.co/38ZjlBv7JY",
+   "created_at": "2026-11-04T02:58:24.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117813651356684689",
+   "url": "https://x.com/NBCNews/status/2117813651356684689",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Annie Andrews wins U.S. Senate race in South Carolina, NBC News projects. https://t.co/nBIBkG3e7E https://t.co/qnWosIlniP",
+   "created_at": "2026-11-04T02:58:16.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117813321827021273",
+   "url": "https://x.com/DecisionDeskHQ/status/2117813321827021273",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Annie Andrews wins the SC US Senate General Election\n\n#DecisionMade: 9:54 PM EST\n\nFollow live results here: https://t.co/Ay5OSp1v3i https://t.co/g36aHhHUCE",
+   "created_at": "2026-11-04T02:56:57.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117812868854821199",
+   "url": "https://x.com/CBSNews/status/2117812868854821199",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "GOP Sen. Ashley Moody defeated Democrat Angie Nixon in the Florida Senate race, CBS News projects, keeping the seat under Republican control. Moody, 51, was appointed last year to fill a vacancy left by Secretary of State Marco Rubio. She previously served as Florida's attorney https://t.co/MNCozITgbT",
+   "created_at": "2026-11-04T02:55:09.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117812803067424874",
+   "url": "https://x.com/CBSNews/status/2117812803067424874",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Manny Rutinel has won the race for U.S. House in Colorado’s 8th Congressional District, defeating incumbent Republican Rep. Gabe Evans. https://t.co/T5iaja9HmX https://t.co/8riAMgsn3w",
+   "created_at": "2026-11-04T02:54:53.000Z",
+   "races": [
+    "CO-08"
+   ]
+  },
+  {
+   "id": "2117812784037613650",
+   "url": "https://x.com/DecisionDeskHQ/status/2117812784037613650",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Denise Powell wins the NE US House 2 General Election\n\n#DecisionMade: 9:51 PM EST\n\nFollow live results here: https://t.co/5n0naUsfPq https://t.co/ToeSdZoBiG",
+   "created_at": "2026-11-04T02:54:49.000Z",
+   "races": [
+    "NE-02"
+   ]
+  },
+  {
+   "id": "2117812759303733601",
+   "url": "https://x.com/CNN/status/2117812759303733601",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Former Gov. Roy Cooper delivered an acceptance speech to supporters at his campaign headquarters after he was projected to win the North Carolina Senate race. https://t.co/lJhbHrkeJl",
+   "created_at": "2026-11-04T02:54:43.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117812504969551945",
+   "url": "https://x.com/CBSNews/status/2117812504969551945",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Kansas hasn't elected a Democrat to the Senate in almost a century. @SalvantoCBS, @CHueyBurns and the team take a look at what the numbers are showing in the state as CBS News rates the U.S. Senate race as leaning Democratic. Reverend Adam Hamilton is taking on GOP Sen. Roger https://t.co/R6EzOAXyiE",
+   "created_at": "2026-11-04T02:53:42.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117812499386978594",
+   "url": "https://x.com/DecisionDeskHQ/status/2117812499386978594",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects J.D. Ford wins the IN US House 5 General Election\n\n#DecisionMade: 9:49 PM EST\n\nFollow live results here: https://t.co/aQ7HnB56CZ https://t.co/Xs4RzmKAk5",
+   "created_at": "2026-11-04T02:53:41.000Z",
+   "races": [
+    "IN-05"
+   ]
+  },
   {
    "id": "2117812276308722075",
    "url": "https://x.com/CBSNews/status/2117812276308722075",
@@ -343,8 +475,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-25",
-    "FL-14"
+    "FL-14",
+    "FL-25"
    ]
   },
   {
