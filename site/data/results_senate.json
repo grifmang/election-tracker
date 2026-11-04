@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T01:01:15+00:00",
+ "generated": "2026-11-04T01:15:22+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-04T01:00:08+00:00",
+ "as_of": "2026-11-04T01:14:08+00:00",
  "counts": {
   "called": {},
   "races": 8,
@@ -69,8 +69,8 @@
    ]
   },
   "GA": {
-   "pct_in": 53.46,
-   "total": 1698424,
+   "pct_in": 67.3,
+   "total": 2160106,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,14 +78,14 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 1064105,
-     "pct": 62.65
+     "votes": 1328794,
+     "pct": 61.52
     },
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 634319,
-     "pct": 37.35
+     "votes": 831312,
+     "pct": 38.48
     }
    ]
   },
@@ -210,8 +210,8 @@
    ]
   },
   "VA": {
-   "pct_in": 78.2,
-   "total": 889460,
+   "pct_in": 85.71,
+   "total": 1265546,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -219,14 +219,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 536574,
-     "pct": 60.33
+     "votes": 765217,
+     "pct": 60.47
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 352886,
-     "pct": 39.67
+     "votes": 500329,
+     "pct": 39.53
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T01:00:11+00:00",
+ "generated": "2026-11-04T01:14:24+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383660239,
+ "wikipedia_revid": 1383663305,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -218,7 +218,7 @@
     "name": "Chris Coons",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
     {
      "name": "Chris Coons",
@@ -448,13 +448,8 @@
     "name": "Dick Durbin",
     "party": "Democratic"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Democratic hold.",
    "candidates": [
-    {
-     "name": "Whitfield Harrington Jr.",
-     "party": "Independent",
-     "note": null
-    },
     {
      "name": "Juliana Stratton",
      "party": "Democratic",
@@ -463,6 +458,11 @@
     {
      "name": "Don Tracy",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Whitfield Harrington Jr.",
+     "party": "Independent",
      "note": null
     }
    ],
@@ -631,11 +631,11 @@
     "name": "Ed Markey",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
     {
-     "name": "Shiva Ayyadurai",
-     "party": "Independent",
+     "name": "Ed Markey",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -644,8 +644,8 @@
      "note": null
     },
     {
-     "name": "Ed Markey",
-     "party": "Democratic",
+     "name": "Shiva Ayyadurai",
+     "party": "Independent",
      "note": null
     },
     {
@@ -1094,11 +1094,16 @@
     "name": "Cory Booker",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
     {
      "name": "Cory Booker",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Justin Murphy",
+     "party": "Republican",
      "note": null
     },
     {
@@ -1109,11 +1114,6 @@
     {
      "name": "Joanne Kuniansky",
      "party": "Socialist Workers",
-     "note": null
-    },
-    {
-     "name": "Justin Murphy",
-     "party": "Republican",
      "note": null
     }
    ],
@@ -1349,11 +1349,11 @@
     "name": "Jack Reed",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
     {
-     "name": "Michael Bahry",
-     "party": "Independent",
+     "name": "Jack Reed",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -1362,8 +1362,8 @@
      "note": null
     },
     {
-     "name": "Jack Reed",
-     "party": "Democratic",
+     "name": "Michael Bahry",
+     "party": "Independent",
      "note": null
     }
    ],
