@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T04:11:17+00:00",
+ "generated": "2026-11-04T04:38:07+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383684167,
+ "wikipedia_revid": 1383687183,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -344,8 +344,13 @@
     "name": "Joni Ernst",
     "party": "Republican"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Democratic gain.",
    "candidates": [
+    {
+     "name": "Josh Turek",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Ashley Hinson",
      "party": "Republican",
@@ -354,11 +359,6 @@
     {
      "name": "Thomas Laehn",
      "party": "Libertarian",
-     "note": null
-    },
-    {
-     "name": "Josh Turek",
-     "party": "Democratic",
      "note": null
     }
    ],
@@ -490,13 +490,8 @@
     "name": "Roger Marshall",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent lost re-election. Democratic gain.",
    "candidates": [
-    {
-     "name": "David Graham",
-     "party": "Libertarian",
-     "note": null
-    },
     {
      "name": "Adam Hamilton",
      "party": "Democratic",
@@ -505,6 +500,11 @@
     {
      "name": "Roger Marshall",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "David Graham",
+     "party": "Libertarian",
      "note": null
     }
    ],
