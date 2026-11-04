@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:46:56Z",
+ "generated": "2026-11-04T01:58:59Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -75,6 +75,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117795108615495843",
      "created_at": "2026-11-04T01:44:35.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117796851462132070",
+     "created_at": "2026-11-04T01:51:30.000Z"
     }
    ]
   },
@@ -323,6 +328,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117790888667562367",
      "created_at": "2026-11-04T01:27:49.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117798572662075506",
+     "created_at": "2026-11-04T01:58:21.000Z"
     }
    ]
   },
@@ -504,6 +514,11 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117794977769992328",
      "created_at": "2026-11-04T01:44:04.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117796465603195200",
+     "created_at": "2026-11-04T01:49:58.000Z"
     }
    ]
   },
@@ -651,6 +666,15 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117795108615495843",
    "created_at": "2026-11-04T01:44:35.000Z",
+   "source": "x"
+  },
+  {
+   "race": "FL Senate (special)",
+   "winner_name": "Ashley Moody",
+   "party": "R",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117796851462132070",
+   "created_at": "2026-11-04T01:51:30.000Z",
    "source": "x"
   },
   {
@@ -987,6 +1011,15 @@
    "source": "x"
   },
   {
+   "race": "KY Senate",
+   "winner_name": "Andy Barr",
+   "party": "R",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117798572662075506",
+   "created_at": "2026-11-04T01:58:21.000Z",
+   "source": "x"
+  },
+  {
    "race": "MA Senate",
    "winner_name": "Ed Markey",
    "party": "D",
@@ -1245,6 +1278,15 @@
    "handle": "CNN",
    "post_url": "https://x.com/CNN/status/2117794977769992328",
    "created_at": "2026-11-04T01:44:04.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117796465603195200",
+   "created_at": "2026-11-04T01:49:58.000Z",
    "source": "x"
   },
   {

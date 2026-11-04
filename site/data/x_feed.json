@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:46:56Z",
+ "generated": "2026-11-04T01:58:59Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,128 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117798572662075506",
+   "url": "https://x.com/ABC/status/2117798572662075506",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Republican Andy Barr will win the Kentucky Senate race, holding the seat for the GOP, ABC News projects.\n\nFollow live updates: https://t.co/FsE6QHOObf https://t.co/ODYZrK0g6v",
+   "created_at": "2026-11-04T01:58:21.000Z",
+   "races": [
+    "KY Senate"
+   ]
+  },
+  {
+   "id": "2117798530496836091",
+   "url": "https://x.com/CBSNews/status/2117798530496836091",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News rates the race for U.S. Senate in Ohio as leans Democratic. https://t.co/T5iaja9HmX https://t.co/3VrnMREMbs",
+   "created_at": "2026-11-04T01:58:11.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117798093689061488",
+   "url": "https://x.com/FoxNews/status/2117798093689061488",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: Fox News can project that Republican Rep. Andy Barr will be the next senator from Kentucky. He defeats Democrat Charles Booker.\n\nBarr will occupy the seat left by former Senate Majority Leader Mitch McConnell.",
+   "created_at": "2026-11-04T01:56:26.000Z",
+   "races": [
+    "KY Senate",
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117797573381574960",
+   "url": "https://x.com/DecisionDeskHQ/status/2117797573381574960",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Balance of Power Update: House (8:53 PM)\nDemocrats: 43\nRepublicans: 35\nFollow more results here: https://t.co/xiVysThr3Y https://t.co/QVbtbxjgRl",
+   "created_at": "2026-11-04T01:54:22.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117797328404795475",
+   "url": "https://x.com/DecisionDeskHQ/status/2117797328404795475",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Balance of Power Update: House (8:53 PM)\nDemocrats: 93\nRepublicans: 68\n\nFollow more results here: https://t.co/Qkk8JsDNYi https://t.co/5sHMf5fmKS",
+   "created_at": "2026-11-04T01:53:24.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117796866511474836",
+   "url": "https://x.com/FoxNews/status/2117796866511474836",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "\"Who's choosin' Texas?\"\n\n@BillHemmer draws a giant smiley face over the Lone Star State, joking about who will make Texas smile as the Senate race between Republican Ken Paxton and Democrat James Talarico heats up.\n\nWith millions of dollars spent on the campaign, Hemmer breaks https://t.co/U6oQALHEMy",
+   "created_at": "2026-11-04T01:51:34.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117796851462132070",
+   "url": "https://x.com/CBSNews/status/2117796851462132070",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Republican Sen. Ashley Moody wins reelection to the U.S. Senate in Florida, defeating Democratic challenger Angie Nixon, CBS News projects. https://t.co/T5iaja99xp https://t.co/9JT1tTPd4D",
+   "created_at": "2026-11-04T01:51:30.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117796719953911909",
+   "url": "https://x.com/CBSNews/status/2117796719953911909",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "As results roll in, here's a look behind the numbers and what we're watching in South Carolina's Senate race: https://t.co/8iGV4MdZME",
+   "created_at": "2026-11-04T01:50:59.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117796500445057429",
+   "url": "https://x.com/Reuters/status/2117796500445057429",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "US Senate panel sets hearing for Trump's FCC pick; ABC TV licenses in focus https://t.co/IRFOWlTdxQ",
+   "created_at": "2026-11-04T01:50:07.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117796493625016418",
+   "url": "https://x.com/DecisionDeskHQ/status/2117796493625016418",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 34% in): New Jersey US House 2 \n\nZack Mullock (D): 56,311 (60.7%)\nJeff Van Drew (R): 35,773 (38.5%)\n\nFollow more results here:\nhttps://t.co/dPAyv3gfnI https://t.co/rhwepPjQrP",
+   "created_at": "2026-11-04T01:50:05.000Z",
+   "races": [
+    "NJ-02"
+   ]
+  },
+  {
+   "id": "2117796465603195200",
+   "url": "https://x.com/ABC/status/2117796465603195200",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "JUST IN: Democrat Chris Pappas will win the New Hampshire Senate race, holding the seat for the party, ABC News projects. \n\nhttps://t.co/pVZbzyi1sD https://t.co/Vszc9DyJGO",
+   "created_at": "2026-11-04T01:49:58.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
   {
    "id": "2117795439890014251",
    "url": "https://x.com/CNN/status/2117795439890014251",
