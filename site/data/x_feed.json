@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:43:36Z",
+ "generated": "2026-11-04T03:55:04Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,105 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117827479444287629",
+   "url": "https://x.com/NBCNews/status/2117827479444287629",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat James Talarico wins U.S. Senate race in Texas, NBC News projects. https://t.co/EbwSxF8pnZ https://t.co/WIb5Y05Gf2",
+   "created_at": "2026-11-04T03:53:13.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117827360968044982",
+   "url": "https://x.com/CBSNews/status/2117827360968044982",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Paige Cognetti has won the race for U.S. House in Pennsylvania’s 8th Congressional District, defeating incumbent Republican Rep. Rob Bresnahan. https://t.co/T5iaja9HmX https://t.co/zX0yUxKPQU",
+   "created_at": "2026-11-04T03:52:44.000Z",
+   "races": [
+    "PA-08"
+   ]
+  },
+  {
+   "id": "2117827294534476055",
+   "url": "https://x.com/ABC/status/2117827294534476055",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Democrat Chris Pappas addressed supporters after ABC News projected him the winner of the New Hampshire Senate race, holding the seat for the party.\n\nhttps://t.co/ODQkeoEEjF https://t.co/MkSOSDtod1",
+   "created_at": "2026-11-04T03:52:29.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117827292668055590",
+   "url": "https://x.com/DecisionDeskHQ/status/2117827292668055590",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Bill Hagerty wins the TN US Senate General Election\n\n#DecisionMade: 10:51 PM EST\n\nFollow live results here: https://t.co/SxwnyVPrDl https://t.co/z9O9HtcWP2",
+   "created_at": "2026-11-04T03:52:28.000Z",
+   "races": [
+    "TN Senate"
+   ]
+  },
+  {
+   "id": "2117826400237363387",
+   "url": "https://x.com/DecisionDeskHQ/status/2117826400237363387",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Adam Hamilton wins the KS US Senate General Election\n\n#DecisionMade: 10:48 PM EST\n\nFollow live results here: https://t.co/VWaAGZyKPo https://t.co/VuE75cUkl0",
+   "created_at": "2026-11-04T03:48:55.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117825744273346963",
+   "url": "https://x.com/DecisionDeskHQ/status/2117825744273346963",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 73% in): Arkansas US House 2 \n\nChris Jones (D): 100,518 (51.6%)\nFrench Hill (R): 94,255 (48.4%)\n\nFollow more results here:\nhttps://t.co/rdO4JzUxaC https://t.co/A0OyzEybeV",
+   "created_at": "2026-11-04T03:46:19.000Z",
+   "races": [
+    "AR-02"
+   ]
+  },
+  {
+   "id": "2117825139748323401",
+   "url": "https://x.com/AP/status/2117825139748323401",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Dr. Annie Andrews defeats Darline Graham in U.S. Senate race in South Carolina, the first Democrat in the state to win in decades. https://t.co/szC4uBdNpC https://t.co/N4CqLRlEv2",
+   "created_at": "2026-11-04T03:43:55.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117825054855893288",
+   "url": "https://x.com/DecisionDeskHQ/status/2117825054855893288",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Shomari Figures wins the AL US House 2 General Election\n\n#DecisionMade: 10:42 PM EST\n\nFollow live results here: https://t.co/IzJTOwG81l https://t.co/sFtpIhhtY2",
+   "created_at": "2026-11-04T03:43:35.000Z",
+   "races": [
+    "AL-02"
+   ]
+  },
+  {
+   "id": "2117825042750767275",
+   "url": "https://x.com/FoxNews/status/2117825042750767275",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "WATCH LIVE: Sen Darline Graham speaks after losing Senate race to Annie Andrews https://t.co/iIlF24i1cZ",
+   "created_at": "2026-11-04T03:43:32.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
   {
    "id": "2117824764282847252",
    "url": "https://x.com/DecisionDeskHQ/status/2117824764282847252",

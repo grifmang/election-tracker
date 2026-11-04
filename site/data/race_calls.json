@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T03:43:36Z",
+ "generated": "2026-11-04T03:55:04Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
-   "D": 12,
+   "D": 13,
    "R": 9,
    "I": 0,
    "O": 0,
-   "called": 21,
+   "called": 22,
    "conflicting": 0
   },
   "House": {
-   "D": 18,
+   "D": 19,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 19,
+   "called": 20,
    "conflicting": 0
   }
  },
@@ -31,6 +31,20 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117817266163085643",
      "created_at": "2026-11-04T03:12:38.000Z"
+    }
+   ]
+  },
+  {
+   "race": "AL-02",
+   "chamber": "House",
+   "winner_name": "Shomari Figures",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117825054855893288",
+     "created_at": "2026-11-04T03:43:35.000Z"
     }
    ]
   },
@@ -414,6 +428,20 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117785436957352350",
      "created_at": "2026-11-04T01:06:09.000Z"
+    }
+   ]
+  },
+  {
+   "race": "KS Senate",
+   "chamber": "Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117826400237363387",
+     "created_at": "2026-11-04T03:48:55.000Z"
     }
    ]
   },
@@ -819,6 +847,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
      "created_at": "2026-11-04T02:01:41.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117827360968044982",
+     "created_at": "2026-11-04T03:52:44.000Z"
     }
    ]
   },
@@ -916,6 +949,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117818202319151387",
      "created_at": "2026-11-04T03:16:21.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117825139748323401",
+     "created_at": "2026-11-04T03:43:55.000Z"
     }
    ]
   },
@@ -944,6 +982,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117811321190162688",
      "created_at": "2026-11-04T02:49:00.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117827292668055590",
+     "created_at": "2026-11-04T03:52:28.000Z"
     }
    ]
   },
@@ -958,6 +1001,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117817837893104086",
      "created_at": "2026-11-04T03:14:54.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117827479444287629",
+     "created_at": "2026-11-04T03:53:13.000Z"
     }
    ]
   },
@@ -1075,6 +1123,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117817266163085643",
    "created_at": "2026-11-04T03:12:38.000Z",
+   "source": "x"
+  },
+  {
+   "race": "AL-02",
+   "winner_name": "Shomari Figures",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117825054855893288",
+   "created_at": "2026-11-04T03:43:35.000Z",
    "source": "x"
   },
   {
@@ -1573,6 +1630,15 @@
    "source": "x"
   },
   {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117826400237363387",
+   "created_at": "2026-11-04T03:48:55.000Z",
+   "source": "x"
+  },
+  {
    "race": "KY Senate",
    "winner_name": "Andy Barr",
    "party": "R",
@@ -2059,6 +2125,15 @@
    "source": "x"
   },
   {
+   "race": "PA-08",
+   "winner_name": "Paige Cognetti",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117827360968044982",
+   "created_at": "2026-11-04T03:52:44.000Z",
+   "source": "x"
+  },
+  {
    "race": "PA-10",
    "winner_name": "Janelle Stelson",
    "party": "D",
@@ -2185,6 +2260,15 @@
    "source": "x"
   },
   {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117825139748323401",
+   "created_at": "2026-11-04T03:43:55.000Z",
+   "source": "x"
+  },
+  {
    "race": "SD Senate",
    "winner_name": "Mike Rounds",
    "party": "R",
@@ -2203,12 +2287,30 @@
    "source": "x"
   },
   {
+   "race": "TN Senate",
+   "winner_name": "Bill Hagerty",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117827292668055590",
+   "created_at": "2026-11-04T03:52:28.000Z",
+   "source": "x"
+  },
+  {
    "race": "TX Senate",
    "winner_name": "James Talarico",
    "party": "D",
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117817837893104086",
    "created_at": "2026-11-04T03:14:54.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117827479444287629",
+   "created_at": "2026-11-04T03:53:13.000Z",
    "source": "x"
   },
   {
