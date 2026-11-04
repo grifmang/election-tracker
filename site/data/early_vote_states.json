@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T13:00:32+00:00",
+ "generated": "2026-11-04T18:03:09+00:00",
  "source": "https://election.lab.ufl.edu/early-vote/2026-early-voting/",
  "data_url": "https://election.lab.ufl.edu/data-downloads/earlyvote/2026/US.csv",
  "attribution": "UF Election Lab (Dr. Michael McDonald), 2026 Early Voting tracker",
@@ -13,10 +13,10 @@
   "NH"
  ],
  "national_totals": {
-  "voted_all": 61968528,
-  "accept_all": 29406209,
+  "voted_all": 62007218,
+  "accept_all": 29444899,
   "inperson_all": 32562319,
-  "request_all": 61496852
+  "request_all": 61383451
  },
  "states": [
   {
@@ -154,22 +154,22 @@
    "uf_state_url": "https://election.lab.ufl.edu/early-vote/2026-early-voting/2026-general-election-early-vote-colorado/",
    "notes": null,
    "turnout_2022": 2540666,
-   "request_all": 4188115,
-   "accept_all": 2501076,
+   "request_all": 4074714,
+   "accept_all": 2539766,
    "inperson_all": 138130,
-   "voted_all": 2639206,
-   "request_dem": 1042446,
-   "request_rep": 909734,
-   "request_none": 2235935,
-   "accept_dem": 722126,
-   "accept_rep": 602064,
-   "accept_none": 1176886,
-   "inperson_dem": 36016,
+   "voted_all": 2677896,
+   "request_dem": 1011799,
+   "request_rep": 889697,
+   "request_none": 2173218,
+   "accept_dem": 729307,
+   "accept_rep": 612278,
+   "accept_none": 1198181,
+   "inperson_dem": 36015,
    "inperson_rep": 27389,
-   "inperson_none": 74725,
-   "voted_dem": 758142,
-   "voted_rep": 629453,
-   "voted_none": 1251611,
+   "inperson_none": 74726,
+   "voted_dem": 765322,
+   "voted_rep": 639667,
+   "voted_none": 1272907,
    "has_party_breakdown": true,
    "reporting": true
   },
