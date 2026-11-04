@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:02:12Z",
+ "generated": "2026-11-04T03:12:22Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,127 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117816607195984252",
+   "url": "https://x.com/CBSNews/status/2117816607195984252",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Rebecca Bennett ousted GOP Rep. Tom Kean Jr. in New Jersey's 7th Congressional District, CBS News projected. https://t.co/9CipJ0fUF6",
+   "created_at": "2026-11-04T03:10:00.000Z",
+   "races": [
+    "NJ-07"
+   ]
+  },
+  {
+   "id": "2117816503181447456",
+   "url": "https://x.com/NBCNews/status/2117816503181447456",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrats win the House of Representatives, breaking Republicans’ control of the federal government amid backlash against Trump. https://t.co/IdvOvtgNdN",
+   "created_at": "2026-11-04T03:09:36.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117816415457509578",
+   "url": "https://x.com/CBSNews/status/2117816415457509578",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Annie Andrews has won the race for U.S. Senate in South Carolina, CBS News projects. Andrews defeats Republican Sen. Darline Graham, who was appointed to the seat in July after the death of her brother, the late Sen. Lindsey Graham. https://t.co/nDcGOjO9JA",
+   "created_at": "2026-11-04T03:09:15.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117816374752117105",
+   "url": "https://x.com/Reuters/status/2117816374752117105",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Democrats flip Senate seat in South Carolina as Annie Andrews defeats Republican opponent Darline Graham.\n\nPresident Trump won the state by 18 points in 2024. Follow for live updates: https://t.co/ksFjvZq67O https://t.co/sdvvBHjUv3",
+   "created_at": "2026-11-04T03:09:05.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117815691084497404",
+   "url": "https://x.com/CNN/status/2117815691084497404",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "BREAKING: Democrats will take control of the House, CNN projects, breaking the GOP hold on power in Washington. Follow live updates. https://t.co/D92sA9yHQe https://t.co/xzWd0aJrH3",
+   "created_at": "2026-11-04T03:06:22.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117815398456528911",
+   "url": "https://x.com/DecisionDeskHQ/status/2117815398456528911",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Tom Suozzi wins the NY US House 3 General Election\n\n#DecisionMade: 10:03 PM EST\n\nFollow live results here: https://t.co/faJIwf1jeS https://t.co/D8nWYOjb8Y",
+   "created_at": "2026-11-04T03:05:12.000Z",
+   "races": [
+    "NY-03"
+   ]
+  },
+  {
+   "id": "2117815267078062284",
+   "url": "https://x.com/CNN/status/2117815267078062284",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic Rep. Chris Pappas will win New Hampshire’s open Senate seat, CNN projects, making history as the first out gay man to be elected to the chamber. Follow live updates: https://t.co/Y3Lg7FSW45 https://t.co/j4y675R3eR",
+   "created_at": "2026-11-04T03:04:41.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117815103663882668",
+   "url": "https://x.com/CNN/status/2117815103663882668",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrat Annie Andrews will win the US Senate race in South Carolina, CNN projects, defeating Sen. Darline Graham and flipping a seat that Republicans have held for nearly three decades. Follow live updates. https://t.co/kJftjmrtNx https://t.co/TErbTEAvgv",
+   "created_at": "2026-11-04T03:04:02.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117815089566724110",
+   "url": "https://x.com/CBSNews/status/2117815089566724110",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Annie Andrews defeated GOP Sen. Darline Graham in the South Carolina Senate race, CBS News projects, in a major upset. https://t.co/KJwuq7WQnM",
+   "created_at": "2026-11-04T03:03:59.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117814944548675855",
+   "url": "https://x.com/DecisionDeskHQ/status/2117814944548675855",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Mike Rounds wins the SD US Senate General Election\n\n#DecisionMade: 10:02 PM EST\n\nFollow live results here: https://t.co/dIn4L9ua0P https://t.co/iEte4T7Q4p",
+   "created_at": "2026-11-04T03:03:24.000Z",
+   "races": [
+    "SD Senate"
+   ]
+  },
+  {
+   "id": "2117814858330632434",
+   "url": "https://x.com/ABC/status/2117814858330632434",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Republican Rep. Mike Collins conceded in Georgia's Senate race, without mentioning Sen. Jon Ossoff's name.\n\nCollins paid his respects to President Trump.\nhttps://t.co/P2gLqhXrlt",
+   "created_at": "2026-11-04T03:03:03.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
   {
    "id": "2117814307463610627",
    "url": "https://x.com/DecisionDeskHQ/status/2117814307463610627",
