@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T02:20:26+00:00",
+ "generated": "2026-11-04T02:28:46+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383671133,
+ "wikipedia_revid": 1383673257,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -537,7 +537,7 @@
     "name": "Mitch McConnell",
     "party": "Republican"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Republican hold.",
    "candidates": [
     {
      "name": "Andy Barr",
