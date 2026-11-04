@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:45:04Z",
+ "generated": "2026-11-04T04:57:28Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,171 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117843462943129640",
+   "url": "https://x.com/DecisionDeskHQ/status/2117843462943129640",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 47% in): California US House 11 \n\nScott Wiener (D): 75,398 (57.1%)\nConnie Chan (D): 56,571 (42.9%)\n\nFollow more results here:\nhttps://t.co/DViit7TsIY https://t.co/yP9VZMFRjt",
+   "created_at": "2026-11-04T04:56:43.000Z",
+   "races": [
+    "CA-11"
+   ]
+  },
+  {
+   "id": "2117843416843219039",
+   "url": "https://x.com/nytimes/status/2117843416843219039",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Breaking News: Josh Turek, a Paralympian and Democratic state representative, flipped Iowa’s open Senate seat, according to The Associated Press. He defeated Representative Ashley Hinson, a third-term Republican, in a top battleground race. https://t.co/ND6qvQumsB",
+   "created_at": "2026-11-04T04:56:32.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117842878298828909",
+   "url": "https://x.com/CNN/status/2117842878298828909",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Former Democratic Rep. Elaine Luria will defeat Republican Rep. Jen Kiggans in Virginia's 2nd Congressional District, CNN projects, flipping a GOP-held seat in a rematch of their 2022 race. Follow live updates. https://t.co/sR6fjN24wL https://t.co/iwDMNo6Gyp",
+   "created_at": "2026-11-04T04:54:24.000Z",
+   "races": [
+    "VA-02"
+   ]
+  },
+  {
+   "id": "2117842738288738621",
+   "url": "https://x.com/nytimes/status/2117842738288738621",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Breaking News: Democrats captured Senate control, as voters delivered a thorough rebuke to President Trump and handed the party victories in places long considered Republican strongholds. https://t.co/JgDHDNV1rj",
+   "created_at": "2026-11-04T04:53:51.000Z",
+   "races": [
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117842563537187079",
+   "url": "https://x.com/CNN/status/2117842563537187079",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrats will retake control of both the House and Senate, CNN projects, winning significant power to check the White House for the final two years of Donald Trump's presidency. Follow live updates. https://t.co/yNLPxY3HKK https://t.co/u1LPsPDpu4",
+   "created_at": "2026-11-04T04:53:09.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117842558831231160",
+   "url": "https://x.com/Reuters/status/2117842558831231160",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "LIVE: Texas Democratic Senate candidate James Talarico reacts to midterm election results https://t.co/dmpoCcD7BA",
+   "created_at": "2026-11-04T04:53:08.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117842388752195904",
+   "url": "https://x.com/CBSNews/status/2117842388752195904",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "In an emotional concession speech, South Carolina Republican Darline Graham congratulated Democrat Annie Andrews on her U.S. Senate victory and reflected on the loss of her brother, Sen. Lindsey Graham, earlier this year.\n\nCBS News projects Andrews' win, who faced an uphill https://t.co/Ohr3jDq7P7",
+   "created_at": "2026-11-04T04:52:27.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117842367608680578",
+   "url": "https://x.com/FoxNews/status/2117842367608680578",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "WATCH LIVE: Senate Democratic Leader Chuck Schumer speaks on election night https://t.co/BxlAfpBd9Y",
+   "created_at": "2026-11-04T04:52:22.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117842332233949608",
+   "url": "https://x.com/FoxNews/status/2117842332233949608",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "WATCH LIVE: Senate Democratic Leader Chuck Schumer speaks on election night https://t.co/u72cNhpQaG",
+   "created_at": "2026-11-04T04:52:14.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117842249828741395",
+   "url": "https://x.com/CBSNews/status/2117842249828741395",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Elaine Luria has won the race for U.S. House in Virginia’s 2nd Congressional District, defeating incumbent Republican Rep. Jen Kiggans. https://t.co/T5iaja9HmX https://t.co/k46PZuqetF",
+   "created_at": "2026-11-04T04:51:54.000Z",
+   "races": [
+    "VA-02"
+   ]
+  },
+  {
+   "id": "2117842194996265017",
+   "url": "https://x.com/CBSNews/status/2117842194996265017",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Texas Attorney General Ken Paxton congratulated Democratic Senate candidate James Talarico as CBS News projects the Democrat to flip the seat. Paxton thanked his family and supporters at his campaign headquarters in Dallas, saying, \"Soon as I'm out of office, I still have a lot https://t.co/mnnuzqz8We",
+   "created_at": "2026-11-04T04:51:41.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117842182895698222",
+   "url": "https://x.com/CNN/status/2117842182895698222",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrats will capture the House of Representatives, CNN’s Decision Desk projects, breaking the GOP stranglehold on Washington and setting up two years of confrontation with President Donald Trump.\n\nElection Night in America coverage is live now on CNN and streaming with an All https://t.co/tkogxZomU2",
+   "created_at": "2026-11-04T04:51:38.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117841868855578631",
+   "url": "https://x.com/CBSNews/status/2117841868855578631",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrats win majority in the Senate, flipping control of upper chamber. https://t.co/hLLIm8hxog",
+   "created_at": "2026-11-04T04:50:23.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117841608678789611",
+   "url": "https://x.com/NBCNews/status/2117841608678789611",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Denise Powell wins U.S. House race in Nebraska's 2nd Congressional District, NBC News projects. https://t.co/SdnURVKbgp https://t.co/OEoj5sofO7",
+   "created_at": "2026-11-04T04:49:21.000Z",
+   "races": [
+    "NE-02"
+   ]
+  },
+  {
+   "id": "2117841390428135520",
+   "url": "https://x.com/CNN/status/2117841390428135520",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Missouri voters will reject a new congressional map designed to give Republicans another winnable US House seat, CNN projects, leaving the state's 2022 districts in place. Follow live updates. https://t.co/GIVIa3m2Hr https://t.co/qDf8fmWfrE",
+   "created_at": "2026-11-04T04:48:29.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
   {
    "id": "2117840446671986906",
    "url": "https://x.com/CBSNews/status/2117840446671986906",
@@ -3161,171 +3326,6 @@
    "created_at": "2026-11-04T01:06:09.000Z",
    "races": [
     "IL Senate"
-   ]
-  },
-  {
-   "id": "2117785317298331697",
-   "url": "https://x.com/ABC/status/2117785317298331697",
-   "author_name": "ABC News",
-   "handle": "ABC",
-   "text": "BREAKING: Democratic Sen. Jon Ossoff will defeat Republican Rep. Mike Collins in the Georgia Senate race, ABC News projects. \n \nFollow live updates: https://t.co/oqsJS6k39W https://t.co/EDZkbVdCLS",
-   "created_at": "2026-11-04T01:05:40.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117785247416816022",
-   "url": "https://x.com/NBCNews/status/2117785247416816022",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Jack Reed wins re-election to the U.S. Senate in Rhode Island, NBC News projects. https://t.co/OC3257rtsB https://t.co/vUOd7OLH3X",
-   "created_at": "2026-11-04T01:05:24.000Z",
-   "races": [
-    "RI Senate"
-   ]
-  },
-  {
-   "id": "2117785127103107291",
-   "url": "https://x.com/NBCNews/status/2117785127103107291",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Cory Booker wins re-election to the U.S. Senate in New Jersey, NBC News projects. https://t.co/W9wHcHl8pq https://t.co/q3NFBtoQ2d",
-   "created_at": "2026-11-04T01:04:55.000Z",
-   "races": [
-    "NJ Senate"
-   ]
-  },
-  {
-   "id": "2117785110418456705",
-   "url": "https://x.com/DecisionDeskHQ/status/2117785110418456705",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Jared Moskowitz wins the FL US House 25 General Election\n\n#DecisionMade: 8:04 PM EST\n\nFollow live results here: https://t.co/ZmkrfBB5o4 https://t.co/DN0QzQxrxs",
-   "created_at": "2026-11-04T01:04:51.000Z",
-   "races": [
-    "FL-25"
-   ]
-  },
-  {
-   "id": "2117784931212349912",
-   "url": "https://x.com/DecisionDeskHQ/status/2117784931212349912",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 9% in): Texas US Senate \n\nJames Talarico (D): 615,255 (67.0%)\nKen Paxton (R): 290,197 (31.6%)\n\nFollow more results here:\nhttps://t.co/BKqhwAWw4P https://t.co/v7Nu39kOyG",
-   "created_at": "2026-11-04T01:04:08.000Z",
-   "races": [
-    "TX Senate"
-   ]
-  },
-  {
-   "id": "2117784871657406543",
-   "url": "https://x.com/NBCNews/status/2117784871657406543",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Juliana Stratton wins U.S. Senate race in Illinois, NBC News projects. https://t.co/gxncH9ULZ1 https://t.co/sib63gYnDd",
-   "created_at": "2026-11-04T01:03:54.000Z",
-   "races": [
-    "IL Senate"
-   ]
-  },
-  {
-   "id": "2117784835301294248",
-   "url": "https://x.com/NBCNews/status/2117784835301294248",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Ed Markey wins re-election to the U.S. Senate in Massachusetts, NBC News projects. https://t.co/1YtnCVeS7g https://t.co/YAhLzQFRPc",
-   "created_at": "2026-11-04T01:03:45.000Z",
-   "races": [
-    "MA Senate"
-   ]
-  },
-  {
-   "id": "2117784679135015322",
-   "url": "https://x.com/CBSNews/status/2117784679135015322",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Democratic Sen. Cory Booker wins reelection to the U.S. Senate in New Jersey, CBS News projects. https://t.co/T5iaja9HmX https://t.co/WU475sO2vC",
-   "created_at": "2026-11-04T01:03:08.000Z",
-   "races": [
-    "NJ Senate"
-   ]
-  },
-  {
-   "id": "2117784597614252396",
-   "url": "https://x.com/NBCNews/status/2117784597614252396",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Chris Coons wins re-election to the U.S. Senate in Delaware, NBC News projects. https://t.co/zpRUqiu5oH https://t.co/ac3owkUZfP",
-   "created_at": "2026-11-04T01:02:49.000Z",
-   "races": [
-    "DE Senate"
-   ]
-  },
-  {
-   "id": "2117784584200782284",
-   "url": "https://x.com/Reuters/status/2117784584200782284",
-   "author_name": "Reuters",
-   "handle": "Reuters",
-   "text": "In the race for US Senate control, Democrats are now competitive in states Trump won handily in 2024, and Republicans seek to capture Democratic-held seats of their own.\n\nFollow along to see where key Senate races stand: https://t.co/V8cZ6goGE0 https://t.co/SvaexKSkga",
-   "created_at": "2026-11-04T01:02:46.000Z",
-   "races": [
-    "Senate control"
-   ]
-  },
-  {
-   "id": "2117784564735050018",
-   "url": "https://x.com/CNN/status/2117784564735050018",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "Georgia Sen. Jon Ossoff will win reelection, CNN projects, defending a crucial Democratic seat that Republicans once considered a top pick-up opportunity. \n\nElection Night in America coverage is live now on CNN and streaming with an All Access subscription. https://t.co/Ezq32Eowjk",
-   "created_at": "2026-11-04T01:02:41.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117784447537832382",
-   "url": "https://x.com/FoxNews/status/2117784447537832382",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: The Fox News Decision Desk can project that in Georgia’s Senate race, Democratic Senator Jon Ossoff will defeat Republican Congressman Mike Collins. https://t.co/hiLzf63jdI",
-   "created_at": "2026-11-04T01:02:13.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117784260660859298",
-   "url": "https://x.com/DecisionDeskHQ/status/2117784260660859298",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Ashley Moody wins the FL US Senate Special Election General\n\n#DecisionMade: 8:00 PM EST\n\nFollow live results here: https://t.co/7jQaQp0Drh https://t.co/rGnyGx1Duu",
-   "created_at": "2026-11-04T01:01:28.000Z",
-   "races": [
-    "FL Senate (special)"
-   ]
-  },
-  {
-   "id": "2117784114384585161",
-   "url": "https://x.com/FoxNews/status/2117784114384585161",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: The Fox News Decision Desk can project that in Georgia’s Senate race, Democratic Senator Jon Ossoff will defeat Republican Congressman Mike Collins.",
-   "created_at": "2026-11-04T01:00:54.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117784016719954261",
-   "url": "https://x.com/DecisionDeskHQ/status/2117784016719954261",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Chris Pappas wins the NH US Senate General Election\n\n#DecisionMade: 8:00 PM EST\n\nFollow live results here: https://t.co/8EBeAzxEMQ https://t.co/oYnNbnng7l",
-   "created_at": "2026-11-04T01:00:30.000Z",
-   "races": [
-    "NH Senate"
    ]
   }
  ]
