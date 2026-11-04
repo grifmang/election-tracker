@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-04T09:25:27+00:00",
+ "generated": "2026-11-04T13:00:50+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-04T09:25:05+00:00",
+ "as_of": "2026-11-04T13:00:07+00:00",
  "counts": {
   "called": {},
   "races": 9,
   "not_called": 9,
-  "reporting": 7,
+  "reporting": 8,
   "with_precincts": 9
  },
  "races": {
@@ -70,7 +70,7 @@
   },
   "GA": {
    "pct_in": 100.0,
-   "total": 4143032,
+   "total": 4174454,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,20 +78,20 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 2445285,
-     "pct": 59.02
+     "votes": 2463132,
+     "pct": 59.0
     },
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 1697747,
-     "pct": 40.98
+     "votes": 1711322,
+     "pct": 41.0
     }
    ]
   },
   "ID": {
-   "pct_in": 90.91,
-   "total": 644489,
+   "pct_in": 100.0,
+   "total": 692154,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -99,26 +99,26 @@
     {
      "name": "Jim Risch",
      "party": "R",
-     "votes": 366226,
-     "pct": 56.82
+     "votes": 391326,
+     "pct": 56.54
     },
     {
      "name": "Todd Achilles",
      "party": "I",
-     "votes": 215560,
-     "pct": 33.45
+     "votes": 232513,
+     "pct": 33.59
     },
     {
      "name": "Natalie M Fleming",
      "party": "I",
-     "votes": 44230,
-     "pct": 6.86
+     "votes": 48181,
+     "pct": 6.96
     },
     {
      "name": "Matt Loesby",
      "party": "L",
-     "votes": 18473,
-     "pct": 2.87
+     "votes": 20134,
+     "pct": 2.91
     }
    ]
   },
@@ -178,7 +178,7 @@
   },
   "NC": {
    "pct_in": 100.0,
-   "total": 4196478,
+   "total": 4203181,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,25 +186,25 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 2463773,
-     "pct": 58.71
+     "votes": 2467963,
+     "pct": 58.72
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 1640663,
-     "pct": 39.1
+     "votes": 1643088,
+     "pct": 39.09
     },
     {
      "name": "Shannon W. Bray",
      "party": "L",
-     "votes": 55674,
+     "votes": 55726,
      "pct": 1.33
     },
     {
      "name": "Michael Dublin",
      "party": "G",
-     "votes": 36368,
+     "votes": 36404,
      "pct": 0.87
     }
    ]
