@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T02:29:38+00:00",
+ "generated": "2026-11-04T02:40:16+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-04T02:28:10+00:00",
+ "as_of": "2026-11-04T02:39:09+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -16,7 +16,7 @@
  "races": {
   "AR": {
    "pct_in": 0.0,
-   "total": 212497,
+   "total": 218853,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -24,26 +24,26 @@
     {
      "name": "Hallie Shoffner",
      "party": "D",
-     "votes": 118454,
-     "pct": 55.74
+     "votes": 120344,
+     "pct": 54.99
     },
     {
      "name": "Tom Cotton",
      "party": "R",
-     "votes": 89243,
-     "pct": 42.0
+     "votes": 93534,
+     "pct": 42.74
     },
     {
      "name": "Jeff Wadlin",
      "party": "L",
-     "votes": 4800,
-     "pct": 2.26
+     "votes": 4975,
+     "pct": 2.27
     }
    ]
   },
   "FL": {
-   "pct_in": 97.35,
-   "total": 8193736,
+   "pct_in": 98.26,
+   "total": 8204211,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -51,26 +51,26 @@
     {
      "name": "Ashley Moody",
      "party": "R",
-     "votes": 4174092,
-     "pct": 50.94
+     "votes": 4179737,
+     "pct": 50.95
     },
     {
      "name": "Angie Nixon",
      "party": "D",
-     "votes": 3926261,
-     "pct": 47.92
+     "votes": 3930937,
+     "pct": 47.91
     },
     {
      "name": "Neil J. Gillespie",
      "party": "I",
-     "votes": 93383,
+     "votes": 93537,
      "pct": 1.14
     }
    ]
   },
   "GA": {
-   "pct_in": 90.57,
-   "total": 3287407,
+   "pct_in": 93.71,
+   "total": 3433408,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,14 +78,14 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 1967877,
-     "pct": 59.86
+     "votes": 2037903,
+     "pct": 59.36
     },
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 1319530,
-     "pct": 40.14
+     "votes": 1395505,
+     "pct": 40.64
     }
    ]
   },
@@ -123,8 +123,8 @@
    ]
   },
   "LA": {
-   "pct_in": 0.03,
-   "total": 274458,
+   "pct_in": 2.55,
+   "total": 294231,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -132,20 +132,20 @@
     {
      "name": "Julia Letlow",
      "party": "R",
-     "votes": 144721,
-     "pct": 52.73
+     "votes": 153673,
+     "pct": 52.23
     },
     {
      "name": "Jamie Davis",
      "party": "D",
-     "votes": 129737,
-     "pct": 47.27
+     "votes": 140558,
+     "pct": 47.77
     }
    ]
   },
   "MN": {
-   "pct_in": 0.12,
-   "total": 87,
+   "pct_in": 0.97,
+   "total": 3172,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -153,32 +153,32 @@
     {
      "name": "Michele Tafoya",
      "party": "R",
-     "votes": 70,
-     "pct": 80.46
+     "votes": 2350,
+     "pct": 74.09
     },
     {
      "name": "Peggy Flanagan",
      "party": "D",
-     "votes": 14,
-     "pct": 16.09
-    },
-    {
-     "name": "Rebecca Whiting",
-     "party": "L",
-     "votes": 3,
-     "pct": 3.45
+     "votes": 741,
+     "pct": 23.36
     },
     {
      "name": "Marisa Simonetti",
      "party": "I",
-     "votes": 0,
-     "pct": 0.0
+     "votes": 42,
+     "pct": 1.32
+    },
+    {
+     "name": "Rebecca Whiting",
+     "party": "L",
+     "votes": 39,
+     "pct": 1.23
     }
    ]
   },
   "NC": {
-   "pct_in": 57.08,
-   "total": 3370839,
+   "pct_in": 63.4,
+   "total": 3482345,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,32 +186,32 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 2012643,
-     "pct": 59.71
+     "votes": 2063726,
+     "pct": 59.26
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 1290791,
-     "pct": 38.29
+     "votes": 1347689,
+     "pct": 38.7
     },
     {
      "name": "Shannon W. Bray",
      "party": "L",
-     "votes": 40165,
-     "pct": 1.19
+     "votes": 42518,
+     "pct": 1.22
     },
     {
      "name": "Michael Dublin",
      "party": "G",
-     "votes": 27240,
-     "pct": 0.81
+     "votes": 28412,
+     "pct": 0.82
     }
    ]
   },
   "TX": {
-   "pct_in": 5.0,
-   "total": 2507154,
+   "pct_in": 6.0,
+   "total": 3850796,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -219,26 +219,26 @@
     {
      "name": "James Talarico",
      "party": "D",
-     "votes": 1362687,
-     "pct": 54.35
+     "votes": 2192767,
+     "pct": 56.94
     },
     {
      "name": "Ken Paxton",
      "party": "R",
-     "votes": 1101912,
-     "pct": 43.95
+     "votes": 1596024,
+     "pct": 41.45
     },
     {
      "name": "Ted Brown",
      "party": "L",
-     "votes": 42555,
-     "pct": 1.7
+     "votes": 62005,
+     "pct": 1.61
     }
    ]
   },
   "VA": {
-   "pct_in": 96.24,
-   "total": 2594514,
+   "pct_in": 97.74,
+   "total": 2667290,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -246,14 +246,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 1556880,
-     "pct": 60.01
+     "votes": 1601644,
+     "pct": 60.05
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1037634,
-     "pct": 39.99
+     "votes": 1065646,
+     "pct": 39.95
     }
    ]
   }

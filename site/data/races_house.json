@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T02:28:46+00:00",
+ "generated": "2026-11-04T02:39:18+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383673327,
+ "wikipedia_revid": 1383674430,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -5855,7 +5855,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -5883,14 +5883,9 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
-    {
-     "name": "Sam Husseini",
-     "party": "Green",
-     "note": null
-    },
     {
      "name": "Glenn Ivey",
      "party": "Democratic",
@@ -5899,6 +5894,11 @@
     {
      "name": "George McDermott",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Sam Husseini",
+     "party": "Green",
      "note": null
     }
    ]
@@ -5916,7 +5916,7 @@
     }
    ],
    "status": [
-    "Incumbent retiring"
+    "Incumbent retiring Democratic hold."
    ],
    "candidates": [
     {
@@ -5977,17 +5977,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Scott Collier",
-     "party": "Republican",
+     "name": "Kweisi Mfume",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Kweisi Mfume",
-     "party": "Democratic",
+     "name": "Scott Collier",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -6005,7 +6005,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
