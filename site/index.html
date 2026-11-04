@@ -42,7 +42,8 @@
   <h3>Senate</h3><table id="ressen"></table><h3>House</h3><table id="reshouse"></table></section>
 <section id="news" class="tab"><h2 id="xfeedhead">Election-night posts from news desks on X</h2>
   <p class="notice xnote">Posts are quoted from the accounts shown and link to the original; race calls are theirs, not this site's. Official counts on the <a href="#results" data-goto="results">Live results</a> tab come from the Open America feed.</p>
-  <div class="row"><select id="xrace"><option value="">All races</option></select>
+  <div class="row"><select id="xjumpsel" aria-label="Jump to race"><option value="">Jump to race…</option></select>
+    <button type="button" id="xexpand" class="xbtn">Expand all</button> <button type="button" id="xcollapse" class="xbtn">Collapse all</button>
     <label><input type="checkbox" id="xgroup" checked> Group by race</label> <span class="muted" id="xfeedmeta"></span></div>
   <div id="xfeed"></div></section>
 <section id="sources" class="tab"><h2>Sources &amp; caveats</h2><div id="srclist"></div></section>

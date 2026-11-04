@@ -17,12 +17,15 @@ function srcCell(s){
 
 async function load(n){ try { const r = await fetch('data/'+n+'.json',{cache:'no-store'}); return r.ok ? await r.json() : null; } catch(e){ return null; } }
 
-document.querySelectorAll('nav button').forEach(b => b.onclick = () => {
-  document.querySelectorAll('nav button,.tab').forEach(x => x.classList.remove('active'));
-  b.classList.add('active'); $('#'+b.dataset.tab).classList.add('active'); location.hash = b.dataset.tab; });
-const goTab = id => { const b = document.querySelector(`nav button[data-tab="${id}"]`); if (b && !b.classList.contains('active')) { b.click(); scrollTo(0,0); } };
-if (location.hash) goTab(location.hash.slice(1));
-addEventListener('hashchange', () => goTab(location.hash.slice(1)));  // in-page links like #news switch tabs
+const showTab = id => { const b = document.querySelector(`nav button[data-tab="${id}"]`); if (!b) return false;
+  if (!b.classList.contains('active')) { document.querySelectorAll('nav button,.tab').forEach(x => x.classList.remove('active'));
+    b.classList.add('active'); $('#'+id).classList.add('active'); scrollTo(0,0); } return true; };
+document.querySelectorAll('nav button').forEach(b => b.onclick = () => { showTab(b.dataset.tab); location.hash = b.dataset.tab; });
+// Hash routing: #<tab> shows a tab; #x-<race> (e.g. #x-ga-senate, #x-va-02) shows News desks on X and opens that race group
+function route(){ const h = decodeURIComponent(location.hash.slice(1)); if (!h) return;
+  if (h.startsWith('x-')) { showTab('news'); try { openXGroup(h); } catch(e){} } else showTab(h); }
+route();
+addEventListener('hashchange', route);
 
 function sortable(tbl){ tbl.querySelectorAll('th').forEach((th,i) => th.onclick = () => {
   const rows=[...tbl.querySelectorAll('tbody tr')], asc = th.dataset.asc !== '1'; th.dataset.asc = asc?'1':'0';
@@ -141,22 +144,38 @@ const xcard = p => `<article class="card xpost">
     <div class="when muted"><time datetime="${esc(p.created_at)}">${etTime(p.created_at)}</time> · <span class="races">${postRaces(p).map(r=>`<span class="tag">${esc(r)}</span>`).join('')}</span></div>
     <blockquote>${esc(p.text)}</blockquote>
     <div class="src">${ext(p.url, 'View original post on X')}</div></article>`;
+const xid = r => 'x-' + String(r).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const X_OPEN = new Set();          // group ids the user has opened; survives the 60s re-read
+let X_PENDING = null;              // group hash requested before the feed loaded
+function openXGroup(id){
+  const d = document.getElementById(id);
+  if (!d) { X_PENDING = id; return; }
+  X_PENDING = null; d.open = true; X_OPEN.add(id); $('#xjumpsel').value = id;
+  requestAnimationFrame(() => d.scrollIntoView({block:'start'}));
+}
 function xfeed(){
   const f = D.xf, posts = (Array.isArray(f?.posts) ? f.posts : []).slice().sort(byNewest);
   const groups = {};
   posts.forEach(p => postRaces(p).forEach(r => (groups[r] = groups[r] || []).push(p)));
-  const races = Object.keys(groups).sort(raceCmp);
-  const sel = $('#xrace'), cur = sel.value;
-  sel.innerHTML = '<option value="">All races</option>' + races.map(r => `<option value="${esc(r)}">${esc(r)} (${groups[r].length})</option>`).join('');
-  sel.value = races.includes(cur) ? cur : '';
-  const race = sel.value, grouped = $('#xgroup').checked;
-  $('#xfeedmeta').textContent = f ? `${posts.length} posts · feed updated ${etTime(f.generated)}` : 'No posts loaded yet.';
-  if (race) $('#xfeed').innerHTML = `<div class="xfeed">${groups[race].map(xcard).join('')}</div>`;
-  else if (grouped) $('#xfeed').innerHTML = races.map(r => `<h3 class="xgroup">${esc(r)} <span class="muted">· ${groups[r].length} post${groups[r].length>1?'s':''}</span></h3><div class="xfeed">${groups[r].map(xcard).join('')}</div>`).join('');
-  else $('#xfeed').innerHTML = `<div class="xfeed">${posts.map(xcard).join('')}</div>`;
+  const races = Object.keys(groups).sort(raceCmp), grouped = $('#xgroup').checked;
+  const sel = $('#xjumpsel'), cur = sel.value;
+  sel.innerHTML = '<option value="">Jump to race…</option>' + races.map(r => `<option value="${xid(r)}">${esc(r)} (${groups[r].length})</option>`).join('');
+  sel.value = races.some(r => xid(r) === cur) ? cur : '';
+  $('#xexpand').disabled = $('#xcollapse').disabled = !grouped;
+  $('#xfeedmeta').textContent = f ? `${posts.length} posts · ${races.length} groups · feed updated ${etTime(f.generated)}` : 'No posts loaded yet.';
+  $('#xfeed').innerHTML = grouped
+    ? races.map(r => { const g = groups[r], id = xid(r);
+        return `<details class="xgroup" id="${id}"${X_OPEN.has(id)?' open':''}><summary><b>${esc(r)}</b> <span class="muted">· ${g.length} post${g.length>1?'s':''} · newest ${etTime(g[0].created_at)}</span></summary><div class="xfeed">${g.map(xcard).join('')}</div></details>`; }).join('')
+    : `<div class="xfeed">${posts.map(xcard).join('')}</div>`;
+  document.querySelectorAll('#xfeed details.xgroup').forEach(d => d.addEventListener('toggle', () => d.open ? X_OPEN.add(d.id) : X_OPEN.delete(d.id)));
+  if (X_PENDING && grouped) openXGroup(X_PENDING);
 }
-$('#xrace').onchange = () => { try { xfeed(); } catch(e){} };
+$('#xjumpsel').onchange = e => { const id = e.target.value; if (!id) return;
+  if (!$('#xgroup').checked) { $('#xgroup').checked = true; xfeed(); }
+  if (location.hash === '#' + id) openXGroup(id); else location.hash = id; };
 $('#xgroup').onchange = () => { try { xfeed(); } catch(e){} };
+$('#xexpand').onclick = () => document.querySelectorAll('#xfeed details.xgroup').forEach(d => { d.open = true; X_OPEN.add(d.id); });
+$('#xcollapse').onclick = () => document.querySelectorAll('#xfeed details.xgroup').forEach(d => { d.open = false; X_OPEN.delete(d.id); });
 function sources(){
   $('#srclist').innerHTML = `<ul>
   <li>Race lists, candidates, Senate ratings & poll-closing times: ${ext(D.house?.source, esc(D.house?.source))}, ${ext(D.sen?.source, esc(D.sen?.source))} (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>
@@ -172,5 +191,6 @@ function sources(){
     ['races_house','races_senate','early_vote_states','early_vote_districts','house_competitive','results_house','results_senate','results_test2024_house','results_test2024_senate','x_feed'].map(load));
   overview(); senate(); $('#senfilter').oninput = senate; houseInit(); house(); early(); results(); $('#demo2024').onchange = results; sources();
   try { xfeed(); } catch(e){ console.warn('x feed render failed', e); }
+  route();  // re-run now that race groups exist, so a direct #x-<race> link opens its group
   setInterval(async()=>{ const h=await load('results_house'); if(h?.live){ D.resH=h; D.resS=await load('results_senate'); results(); } const xf=await load('x_feed'); if(xf){ D.xf=xf; try{ xfeed(); }catch(e){} } }, 60000);
 })();
