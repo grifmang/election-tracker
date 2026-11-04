@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:20:14Z",
+ "generated": "2026-11-04T04:26:29Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,160 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117835740000223654",
+   "url": "https://x.com/DecisionDeskHQ/status/2117835740000223654",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Brian Poindexter wins the OH US House 7 General Election\n\n#DecisionMade: 11:16 PM EST\n\nFollow live results here: https://t.co/utfcR3PJDC https://t.co/6KjafUZ0ZY",
+   "created_at": "2026-11-04T04:26:02.000Z",
+   "races": [
+    "OH-07"
+   ]
+  },
+  {
+   "id": "2117835607024300105",
+   "url": "https://x.com/CNN/status/2117835607024300105",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrat Adam Hamilton will win the Kansas Senate race, CNN projects. It's a seismic defeat of Republican Sen. Roger Marshall in a deep-red state. Hamilton will be the first Democratic senator from the state in 94 years. Follow live updates. https://t.co/IWctFIfti6 https://t.co/7TTq43oJaT",
+   "created_at": "2026-11-04T04:25:30.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117835539906695549",
+   "url": "https://x.com/FoxNews/status/2117835539906695549",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that Kansas will elect a Democrat to the U.S. Senate for the first time in 94 years.\n\nMegachurch pastor Adam Hamilton, the Democrat, will defeat Republican Senator Roger Marshall.\n\nMarshall’s campaign sputtered in the late stages https://t.co/dOrCqlBI5K",
+   "created_at": "2026-11-04T04:25:14.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117835308737638476",
+   "url": "https://x.com/NBCNews/status/2117835308737638476",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Rev. Adam Hamilton defeats Sen. Roger Marshall Kansas, NBC News projects, becoming the first Democrat to win a Senate seat in the ruby red state since 1932. https://t.co/hf8kQQqDit",
+   "created_at": "2026-11-04T04:24:19.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117835231730295295",
+   "url": "https://x.com/FoxNews/status/2117835231730295295",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that Ohio Democrat Sherrod Brown will return to the Senate, defeating Republican Sen. Jon Husted.\n\nThis is a key Midwestern flip for the Democrats. https://t.co/dFTnjZxnm7",
+   "created_at": "2026-11-04T04:24:01.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117835223442354548",
+   "url": "https://x.com/NBCNews/status/2117835223442354548",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Missouri voters block a GOP-drawn congressional map from going into effect for future elections via a ballot measure, NBC News projects.  https://t.co/rzBVXhXLQL",
+   "created_at": "2026-11-04T04:23:59.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117835182145171661",
+   "url": "https://x.com/NBCNews/status/2117835182145171661",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Josh Turek wins U.S. Senate race in Iowa, NBC News projects. https://t.co/1pYlRaWsuV https://t.co/Ul1JoylQQ7",
+   "created_at": "2026-11-04T04:23:49.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117835157914923477",
+   "url": "https://x.com/ABC/status/2117835157914923477",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "JUST IN: Democrat Sherrod Brown will defeat Sen. Jon Husted in the Ohio Senate race, flipping the seat for Democrats, ABC News projects.\n\nhttps://t.co/pgyltfF698 https://t.co/t5cPONJ5Gr",
+   "created_at": "2026-11-04T04:23:43.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117835143318503868",
+   "url": "https://x.com/DecisionDeskHQ/status/2117835143318503868",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Marni von Wilpert wins the CA US House 48 General Election\n\n#DecisionMade: 11:14 PM EST\n\nFollow live results here: https://t.co/gsnwAexNwQ https://t.co/mV7UIRsujo",
+   "created_at": "2026-11-04T04:23:40.000Z",
+   "races": [
+    "CA-48"
+   ]
+  },
+  {
+   "id": "2117834773230215435",
+   "url": "https://x.com/FoxNews/status/2117834773230215435",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that Ohio Democrat Sherrod Brown will return to the Senate, defeating Republican Sen. Jon Husted.\n\nThis is a key Midwestern flip for the Democrats. https://t.co/mJylL5YoLq",
+   "created_at": "2026-11-04T04:22:12.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117834723263217991",
+   "url": "https://x.com/CNN/status/2117834723263217991",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Sen. Jon Ossoff delivered an acceptance speech to supporters at his campaign headquarters after he was projected to win the Georgia Senate race. Follow live updates: https://t.co/pEvnNAuZog https://t.co/3PSEj8VIAJ",
+   "created_at": "2026-11-04T04:22:00.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117834629575020574",
+   "url": "https://x.com/Reuters/status/2117834629575020574",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Ohio Democrat Sherrod Brown wins Ohio's Senate seat, US media projects, defeating Republican incumbent Jon Husted, who replaced Vice President JD Vance.\n\nBrown returns to the Senate after losing his seat in 2024 https://t.co/ksFjvZpyig https://t.co/G9cXKMn23r",
+   "created_at": "2026-11-04T04:21:37.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117834391460159781",
+   "url": "https://x.com/DecisionDeskHQ/status/2117834391460159781",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects that the Democrats win the Senate.\n \n#DecisionMade: 11:18 PM EST\n\nFollow live results here: https://t.co/xiVysThr3Y https://t.co/rOvrPhNsV8",
+   "created_at": "2026-11-04T04:20:41.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117834361902960926",
+   "url": "https://x.com/NBCNews/status/2117834361902960926",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Adam Hamilton wins U.S. Senate race in Kansas, NBC News projects. https://t.co/CMzMF6jJgy https://t.co/Dvw2Wx2yLZ",
+   "created_at": "2026-11-04T04:20:33.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
   {
    "id": "2117833891754934283",
    "url": "https://x.com/CBSNews/status/2117833891754934283",
@@ -1542,8 +1696,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-14",
-    "FL-25"
+    "FL-25",
+    "FL-14"
    ]
   },
   {
@@ -3169,162 +3323,6 @@
    "created_at": "2026-11-04T00:15:43.000Z",
    "races": [
     "FL-27"
-   ]
-  },
-  {
-   "id": "2117771965339504887",
-   "url": "https://x.com/CBSNews/status/2117771965339504887",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "\"I have the ultimate power — it's called 'veto,'\" President Trump told CBS News in an exclusive phone interview before polls closed across the country in this year's midterm elections, when asked about the prospect of a Democratic-controlled Congress next year.\n\nTrump says he is https://t.co/PahZ38THnB",
-   "created_at": "2026-11-04T00:12:37.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117771896242782257",
-   "url": "https://x.com/DecisionDeskHQ/status/2117771896242782257",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 29% in): Florida US House 22 \n\nPia Dandiya (D): 54,990 (63.3%)\nCasey Askar (R): 31,846 (36.7%)\n\nFollow more results here:\nhttps://t.co/El2czVChws https://t.co/5zByZYb4RV",
-   "created_at": "2026-11-04T00:12:21.000Z",
-   "races": [
-    "FL-22"
-   ]
-  },
-  {
-   "id": "2117771423934476316",
-   "url": "https://x.com/NBCNews/status/2117771423934476316",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Mark Warner wins re-election to the U.S. Senate in Virginia, NBC News projects. https://t.co/9D72Ib1uby https://t.co/O27Rn2OcVa",
-   "created_at": "2026-11-04T00:10:28.000Z",
-   "races": [
-    "VA Senate"
-   ]
-  },
-  {
-   "id": "2117771414971338868",
-   "url": "https://x.com/DecisionDeskHQ/status/2117771414971338868",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 0% in): Virginia US House 5\n\nJohn McGuire III (R): 323 (68.3%)\nTom Perriello (D): 145 (30.7%)\n\nFollow more results here:\nhttps://t.co/CWWpSdwXsl https://t.co/LttglIX4GK",
-   "created_at": "2026-11-04T00:10:26.000Z",
-   "races": [
-    "VA-05"
-   ]
-  },
-  {
-   "id": "2117771337775157362",
-   "url": "https://x.com/CNN/status/2117771337775157362",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "House Democratic Leader Hakeem Jeffries told phone bankers in Washington the country is 'on the brink of a dramatic change of direction.' https://t.co/zW2V62DOj4",
-   "created_at": "2026-11-04T00:10:07.000Z",
-   "races": [
-    "NY-08"
-   ]
-  },
-  {
-   "id": "2117770354995106240",
-   "url": "https://x.com/DecisionDeskHQ/status/2117770354995106240",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 4% in): Florida US House 13 \n\nLeela Gray (D): 5,748 (49.9%)\nAnna Paulina Luna (R): 5,550 (48.2%)\n\nFollow more results here:\nhttps://t.co/Msl38FPOGQ https://t.co/vUzziozbrm",
-   "created_at": "2026-11-04T00:06:13.000Z",
-   "races": [
-    "FL-13"
-   ]
-  },
-  {
-   "id": "2117770201085395122",
-   "url": "https://x.com/CookPolitical/status/2117770201085395122",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "Polls close in GA at 7 p.m. ET and in NC at 7:30. If the margins for Dems in one or both are in the double-digit range, Dems will feel hopeful about their chances in must-win Senate seats in Texas and Ohio. \n\nRead and bookmark our Senate watch guide: https://t.co/rM2ndWQuu3",
-   "created_at": "2026-11-04T00:05:36.000Z",
-   "races": [
-    "OH Senate (special)",
-    "TX Senate"
-   ]
-  },
-  {
-   "id": "2117770085846622383",
-   "url": "https://x.com/CBSNews/status/2117770085846622383",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "At poll closing, CBS News rates the race for U.S. Senate in South Carolina as a toss up. https://t.co/T5iaja99xp https://t.co/btdvQvl6fW",
-   "created_at": "2026-11-04T00:05:09.000Z",
-   "races": [
-    "SC Senate"
-   ]
-  },
-  {
-   "id": "2117769816220258376",
-   "url": "https://x.com/FoxNews/status/2117769816220258376",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: Polls have closed in Georgia, Indiana, Kentucky, South Carolina, Vermont, and Virginia.\n\nVote counting is underway, with control of Congress on the line as Republicans and Democrats await the first results from key races nationwide.\n\nThe night is just getting started, https://t.co/PihINcsQL1",
-   "created_at": "2026-11-04T00:04:05.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117769761723498987",
-   "url": "https://x.com/CBSNews/status/2117769761723498987",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Democrat Mark Warner has won reelection to the U.S. Senate in Virginia, CBS News projects. https://t.co/T5iaja99xp https://t.co/E6pVPpPdec",
-   "created_at": "2026-11-04T00:03:52.000Z",
-   "races": [
-    "VA Senate"
-   ]
-  },
-  {
-   "id": "2117769682510127334",
-   "url": "https://x.com/CBSNews/status/2117769682510127334",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "At poll closing, CBS News rates the race for U.S. Senate in Georgia as leans Democratic. https://t.co/6ZCkdGgoMc",
-   "created_at": "2026-11-04T00:03:33.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117769662146781566",
-   "url": "https://x.com/DecisionDeskHQ/status/2117769662146781566",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 2% in): Florida US Senate Special Election General\n\nAshley Moody (R): 125,078 (65.7%)\nAngie Nixon (D): 63,317 (33.3%)\n\nFollow more results here:\nhttps://t.co/BrgFMM2E5p https://t.co/wST5HhqeyH",
-   "created_at": "2026-11-04T00:03:28.000Z",
-   "races": [
-    "FL Senate (special)"
-   ]
-  },
-  {
-   "id": "2117769268796522621",
-   "url": "https://x.com/DecisionDeskHQ/status/2117769268796522621",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Mark Warner wins the VA US Senate General Election\n\n#DecisionMade: 7:00 PM EST\n\nFollow live results here: https://t.co/rBAsTXm6yy https://t.co/YlcheI8O1j",
-   "created_at": "2026-11-04T00:01:54.000Z",
-   "races": [
-    "VA Senate"
-   ]
-  },
-  {
-   "id": "2117767810223108273",
-   "url": "https://x.com/CookPolitical/status/2117767810223108273",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "Polls are about to close in most of Florida, which more so than any other state, will play a crucial role in determining House control.  \n\nRead and bookmark our hour-by-hour House guide: https://t.co/Y3jzUlFuA5",
-   "created_at": "2026-11-03T23:56:06.000Z",
-   "races": [
-    "House control"
    ]
   }
  ]

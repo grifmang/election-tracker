@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:20:14Z",
+ "generated": "2026-11-04T04:26:29Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -11,11 +11,11 @@
    "conflicting": 0
   },
   "House": {
-   "D": 21,
+   "D": 23,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 22,
+   "called": 24,
    "conflicting": 0
   }
  },
@@ -88,6 +88,20 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117818360519950343",
      "created_at": "2026-11-04T03:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "race": "CA-48",
+   "chamber": "House",
+   "winner_name": "Marni von Wilpert",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117835143318503868",
+     "created_at": "2026-11-04T04:23:40.000Z"
     }
    ]
   },
@@ -423,6 +437,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117833601274302634",
      "created_at": "2026-11-04T04:17:32.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117835182145171661",
+     "created_at": "2026-11-04T04:23:49.000Z"
     }
    ]
   },
@@ -461,6 +480,21 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117833782904373311",
      "created_at": "2026-11-04T04:18:15.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117834361902960926",
+     "created_at": "2026-11-04T04:20:33.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117835308737638476",
+     "created_at": "2026-11-04T04:24:19.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117835607024300105",
+     "created_at": "2026-11-04T04:25:30.000Z"
     }
    ]
   },
@@ -853,6 +887,30 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117833393920492024",
      "created_at": "2026-11-04T04:16:43.000Z"
+    },
+    {
+     "handle": "Reuters",
+     "post_url": "https://x.com/Reuters/status/2117834629575020574",
+     "created_at": "2026-11-04T04:21:37.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117835157914923477",
+     "created_at": "2026-11-04T04:23:43.000Z"
+    }
+   ]
+  },
+  {
+   "race": "OH-07",
+   "chamber": "House",
+   "winner_name": "Brian Poindexter",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117835740000223654",
+     "created_at": "2026-11-04T04:26:02.000Z"
     }
    ]
   },
@@ -1336,6 +1394,15 @@
    "source": "x"
   },
   {
+   "race": "CA-48",
+   "winner_name": "Marni von Wilpert",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117835143318503868",
+   "created_at": "2026-11-04T04:23:40.000Z",
+   "source": "x"
+  },
+  {
    "race": "CO Senate",
    "winner_name": "John Hickenlooper",
    "party": "D",
@@ -1777,6 +1844,15 @@
    "source": "x"
   },
   {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117835182145171661",
+   "created_at": "2026-11-04T04:23:49.000Z",
+   "source": "x"
+  },
+  {
    "race": "IL Senate",
    "winner_name": "Juliana Stratton",
    "party": "D",
@@ -1810,6 +1886,33 @@
    "handle": "CNN",
    "post_url": "https://x.com/CNN/status/2117833782904373311",
    "created_at": "2026-11-04T04:18:15.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117834361902960926",
+   "created_at": "2026-11-04T04:20:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117835308737638476",
+   "created_at": "2026-11-04T04:24:19.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117835607024300105",
+   "created_at": "2026-11-04T04:25:30.000Z",
    "source": "x"
   },
   {
@@ -2305,6 +2408,33 @@
    "handle": "ABC",
    "post_url": "https://x.com/ABC/status/2117833393920492024",
    "created_at": "2026-11-04T04:16:43.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "Reuters",
+   "post_url": "https://x.com/Reuters/status/2117834629575020574",
+   "created_at": "2026-11-04T04:21:37.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117835157914923477",
+   "created_at": "2026-11-04T04:23:43.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-07",
+   "winner_name": "Brian Poindexter",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117835740000223654",
+   "created_at": "2026-11-04T04:26:02.000Z",
    "source": "x"
   },
   {
