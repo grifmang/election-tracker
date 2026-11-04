@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T00:45:34+00:00",
+ "generated": "2026-11-04T01:00:11+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383659626,
+ "wikipedia_revid": 1383661176,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -2747,7 +2747,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected"
    ],
    "candidates": [
     {
@@ -3024,7 +3024,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected"
    ],
    "candidates": [
     {
@@ -3118,7 +3118,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected"
    ],
    "candidates": [
     {
@@ -9430,7 +9430,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -9730,9 +9730,14 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
+    {
+     "name": "Emilia Sykes",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Carey Coleman",
      "party": "Republican",
@@ -9741,11 +9746,6 @@
     {
      "name": "Sandeep Dixit",
      "party": "Independent",
-     "note": null
-    },
-    {
-     "name": "Emilia Sykes",
-     "party": "Democratic",
      "note": null
     }
    ]
@@ -12920,7 +12920,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected"
    ],
    "candidates": [
     {
@@ -13014,7 +13014,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected"
    ],
    "candidates": [
     {

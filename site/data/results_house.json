@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-04T00:46:23+00:00",
+ "generated": "2026-11-04T01:01:15+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-04T00:45:22+00:00",
+ "as_of": "2026-11-04T01:00:08+00:00",
  "counts": {
   "called": {},
-  "races": 117,
-  "not_called": 117,
+  "races": 116,
+  "not_called": 116,
   "reporting": 1,
-  "with_precincts": 112
+  "with_precincts": 111
  },
  "races": {
   "AR-01": {
@@ -915,8 +915,8 @@
    ]
   },
   "GA-01": {
-   "pct_in": 46.67,
-   "total": 79234,
+   "pct_in": 66.67,
+   "total": 102576,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -924,20 +924,20 @@
     {
      "name": "James \"Jim\" Kingston",
      "party": "R",
-     "votes": 40438,
-     "pct": 51.04
+     "votes": 56111,
+     "pct": 54.7
     },
     {
      "name": "Amanda Hollowell",
      "party": "D",
-     "votes": 38796,
-     "pct": 48.96
+     "votes": 46465,
+     "pct": 45.3
     }
    ]
   },
   "GA-02": {
-   "pct_in": 26.67,
-   "total": 46212,
+   "pct_in": 46.67,
+   "total": 111261,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -945,20 +945,20 @@
     {
      "name": "Sanford Bishop",
      "party": "D",
-     "votes": 27856,
-     "pct": 60.28
+     "votes": 73156,
+     "pct": 65.75
     },
     {
      "name": "Matt Day",
      "party": "R",
-     "votes": 18356,
-     "pct": 39.72
+     "votes": 38105,
+     "pct": 34.25
     }
    ]
   },
   "GA-03": {
-   "pct_in": 46.67,
-   "total": 100046,
+   "pct_in": 66.67,
+   "total": 114312,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -966,14 +966,14 @@
     {
      "name": "Brian Jack",
      "party": "R",
-     "votes": 50718,
-     "pct": 50.69
+     "votes": 58626,
+     "pct": 51.29
     },
     {
      "name": "Maura Keller",
      "party": "D",
-     "votes": 49328,
-     "pct": 49.31
+     "votes": 55686,
+     "pct": 48.71
     }
    ]
   },
@@ -1020,8 +1020,8 @@
    ]
   },
   "GA-06": {
-   "pct_in": 50.0,
-   "total": 127283,
+   "pct_in": 75.0,
+   "total": 129449,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1029,41 +1029,41 @@
     {
      "name": "Lucy McBath",
      "party": "D",
-     "votes": 107253,
-     "pct": 84.26
+     "votes": 109059,
+     "pct": 84.25
     },
     {
      "name": "Kevin E. Martin",
      "party": "R",
-     "votes": 20030,
-     "pct": 15.74
+     "votes": 20390,
+     "pct": 15.75
     }
    ]
   },
   "GA-07": {
-   "pct_in": 66.67,
-   "total": 154876,
-   "leader": "D",
+   "pct_in": 83.33,
+   "total": 171923,
+   "leader": "R",
    "called": false,
    "winner": null,
    "candidates": [
     {
-     "name": "Tony Kozycki",
-     "party": "D",
-     "votes": 78873,
-     "pct": 50.93
-    },
-    {
      "name": "Rich McCormick",
      "party": "R",
-     "votes": 76003,
-     "pct": 49.07
+     "votes": 88280,
+     "pct": 51.35
+    },
+    {
+     "name": "Tony Kozycki",
+     "party": "D",
+     "votes": 83643,
+     "pct": 48.65
     }
    ]
   },
   "GA-08": {
-   "pct_in": 51.72,
-   "total": 122446,
+   "pct_in": 62.07,
+   "total": 128015,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1071,14 +1071,14 @@
     {
      "name": "Austin Scott",
      "party": "R",
-     "votes": 66297,
-     "pct": 54.14
+     "votes": 69742,
+     "pct": 54.48
     },
     {
      "name": "Kelly Esti",
      "party": "D",
-     "votes": 56149,
-     "pct": 45.86
+     "votes": 58273,
+     "pct": 45.52
     }
    ]
   },
@@ -1104,8 +1104,8 @@
    ]
   },
   "GA-10": {
-   "pct_in": 30.0,
-   "total": 82263,
+   "pct_in": 40.0,
+   "total": 92167,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1113,20 +1113,20 @@
     {
      "name": "Pamela \"Pam\" Delancy",
      "party": "D",
-     "votes": 47149,
-     "pct": 57.31
+     "votes": 50921,
+     "pct": 55.25
     },
     {
      "name": "Houston Gaines",
      "party": "R",
-     "votes": 35114,
-     "pct": 42.69
+     "votes": 41246,
+     "pct": 44.75
     }
    ]
   },
   "GA-11": {
-   "pct_in": 40.0,
-   "total": 34754,
+   "pct_in": 60.0,
+   "total": 103767,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1134,35 +1134,35 @@
     {
      "name": "John Cowan",
      "party": "R",
-     "votes": 22944,
-     "pct": 66.02
+     "votes": 63714,
+     "pct": 61.4
     },
     {
      "name": "Chris Harden",
      "party": "D",
-     "votes": 11810,
-     "pct": 33.98
+     "votes": 40053,
+     "pct": 38.6
     }
    ]
   },
   "GA-12": {
-   "pct_in": 25.0,
-   "total": 54005,
-   "leader": "R",
+   "pct_in": 37.5,
+   "total": 96567,
+   "leader": "D",
    "called": false,
    "winner": null,
    "candidates": [
     {
-     "name": "Rick W. Allen",
-     "party": "R",
-     "votes": 29973,
-     "pct": 55.5
-    },
-    {
      "name": "Ceretta Smith",
      "party": "D",
-     "votes": 24032,
-     "pct": 44.5
+     "votes": 56904,
+     "pct": 58.93
+    },
+    {
+     "name": "Rick W. Allen",
+     "party": "R",
+     "votes": 39663,
+     "pct": 41.07
     }
    ]
   },
@@ -1188,8 +1188,8 @@
    ]
   },
   "GA-14": {
-   "pct_in": 50.0,
-   "total": 69022,
+   "pct_in": 80.0,
+   "total": 103229,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1197,14 +1197,14 @@
     {
      "name": "Clay Fuller",
      "party": "R",
-     "votes": 38107,
-     "pct": 55.21
+     "votes": 58958,
+     "pct": 57.11
     },
     {
      "name": "Shawn Harris",
      "party": "D",
-     "votes": 30915,
-     "pct": 44.79
+     "votes": 44271,
+     "pct": 42.89
     }
    ]
   },
@@ -1281,7 +1281,7 @@
    ]
   },
   "IN-01": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 60263,
    "leader": "D",
    "called": false,
@@ -1302,7 +1302,7 @@
    ]
   },
   "IN-02": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 9457,
    "leader": "D",
    "called": false,
@@ -1329,8 +1329,8 @@
    ]
   },
   "IN-03": {
-   "pct_in": 3.99,
-   "total": 1514,
+   "pct_in": 6.08,
+   "total": 10834,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1338,19 +1338,19 @@
     {
      "name": "Marlin A. Stutzman",
      "party": "R",
-     "votes": 908,
-     "pct": 59.97
+     "votes": 7162,
+     "pct": 66.11
     },
     {
      "name": "Kelly Thompson",
      "party": "D",
-     "votes": 606,
-     "pct": 40.03
+     "votes": 3672,
+     "pct": 33.89
     }
    ]
   },
   "IN-04": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 0,
    "leader": "",
    "called": false,
@@ -1371,7 +1371,7 @@
    ]
   },
   "IN-05": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 0,
    "leader": "",
    "called": false,
@@ -1392,7 +1392,7 @@
    ]
   },
   "IN-06": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 0,
    "leader": "",
    "called": false,
@@ -1413,7 +1413,7 @@
    ]
   },
   "IN-07": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 0,
    "leader": "",
    "called": false,
@@ -1440,7 +1440,7 @@
    ]
   },
   "IN-08": {
-   "pct_in": 3.99,
+   "pct_in": 6.08,
    "total": 3466,
    "leader": "R",
    "called": false,
@@ -1461,8 +1461,8 @@
    ]
   },
   "IN-09": {
-   "pct_in": 3.99,
-   "total": 12381,
+   "pct_in": 6.08,
+   "total": 21371,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1470,20 +1470,20 @@
     {
      "name": "Erin Houchin",
      "party": "R",
-     "votes": 8220,
-     "pct": 66.39
+     "votes": 13320,
+     "pct": 62.33
     },
     {
      "name": "Brad A. Meyer",
      "party": "D",
-     "votes": 3745,
-     "pct": 30.25
+     "votes": 7392,
+     "pct": 34.59
     },
     {
      "name": "Tonya L. Hudson",
      "party": "L",
-     "votes": 416,
-     "pct": 3.36
+     "votes": 659,
+     "pct": 3.08
     }
    ]
   },
@@ -2502,8 +2502,8 @@
    ]
   },
   "VA-01": {
-   "pct_in": 61.11,
-   "total": 42157,
+   "pct_in": 77.78,
+   "total": 127056,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -2511,20 +2511,20 @@
     {
      "name": "Robert J. \"Rob\" Wittman",
      "party": "R",
-     "votes": 26259,
-     "pct": 62.29
+     "votes": 66489,
+     "pct": 52.33
     },
     {
      "name": "Shannon L. Taylor",
      "party": "D",
-     "votes": 15898,
-     "pct": 37.71
+     "votes": 60567,
+     "pct": 47.67
     }
    ]
   },
   "VA-02": {
    "pct_in": 50.0,
-   "total": 17209,
+   "total": 25412,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -2532,32 +2532,32 @@
     {
      "name": "Jen A. Kiggans",
      "party": "R",
-     "votes": 9416,
-     "pct": 54.72
+     "votes": 12912,
+     "pct": 50.81
     },
     {
      "name": "Elaine G. Luria",
      "party": "D",
-     "votes": 7344,
-     "pct": 42.68
+     "votes": 11893,
+     "pct": 46.8
     },
     {
      "name": "J. Matt Baker",
      "party": "I",
-     "votes": 317,
-     "pct": 1.84
+     "votes": 431,
+     "pct": 1.7
     },
     {
      "name": "Geral D. \"Bishop\" Staten",
      "party": "I",
-     "votes": 132,
-     "pct": 0.77
+     "votes": 176,
+     "pct": 0.69
     }
    ]
   },
   "VA-03": {
-   "pct_in": 80.0,
-   "total": 24336,
+   "pct_in": 100.0,
+   "total": 39131,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2565,32 +2565,32 @@
     {
      "name": "Robert C. \"Bobby\" Scott",
      "party": "D",
-     "votes": 17799,
-     "pct": 73.14
+     "votes": 29770,
+     "pct": 76.08
     },
     {
      "name": "Edwin Rivera Jr.",
      "party": "R",
-     "votes": 5788,
-     "pct": 23.78
+     "votes": 8049,
+     "pct": 20.57
     },
     {
      "name": "Stephen C. Woll",
      "party": "I",
-     "votes": 434,
-     "pct": 1.78
+     "votes": 709,
+     "pct": 1.81
     },
     {
      "name": "Makiba A. Gaines",
      "party": "I",
-     "votes": 315,
-     "pct": 1.29
+     "votes": 603,
+     "pct": 1.54
     }
    ]
   },
   "VA-04": {
-   "pct_in": 53.33,
-   "total": 35279,
+   "pct_in": 73.33,
+   "total": 95074,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2598,26 +2598,26 @@
     {
      "name": "Jennifer L. McClellan",
      "party": "D",
-     "votes": 20548,
-     "pct": 58.24
+     "votes": 63413,
+     "pct": 66.7
     },
     {
      "name": "Robert P. \"Family Man\" Murray Jr.",
      "party": "R",
-     "votes": 14235,
-     "pct": 40.35
+     "votes": 30342,
+     "pct": 31.91
     },
     {
      "name": "Joan E. \"Andrews\" Bell",
      "party": "I",
-     "votes": 496,
-     "pct": 1.41
+     "votes": 1319,
+     "pct": 1.39
     }
    ]
   },
   "VA-05": {
-   "pct_in": 62.5,
-   "total": 43702,
+   "pct_in": 75.0,
+   "total": 83495,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2625,47 +2625,47 @@
     {
      "name": "Tom S. P. Perriello",
      "party": "D",
-     "votes": 24424,
-     "pct": 55.89
+     "votes": 42622,
+     "pct": 51.05
     },
     {
      "name": "John J. McGuire III",
      "party": "R",
-     "votes": 18566,
-     "pct": 42.48
+     "votes": 39351,
+     "pct": 47.13
     },
     {
      "name": "Cooke C. Harvey",
      "party": "I",
-     "votes": 712,
-     "pct": 1.63
+     "votes": 1522,
+     "pct": 1.82
     }
    ]
   },
   "VA-06": {
-   "pct_in": 65.22,
-   "total": 48497,
-   "leader": "R",
+   "pct_in": 73.91,
+   "total": 91399,
+   "leader": "D",
    "called": false,
    "winner": null,
    "candidates": [
     {
-     "name": "Ben L. Cline",
-     "party": "R",
-     "votes": 25745,
-     "pct": 53.09
-    },
-    {
      "name": "Beth A. Macy",
      "party": "D",
-     "votes": 22752,
-     "pct": 46.91
+     "votes": 46690,
+     "pct": 51.08
+    },
+    {
+     "name": "Ben L. Cline",
+     "party": "R",
+     "votes": 44709,
+     "pct": 48.92
     }
    ]
   },
   "VA-07": {
-   "pct_in": 54.55,
-   "total": 53809,
+   "pct_in": 81.82,
+   "total": 89050,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2673,44 +2673,44 @@
     {
      "name": "Eugene S. Vindman",
      "party": "D",
-     "votes": 37805,
-     "pct": 70.26
+     "votes": 59122,
+     "pct": 66.39
     },
     {
      "name": "Doug A. Ollivant",
      "party": "R",
-     "votes": 14816,
-     "pct": 27.53
+     "votes": 27869,
+     "pct": 31.3
     },
     {
      "name": "Alaha Ahrar",
      "party": "I",
-     "votes": 678,
-     "pct": 1.26
+     "votes": 1022,
+     "pct": 1.15
     },
     {
      "name": "Taner E. Demirci Lopez",
      "party": "L",
-     "votes": 268,
-     "pct": 0.5
+     "votes": 574,
+     "pct": 0.64
     },
     {
      "name": "Randall A. Terry",
      "party": "I",
-     "votes": 147,
-     "pct": 0.27
+     "votes": 278,
+     "pct": 0.31
     },
     {
      "name": "Joshua E. Ertle",
      "party": "I",
-     "votes": 95,
-     "pct": 0.18
+     "votes": 185,
+     "pct": 0.21
     }
    ]
   },
   "VA-08": {
    "pct_in": 75.0,
-   "total": 33066,
+   "total": 46205,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2718,32 +2718,32 @@
     {
      "name": "Donald S. Beyer Jr.",
      "party": "D",
-     "votes": 25636,
-     "pct": 77.53
+     "votes": 36013,
+     "pct": 77.94
     },
     {
      "name": "Tony A. Sabio",
      "party": "R",
-     "votes": 6414,
-     "pct": 19.4
+     "votes": 8778,
+     "pct": 19.0
     },
     {
      "name": "Tim S. Sharman",
      "party": "I",
-     "votes": 527,
-     "pct": 1.59
+     "votes": 743,
+     "pct": 1.61
     },
     {
      "name": "Shelly M. Arnoldi",
      "party": "L",
-     "votes": 489,
-     "pct": 1.48
+     "votes": 671,
+     "pct": 1.45
     }
    ]
   },
   "VA-09": {
-   "pct_in": 53.57,
-   "total": 39139,
+   "pct_in": 82.14,
+   "total": 80974,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -2751,20 +2751,20 @@
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 24966,
-     "pct": 63.79
+     "votes": 54178,
+     "pct": 66.91
     },
     {
      "name": "Joy A. Powers",
      "party": "D",
-     "votes": 14173,
-     "pct": 36.21
+     "votes": 26796,
+     "pct": 33.09
     }
    ]
   },
   "VA-10": {
-   "pct_in": 57.14,
-   "total": 101047,
+   "pct_in": 71.43,
+   "total": 206985,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2772,20 +2772,20 @@
     {
      "name": "Suhas Subramanyam",
      "party": "D",
-     "votes": 66751,
-     "pct": 66.06
+     "votes": 132066,
+     "pct": 63.8
     },
     {
      "name": "Dave T. Beckwith",
      "party": "R",
-     "votes": 33154,
-     "pct": 32.81
+     "votes": 71193,
+     "pct": 34.4
     },
     {
      "name": "Ahsen Mujeeb Malik",
      "party": "I",
-     "votes": 1142,
-     "pct": 1.13
+     "votes": 3726,
+     "pct": 1.8
     }
    ]
   },
@@ -2813,51 +2813,6 @@
      "party": "G",
      "votes": 74,
      "pct": 1.49
-    }
-   ]
-  },
-  "VT-00": {
-   "pct_in": 100.0,
-   "total": 20647,
-   "leader": "D",
-   "called": false,
-   "winner": null,
-   "candidates": [
-    {
-     "name": "Becca Balint",
-     "party": "D",
-     "votes": 13603,
-     "pct": 65.88
-    },
-    {
-     "name": "Gerald Malloy",
-     "party": "R",
-     "votes": 6239,
-     "pct": 30.22
-    },
-    {
-     "name": "Suzanne \"Suz\" Seymour",
-     "party": "I",
-     "votes": 327,
-     "pct": 1.58
-    },
-    {
-     "name": "Ryan P. Walton",
-     "party": "I",
-     "votes": 170,
-     "pct": 0.82
-    },
-    {
-     "name": "Phoenix K. Altair",
-     "party": "I",
-     "votes": 168,
-     "pct": 0.81
-    },
-    {
-     "name": "Adam Ortiz",
-     "party": "I",
-     "votes": 140,
-     "pct": 0.68
     }
    ]
   },
