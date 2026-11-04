@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:26:29Z",
+ "generated": "2026-11-04T04:35:33Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -11,11 +11,11 @@
    "conflicting": 0
   },
   "House": {
-   "D": 23,
+   "D": 25,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 24,
+   "called": 26,
    "conflicting": 0
   }
  },
@@ -130,6 +130,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117812803067424874",
      "created_at": "2026-11-04T02:54:53.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117837194035409204",
+     "created_at": "2026-11-04T04:31:49.000Z"
     }
    ]
   },
@@ -442,6 +447,49 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117835182145171661",
      "created_at": "2026-11-04T04:23:49.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117836986203467806",
+     "created_at": "2026-11-04T04:30:59.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117837473698955487",
+     "created_at": "2026-11-04T04:32:55.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117837958095008004",
+     "created_at": "2026-11-04T04:34:51.000Z"
+    }
+   ]
+  },
+  {
+   "race": "IA-01",
+   "chamber": "House",
+   "winner_name": "Christina Bohannan",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117837404216213693",
+     "created_at": "2026-11-04T04:32:39.000Z"
+    }
+   ]
+  },
+  {
+   "race": "IA-03",
+   "chamber": "House",
+   "winner_name": "Sarah Trone Garriott",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117837775018004756",
+     "created_at": "2026-11-04T04:34:07.000Z"
     }
    ]
   },
@@ -495,6 +543,16 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117835607024300105",
      "created_at": "2026-11-04T04:25:30.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117835789434265861",
+     "created_at": "2026-11-04T04:26:14.000Z"
+    },
+    {
+     "handle": "CookPolitical",
+     "post_url": "https://x.com/CookPolitical/status/2117837298595512341",
+     "created_at": "2026-11-04T04:32:14.000Z"
     }
    ]
   },
@@ -1182,6 +1240,11 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117833426435023093",
      "created_at": "2026-11-04T04:16:50.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117836735627309446",
+     "created_at": "2026-11-04T04:29:59.000Z"
     }
    ]
   },
@@ -1418,6 +1481,15 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117812803067424874",
    "created_at": "2026-11-04T02:54:53.000Z",
+   "source": "x"
+  },
+  {
+   "race": "CO-08",
+   "winner_name": "Manny Rutinel",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117837194035409204",
+   "created_at": "2026-11-04T04:31:49.000Z",
    "source": "x"
   },
   {
@@ -1853,6 +1925,51 @@
    "source": "x"
   },
   {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117836986203467806",
+   "created_at": "2026-11-04T04:30:59.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117837473698955487",
+   "created_at": "2026-11-04T04:32:55.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117837958095008004",
+   "created_at": "2026-11-04T04:34:51.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA-01",
+   "winner_name": "Christina Bohannan",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117837404216213693",
+   "created_at": "2026-11-04T04:32:39.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA-03",
+   "winner_name": "Sarah Trone Garriott",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117837775018004756",
+   "created_at": "2026-11-04T04:34:07.000Z",
+   "source": "x"
+  },
+  {
    "race": "IL Senate",
    "winner_name": "Juliana Stratton",
    "party": "D",
@@ -1913,6 +2030,24 @@
    "handle": "CNN",
    "post_url": "https://x.com/CNN/status/2117835607024300105",
    "created_at": "2026-11-04T04:25:30.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117835789434265861",
+   "created_at": "2026-11-04T04:26:14.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "CookPolitical",
+   "post_url": "https://x.com/CookPolitical/status/2117837298595512341",
+   "created_at": "2026-11-04T04:32:14.000Z",
    "source": "x"
   },
   {
@@ -2777,6 +2912,15 @@
    "handle": "ABC",
    "post_url": "https://x.com/ABC/status/2117833426435023093",
    "created_at": "2026-11-04T04:16:50.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117836735627309446",
+   "created_at": "2026-11-04T04:29:59.000Z",
    "source": "x"
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:26:29Z",
+ "generated": "2026-11-04T04:35:33Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,194 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117838031541383506",
+   "url": "https://x.com/ABC/status/2117838031541383506",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrats will win enough seats to take control of the Senate, ABC News projects. https://t.co/6B1nCkUS23 https://t.co/K9sHo3VTLt",
+   "created_at": "2026-11-04T04:35:08.000Z",
+   "races": [
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117837958095008004",
+   "url": "https://x.com/CBSNews/status/2117837958095008004",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democratic state Rep. Josh Turek defeated GOP Rep. Ashley Hinson in the Iowa Senate race, CBS News projects, in a major pickup for Democrats as they seek to take control of the upper chamber. https://t.co/JYmdnzB6ss",
+   "created_at": "2026-11-04T04:34:51.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117837775018004756",
+   "url": "https://x.com/DecisionDeskHQ/status/2117837775018004756",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Sarah Garriott wins the IA US House 3 General Election\n\n#DecisionMade: 11:22 PM EST\n\nFollow live results here: https://t.co/Oifql857Fa https://t.co/WhYYKtyEcw",
+   "created_at": "2026-11-04T04:34:07.000Z",
+   "races": [
+    "IA-03"
+   ]
+  },
+  {
+   "id": "2117837480888016948",
+   "url": "https://x.com/nytimes/status/2117837480888016948",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Breaking News: The Rev. Adam Hamilton became the first Democrat to win a Senate seat in Kansas since the Great Depression, according to The Associated Press, defeating Senator Roger Marshall, a one-term Republican. https://t.co/Qi4rnnJX4Y",
+   "created_at": "2026-11-04T04:32:57.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117837473698955487",
+   "url": "https://x.com/CBSNews/status/2117837473698955487",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Josh Turek has won the race for U.S. Senate in Iowa, CBS News projects. https://t.co/T5iaja99xp https://t.co/TKBI8PJv9v",
+   "created_at": "2026-11-04T04:32:55.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117837426244702398",
+   "url": "https://x.com/CBSNews/status/2117837426244702398",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "BREAKING: Democrats win control of the U.S. Senate, CBS News projects. This means Democrats will control both chambers in the new Congress. https://t.co/T5iaja99xp https://t.co/vrrMm03HlE",
+   "created_at": "2026-11-04T04:32:44.000Z",
+   "races": [
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117837404216213693",
+   "url": "https://x.com/DecisionDeskHQ/status/2117837404216213693",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Christina Bohannan wins the IA US House 1 General Election\n\n#DecisionMade: 11:30 PM EST\n\nFollow live results here: https://t.co/A1kbQqPqIw https://t.co/8JsjgW28FJ",
+   "created_at": "2026-11-04T04:32:39.000Z",
+   "races": [
+    "IA-01"
+   ]
+  },
+  {
+   "id": "2117837298595512341",
+   "url": "https://x.com/CookPolitical/status/2117837298595512341",
+   "author_name": "Cook Political Report",
+   "handle": "CookPolitical",
+   "text": "Adam Hamilton (D) has won #KSSen. This is the fifth Senate seat Democrats have flipped tonight. \n\nCook Political Report race rating: Toss Up",
+   "created_at": "2026-11-04T04:32:14.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117837194035409204",
+   "url": "https://x.com/DecisionDeskHQ/status/2117837194035409204",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Manny Rutinel wins the CO US House 8 General Election\n\n#DecisionMade: 11:18 PM EST\n\nFollow live results here: https://t.co/1M5oNnt7oF https://t.co/ui1tK2D61S",
+   "created_at": "2026-11-04T04:31:49.000Z",
+   "races": [
+    "CO-08"
+   ]
+  },
+  {
+   "id": "2117837102251413574",
+   "url": "https://x.com/CBSNews/status/2117837102251413574",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects that Democrats will win control of the House, the question now is what their margin will be. CBS News' @MajorCBS breaks down how Democrats were able to win. https://t.co/z5QcsoRcXj",
+   "created_at": "2026-11-04T04:31:27.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117837006449394143",
+   "url": "https://x.com/CBSNews/status/2117837006449394143",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Texas is turning blue for the first time in decades as Democrat James Talarico flips a Senate seat long held by Republicans, CBS News projects. The result marks a major political shift in a state that has been a Republican stronghold for generations, with potential implications https://t.co/7Fobx4PQpj",
+   "created_at": "2026-11-04T04:31:04.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117836986203467806",
+   "url": "https://x.com/NBCNews/status/2117836986203467806",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Democrat Josh Turek defeats Republican Rep. Ashley Hinson to take Iowa’s open Senate seat, NBC News projects. https://t.co/I3hYdb2PT0",
+   "created_at": "2026-11-04T04:30:59.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117836735627309446",
+   "url": "https://x.com/CBSNews/status/2117836735627309446",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat James Talarico won a majority of Latino voters, independents and voters under 30 in Texas' Senate race, as CBS News projects Talarico defeated GOP Texas Attorney General Ken Paxton, marking a major flip for Democrats that they have long sought in the Lone Star State. https://t.co/RiaOk5i4BN",
+   "created_at": "2026-11-04T04:29:59.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117836554773184659",
+   "url": "https://x.com/CBSNews/status/2117836554773184659",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Adam Hamilton becomes the first Democrat to win a Kansas Senate seat since 1932, a major upset for Republicans. https://t.co/UV799OtJoo",
+   "created_at": "2026-11-04T04:29:16.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117836065490805083",
+   "url": "https://x.com/FoxNews/status/2117836065490805083",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "“From the first day of this election, we knew that to keep the House and sustain our majority, we would have to defy more than a century of midterm history ... and it looks like history will be kept tonight.”\n\nHouse Speaker Mike Johnson acknowledges that Republicans appear to be https://t.co/gNNkhPVQSd",
+   "created_at": "2026-11-04T04:27:20.000Z",
+   "races": [
+    "LA-04"
+   ]
+  },
+  {
+   "id": "2117836016308404353",
+   "url": "https://x.com/NBCNews/status/2117836016308404353",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrats win the Senate to take full control of Congress away from Republicans, with voters rebuking Trump’s policies, NBC News Projects. https://t.co/by35qrG5JN",
+   "created_at": "2026-11-04T04:27:08.000Z",
+   "races": [
+    "Senate control",
+    "House control"
+   ]
+  },
+  {
+   "id": "2117835789434265861",
+   "url": "https://x.com/CBSNews/status/2117835789434265861",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Adam Hamilton has won the race for U.S. Senate in Kansas, defeating incumbent Republican Sen. Roger Marshall, CBS News projects. Hamilton will be the first Democrat elected to the U.S. Senate in Kansas since 1932. https://t.co/T5iaja99xp https://t.co/KtYkwjE3PJ",
+   "created_at": "2026-11-04T04:26:14.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
   {
    "id": "2117835740000223654",
    "url": "https://x.com/DecisionDeskHQ/status/2117835740000223654",
@@ -3135,194 +3323,6 @@
    "created_at": "2026-11-04T00:38:23.000Z",
    "races": [
     "OH Senate (special)"
-   ]
-  },
-  {
-   "id": "2117777517478093251",
-   "url": "https://x.com/DecisionDeskHQ/status/2117777517478093251",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Balance of Power Update: Senate (7:34 PM)\n\nDemocrats: 36\nRepublicans: 32\n\nhttps://t.co/xiVysThr3Y https://t.co/yaICxnF0IM",
-   "created_at": "2026-11-04T00:34:41.000Z",
-   "races": [
-    "Senate control"
-   ]
-  },
-  {
-   "id": "2117777373286273069",
-   "url": "https://x.com/CBSNews/status/2117777373286273069",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "RACE UPDATE: CBS News rates the race for U.S. Senate in Georgia as likely Democratic. @SalvantoCBS breaks down what the numbers are showing. https://t.co/0xO9JXw99O",
-   "created_at": "2026-11-04T00:34:06.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117777293427044855",
-   "url": "https://x.com/CBSNews/status/2117777293427044855",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "RACE UPDATE: CBS News rates the race for U.S. Senate in Georgia as likely Democratic.@SalvantoCBS breaks down what the numbers are showing. https://t.co/xxjIdjK57k",
-   "created_at": "2026-11-04T00:33:47.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117777257351520281",
-   "url": "https://x.com/DecisionDeskHQ/status/2117777257351520281",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Balance of Power Update: House (7:32 PM)\nDemocrats: 22\nRepublicans: 23\n\nFollow more results here: https://t.co/Qkk8JsDNYi https://t.co/txu3GEp35W",
-   "created_at": "2026-11-04T00:33:39.000Z",
-   "races": [
-    "House control"
-   ]
-  },
-  {
-   "id": "2117777089709363209",
-   "url": "https://x.com/FoxNews/status/2117777089709363209",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: Polls have closed in Ohio, North Carolina and West Virginia.\n\nIn Ohio, the governor's race between Republican Vivek Ramaswamy and Democrat Amy Acton is too early to call, according to the Fox News Decision Desk.\n\nOhio's Senate race between Republican Sen. Jon Husted and https://t.co/stxWvjLj7z",
-   "created_at": "2026-11-04T00:32:59.000Z",
-   "races": [
-    "OH Senate (special)"
-   ]
-  },
-  {
-   "id": "2117776820225315208",
-   "url": "https://x.com/NBCNews/status/2117776820225315208",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Jon Ossoff wins re-election to the U.S. Senate in Georgia, NBC News projects. https://t.co/cKUqX0PLus https://t.co/TvZ2z5vtTK",
-   "created_at": "2026-11-04T00:31:54.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117776292930343027",
-   "url": "https://x.com/DecisionDeskHQ/status/2117776292930343027",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 1% in): Virginia US House 2 \n\nJen Kiggans (R): 1,090 (54.9%)\nElaine Luria (D): 834 (42.0%)\n\nFollow more results here:\nhttps://t.co/YzHDz5Iibz https://t.co/8YwFsGCkyF",
-   "created_at": "2026-11-04T00:29:49.000Z",
-   "races": [
-    "VA-02"
-   ]
-  },
-  {
-   "id": "2117775894706086162",
-   "url": "https://x.com/DecisionDeskHQ/status/2117775894706086162",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 0% in): South Carolina US Senate \n\nAnnie Andrews (D): 3,072 (70.2%)\nDarline Graham (R): 1,250 (28.6%)\n\nFollow more results here:\nhttps://t.co/E5XQk6GNVP https://t.co/emh9wjbt7S",
-   "created_at": "2026-11-04T00:28:14.000Z",
-   "races": [
-    "SC Senate"
-   ]
-  },
-  {
-   "id": "2117775874984407176",
-   "url": "https://x.com/CookPolitical/status/2117775874984407176",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "In Georgia, we're watching to see whether Sen. Jon Ossoff can pull former Atlanta Mayor Keisha Lance Bottoms across the finish line in the governor’s race. \n\nRead and bookmark our Senate watch guide: https://t.co/rM2ndWPWEv",
-   "created_at": "2026-11-04T00:28:09.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117775501641007598",
-   "url": "https://x.com/DecisionDeskHQ/status/2117775501641007598",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 71% in): Florida US House 14 \n\nKathy Castor (D): 114,570 (55.2%)\nMike Beltran (R): 87,700 (42.3%)\n\nFollow more results here:\nhttps://t.co/jHMngW4udB",
-   "created_at": "2026-11-04T00:26:40.000Z",
-   "races": [
-    "FL-14"
-   ]
-  },
-  {
-   "id": "2117775329842389383",
-   "url": "https://x.com/CBSNews/status/2117775329842389383",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "ELECTION 2026: Join @tonydokoupil, @NorahODonnell and the entire CBS News team for Election Night in America. From early voter turnout to the issues driving Americans to the polls and the battle for control of Congress, they’ll break down the key moments and results throughout https://t.co/YSUuz4JBk9",
-   "created_at": "2026-11-04T00:25:59.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117775283407175739",
-   "url": "https://x.com/ABC/status/2117775283407175739",
-   "author_name": "ABC News",
-   "handle": "ABC",
-   "text": "Preliminary Voter Poll data finds roughly 6 in 10 Maine Senate voters say incumbent Republican Sen. Susan Collins is too supportive of President Trump.\n \nFollow live updates: https://t.co/TbPFTTkxlD",
-   "created_at": "2026-11-04T00:25:48.000Z",
-   "races": [
-    "ME Senate"
-   ]
-  },
-  {
-   "id": "2117774680237236445",
-   "url": "https://x.com/DecisionDeskHQ/status/2117774680237236445",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 1% in): Virginia US House 1 \n\nRob Wittman (R): 2,223 (61.5%)\nShannon Taylor (D): 1,389 (38.5%)\n\nFollow more results here:\nhttps://t.co/RwM3rAD4YX https://t.co/z7HD0zeHj9",
-   "created_at": "2026-11-04T00:23:24.000Z",
-   "races": [
-    "VA-01"
-   ]
-  },
-  {
-   "id": "2117773436718137533",
-   "url": "https://x.com/DecisionDeskHQ/status/2117773436718137533",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Jon Ossoff wins the GA US Senate General Election\n\n#DecisionMade: 7:18 PM EST\n\nFollow live results here: https://t.co/JUE5jgmAa5 https://t.co/6h8LK0HDZm",
-   "created_at": "2026-11-04T00:18:28.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117773146082156771",
-   "url": "https://x.com/DecisionDeskHQ/status/2117773146082156771",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 9% in): Georgia US Senate \n\nJon Ossoff (D): 299,970 (78.3%)\nMike Collins (R): 83,205 (21.7%)\n\nFollow more results here:\nhttps://t.co/iO0684Rw5Y https://t.co/CO3YKhKJDN",
-   "created_at": "2026-11-04T00:17:19.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117772949922939031",
-   "url": "https://x.com/DecisionDeskHQ/status/2117772949922939031",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 44% in): Florida US House 25 \n\nJared Moskowitz (D): 67,446 (55.9%)\nScott Singer (R): 50,871 (42.2%)\n\nFollow more results here:\nhttps://t.co/ldK6bLq45V https://t.co/zhBNuL9jbD",
-   "created_at": "2026-11-04T00:16:32.000Z",
-   "races": [
-    "FL-25"
-   ]
-  },
-  {
-   "id": "2117772744385327342",
-   "url": "https://x.com/DecisionDeskHQ/status/2117772744385327342",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 78% in): Florida US House 27 \n\nEliott Rodriguez (D): 91,533 (51.8%)\nMaria Salazar (R): 85,285 (48.2%)\n\nFollow more results here:\nhttps://t.co/NXQ3APpxwi https://t.co/xivO2UT0fZ",
-   "created_at": "2026-11-04T00:15:43.000Z",
-   "races": [
-    "FL-27"
    ]
   }
  ]
