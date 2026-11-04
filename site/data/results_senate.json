@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T01:27:37+00:00",
+ "generated": "2026-11-04T01:37:46+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-04T01:26:09+00:00",
+ "as_of": "2026-11-04T01:36:10+00:00",
  "counts": {
   "called": {},
   "races": 8,
@@ -69,8 +69,8 @@
    ]
   },
   "GA": {
-   "pct_in": 69.81,
-   "total": 2476975,
+   "pct_in": 77.36,
+   "total": 2659434,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,14 +78,14 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 1579951,
-     "pct": 63.79
+     "votes": 1657684,
+     "pct": 62.33
     },
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 897024,
-     "pct": 36.21
+     "votes": 1001750,
+     "pct": 37.67
     }
    ]
   },
@@ -177,8 +177,8 @@
    ]
   },
   "NC": {
-   "pct_in": 2.51,
-   "total": 2247895,
+   "pct_in": 10.74,
+   "total": 2497008,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,32 +186,32 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 1501539,
-     "pct": 66.8
+     "votes": 1613117,
+     "pct": 64.6
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 709535,
-     "pct": 31.56
+     "votes": 841360,
+     "pct": 33.69
     },
     {
      "name": "Shannon W. Bray",
      "party": "L",
-     "votes": 20626,
-     "pct": 0.92
+     "votes": 24247,
+     "pct": 0.97
     },
     {
      "name": "Michael Dublin",
      "party": "G",
-     "votes": 16195,
-     "pct": 0.72
+     "votes": 18284,
+     "pct": 0.73
     }
    ]
   },
   "VA": {
-   "pct_in": 89.47,
-   "total": 1489809,
+   "pct_in": 90.23,
+   "total": 1716485,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -219,14 +219,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 891759,
-     "pct": 59.86
+     "votes": 1031393,
+     "pct": 60.09
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 598050,
-     "pct": 40.14
+     "votes": 685092,
+     "pct": 39.91
     }
    ]
   }

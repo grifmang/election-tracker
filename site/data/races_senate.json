@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T01:27:04+00:00",
+ "generated": "2026-11-04T01:36:57+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383664953,
+ "wikipedia_revid": 1383666168,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -260,13 +260,8 @@
     "name": "Ashley Moody",
     "party": "Republican"
    },
-   "status": "Interim appointee nominated",
+   "status": "Interim appointee elected",
    "candidates": [
-    {
-     "name": "Neil Gillespie",
-     "party": "Independent",
-     "note": null
-    },
     {
      "name": "Ashley Moody",
      "party": "Republican",
@@ -275,6 +270,11 @@
     {
      "name": "Angie Nixon",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Neil Gillespie",
+     "party": "Independent",
      "note": null
     }
    ],
