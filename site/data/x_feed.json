@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:01:47Z",
+ "generated": "2026-11-04T02:16:28Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,219 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117803060088951011",
+   "url": "https://x.com/DecisionDeskHQ/status/2117803060088951011",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 0% in): Iowa US Senate \n\nJosh Turek (D): 1,235 (49.5%)\nAshley Hinson (R): 1,223 (49.0%)\n\nFollow more results here:\nhttps://t.co/SWWWqUHrzP https://t.co/yDbVSYCQUM",
+   "created_at": "2026-11-04T02:16:11.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117802148964540581",
+   "url": "https://x.com/CNN/status/2117802148964540581",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic socialist and activist Darializa Avila Chevalier will win the race for New York's 13th Congressional District, CNN projects. Follow live updates. https://t.co/I8o1Wz7jO5 https://t.co/irIk0mcXRX",
+   "created_at": "2026-11-04T02:12:33.000Z",
+   "races": [
+    "NY-13"
+   ]
+  },
+  {
+   "id": "2117801565025128506",
+   "url": "https://x.com/DecisionDeskHQ/status/2117801565025128506",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects that the Democrats win the House of Representatives.\n\n#DecisionMade: 9:09 PM EST\n\nFollow live results here: https://t.co/Qkk8JsDNYi https://t.co/Fg67Q8g3df",
+   "created_at": "2026-11-04T02:10:14.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117801287903256778",
+   "url": "https://x.com/CNN/status/2117801287903256778",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "House Democratic Leader Hakeem Jeffries would not speculate about his future relationship with the Republican president, telling CNN’s Manu Raju, ‘we’ll cross that bridge when we get to it.’ https://t.co/ORa1mHFDTV",
+   "created_at": "2026-11-04T02:09:08.000Z",
+   "races": [
+    "NY-08"
+   ]
+  },
+  {
+   "id": "2117801151718363561",
+   "url": "https://x.com/CBSNews/status/2117801151718363561",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Jamie Ager flipped control of North Carolina's 11th Congressional District, CBS News projected, marking the first time a Democrat has won the seat since 2010. https://t.co/ERqBnPaCXm",
+   "created_at": "2026-11-04T02:08:36.000Z",
+   "races": [
+    "NC-11"
+   ]
+  },
+  {
+   "id": "2117801013134365095",
+   "url": "https://x.com/CNN/status/2117801013134365095",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrat Pia Dandiya will win Florida’s 22nd District and Democratic incumbents Rep. Jared Moskowitz and Rep. Kathy Castor will win reelection, holding their seats, CNN’s Decision Desk projects.\n\nIn Florida, Republicans redrew congressional maps to target four Democratic seats. https://t.co/VGCRvUuzc7",
+   "created_at": "2026-11-04T02:08:03.000Z",
+   "races": [
+    "FL-22",
+    "FL-25",
+    "FL-14"
+   ]
+  },
+  {
+   "id": "2117800984592126026",
+   "url": "https://x.com/DecisionDeskHQ/status/2117800984592126026",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Zach Dembo wins the KY US House 6 General Election\n\n#DecisionMade: 9:07 PM EST\n\nFollow live results here: https://t.co/mZSlbKGPCA https://t.co/4y3aTEawkx",
+   "created_at": "2026-11-04T02:07:56.000Z",
+   "races": [
+    "KY-06"
+   ]
+  },
+  {
+   "id": "2117800862147833976",
+   "url": "https://x.com/FoxNews/status/2117800862147833976",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "\"Don't F with Florida. And I'm a mom, and I mean don't fool with Florida.\"\n\nRepublican Sen. Ashley Moody puts a cheeky Florida spin on the famous \"Don't Mess with Texas\" slogan while celebrating her Election Night victory in Florida's U.S. Senate race.\n\nTune in to Fox News https://t.co/26MJx9wO2U",
+   "created_at": "2026-11-04T02:07:27.000Z",
+   "races": [
+    "FL Senate (special)",
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117800403634880945",
+   "url": "https://x.com/CBSNews/status/2117800403634880945",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "RACE UPDATE: CBS News rates the race for U.S. Senate in South Carolina as leans Democratic. https://t.co/T5iaja99xp https://t.co/motT0YKBNF",
+   "created_at": "2026-11-04T02:05:37.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117800268796658117",
+   "url": "https://x.com/CBSNews/status/2117800268796658117",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Jamie Ager has won the race for U.S. House in North Carolina’s 11th Congressional District, defeating Republican Jennifer Balkcom. https://t.co/T5iaja9HmX https://t.co/xayuNjQSyB",
+   "created_at": "2026-11-04T02:05:05.000Z",
+   "races": [
+    "NC-11"
+   ]
+  },
+  {
+   "id": "2117800198717984906",
+   "url": "https://x.com/DecisionDeskHQ/status/2117800198717984906",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 3% in): Nebraska US Senate \n\nDan Osborn (I): 14,715 (59.0%)\nPete Ricketts (R): 9,110 (36.5%)\n\nFollow more results here:\nhttps://t.co/4fJtaNv0wQ https://t.co/aKlXN2Jfez",
+   "created_at": "2026-11-04T02:04:48.000Z",
+   "races": [
+    "NE Senate"
+   ]
+  },
+  {
+   "id": "2117799919129886749",
+   "url": "https://x.com/NBCNews/status/2117799919129886749",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Harriet Hageman wins U.S. Senate race in Wyoming, NBC News projects. https://t.co/FdNqQ2O0ul https://t.co/L5S7r1VlJp",
+   "created_at": "2026-11-04T02:03:42.000Z",
+   "races": [
+    "WY Senate"
+   ]
+  },
+  {
+   "id": "2117799850980872584",
+   "url": "https://x.com/FoxNews/status/2117799850980872584",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: At 9 p.m. ET, polls have closed in Texas, Michigan and 13 more states as the battle for control of the Senate moves into another round of vote counting.\n\nIn Texas, the Fox News Decision Desk says the Senate race between Republican Attorney General Ken Paxton and https://t.co/xOrI1FwWos",
+   "created_at": "2026-11-04T02:03:25.000Z",
+   "races": [
+    "Senate control",
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117799831842226583",
+   "url": "https://x.com/CBSNews/status/2117799831842226583",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Winning over voters in the Florida Panhandle \"was always going to be a structural impediment for Angie Nixon to win this race statewide,\" Major Garrett reports as CBS News projects Republican Sen. Ashley Moody to win Florida's Senate race. https://t.co/s5K8SnWfr6",
+   "created_at": "2026-11-04T02:03:21.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117799818701791504",
+   "url": "https://x.com/DecisionDeskHQ/status/2117799818701791504",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 53% in): South Carolina US House 1 \n\nNancy Lacore (D): 94,664 (52.9%)\nJenny Honeycutt (R): 81,575 (45.6%)\n\nFollow more results here:\nhttps://t.co/7PJa8CHXDM https://t.co/TWd3LvxExw",
+   "created_at": "2026-11-04T02:03:18.000Z",
+   "races": [
+    "SC-01"
+   ]
+  },
+  {
+   "id": "2117799701529362722",
+   "url": "https://x.com/NBCNews/status/2117799701529362722",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Ben Ray Lujan wins re-election to the U.S. Senate in New Mexico, NBC News projects. https://t.co/o54UqzBIhq https://t.co/rryQ5yT0P2",
+   "created_at": "2026-11-04T02:02:50.000Z",
+   "races": [
+    "NM Senate"
+   ]
+  },
+  {
+   "id": "2117799609707765971",
+   "url": "https://x.com/NBCNews/status/2117799609707765971",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat John Hickenlooper wins re-election to the U.S. Senate in Colorado, NBC News projects. https://t.co/dOCe9TdwtB https://t.co/cDpJRljvz6",
+   "created_at": "2026-11-04T02:02:28.000Z",
+   "races": [
+    "CO Senate"
+   ]
+  },
+  {
+   "id": "2117799598613725449",
+   "url": "https://x.com/ABC/status/2117799598613725449",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Republican Andy Barr will win the Kentucky Senate race, holding the seat for the GOP, ABC News projects.\nhttps://t.co/BtDLnJwteJ",
+   "created_at": "2026-11-04T02:02:25.000Z",
+   "races": [
+    "KY Senate"
+   ]
+  },
+  {
+   "id": "2117799413943033981",
+   "url": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Paige Cognetti wins the PA US House 8 General Election\n\n#DecisionMade: 9:00 PM EST\n\nFollow live results here: https://t.co/io4WKqfJhk https://t.co/XKwX1p2beo",
+   "created_at": "2026-11-04T02:01:41.000Z",
+   "races": [
+    "PA-08"
+   ]
+  },
   {
    "id": "2117799223689122088",
    "url": "https://x.com/CNN/status/2117799223689122088",

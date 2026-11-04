@@ -1,25 +1,39 @@
 {
- "generated": "2026-11-04T02:01:47Z",
+ "generated": "2026-11-04T02:16:28Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
-   "D": 9,
-   "R": 3,
+   "D": 10,
+   "R": 4,
    "I": 0,
    "O": 0,
-   "called": 12,
+   "called": 14,
    "conflicting": 0
   },
   "House": {
-   "D": 4,
+   "D": 7,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 5,
+   "called": 8,
    "conflicting": 0
   }
  },
  "calls": [
+  {
+   "race": "CO Senate",
+   "chamber": "Senate",
+   "winner_name": "John Hickenlooper",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117799609707765971",
+     "created_at": "2026-11-04T02:02:28.000Z"
+    }
+   ]
+  },
   {
    "race": "DE Senate",
    "chamber": "Senate",
@@ -123,6 +137,11 @@
      "handle": "CookPolitical",
      "post_url": "https://x.com/CookPolitical/status/2117791031429095871",
      "created_at": "2026-11-04T01:28:23.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117801013134365095",
+     "created_at": "2026-11-04T02:08:03.000Z"
     }
    ]
   },
@@ -142,6 +161,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117792353260126588",
      "created_at": "2026-11-04T01:33:38.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117801013134365095",
+     "created_at": "2026-11-04T02:08:03.000Z"
     }
    ]
   },
@@ -333,6 +357,25 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117798572662075506",
      "created_at": "2026-11-04T01:58:21.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117799598613725449",
+     "created_at": "2026-11-04T02:02:25.000Z"
+    }
+   ]
+  },
+  {
+   "race": "KY-06",
+   "chamber": "House",
+   "winner_name": "Zach Dembo",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117800984592126026",
+     "created_at": "2026-11-04T02:07:56.000Z"
     }
    ]
   },
@@ -440,6 +483,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117795402367770969",
      "created_at": "2026-11-04T01:45:45.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117800268796658117",
+     "created_at": "2026-11-04T02:05:05.000Z"
     }
    ]
   },
@@ -547,6 +595,34 @@
    ]
   },
   {
+   "race": "NY-13",
+   "chamber": "House",
+   "winner_name": "Darializa Avila Chevalier",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117802148964540581",
+     "created_at": "2026-11-04T02:12:33.000Z"
+    }
+   ]
+  },
+  {
+   "race": "PA-08",
+   "chamber": "House",
+   "winner_name": "Paige Cognetti",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
+     "created_at": "2026-11-04T02:01:41.000Z"
+    }
+   ]
+  },
+  {
    "race": "RI Senate",
    "chamber": "Senate",
    "winner_name": "Jack Reed",
@@ -597,10 +673,33 @@
      "created_at": "2026-11-04T01:39:00.000Z"
     }
    ]
+  },
+  {
+   "race": "WY Senate",
+   "chamber": "Senate",
+   "winner_name": "Harriet Hageman",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117799919129886749",
+     "created_at": "2026-11-04T02:03:42.000Z"
+    }
+   ]
   }
  ],
  "conflicting": [],
  "claims": [
+  {
+   "race": "CO Senate",
+   "winner_name": "John Hickenlooper",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117799609707765971",
+   "created_at": "2026-11-04T02:02:28.000Z",
+   "source": "x"
+  },
   {
    "race": "DE Senate",
    "winner_name": "Chris Coons",
@@ -728,6 +827,15 @@
    "source": "x"
   },
   {
+   "race": "FL-14",
+   "winner_name": "Kathy Castor",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117801013134365095",
+   "created_at": "2026-11-04T02:08:03.000Z",
+   "source": "x"
+  },
+  {
    "race": "FL-22",
    "winner_name": "Pia Dandiya",
    "party": "D",
@@ -743,6 +851,15 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117792353260126588",
    "created_at": "2026-11-04T01:33:38.000Z",
+   "source": "x"
+  },
+  {
+   "race": "FL-22",
+   "winner_name": "Pia Dandiya",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117801013134365095",
+   "created_at": "2026-11-04T02:08:03.000Z",
    "source": "x"
   },
   {
@@ -1025,6 +1142,24 @@
    "source": "x"
   },
   {
+   "race": "KY Senate",
+   "winner_name": "Andy Barr",
+   "party": "R",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117799598613725449",
+   "created_at": "2026-11-04T02:02:25.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KY-06",
+   "winner_name": "Zach Dembo",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117800984592126026",
+   "created_at": "2026-11-04T02:07:56.000Z",
+   "source": "x"
+  },
+  {
    "race": "MA Senate",
    "winner_name": "Ed Markey",
    "party": "D",
@@ -1166,6 +1301,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117795402367770969",
    "created_at": "2026-11-04T01:45:45.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC-11",
+   "winner_name": "Jamie Ager",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117800268796658117",
+   "created_at": "2026-11-04T02:05:05.000Z",
    "source": "x"
   },
   {
@@ -1322,6 +1466,24 @@
    "source": "x"
   },
   {
+   "race": "NY-13",
+   "winner_name": "Darializa Avila Chevalier",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117802148964540581",
+   "created_at": "2026-11-04T02:12:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-08",
+   "winner_name": "Paige Cognetti",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
+   "created_at": "2026-11-04T02:01:41.000Z",
+   "source": "x"
+  },
+  {
    "race": "RI Senate",
    "winner_name": "Jack Reed",
    "party": "D",
@@ -1364,6 +1526,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117793703137853951",
    "created_at": "2026-11-04T01:39:00.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WY Senate",
+   "winner_name": "Harriet Hageman",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117799919129886749",
+   "created_at": "2026-11-04T02:03:42.000Z",
    "source": "x"
   }
  ]
