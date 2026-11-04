@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T01:36:57+00:00",
+ "generated": "2026-11-04T02:04:03+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383666168,
+ "wikipedia_revid": 1383669873,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -156,26 +156,21 @@
     "name": "John Hickenlooper",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
+    {
+     "name": "John Hickenlooper",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Mark Baisley",
      "party": "Republican",
      "note": null
     },
     {
-     "name": "Christopher Baum",
-     "party": "Approval Voting",
-     "note": null
-    },
-    {
      "name": "Bob Chew",
      "party": "Forward",
-     "note": null
-    },
-    {
-     "name": "John Hickenlooper",
-     "party": "Democratic",
      "note": null
     },
     {
@@ -774,7 +769,7 @@
    },
    "calendar": {
     "primary": "August 4, 2026",
-    "poll_close_et": "8 p.m."
+    "poll_close_et": "8 p.m. and 9 p.m."
    }
   },
   {
@@ -1146,7 +1141,7 @@
     "name": "Ben Ray Luján",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
     {
      "name": "Ben Ray Luján",
@@ -1661,16 +1656,16 @@
     "name": "Shelley Moore Capito",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
-    {
-     "name": "Rachel Fetty Anderson",
-     "party": "Democratic",
-     "note": null
-    },
     {
      "name": "Shelley Moore Capito",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Rachel Fetty Anderson",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -1708,16 +1703,16 @@
     "name": "Cynthia Lummis",
     "party": "Republican"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring.Republican hold.",
    "candidates": [
-    {
-     "name": "James W. Byrd",
-     "party": "Democratic",
-     "note": null
-    },
     {
      "name": "Harriet Hageman",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "James W. Byrd",
+     "party": "Democratic",
      "note": null
     }
    ],
