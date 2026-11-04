@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T18:02:38+00:00",
+ "generated": "2026-11-04T23:44:44+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383757672,
+ "wikipedia_revid": 1383803594,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -942,7 +942,7 @@
     }
    ],
    "status": [
-    "Incumbent retiring. Democratic hold."
+    "Incumbent retired. Democratic hold."
    ],
    "candidates": [
     {
@@ -998,7 +998,7 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -1250,17 +1250,17 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "David Valadao",
-     "party": "Republican",
+     "name": "Randy Villegas",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Randy Villegas",
-     "party": "Democratic",
+     "name": "David Valadao",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -1446,7 +1446,7 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general. Democratic hold."
+    "Incumbent advanced to general."
    ],
    "candidates": [
     {
@@ -1586,16 +1586,16 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent lost re-election. Democratic hold."
    ],
    "candidates": [
     {
-     "name": "Jimmy Gomez",
+     "name": "Angela Gonzales-Torres",
      "party": "Democratic",
      "note": null
     },
     {
-     "name": "Angela Gonzales-Torres",
+     "name": "Jimmy Gomez",
      "party": "Democratic",
      "note": null
     }
@@ -6238,12 +6238,12 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Shafina Che Barnett",
-     "party": "Green",
+     "name": "Sean McCann",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -6252,8 +6252,8 @@
      "note": null
     },
     {
-     "name": "Sean McCann",
-     "party": "Democratic",
+     "name": "Shafina Che Barnett",
+     "party": "Green",
      "note": null
     }
    ]
@@ -6362,9 +6362,14 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
+    {
+     "name": "William Lawrence",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Tom Barrett",
      "party": "Republican",
@@ -6373,11 +6378,6 @@
     {
      "name": "Shane Dedrick",
      "party": "Green",
-     "note": null
-    },
-    {
-     "name": "William Lawrence",
-     "party": "Democratic",
      "note": null
     }
    ]
@@ -6486,17 +6486,17 @@
     }
    ],
    "status": [
-    "Incumbent retiring to run for governor"
+    "Incumbent retired to run for governor. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Mike Bouchard Jr.",
-     "party": "Republican",
+     "name": "Christina Hines",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Christina Hines",
-     "party": "Democratic",
+     "name": "Mike Bouchard Jr.",
+     "party": "Republican",
      "note": null
     },
     {
@@ -7283,17 +7283,17 @@
     }
    ],
    "status": [
-    "Incumbent retired."
+    "Incumbent retired. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Aaron Flint",
-     "party": "Republican",
+     "name": "Sam Forstag",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Sam Forstag",
-     "party": "Democratic",
+     "name": "Aaron Flint",
+     "party": "Republican",
      "note": null
     },
     {
@@ -7834,27 +7834,27 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
-    {
-     "name": "Chris Backemeyer",
-     "party": "Democratic",
-     "note": null
-    },
     {
      "name": "Mike Flood",
      "party": "Republican",
      "note": null
     },
     {
-     "name": "Daniel Hartong",
-     "party": "America First",
+     "name": "Chris Backemeyer",
+     "party": "Democratic",
      "note": null
     },
     {
      "name": "Nik Sandman",
      "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Daniel Hartong",
+     "party": "America First",
      "note": null
     }
    ]
@@ -8682,17 +8682,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Mike LiPetri",
-     "party": "Republican",
+     "name": "Tom Suozzi",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Tom Suozzi",
-     "party": "Democratic",
+     "name": "Mike LiPetri",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -8710,17 +8710,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Jeanine Driscoll",
-     "party": "Republican",
+     "name": "Laura Gillen",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Laura Gillen",
-     "party": "Democratic",
+     "name": "Jeanine Driscoll",
+     "party": "Republican",
      "note": null
     },
     {
@@ -9966,7 +9966,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -9975,13 +9975,13 @@
      "note": null
     },
     {
-     "name": "Robert Henri",
-     "party": "Independent",
+     "name": "Jena Nelson",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Jena Nelson",
-     "party": "Democratic",
+     "name": "Robert Henri",
+     "party": "Independent",
      "note": null
     },
     {
@@ -10723,13 +10723,13 @@
    ],
    "candidates": [
     {
-     "name": "Jenny Costa Honeycutt",
-     "party": "Republican",
+     "name": "Nancy Lacore",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Nancy Lacore",
-     "party": "Democratic",
+     "name": "Jenny Costa Honeycutt",
+     "party": "Republican",
      "note": null
     },
     {
@@ -10756,6 +10756,11 @@
    ],
    "candidates": [
     {
+     "name": "Joe Wilson",
+     "party": "Republican",
+     "note": null
+    },
+    {
      "name": "Zyon Khalifa",
      "party": "Democratic",
      "note": null
@@ -10763,11 +10768,6 @@
     {
      "name": "Dayna Alane Smith",
      "party": "Workers",
-     "note": null
-    },
-    {
-     "name": "Joe Wilson",
-     "party": "Republican",
      "note": null
     }
    ]
@@ -11383,17 +11383,17 @@
     }
    ],
    "status": [
-    "Incumbent lost renomination."
+    "Incumbent lost renomination. Republican hold."
    ],
    "candidates": [
     {
-     "name": "Shaun Finnie",
-     "party": "Democratic",
+     "name": "Steve Toth",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Steve Toth",
-     "party": "Republican",
+     "name": "Shaun Finnie",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -11467,7 +11467,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -11584,7 +11584,7 @@
     }
    ],
    "status": [
-    "New representative to be elected."
+    "New member elected. Democratic gain."
    ],
    "candidates": [
     {
@@ -11954,17 +11954,17 @@
     }
    ],
    "status": [
-    "Incumbent retired."
+    "Incumbent retired. Republican hold."
    ],
    "candidates": [
     {
-     "name": "Marquette Greene-Scott",
-     "party": "Democratic",
+     "name": "Trever Nehls",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Trever Nehls",
-     "party": "Republican",
+     "name": "Marquette Greene-Scott",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -12110,7 +12110,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -12260,17 +12260,17 @@
     }
    ],
    "status": [
-    "New representative to be elected"
+    "New member elected. Republican gain."
    ],
    "candidates": [
     {
-     "name": "Dan Barrios",
-     "party": "Democratic",
+     "name": "Jace Yarbrough",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Jace Yarbrough",
-     "party": "Republican",
+     "name": "Dan Barrios",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -12450,7 +12450,7 @@
     }
    ],
    "status": [
-    "Incumbent retired to run for U.S. Senate"
+    "Incumbent retired to run for U.S. Senate Republican hold."
    ],
    "candidates": [
     {
@@ -13138,17 +13138,17 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "John Braun",
-     "party": "Republican",
+     "name": "Marie Gluesenkamp Perez",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Marie Gluesenkamp Perez",
-     "party": "Democratic",
+     "name": "John Braun",
+     "party": "Republican",
      "note": null
     }
    ]

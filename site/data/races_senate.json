@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T18:02:39+00:00",
+ "generated": "2026-11-04T23:44:44+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383751498,
+ "wikipedia_revid": 1383799124,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -52,10 +52,7 @@
     "Silver Nov 3, 2026": "Tossup",
     "ST Nov 2, 2026": "Lean D (flip)"
    },
-   "calendar": {
-    "primary": "August 18, 2026",
-    "poll_close_et": "November 4, 12 a.m. and 1 a.m."
-   }
+   "calendar": {}
   },
   {
    "key": "AL-S",
@@ -94,10 +91,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "May 19, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "AR-S",
@@ -141,10 +135,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "March 3, 2026",
-    "poll_close_et": "8:30 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "CO-S",
@@ -198,10 +189,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "June 30, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "DE-S",
@@ -240,10 +228,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "September 15, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "FL-S-special",
@@ -287,10 +272,7 @@
     "Silver Nov 3, 2026": "Likely R",
     "ST Nov 2, 2026": "Likely R"
    },
-   "calendar": {
-    "primary": "August 18, 2026",
-    "poll_close_et": "7 p.m. and 8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "GA-S",
@@ -329,10 +311,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "May 19, 2026",
-    "poll_close_et": "7 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "IA-S",
@@ -376,10 +355,7 @@
     "Silver Nov 3, 2026": "Tossup",
     "ST Nov 2, 2026": "Tossup"
    },
-   "calendar": {
-    "primary": "June 2, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "ID-S",
@@ -428,10 +404,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "May 19, 2026",
-    "poll_close_et": "10 p.m. and 11 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "IL-S",
@@ -475,10 +448,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "March 17, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "KS-S",
@@ -522,10 +492,7 @@
     "Silver Nov 3, 2026": "Lean D (flip)",
     "ST Nov 2, 2026": "Lean D (flip)"
    },
-   "calendar": {
-    "primary": "August 4, 2026",
-    "poll_close_et": "8 p.m. and 9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "KY-S",
@@ -569,10 +536,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "May 19, 2026",
-    "poll_close_et": "6 p.m. and 7 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "LA-S",
@@ -611,10 +575,7 @@
     "Silver Nov 3, 2026": "Likely R",
     "ST Nov 2, 2026": "Likely R"
    },
-   "calendar": {
-    "primary": "May 16, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "MA-S",
@@ -663,10 +624,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "September 1, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "ME-S",
@@ -705,10 +663,7 @@
     "Silver Nov 3, 2026": "Likely D (flip)",
     "ST Nov 2, 2026": "Lean D (flip)"
    },
-   "calendar": {
-    "primary": "June 9, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "MI-S",
@@ -767,10 +722,7 @@
     "Silver Nov 3, 2026": "Likely D",
     "ST Nov 2, 2026": "Likely D"
    },
-   "calendar": {
-    "primary": "August 4, 2026",
-    "poll_close_et": "8 p.m. and 9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "MN-S",
@@ -819,10 +771,7 @@
     "Silver Nov 3, 2026": "Likely D",
     "ST Nov 2, 2026": "Likely D"
    },
-   "calendar": {
-    "primary": "August 11, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "MS-S",
@@ -866,10 +815,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Likely R"
    },
-   "calendar": {
-    "primary": "March 10, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "MT-S",
@@ -918,10 +864,7 @@
     "Silver Nov 3, 2026": "Likely R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "June 2, 2026",
-    "poll_close_et": "10 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "NC-S",
@@ -970,10 +913,7 @@
     "Silver Nov 3, 2026": "Solid D (flip)",
     "ST Nov 2, 2026": "Safe D (flip)"
    },
-   "calendar": {
-    "primary": "March 3, 2026",
-    "poll_close_et": "7:30 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "NE-S",
@@ -1027,10 +967,7 @@
     "Silver Nov 3, 2026": "Lean R",
     "ST Nov 2, 2026": "Lean R"
    },
-   "calendar": {
-    "primary": "May 12, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "NH-S",
@@ -1074,10 +1011,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "September 8, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "NJ-S",
@@ -1126,10 +1060,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "June 2, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "NM-S",
@@ -1168,10 +1099,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "June 2, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "OH-S-special",
@@ -1220,10 +1148,7 @@
     "Silver Nov 3, 2026": "Lean D (flip)",
     "ST Nov 2, 2026": "Lean D (flip)"
    },
-   "calendar": {
-    "primary": "May 5, 2026",
-    "poll_close_et": "7:30 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "OK-S",
@@ -1277,10 +1202,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "June 16, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "OR-S",
@@ -1329,10 +1251,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "May 19, 2026",
-    "poll_close_et": "10 p.m. and 11 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "RI-S",
@@ -1376,10 +1295,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "September 9, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "SC-S",
@@ -1428,10 +1344,7 @@
     "Silver Nov 3, 2026": "Lean R",
     "ST Nov 2, 2026": "Lean R"
    },
-   "calendar": {
-    "primary": "June 9, 2026",
-    "poll_close_et": "7 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "SD-S",
@@ -1470,10 +1383,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Likely R"
    },
-   "calendar": {
-    "primary": "June 2, 2026",
-    "poll_close_et": "8 p.m. and 9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "TN-S",
@@ -1552,10 +1462,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "August 6, 2026",
-    "poll_close_et": "8 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "TX-S",
@@ -1599,10 +1506,7 @@
     "Silver Nov 3, 2026": "Likely D (flip)",
     "ST Nov 2, 2026": "Likely D (flip)"
    },
-   "calendar": {
-    "primary": "March 3, 2026",
-    "poll_close_et": "8 p.m. and 9 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "VA-S",
@@ -1641,10 +1545,7 @@
     "Silver Nov 3, 2026": "Solid D",
     "ST Nov 2, 2026": "Safe D"
    },
-   "calendar": {
-    "primary": "August 4, 2026",
-    "poll_close_et": "7 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "WV-S",
@@ -1688,10 +1589,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": ""
    },
-   "calendar": {
-    "primary": "May 12, 2026",
-    "poll_close_et": "7:30 p.m."
-   }
+   "calendar": {}
   },
   {
    "key": "WY-S",
@@ -1730,10 +1628,7 @@
     "Silver Nov 3, 2026": "Solid R",
     "ST Nov 2, 2026": "Safe R"
    },
-   "calendar": {
-    "primary": "August 18, 2026",
-    "poll_close_et": "9 p.m."
-   }
+   "calendar": {}
   }
  ]
 }
