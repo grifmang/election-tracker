@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:41:24Z",
+ "generated": "2026-11-04T02:53:07Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,160 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117812276308722075",
+   "url": "https://x.com/CBSNews/status/2117812276308722075",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Roy Cooper took the stage for his victory speech after CBS News projected that he defeated Republican Michael Whatley in North Carolina's U.S. Senate race, flipping the seat previously held by retiring Republican Sen. Thom Tillis.\n\n“I will be your voice as your senator,” https://t.co/lMq0teXhO4",
+   "created_at": "2026-11-04T02:52:48.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117812219341668786",
+   "url": "https://x.com/NBCNews/status/2117812219341668786",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Maryland voters approve Question 3: Congressional redistricting rules, NBC News projects. https://t.co/Uv2sDLNUXK https://t.co/nThaxJN7rj",
+   "created_at": "2026-11-04T02:52:34.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117812176891060593",
+   "url": "https://x.com/DecisionDeskHQ/status/2117812176891060593",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Elaine Luria wins the VA US House 2 General Election\n\n#DecisionMade: 9:50 PM EST\n\nFollow live results here: https://t.co/D5w5L6enpQ https://t.co/MRNwEJkA8Y",
+   "created_at": "2026-11-04T02:52:24.000Z",
+   "races": [
+    "VA-02"
+   ]
+  },
+  {
+   "id": "2117811980534771725",
+   "url": "https://x.com/CBSNews/status/2117811980534771725",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Rebecca Bennett has won the race for U.S. House in New Jersey’s 7th Congressional District, defeating incumbent Republican Rep. Thomas Kean Jr. https://t.co/T5iaja99xp https://t.co/2SbG3qxq6p",
+   "created_at": "2026-11-04T02:51:37.000Z",
+   "races": [
+    "NJ-07"
+   ]
+  },
+  {
+   "id": "2117811811583992287",
+   "url": "https://x.com/FoxNews/status/2117811811583992287",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: Fox News can project that Republican Congressman Kevin Hern will win Oklahoma’s Senate race. This seat was recently held by Markwayne Mullin, who is now Secretary of Homeland Security. https://t.co/vnQwXCob9q",
+   "created_at": "2026-11-04T02:50:57.000Z",
+   "races": [
+    "OK Senate"
+   ]
+  },
+  {
+   "id": "2117811321190162688",
+   "url": "https://x.com/NBCNews/status/2117811321190162688",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Bill Hagerty wins re-election to the U.S. Senate in Tennessee, NBC News projects. https://t.co/vU52Y4Y3r5 https://t.co/acwywMCj96",
+   "created_at": "2026-11-04T02:49:00.000Z",
+   "races": [
+    "TN Senate"
+   ]
+  },
+  {
+   "id": "2117811138050052130",
+   "url": "https://x.com/DecisionDeskHQ/status/2117811138050052130",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Rebecca Bennett wins the NJ US House 7 General Election\n\n#DecisionMade: 9:46 PM EST\n\nFollow live results here: https://t.co/8oMAjY0AhL https://t.co/d8eYHum4A8",
+   "created_at": "2026-11-04T02:48:16.000Z",
+   "races": [
+    "NJ-07"
+   ]
+  },
+  {
+   "id": "2117810924178256110",
+   "url": "https://x.com/DecisionDeskHQ/status/2117810924178256110",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 32% in): Nebraska US House 1 \n\nChris Backemeyer (D): 45,049 (58.5%)\nMike Flood (R): 30,206 (39.2%)\n\nFollow more results here:\nhttps://t.co/smy3y2bhST https://t.co/QWVV2UeWW2",
+   "created_at": "2026-11-04T02:47:26.000Z",
+   "races": [
+    "NE-01"
+   ]
+  },
+  {
+   "id": "2117810660444627337",
+   "url": "https://x.com/DecisionDeskHQ/status/2117810660444627337",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 14% in): New York US House 17 \n\nCait Conley (D): 22,087 (54.1%)\nMichael Lawler (R): 18,760 (45.9%)\n\nFollow more results here:\nhttps://t.co/ERjoLuli6C https://t.co/snTTa2P9ou",
+   "created_at": "2026-11-04T02:46:23.000Z",
+   "races": [
+    "NY-17"
+   ]
+  },
+  {
+   "id": "2117810461995663736",
+   "url": "https://x.com/DecisionDeskHQ/status/2117810461995663736",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 21% in): New York US House 21 \n\nBlake Gendebien (D): 35,458 (58.5%)\nAnthony Constantino (R): 25,126 (41.5%)\n\nFollow more results here:\nhttps://t.co/POwOhxdVZa https://t.co/yvI5KrLZ1m",
+   "created_at": "2026-11-04T02:45:35.000Z",
+   "races": [
+    "NY-21"
+   ]
+  },
+  {
+   "id": "2117810319460274332",
+   "url": "https://x.com/CBSNews/status/2117810319460274332",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "RACE UPDATE: CBS News rates the race for U.S. Senate in Kansas as leans Democratic. https://t.co/T5iaja99xp https://t.co/xZCKGBVwMs",
+   "created_at": "2026-11-04T02:45:01.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117810229798941041",
+   "url": "https://x.com/DecisionDeskHQ/status/2117810229798941041",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 6% in): South Dakota US Senate \n\nMike Rounds (R): 14,574 (63.4%)\nBrian Bengs (I): 8,418 (36.6%)\n\nFollow more results here:\nhttps://t.co/J7pOOGpfU8 https://t.co/9YdgloR8eZ",
+   "created_at": "2026-11-04T02:44:40.000Z",
+   "races": [
+    "SD Senate"
+   ]
+  },
+  {
+   "id": "2117810012537995641",
+   "url": "https://x.com/DecisionDeskHQ/status/2117810012537995641",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 25% in): Wisconsin US House 3 \n\nRebecca Cooke (D): 45,580 (54.7%)\nDerrick Van Orden (R): 36,889 (44.2%)\n\nFollow more results here:\nhttps://t.co/gWLTB5Ucb4 https://t.co/MRuVwxTknv",
+   "created_at": "2026-11-04T02:43:48.000Z",
+   "races": [
+    "WI-03"
+   ]
+  },
+  {
+   "id": "2117809843708768357",
+   "url": "https://x.com/DecisionDeskHQ/status/2117809843708768357",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 28% in): Wisconsin US House 1 \n\nMitchell Berman (D): 43,375 (51.6%)\nBryan Steil (R): 40,761 (48.5%)\n\nFollow more results here:\nhttps://t.co/J0kwEYE3nx https://t.co/jZu7vLvhYv",
+   "created_at": "2026-11-04T02:43:08.000Z",
+   "races": [
+    "WI-01"
+   ]
+  },
   {
    "id": "2117808976247046321",
    "url": "https://x.com/NBCNews/status/2117808976247046321",
@@ -189,8 +343,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-14",
-    "FL-25"
+    "FL-25",
+    "FL-14"
    ]
   },
   {

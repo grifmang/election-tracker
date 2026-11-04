@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T02:41:24Z",
+ "generated": "2026-11-04T02:53:07Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
    "D": 10,
-   "R": 5,
+   "R": 6,
    "I": 0,
    "O": 0,
-   "called": 15,
+   "called": 16,
    "conflicting": 0
   },
   "House": {
-   "D": 10,
+   "D": 11,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 11,
+   "called": 12,
    "conflicting": 0
   }
  },
@@ -610,6 +610,16 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117808976247046321",
      "created_at": "2026-11-04T02:39:41.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117811138050052130",
+     "created_at": "2026-11-04T02:48:16.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117811980534771725",
+     "created_at": "2026-11-04T02:51:37.000Z"
     }
    ]
   },
@@ -638,6 +648,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117808344329068601",
      "created_at": "2026-11-04T02:37:10.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117811811583992287",
+     "created_at": "2026-11-04T02:50:57.000Z"
     }
    ]
   },
@@ -684,6 +699,20 @@
    ]
   },
   {
+   "race": "TN Senate",
+   "chamber": "Senate",
+   "winner_name": "Bill Hagerty",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117811321190162688",
+     "created_at": "2026-11-04T02:49:00.000Z"
+    }
+   ]
+  },
+  {
    "race": "TX-34",
    "chamber": "House",
    "winner_name": "Vicente Gonzalez",
@@ -718,6 +747,20 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117771423934476316",
      "created_at": "2026-11-04T00:10:28.000Z"
+    }
+   ]
+  },
+  {
+   "race": "VA-02",
+   "chamber": "House",
+   "winner_name": "Elaine Luria",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117812176891060593",
+     "created_at": "2026-11-04T02:52:24.000Z"
     }
    ]
   },
@@ -1545,6 +1588,24 @@
    "source": "x"
   },
   {
+   "race": "NJ-07",
+   "winner_name": "Rebecca Bennett",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117811138050052130",
+   "created_at": "2026-11-04T02:48:16.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NJ-07",
+   "winner_name": "Rebecca Bennett",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117811980534771725",
+   "created_at": "2026-11-04T02:51:37.000Z",
+   "source": "x"
+  },
+  {
    "race": "NY-13",
    "winner_name": "Darializa Avila Chevalier",
    "party": "D",
@@ -1560,6 +1621,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117808344329068601",
    "created_at": "2026-11-04T02:37:10.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OK Senate",
+   "winner_name": "Kevin Hern",
+   "party": "R",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117811811583992287",
+   "created_at": "2026-11-04T02:50:57.000Z",
    "source": "x"
   },
   {
@@ -1587,6 +1657,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117785247416816022",
    "created_at": "2026-11-04T01:05:24.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TN Senate",
+   "winner_name": "Bill Hagerty",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117811321190162688",
+   "created_at": "2026-11-04T02:49:00.000Z",
    "source": "x"
   },
   {
@@ -1623,6 +1702,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117771423934476316",
    "created_at": "2026-11-04T00:10:28.000Z",
+   "source": "x"
+  },
+  {
+   "race": "VA-02",
+   "winner_name": "Elaine Luria",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117812176891060593",
+   "created_at": "2026-11-04T02:52:24.000Z",
    "source": "x"
   },
   {
