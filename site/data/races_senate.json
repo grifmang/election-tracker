@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T03:57:17+00:00",
+ "generated": "2026-11-04T04:11:17+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383682680,
+ "wikipedia_revid": 1383684167,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -1183,7 +1183,7 @@
     "name": "Jon Husted",
     "party": "Republican"
    },
-   "status": "Interim appointee nominated",
+   "status": "Interim appointee lost election. Democratic gain.",
    "candidates": [
     {
      "name": "Sherrod Brown",
@@ -1292,18 +1292,8 @@
     "name": "Jeff Merkley",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
-    {
-     "name": "Gary Lyndon Dye",
-     "party": "Libertarian",
-     "note": null
-    },
-    {
-     "name": "Chris Henry",
-     "party": "Progressive",
-     "note": null
-    },
     {
      "name": "Jeff Merkley",
      "party": "Democratic",
@@ -1312,6 +1302,16 @@
     {
      "name": "David Brock Smith",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Gary Lyndon Dye",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Chris Henry",
+     "party": "Progressive",
      "note": null
     }
    ],
