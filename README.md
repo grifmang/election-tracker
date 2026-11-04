@@ -6,7 +6,7 @@
 - `RESEARCH.md` — sources, granularity, gaps
 Run: `pip install -r requirements.txt && python3 pipeline/run_all.py`
 
-## Election-night posts from X (Live results tab)
+## Election-night posts from X (News desks on X tab, `#news`)
 `site/data/x_feed.json` holds verbatim public posts from news-desk accounts on X, each linking to the original.
 GitHub Actions has no X access, so it's refreshed from the Grok Bot box: run the built-in X `search_posts_all` tool
 with the `QUERY` in `pipeline/x_feed_write.py` (`start_time` 2026-11-03T22:00:00Z, `sort_order` recency, `max_results` 100,

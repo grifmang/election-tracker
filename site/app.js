@@ -20,7 +20,9 @@ async function load(n){ try { const r = await fetch('data/'+n+'.json',{cache:'no
 document.querySelectorAll('nav button').forEach(b => b.onclick = () => {
   document.querySelectorAll('nav button,.tab').forEach(x => x.classList.remove('active'));
   b.classList.add('active'); $('#'+b.dataset.tab).classList.add('active'); location.hash = b.dataset.tab; });
-if (location.hash) { const b = document.querySelector(`nav button[data-tab="${location.hash.slice(1)}"]`); b && b.click(); }
+const goTab = id => { const b = document.querySelector(`nav button[data-tab="${id}"]`); if (b && !b.classList.contains('active')) { b.click(); scrollTo(0,0); } };
+if (location.hash) goTab(location.hash.slice(1));
+addEventListener('hashchange', () => goTab(location.hash.slice(1)));  // in-page links like #news switch tabs
 
 function sortable(tbl){ tbl.querySelectorAll('th').forEach((th,i) => th.onclick = () => {
   const rows=[...tbl.querySelectorAll('tbody tr')], asc = th.dataset.asc !== '1'; th.dataset.asc = asc?'1':'0';
@@ -132,7 +134,6 @@ function xfeed(){
     <blockquote>${esc(p.text)}</blockquote>
     <div class="src">${ext(p.url, 'View original post on X')}</div></article>`).join('');
 }
-document.addEventListener('click', e => { if (e.target.id === 'xjump') { e.preventDefault(); $('#xfeedhead').scrollIntoView({behavior:'smooth'}); } });
 function sources(){
   $('#srclist').innerHTML = `<ul>
   <li>Race lists, candidates, Senate ratings & poll-closing times: ${ext(D.house?.source, esc(D.house?.source))}, ${ext(D.sen?.source, esc(D.sen?.source))} (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>
@@ -140,7 +141,7 @@ function sources(){
   <li>District early vote: ${esc(D.evd?.note)}</li>
   <li>Competitive-district flags: ${esc(D.comp?.note)} ${ext(D.comp?.source, "csv")}</li>
   <li>Results: <a href="https://openamerica.io/elections/api/">Open America results feed</a> — official state counts, no projections.</li>
-  <li>Election-night posts (Live results tab): public posts from news-desk accounts on X (${esc((D.xf?.accounts||[]).map(h=>'@'+h).join(', '))}), quoted verbatim with a link to each original post. Race calls in those posts are the outlets' own.</li></ul>`;
+  <li>Election-night posts (News desks on X tab): public posts from news-desk accounts on X (${esc((D.xf?.accounts||[]).map(h=>'@'+h).join(', '))}), quoted verbatim with a link to each original post. Race calls in those posts are the outlets' own.</li></ul>`;
 }
 
 (async () => {
