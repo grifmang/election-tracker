@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:35:33Z",
+ "generated": "2026-11-04T04:45:04Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,196 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117840446671986906",
+   "url": "https://x.com/CBSNews/status/2117840446671986906",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Adam Hamilton has won the race for U.S. Senate in Kansas, defeating incumbent Republican Sen. Roger Marshall, CBS News projects. Hamilton will be the first Democrat elected to the U.S. Senate in Kansas since 1932. https://t.co/k6YJHQWk5I",
+   "created_at": "2026-11-04T04:44:44.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117840421778784714",
+   "url": "https://x.com/CBSNews/status/2117840421778784714",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrats were able to pick up the four seats needed to gain control of the Senate, with three major upsets in Texas, South Carolina and Kansas, as well as picking up seats in Ohio and North Carolina. The party also held onto Georgia and New Hampshire. https://t.co/T5iaja99xp https://t.co/YzaLmUdMJs",
+   "created_at": "2026-11-04T04:44:38.000Z",
+   "races": [
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117840353688486046",
+   "url": "https://x.com/CNN/status/2117840353688486046",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic state Rep. Josh Turek will flip Iowa's Senate seat, CNN projects, defeating GOP US Rep. Ashley Hinson and renewing the state's battleground status. Follow live updates. https://t.co/zs1g2cWZmA https://t.co/UF6MCzFfIf",
+   "created_at": "2026-11-04T04:44:22.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117840274525200439",
+   "url": "https://x.com/FoxNews/status/2117840274525200439",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: Democrats will gain control of the U.S. Senate, the Fox News Decision Desk can project.\n\nThey will win at least 51 seats, thanks to victories in North Carolina, South Carolina, Ohio, Texas, Kansas and now Iowa, where Democrat Josh Turek will defeat Republican Ashley https://t.co/A73RoxCvxg",
+   "created_at": "2026-11-04T04:44:03.000Z",
+   "races": [
+    "Senate control",
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117840100629283320",
+   "url": "https://x.com/NBCNews/status/2117840100629283320",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Don Davis wins re-election to the U.S. House in North Carolina's 1st Congressional District, NBC News projects. https://t.co/khZBK3t2ja https://t.co/U8hc1x4yLb",
+   "created_at": "2026-11-04T04:43:22.000Z",
+   "races": [
+    "NC-01"
+   ]
+  },
+  {
+   "id": "2117839722118533487",
+   "url": "https://x.com/FoxNews/status/2117839722118533487",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: Democrats will gain control of the U.S. Senate, the Fox News Decision Desk can project.\n\nThey will win at least 51 seats, thanks to victories in North Carolina, South Carolina, Ohio, Texas, Kansas and now Iowa, where Democrat Josh Turek will defeat Republican Ashley https://t.co/81PeunCVRL",
+   "created_at": "2026-11-04T04:41:51.000Z",
+   "races": [
+    "Senate control",
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117839514978664487",
+   "url": "https://x.com/NBCNews/status/2117839514978664487",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Mike Rounds wins re-election to the U.S. Senate in South Dakota, NBC News projects. https://t.co/CwUx9PZxh8 https://t.co/Er4pqBHQfP",
+   "created_at": "2026-11-04T04:41:02.000Z",
+   "races": [
+    "SD Senate"
+   ]
+  },
+  {
+   "id": "2117839438537535545",
+   "url": "https://x.com/AP/status/2117839438537535545",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Democrats have won the U.S. Senate, ending Republican dominance in Washington by harnessing voters' frustration with President Trump. https://t.co/4o6n9CT3lY",
+   "created_at": "2026-11-04T04:40:44.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117839386859499816",
+   "url": "https://x.com/NBCNews/status/2117839386859499816",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Sarah Trone Garriott wins U.S. House race in Iowa's 3rd Congressional District, NBC News projects. https://t.co/5uA18LQtLf https://t.co/FSND5RgsmV",
+   "created_at": "2026-11-04T04:40:32.000Z",
+   "races": [
+    "IA-03"
+   ]
+  },
+  {
+   "id": "2117839089445511673",
+   "url": "https://x.com/AP/status/2117839089445511673",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Democrat Josh Turek defeats Republican Rep. Ashley Hinson in Iowa Senate race, flipping a Republican-held seat. https://t.co/szC4uBdNpC https://t.co/b9sSvzwpHD",
+   "created_at": "2026-11-04T04:39:21.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117838492445159928",
+   "url": "https://x.com/CNN/status/2117838492445159928",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "BREAKING: Democrats will retake control of both the House and Senate, CNN projects, winning significant power to check the White House for the final two years of Donald Trump's presidency. Follow live updates. https://t.co/34g5qFVpVu https://t.co/qA2r4vW3gz",
+   "created_at": "2026-11-04T04:36:58.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117838348542718261",
+   "url": "https://x.com/CNN/status/2117838348542718261",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrat Adam Hamilton will win the Kansas Senate race, CNN projects. It's a seismic defeat of Republican Sen. Roger Marshall in a deep-red state. Follow live updates. https://t.co/oHdFJv6jsl https://t.co/6Iap9OLZVw",
+   "created_at": "2026-11-04T04:36:24.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117838337826590918",
+   "url": "https://x.com/ABC/status/2117838337826590918",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Texas Sen. John Cornyn congratulated Democrat James Talarico after ABC News projected Talarico will win the Texas Senate race over Republican Ken Paxton.\n\n ABC News' Jonathan Karl has more. https://t.co/mULKuoVHXM",
+   "created_at": "2026-11-04T04:36:21.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117838296097141048",
+   "url": "https://x.com/CNN/status/2117838296097141048",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrats in Georgia celebrate as CNN projects that Sen. Jon Ossoff will win reelection in Georgia, defeating Republican Rep. Mike Collins. CNN’s Victor Blackwell explains why the victory is so important for Democrats looking to regain control of the Senate. \n\nFollow live https://t.co/wy4UEWsfXm",
+   "created_at": "2026-11-04T04:36:11.000Z",
+   "races": [
+    "GA Senate",
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117838276300087722",
+   "url": "https://x.com/DecisionDeskHQ/status/2117838276300087722",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Lindsay James wins the IA US House 2 General Election\n\n#DecisionMade: 11:33 PM EST\n\nFollow live results here: https://t.co/Zj9WjZgR5b https://t.co/TyEWxb7UaG",
+   "created_at": "2026-11-04T04:36:07.000Z",
+   "races": [
+    "IA-02"
+   ]
+  },
+  {
+   "id": "2117838200941007050",
+   "url": "https://x.com/ABC/status/2117838200941007050",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrats will win enough seats to take control of the Senate, ABC News projects.  \n\nFollow live updates: https://t.co/OeRvYeNGL3",
+   "created_at": "2026-11-04T04:35:49.000Z",
+   "races": [
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117838073421869328",
+   "url": "https://x.com/Reuters/status/2117838073421869328",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "BREAKING: Democrats retake House and Senate majorities, seizing Republican strongholds as tens of millions of voters delivered a scathing rebuke to President Donald Trump https://t.co/ksFjvZq67O https://t.co/nZ957tQCpm",
+   "created_at": "2026-11-04T04:35:18.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
   {
    "id": "2117838031541383506",
    "url": "https://x.com/ABC/status/2117838031541383506",
@@ -3136,193 +3326,6 @@
    "created_at": "2026-11-04T01:00:30.000Z",
    "races": [
     "NH Senate"
-   ]
-  },
-  {
-   "id": "2117784001091920217",
-   "url": "https://x.com/FoxNews/status/2117784001091920217",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: The Fox News Decision Desk can project that in Georgia’s Senate race, Democratic Senator Jon Ossoff will defeat Republican congressman Mike Collins.",
-   "created_at": "2026-11-04T01:00:27.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117783750201274645",
-   "url": "https://x.com/AP/status/2117783750201274645",
-   "author_name": "The Associated Press",
-   "handle": "AP",
-   "text": "Democratic Sen. Jon Ossoff wins reelection from Georgia, defeating Republican challenger Rep. Mike Collins. https://t.co/szC4uBdNpC https://t.co/8IDTOfdsFu",
-   "created_at": "2026-11-04T00:59:27.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117783419786797439",
-   "url": "https://x.com/CookPolitical/status/2117783419786797439",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "Sen. Jon Ossoff (D) wins reelection in #GASen. \n\nCook Political Report race rating: Likely D",
-   "created_at": "2026-11-04T00:58:08.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117783092987334880",
-   "url": "https://x.com/CNN/status/2117783092987334880",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "Georgia Sen. Jon Ossoff will win reelection, CNN projects, defending a crucial Democratic seat that Republicans once considered a top pick-up opportunity. Follow live updates. https://t.co/afynvQoC3Y https://t.co/eIvdHsEpng",
-   "created_at": "2026-11-04T00:56:50.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117782122060460045",
-   "url": "https://x.com/DecisionDeskHQ/status/2117782122060460045",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Kathy Castor wins the FL US House 14 General Election\n\n#DecisionMade: 7:48 PM EST\n\nFollow live results here: https://t.co/1M3XqbJeNB https://t.co/CT3FUcF2vx",
-   "created_at": "2026-11-04T00:52:59.000Z",
-   "races": [
-    "FL-14"
-   ]
-  },
-  {
-   "id": "2117781877469712631",
-   "url": "https://x.com/CBSNews/status/2117781877469712631",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Democratic Sen. Jon Ossoff has won reelection against Republican Rep. Mike Collins in the state of Georgia, CBS News projects. https://t.co/y20sxOWnGi https://t.co/zICT3IXs8A",
-   "created_at": "2026-11-04T00:52:00.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117781475697332281",
-   "url": "https://x.com/DecisionDeskHQ/status/2117781475697332281",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 19% in): Ohio US House 7 \n\nBrian Poindexter (D): 44,721 (70.0%)\nMax Miller (R): 19,145 (30.0%)\n\nFollow more results here:\nhttps://t.co/S6XdyW9IwA https://t.co/qT3HmPmrCH",
-   "created_at": "2026-11-04T00:50:24.000Z",
-   "races": [
-    "OH-07"
-   ]
-  },
-  {
-   "id": "2117781426678677556",
-   "url": "https://x.com/Reuters/status/2117781426678677556",
-   "author_name": "Reuters",
-   "handle": "Reuters",
-   "text": "Incumbent Democrat Jon Ossoff wins Georgia's Senate race, news media project. Follow live updates on the US midterm elections: https://t.co/tTw7SuZJV5 https://t.co/GtXlCzat7j",
-   "created_at": "2026-11-04T00:50:13.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117781039972012091",
-   "url": "https://x.com/CBSNews/status/2117781039972012091",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "CBS News Executive Director of Elections & Surveys @SalvantoCBS breaks down the numbers in Georgia's Senate race, as CBS News projects Democrat Jon Ossoff has won reelection. https://t.co/T5iaja99xp https://t.co/ann9REMKDx",
-   "created_at": "2026-11-04T00:48:41.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117780576279150735",
-   "url": "https://x.com/CBSNews/status/2117780576279150735",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Democratic Sen. Jon Ossoff has won re-election against Republican Rep. Mike Collins in the state of Georgia, CBS News projects. https://t.co/y20sxOWnGi https://t.co/6s08KrXaHR",
-   "created_at": "2026-11-04T00:46:50.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117780140688093695",
-   "url": "https://x.com/NBCNews/status/2117780140688093695",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "Democratic Sen. Jon Ossoff has won re-election against Republican Rep. Mike Collins, NBC News projects, prevailing in Georgia after a nationally watched race that was defined, at times, by heated personal attacks. https://t.co/FjFttJvzlA",
-   "created_at": "2026-11-04T00:45:06.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117779806351679531",
-   "url": "https://x.com/ABC/status/2117779806351679531",
-   "author_name": "ABC News",
-   "handle": "ABC",
-   "text": "ABC News' Rick Klein breaks down the early voting numbers in Florida’s Senate race. https://t.co/pySH8jhYYf",
-   "created_at": "2026-11-04T00:43:46.000Z",
-   "races": [
-    "FL Senate (special)"
-   ]
-  },
-  {
-   "id": "2117779427585294578",
-   "url": "https://x.com/CBSNews/status/2117779427585294578",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Incumbent Democratic Sen. Jon Ossoff wins reelection to the U.S. Senate in Georgia, defeating Republican challenger Mike Collins, CBS News projects. https://t.co/T5iaja9HmX https://t.co/BGI6QS70gH",
-   "created_at": "2026-11-04T00:42:16.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117779372715258187",
-   "url": "https://x.com/AP/status/2117779372715258187",
-   "author_name": "The Associated Press",
-   "handle": "AP",
-   "text": "How could the midterm elections shape the rest of President Donald Trump’s term? AP’s White House reporter Michelle L. Price explains what's at stake in the fight for Congress. https://t.co/7U4KN7Vm80",
-   "created_at": "2026-11-04T00:42:03.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117778924373496295",
-   "url": "https://x.com/CBSNews/status/2117778924373496295",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "President Trump told CBS News' @costareports that he's prepared to use his executive powers and be \"Mr. Veto\" if Democrats take control of the House.\n\n\"He's willing to really push the Democrats to the brink should they win the House majority,\" Costa reports following a phone call https://t.co/hFs0MsvmNW",
-   "created_at": "2026-11-04T00:40:16.000Z",
-   "races": [
-    "House control"
-   ]
-  },
-  {
-   "id": "2117778867758977378",
-   "url": "https://x.com/CBSNews/status/2117778867758977378",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Incumbent Democratic Sen. Jon Ossoff wins reelection to the U.S. Senate in Georgia, defeating Republican challenger Mike Collins, CBS News projects. https://t.co/T5iaja9HmX https://t.co/ZhR1lYJIkJ",
-   "created_at": "2026-11-04T00:40:03.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117778451813855378",
-   "url": "https://x.com/DecisionDeskHQ/status/2117778451813855378",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 4% in): Ohio US Senate Special Election General\n\nSherrod Brown (D): 150,307 (69.6%)\nJon Husted (R): 59,982 (27.8%)\n\nFollow more results here:\nhttps://t.co/obCQndR1Ew https://t.co/9RJTRQpJOJ",
-   "created_at": "2026-11-04T00:38:23.000Z",
-   "races": [
-    "OH Senate (special)"
    ]
   }
  ]
