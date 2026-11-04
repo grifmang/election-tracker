@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:12:22Z",
+ "generated": "2026-11-04T03:21:31Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,204 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117819148000768047",
+   "url": "https://x.com/DecisionDeskHQ/status/2117819148000768047",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 2% in): Montana US Senate \n\nKurt Alme (R): 6,687 (57.9%)\nSeth Bodnar (I): 3,463 (30.0%)\nAlani Bankhead (D): 1,130 (9.8%)\n\nFollow more results here:\nhttps://t.co/Vd2tQYIhcm https://t.co/RQQgJBLZST",
+   "created_at": "2026-11-04T03:20:06.000Z",
+   "races": [
+    "MT Senate"
+   ]
+  },
+  {
+   "id": "2117819059387372010",
+   "url": "https://x.com/NBCNews/status/2117819059387372010",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Democrats win control of the House of Representatives with what could be its largest majority in nearly two decades, NBC News projects. https://t.co/BnkbzFDQfW",
+   "created_at": "2026-11-04T03:19:45.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117819049270780096",
+   "url": "https://x.com/ABC/status/2117819049270780096",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrats will win enough seats to take control of the House, ABC News projects. https://t.co/8z71SaNMc6 https://t.co/soBLxksDRr",
+   "created_at": "2026-11-04T03:19:43.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117818928693223556",
+   "url": "https://x.com/CBSNews/status/2117818928693223556",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democratic Rep. Josh Riley wins reelection to the U.S. House in New York’s 19th Congressional District, defeating Republican Peter Oberacker. https://t.co/T5iaja9HmX https://t.co/tSEWQWBOa1",
+   "created_at": "2026-11-04T03:19:14.000Z",
+   "races": [
+    "NY-19"
+   ]
+  },
+  {
+   "id": "2117818787424530777",
+   "url": "https://x.com/CBSNews/status/2117818787424530777",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrats will gain control of the House of Representatives. https://t.co/clRiJhcSFs",
+   "created_at": "2026-11-04T03:18:40.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117818668457271328",
+   "url": "https://x.com/NBCNews/status/2117818668457271328",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Bob Brooks wins U.S. House race in Pennsylvania's 7th Congressional District, NBC News projects. https://t.co/yCKJ2RWcTd https://t.co/O7Fq0tNvWi",
+   "created_at": "2026-11-04T03:18:12.000Z",
+   "races": [
+    "PA-07"
+   ]
+  },
+  {
+   "id": "2117818395496235483",
+   "url": "https://x.com/CBSNews/status/2117818395496235483",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Despite Elon Musk reportedly spending $168 million in Texas, CBS News projects the state's U.S. Senate race is leaning Democratic, with James Talarico holding a lead with 53% of the vote is counted.\n\nThe Texas governor's race is also leaning Democratic, with Gina Hinojosa leading https://t.co/2gNTYNR0bI",
+   "created_at": "2026-11-04T03:17:07.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117818360519950343",
+   "url": "https://x.com/DecisionDeskHQ/status/2117818360519950343",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Joanna Mendoza wins the AZ US House 6 General Election\n\n#DecisionMade: 10:12 PM EST\n\nFollow live results here: https://t.co/XM8VbQwxe2 https://t.co/8Xaw1SEQej",
+   "created_at": "2026-11-04T03:16:58.000Z",
+   "races": [
+    "AZ-06"
+   ]
+  },
+  {
+   "id": "2117818346812911804",
+   "url": "https://x.com/NBCNews/status/2117818346812911804",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Janelle Stelson wins U.S. House race in Pennsylvania's 10th Congressional District, NBC News projects. https://t.co/Zgwp4WoNWH https://t.co/N1CBfaxAxy",
+   "created_at": "2026-11-04T03:16:55.000Z",
+   "races": [
+    "PA-10"
+   ]
+  },
+  {
+   "id": "2117818202319151387",
+   "url": "https://x.com/CBSNews/status/2117818202319151387",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Annie Andrews defeated GOP Sen. Darline Graham in the South Carolina Senate race, CBS News projects, in a major upset and flipping a Senate seat for Democrats. The data desk team breaks down how Andrews won, including winning the vote of a majority of independents. https://t.co/Pw5MWJRkKU",
+   "created_at": "2026-11-04T03:16:21.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117818011352518979",
+   "url": "https://x.com/FoxNews/status/2117818011352518979",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that Democrat Annie Andrews will win South Carolina’s Senate race, defeating Republican Senator Darline Graham, who ran in honor of her late brother, Lindsey Graham.\n\nDemocrats didn’t invest heavily in this race, but poor turnout https://t.co/vJSFaz49PA",
+   "created_at": "2026-11-04T03:15:35.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117817971707961637",
+   "url": "https://x.com/CNN/status/2117817971707961637",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrat Annie Andrews will win the US Senate race in South Carolina, CNN projects, defeating Sen. Darline Graham and flipping a seat that Republicans have held for nearly three decades. Andrews will be the first woman elected to the US Senate from South Carolina. Follow live https://t.co/CGgct4oqtu",
+   "created_at": "2026-11-04T03:15:26.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117817837893104086",
+   "url": "https://x.com/DecisionDeskHQ/status/2117817837893104086",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects James Talarico wins the TX US Senate General Election\n\n#DecisionMade: 10:14 PM EST\n\nFollow live results here: https://t.co/O6f6RF1XKc https://t.co/lxmiHe8EJH",
+   "created_at": "2026-11-04T03:14:54.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117817613480812833",
+   "url": "https://x.com/NBCNews/status/2117817613480812833",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Democrats notched an upset victory in South Carolina’s Senate race, NBC News projects, with Annie Andrews toppling Republican Sen. Darline Graham, who was appointed earlier this year to succeed her late brother, longtime Sen. Lindsey Graham. https://t.co/2SR5Mcv7XD",
+   "created_at": "2026-11-04T03:14:00.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117817377341534690",
+   "url": "https://x.com/CNN/status/2117817377341534690",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "CNN projects that Zach Dembo will be the new congressman from Kentucky's 6th Congressional District, defeating Republican Ralph Alvarado. Follow live updates. https://t.co/Cvwff39N7R https://t.co/1Z4zT8ytRy",
+   "created_at": "2026-11-04T03:13:04.000Z",
+   "races": [
+    "KY-06"
+   ]
+  },
+  {
+   "id": "2117817344030368125",
+   "url": "https://x.com/FoxNews/status/2117817344030368125",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that Democrat Annie Andrews will win South Carolina’s Senate race, defeating Republican Senator Darline Graham, who ran in honor of her late brother, Lindsey Graham.\n\nDemocrats didn’t invest heavily in this race, but poor turnout https://t.co/KgVS5DGgYK",
+   "created_at": "2026-11-04T03:12:56.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117817266163085643",
+   "url": "https://x.com/NBCNews/status/2117817266163085643",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Barry Moore wins U.S. Senate race in Alabama, NBC News projects. https://t.co/TzUKYgJLGn https://t.co/BRSFc6BQER",
+   "created_at": "2026-11-04T03:12:38.000Z",
+   "races": [
+    "AL Senate"
+   ]
+  },
+  {
+   "id": "2117817215038750975",
+   "url": "https://x.com/CBSNews/status/2117817215038750975",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "BREAKING: Democrats win control of the U.S. House of Representatives, CBS News projects. https://t.co/EIPmYqt0MP",
+   "created_at": "2026-11-04T03:12:25.000Z",
+   "races": [
+    "House control"
+   ]
+  },
   {
    "id": "2117816607195984252",
    "url": "https://x.com/CBSNews/status/2117816607195984252",
@@ -596,8 +794,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-14",
-    "FL-25"
+    "FL-25",
+    "FL-14"
    ]
   },
   {

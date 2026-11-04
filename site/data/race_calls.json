@@ -1,25 +1,53 @@
 {
- "generated": "2026-11-04T03:12:22Z",
+ "generated": "2026-11-04T03:21:31Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
-   "D": 11,
-   "R": 7,
+   "D": 12,
+   "R": 8,
+   "I": 0,
+   "O": 0,
+   "called": 20,
+   "conflicting": 0
+  },
+  "House": {
+   "D": 17,
+   "R": 1,
    "I": 0,
    "O": 0,
    "called": 18,
    "conflicting": 0
-  },
-  "House": {
-   "D": 14,
-   "R": 1,
-   "I": 0,
-   "O": 0,
-   "called": 15,
-   "conflicting": 0
   }
  },
  "calls": [
+  {
+   "race": "AL Senate",
+   "chamber": "Senate",
+   "winner_name": "Barry Moore",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117817266163085643",
+     "created_at": "2026-11-04T03:12:38.000Z"
+    }
+   ]
+  },
+  {
+   "race": "AZ-06",
+   "chamber": "House",
+   "winner_name": "JoAnna Mendoza",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117818360519950343",
+     "created_at": "2026-11-04T03:16:58.000Z"
+    }
+   ]
+  },
   {
    "race": "CO Senate",
    "chamber": "Senate",
@@ -690,6 +718,20 @@
    ]
   },
   {
+   "race": "NY-19",
+   "chamber": "House",
+   "winner_name": "Josh Riley",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117818928693223556",
+     "created_at": "2026-11-04T03:19:14.000Z"
+    }
+   ]
+  },
+  {
    "race": "OK Senate",
    "chamber": "Senate",
    "winner_name": "Kevin Hern",
@@ -719,6 +761,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117807830388417016",
      "created_at": "2026-11-04T02:35:08.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117818668457271328",
+     "created_at": "2026-11-04T03:18:12.000Z"
     }
    ]
   },
@@ -733,6 +780,20 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
      "created_at": "2026-11-04T02:01:41.000Z"
+    }
+   ]
+  },
+  {
+   "race": "PA-10",
+   "chamber": "House",
+   "winner_name": "Janelle Stelson",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117818346812911804",
+     "created_at": "2026-11-04T03:16:55.000Z"
     }
    ]
   },
@@ -791,6 +852,26 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117816415457509578",
      "created_at": "2026-11-04T03:09:15.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117817344030368125",
+     "created_at": "2026-11-04T03:12:56.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117817971707961637",
+     "created_at": "2026-11-04T03:15:26.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117818011352518979",
+     "created_at": "2026-11-04T03:15:35.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117818202319151387",
+     "created_at": "2026-11-04T03:16:21.000Z"
     }
    ]
   },
@@ -819,6 +900,20 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117811321190162688",
      "created_at": "2026-11-04T02:49:00.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX Senate",
+   "chamber": "Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117817837893104086",
+     "created_at": "2026-11-04T03:14:54.000Z"
     }
    ]
   },
@@ -910,6 +1005,24 @@
  ],
  "conflicting": [],
  "claims": [
+  {
+   "race": "AL Senate",
+   "winner_name": "Barry Moore",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117817266163085643",
+   "created_at": "2026-11-04T03:12:38.000Z",
+   "source": "x"
+  },
+  {
+   "race": "AZ-06",
+   "winner_name": "JoAnna Mendoza",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117818360519950343",
+   "created_at": "2026-11-04T03:16:58.000Z",
+   "source": "x"
+  },
   {
    "race": "CO Senate",
    "winner_name": "John Hickenlooper",
@@ -1775,6 +1888,15 @@
    "source": "x"
   },
   {
+   "race": "NY-19",
+   "winner_name": "Josh Riley",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117818928693223556",
+   "created_at": "2026-11-04T03:19:14.000Z",
+   "source": "x"
+  },
+  {
    "race": "OK Senate",
    "winner_name": "Kevin Hern",
    "party": "R",
@@ -1802,12 +1924,30 @@
    "source": "x"
   },
   {
+   "race": "PA-07",
+   "winner_name": "Bob Brooks",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117818668457271328",
+   "created_at": "2026-11-04T03:18:12.000Z",
+   "source": "x"
+  },
+  {
    "race": "PA-08",
    "winner_name": "Paige Cognetti",
    "party": "D",
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
    "created_at": "2026-11-04T02:01:41.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-10",
+   "winner_name": "Janelle Stelson",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117818346812911804",
+   "created_at": "2026-11-04T03:16:55.000Z",
    "source": "x"
   },
   {
@@ -1883,6 +2023,42 @@
    "source": "x"
   },
   {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117817344030368125",
+   "created_at": "2026-11-04T03:12:56.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117817971707961637",
+   "created_at": "2026-11-04T03:15:26.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117818011352518979",
+   "created_at": "2026-11-04T03:15:35.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117818202319151387",
+   "created_at": "2026-11-04T03:16:21.000Z",
+   "source": "x"
+  },
+  {
    "race": "SD Senate",
    "winner_name": "Mike Rounds",
    "party": "R",
@@ -1898,6 +2074,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117811321190162688",
    "created_at": "2026-11-04T02:49:00.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117817837893104086",
+   "created_at": "2026-11-04T03:14:54.000Z",
    "source": "x"
   },
   {
