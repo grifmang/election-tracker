@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:21:31Z",
+ "generated": "2026-11-04T03:35:16Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,171 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117822641876738404",
+   "url": "https://x.com/CNN/status/2117822641876738404",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrats will take control of the House, CNN projects, breaking the GOP hold on power in Washington. Follow live updates. https://t.co/5D9OHk24yb https://t.co/jkklSGMWLd",
+   "created_at": "2026-11-04T03:33:59.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117822372409475440",
+   "url": "https://x.com/NBCNews/status/2117822372409475440",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Elaine Luria wins U.S. House race in Virginia's 2nd Congressional District, NBC News projects. https://t.co/WykTcDe3X7 https://t.co/hX4QNncjGa",
+   "created_at": "2026-11-04T03:32:55.000Z",
+   "races": [
+    "VA-02"
+   ]
+  },
+  {
+   "id": "2117822147447882204",
+   "url": "https://x.com/Reuters/status/2117822147447882204",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Democrats win majority control of US House, news media projects https://t.co/F0BBfBXX5p https://t.co/UtjJuu694G",
+   "created_at": "2026-11-04T03:32:01.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117822095245893932",
+   "url": "https://x.com/CBSNews/status/2117822095245893932",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrats will capture enough House seats to retake control of the chamber early next year, CBS News projects, effectively halting President Trump's legislative agenda and teeing up a wave of investigations into his administration and business ventures during his final two years https://t.co/mUMyJLx9i5",
+   "created_at": "2026-11-04T03:31:49.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117821648539877379",
+   "url": "https://x.com/DecisionDeskHQ/status/2117821648539877379",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Shannon Taylor wins the VA US House 1 General Election\n\n#DecisionMade: 10:28 PM EST\n\nFollow live results here: https://t.co/Fb8fpi8W5t https://t.co/lIsqylEgGA",
+   "created_at": "2026-11-04T03:30:02.000Z",
+   "races": [
+    "VA-01"
+   ]
+  },
+  {
+   "id": "2117821446068044252",
+   "url": "https://x.com/nytimes/status/2117821446068044252",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Breaking News: Democrats are favored to win control of the Senate, our live forecast shows, though a final call may not come for hours. Follow the Needle live here. https://t.co/BJ1uhYwSnL",
+   "created_at": "2026-11-04T03:29:14.000Z",
+   "races": [
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117820767664853093",
+   "url": "https://x.com/ABC/status/2117820767664853093",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrats will win enough seats to take control of the House, ABC News projects. https://t.co/WSJRO1fxf3",
+   "created_at": "2026-11-04T03:26:32.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117820590015099054",
+   "url": "https://x.com/DecisionDeskHQ/status/2117820590015099054",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 45% in): Ohio US House 9 \n\nDerek Merrin (R): 86,534 (59.6%)\nMarcy Kaptur (D): 58,735 (40.4%)\n\nFollow more results here:\nhttps://t.co/6lmxjBxChp https://t.co/9jv99MbuNp",
+   "created_at": "2026-11-04T03:25:50.000Z",
+   "races": [
+    "OH-09"
+   ]
+  },
+  {
+   "id": "2117820548528918706",
+   "url": "https://x.com/Reuters/status/2117820548528918706",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Watch party after Annie Andrews flips US Senate in South Carolina https://t.co/ybc5VJHD3D",
+   "created_at": "2026-11-04T03:25:40.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117820464009453748",
+   "url": "https://x.com/CBSNews/status/2117820464009453748",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Sen. Jon Ossoff called President Trump a “lame duck” during his victory speech after CBS News projected that he defeated GOP Rep. Mike Collins in the Georgia Senate race.\n\nOssoff, 39, was the sole Democrat seeking reelection in a state that President Trump won in 2024. https://t.co/LHn9PnAKRr",
+   "created_at": "2026-11-04T03:25:20.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117820173478666351",
+   "url": "https://x.com/CBSNews/status/2117820173478666351",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Traders on Kalshi, CBS News’ prediction market sponsor, are showing a spike in Texas favoring Democrat James Talarico for U.S. Senate as votes continue to be counted. https://t.co/LfuK9iITRI",
+   "created_at": "2026-11-04T03:24:11.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117820088128520214",
+   "url": "https://x.com/CBSNews/status/2117820088128520214",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrats retake House majority after 4 years. https://t.co/9WofnK8qjy",
+   "created_at": "2026-11-04T03:23:50.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117819955701748158",
+   "url": "https://x.com/ABC/status/2117819955701748158",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrats will win enough seats to take control of the House, ABC News projects. \n\nFollow live updates: https://t.co/emnh07cj2R",
+   "created_at": "2026-11-04T03:23:19.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117819948131131785",
+   "url": "https://x.com/CBSNews/status/2117819948131131785",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News rates the Texas Senate and gubernatorial races as \"Lean Democrat.\" Democratic Senate candidate James Talarico is \"doing really well\" in key North Texas counties, @edokeefe reports, and the gubernatorial candidates are \"essentially matching each other.\" https://t.co/ci528sok50",
+   "created_at": "2026-11-04T03:23:17.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117819614206083263",
+   "url": "https://x.com/FoxNews/status/2117819614206083263",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can make another projection in Arkansas. Republican Tom Cotton will win his Senate race against Democrat Hallie Shoffner.\n\nDownload the Fox News app now for live midterm election updates and race calls. https://t.co/Q8qTIP81ow https://t.co/dmfbGi4v34",
+   "created_at": "2026-11-04T03:21:57.000Z",
+   "races": [
+    "AR Senate"
+   ]
+  },
   {
    "id": "2117819148000768047",
    "url": "https://x.com/DecisionDeskHQ/status/2117819148000768047",
