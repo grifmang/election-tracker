@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:28:04Z",
+ "generated": "2026-11-04T01:31:09Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,182 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117791620493959409",
+   "url": "https://x.com/DecisionDeskHQ/status/2117791620493959409",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Jamie Ager wins the NC US House 11 General Election\n\n#DecisionMade: 8:28 PM EST\n\nFollow live results here: https://t.co/KA4YilBAX5 https://t.co/Ad15yBi0nB",
+   "created_at": "2026-11-04T01:30:43.000Z",
+   "races": [
+    "NC-11"
+   ]
+  },
+  {
+   "id": "2117791536280703195",
+   "url": "https://x.com/Reuters/status/2117791536280703195",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Democrat Chris Pappas holds New Hampshire Senate seat for Democrats, news media projects, as the party fights to take control of the chamber https://t.co/GJm9ZntkjK\n\nFollow for live election updates: https://t.co/YWpYhEEqE4 https://t.co/3BVT9PVTes",
+   "created_at": "2026-11-04T01:30:23.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117791533483118879",
+   "url": "https://x.com/AP/status/2117791533483118879",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Democrat Roy Cooper defeats Michael Whatley in North Carolina, flipping a Republican-held Senate seat. https://t.co/szC4uBdNpC https://t.co/CDDN7G2OBS",
+   "created_at": "2026-11-04T01:30:22.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117791533378195805",
+   "url": "https://x.com/DecisionDeskHQ/status/2117791533378195805",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Jamie Ager wins the NC US House 11 General Election\n\n#DecisionMade: 8:28 PM EST\n\nFollow live results here: https://t.co/KA4YilBAX5 https://t.co/fD4jVZWKb0",
+   "created_at": "2026-11-04T01:30:22.000Z",
+   "races": [
+    "NC-11"
+   ]
+  },
+  {
+   "id": "2117791476864389441",
+   "url": "https://x.com/ABC/status/2117791476864389441",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democratic former Gov. Roy Cooper will win the North Carolina Senate race, flipping the seat for Democrats, ABC News projects. \n\nFollow live updates: https://t.co/I6QBlTBN3k https://t.co/45vvu9Rsth",
+   "created_at": "2026-11-04T01:30:09.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117791470887240036",
+   "url": "https://x.com/nytimes/status/2117791470887240036",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Breaking News: Representative Chris Pappas has won a critical race for Democrats in New Hampshire, becoming the first openly gay man to win a U.S. Senate seat. https://t.co/noaBhIOyrT",
+   "created_at": "2026-11-04T01:30:07.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117791314192286015",
+   "url": "https://x.com/CBSNews/status/2117791314192286015",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democratic Sen. Jon Ossoff defeated GOP Rep. Mike Collins in the Georgia Senate race, CBS News projects, holding onto his seat in the upper chamber. https://t.co/qtIQbRzH7r",
+   "created_at": "2026-11-04T01:29:30.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117791244491379092",
+   "url": "https://x.com/AP/status/2117791244491379092",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Chris Pappas defeats John Sununu in New Hampshire U.S. Senate race, becoming the first openly gay male senator. https://t.co/szC4uBdNpC https://t.co/lPKtgRRG3z",
+   "created_at": "2026-11-04T01:29:14.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117791083581083998",
+   "url": "https://x.com/CookPolitical/status/2117791083581083998",
+   "author_name": "Cook Political Report",
+   "handle": "CookPolitical",
+   "text": "Rep. Jared Moskowitz (D) wins reelection in #FL25. \n\nCook Political Report race rating: Lean D",
+   "created_at": "2026-11-04T01:28:35.000Z",
+   "races": [
+    "FL-25"
+   ]
+  },
+  {
+   "id": "2117791031429095871",
+   "url": "https://x.com/CookPolitical/status/2117791031429095871",
+   "author_name": "Cook Political Report",
+   "handle": "CookPolitical",
+   "text": "Rep. Kathy Castor (D) wins reelection in #FL14 despite having been drawn into a district Trump would have won by 11 points. \n\nCook Political Report race rating: Toss Up.",
+   "created_at": "2026-11-04T01:28:23.000Z",
+   "races": [
+    "FL-14"
+   ]
+  },
+  {
+   "id": "2117790954329362681",
+   "url": "https://x.com/CNN/status/2117790954329362681",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic Rep. Chris Pappas will win New Hampshire's open Senate seat, CNN projects, making history as the first out gay man to be elected to the chamber. Follow live updates. https://t.co/VdWAIOr15i https://t.co/6IKmLafLM1",
+   "created_at": "2026-11-04T01:28:04.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117790888667562367",
+   "url": "https://x.com/DecisionDeskHQ/status/2117790888667562367",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Andy Barr wins the KY US Senate General Election\n\n#DecisionMade: 8:26 PM EST\n\nFollow live results here: https://t.co/LiJLmfWHOd https://t.co/5JixplVBYj",
+   "created_at": "2026-11-04T01:27:49.000Z",
+   "races": [
+    "KY Senate"
+   ]
+  },
+  {
+   "id": "2117790872138121651",
+   "url": "https://x.com/CBSNews/status/2117790872138121651",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democratic Rep. Chris Pappas has defeated former GOP Sen. John Sununu in the New Hampshire Senate race, CBS News projects, keeping the seat in Democratic control after Sen. Jeanne Shaheen's retirement. \nhttps://t.co/nGZpaGWO3v https://t.co/fVPZB4tg9N",
+   "created_at": "2026-11-04T01:27:45.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117790515835896015",
+   "url": "https://x.com/NBCNews/status/2117790515835896015",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Former Democratic Gov. Roy Cooper defeats former Republican National Committee Chairman Michael Whatley in the contest for North Carolina’s open Senate seat, NBC News projects. https://t.co/Gxzsk2WUvJ",
+   "created_at": "2026-11-04T01:26:20.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117790320423534659",
+   "url": "https://x.com/CBSNews/status/2117790320423534659",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Roy Cooper has won the race for U.S. Senate in North Carolina, defeating Republican Michael Whatley, CBS News projects. Cooper succeeds GOP Sen. Thom Tillis, who did not seek reelection. https://t.co/T5iaja9HmX https://t.co/IhWJ0MlEHL",
+   "created_at": "2026-11-04T01:25:33.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117790204023144733",
+   "url": "https://x.com/DecisionDeskHQ/status/2117790204023144733",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Roy Cooper wins the NC US Senate General Election\n\n#DecisionMade: 8:23 PM EST\n\nFollow live results here: https://t.co/rzOv0YSYrr https://t.co/gjqYShwqrP",
+   "created_at": "2026-11-04T01:25:05.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
   {
    "id": "2117790167146942472",
    "url": "https://x.com/CBSNews/status/2117790167146942472",

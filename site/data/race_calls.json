@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T01:27:37Z",
+ "generated": "2026-11-04T01:31:09Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
    "D": 9,
-   "R": 1,
+   "R": 2,
    "I": 0,
    "O": 0,
-   "called": 10,
+   "called": 11,
    "conflicting": 0
   },
   "House": {
-   "D": 3,
+   "D": 4,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 4,
+   "called": 5,
    "conflicting": 0
   }
  },
@@ -83,6 +83,11 @@
      "handle": "CookPolitical",
      "post_url": "https://x.com/CookPolitical/status/2117789476403495280",
      "created_at": "2026-11-04T01:22:12.000Z"
+    },
+    {
+     "handle": "CookPolitical",
+     "post_url": "https://x.com/CookPolitical/status/2117791031429095871",
+     "created_at": "2026-11-04T01:28:23.000Z"
     }
    ]
   },
@@ -131,6 +136,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117787943167205499",
      "created_at": "2026-11-04T01:16:06.000Z"
+    },
+    {
+     "handle": "CookPolitical",
+     "post_url": "https://x.com/CookPolitical/status/2117791083581083998",
+     "created_at": "2026-11-04T01:28:35.000Z"
     }
    ]
   },
@@ -240,6 +250,11 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117789973223260241",
      "created_at": "2026-11-04T01:24:10.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117791314192286015",
+     "created_at": "2026-11-04T01:29:30.000Z"
     }
    ]
   },
@@ -259,6 +274,20 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117785436957352350",
      "created_at": "2026-11-04T01:06:09.000Z"
+    }
+   ]
+  },
+  {
+   "race": "KY Senate",
+   "chamber": "Senate",
+   "winner_name": "Andy Barr",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117790888667562367",
+     "created_at": "2026-11-04T01:27:49.000Z"
     }
    ]
   },
@@ -287,6 +316,50 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117789862480740388",
      "created_at": "2026-11-04T01:23:44.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117790204023144733",
+     "created_at": "2026-11-04T01:25:05.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117790320423534659",
+     "created_at": "2026-11-04T01:25:33.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117790515835896015",
+     "created_at": "2026-11-04T01:26:20.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117791476864389441",
+     "created_at": "2026-11-04T01:30:09.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117791533483118879",
+     "created_at": "2026-11-04T01:30:22.000Z"
+    }
+   ]
+  },
+  {
+   "race": "NC-11",
+   "chamber": "House",
+   "winner_name": "Jamie Ager",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117791533378195805",
+     "created_at": "2026-11-04T01:30:22.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117791620493959409",
+     "created_at": "2026-11-04T01:30:43.000Z"
     }
    ]
   },
@@ -331,6 +404,26 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117790167146942472",
      "created_at": "2026-11-04T01:24:57.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117790872138121651",
+     "created_at": "2026-11-04T01:27:45.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117790954329362681",
+     "created_at": "2026-11-04T01:28:04.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117791244491379092",
+     "created_at": "2026-11-04T01:29:14.000Z"
+    },
+    {
+     "handle": "nytimes",
+     "post_url": "https://x.com/nytimes/status/2117791470887240036",
+     "created_at": "2026-11-04T01:30:07.000Z"
     }
    ]
   },
@@ -449,6 +542,15 @@
    "source": "x"
   },
   {
+   "race": "FL-14",
+   "winner_name": "Kathy Castor",
+   "party": "D",
+   "handle": "CookPolitical",
+   "post_url": "https://x.com/CookPolitical/status/2117791031429095871",
+   "created_at": "2026-11-04T01:28:23.000Z",
+   "source": "x"
+  },
+  {
    "race": "FL-22",
    "winner_name": "Pia Dandiya",
    "party": "D",
@@ -500,6 +602,15 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117787943167205499",
    "created_at": "2026-11-04T01:16:06.000Z",
+   "source": "x"
+  },
+  {
+   "race": "FL-25",
+   "winner_name": "Jared Moskowitz",
+   "party": "D",
+   "handle": "CookPolitical",
+   "post_url": "https://x.com/CookPolitical/status/2117791083581083998",
+   "created_at": "2026-11-04T01:28:35.000Z",
    "source": "x"
   },
   {
@@ -683,6 +794,15 @@
    "source": "x"
   },
   {
+   "race": "GA Senate",
+   "winner_name": "Jon Ossoff",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117791314192286015",
+   "created_at": "2026-11-04T01:29:30.000Z",
+   "source": "x"
+  },
+  {
    "race": "IL Senate",
    "winner_name": "Juliana Stratton",
    "party": "D",
@@ -701,6 +821,15 @@
    "source": "x"
   },
   {
+   "race": "KY Senate",
+   "winner_name": "Andy Barr",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117790888667562367",
+   "created_at": "2026-11-04T01:27:49.000Z",
+   "source": "x"
+  },
+  {
    "race": "MA Senate",
    "winner_name": "Ed Markey",
    "party": "D",
@@ -716,6 +845,69 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117789862480740388",
    "created_at": "2026-11-04T01:23:44.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117790204023144733",
+   "created_at": "2026-11-04T01:25:05.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117790320423534659",
+   "created_at": "2026-11-04T01:25:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117790515835896015",
+   "created_at": "2026-11-04T01:26:20.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117791476864389441",
+   "created_at": "2026-11-04T01:30:09.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117791533483118879",
+   "created_at": "2026-11-04T01:30:22.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC-11",
+   "winner_name": "Jamie Ager",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117791533378195805",
+   "created_at": "2026-11-04T01:30:22.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC-11",
+   "winner_name": "Jamie Ager",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117791620493959409",
+   "created_at": "2026-11-04T01:30:43.000Z",
    "source": "x"
   },
   {
@@ -779,6 +971,42 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117790167146942472",
    "created_at": "2026-11-04T01:24:57.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117790872138121651",
+   "created_at": "2026-11-04T01:27:45.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117790954329362681",
+   "created_at": "2026-11-04T01:28:04.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117791244491379092",
+   "created_at": "2026-11-04T01:29:14.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "nytimes",
+   "post_url": "https://x.com/nytimes/status/2117791470887240036",
+   "created_at": "2026-11-04T01:30:07.000Z",
    "source": "x"
   },
   {
