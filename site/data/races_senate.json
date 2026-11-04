@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T03:40:18+00:00",
+ "generated": "2026-11-04T03:57:17+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383679608,
+ "wikipedia_revid": 1383682680,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -109,7 +109,7 @@
     "name": "Tom Cotton",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
     {
      "name": "Tom Cotton",
@@ -1567,8 +1567,13 @@
     "name": "John Cornyn",
     "party": "Republican"
    },
-   "status": "Incumbent lost renomination in runoff",
+   "status": "Incumbent lost renomination in runoff. Democratic gain.",
    "candidates": [
+    {
+     "name": "James Talarico",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Ted Brown",
      "party": "Libertarian",
@@ -1577,11 +1582,6 @@
     {
      "name": "Ken Paxton",
      "party": "Republican",
-     "note": null
-    },
-    {
-     "name": "James Talarico",
-     "party": "Democratic",
      "note": null
     }
    ],
