@@ -10,7 +10,7 @@ Inputs may be the raw API JSON ({data, includes.users, meta}) or a tool-output f
 wrapped around that JSON. Posts are stored verbatim (exact text), never edited or paraphrased.
 Existing posts in x_feed.json are kept, so the feed accumulates. Prints "changed" or "unchanged".
 """
-import json, re, sys, datetime, pathlib
+import html, json, re, sys, datetime, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 OUT = ROOT / "site" / "data" / "x_feed.json"
@@ -43,7 +43,7 @@ def posts_from(obj):
         u = users.get(p.get("author_id"))
         if not u or u.get("username", "").lower() not in ALLOWED:
             continue
-        text = p.get("text") or ""
+        text = html.unescape(p.get("text") or "")  # API returns &amp; &lt; &gt; entity-encoded; store the literal text
         if not RELEVANT.search(re.sub(r"White House", "", text, flags=re.I)):
             continue
         if p.get("created_at", "") < START_TIME.replace("Z", ".000Z"):
