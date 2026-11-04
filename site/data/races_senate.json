@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T05:01:36+00:00",
+ "generated": "2026-11-04T09:24:42+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383689752,
+ "wikipedia_revid": 1383712382,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -391,8 +391,13 @@
     "name": "Jim Risch",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
+    {
+     "name": "Jim Risch",
+     "party": "Republican",
+     "note": null
+    },
     {
      "name": "Todd Achilles",
      "party": "Independent",
@@ -406,11 +411,6 @@
     {
      "name": "Matt Loesby",
      "party": "Libertarian",
-     "note": null
-    },
-    {
-     "name": "Jim Risch",
-     "party": "Republican",
      "note": null
     }
    ],
@@ -584,16 +584,16 @@
     "name": "Bill Cassidy",
     "party": "Republican"
    },
-   "status": "Incumbent lost renomination",
+   "status": "Incumbent lost renomination. Republican hold.",
    "candidates": [
-    {
-     "name": "Jamie Davis",
-     "party": "Democratic",
-     "note": null
-    },
     {
      "name": "Julia Letlow",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Jamie Davis",
+     "party": "Democratic",
      "note": null
     }
    ],
@@ -678,16 +678,16 @@
     "name": "Susan Collins",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent lost re-election. Democratic gain.",
    "candidates": [
-    {
-     "name": "Susan Collins",
-     "party": "Republican",
-     "note": null
-    },
     {
      "name": "Troy Jackson",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Susan Collins",
+     "party": "Republican",
      "note": null
     }
    ],
@@ -720,16 +720,21 @@
     "name": "Gary Peters",
     "party": "Democratic"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Democratic hold.",
    "candidates": [
-    {
-     "name": "Lydia Christensen",
-     "party": "Libertarian",
-     "note": null
-    },
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Mike Rogers",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Lydia Christensen",
+     "party": "Libertarian",
      "note": null
     },
     {
@@ -745,11 +750,6 @@
     {
      "name": "Douglas P. Marsh",
      "party": "Green",
-     "note": null
-    },
-    {
-     "name": "Mike Rogers",
-     "party": "Republican",
      "note": null
     }
    ],
@@ -782,7 +782,7 @@
     "name": "Tina Smith",
     "party": "DFL"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. DFL hold.",
    "candidates": [
     {
      "name": "Peggy Flanagan",
@@ -790,13 +790,13 @@
      "note": null
     },
     {
-     "name": "Marisa Simonetti",
-     "party": "Independent",
+     "name": "Michele Tafoya",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Michele Tafoya",
-     "party": "Republican",
+     "name": "Marisa Simonetti",
+     "party": "Independent",
      "note": null
     },
     {
@@ -881,7 +881,7 @@
     "name": "Steve Daines",
     "party": "Republican"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Republican hold.",
    "candidates": [
     {
      "name": "Kurt Alme",
@@ -889,8 +889,8 @@
      "note": null
     },
     {
-     "name": "Kyle Austin",
-     "party": "Libertarian",
+     "name": "Seth Bodnar",
+     "party": "Independent",
      "note": null
     },
     {
@@ -899,8 +899,8 @@
      "note": null
     },
     {
-     "name": "Seth Bodnar",
-     "party": "Independent",
+     "name": "Kyle Austin",
+     "party": "Libertarian",
      "note": null
     }
    ],
@@ -985,8 +985,18 @@
     "name": "Pete Ricketts",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
+    {
+     "name": "Pete Ricketts",
+     "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Dan Osborn",
+     "party": "Independent",
+     "note": null
+    },
     {
      "name": "Chuck Conboy",
      "party": "America First",
@@ -998,18 +1008,8 @@
      "note": null
     },
     {
-     "name": "Dan Osborn",
-     "party": "Independent",
-     "note": null
-    },
-    {
      "name": "Robin Richards",
      "party": "Working People",
-     "note": null
-    },
-    {
-     "name": "Pete Ricketts",
-     "party": "Republican",
      "note": null
     }
    ],
@@ -1243,6 +1243,11 @@
      "note": null
     },
     {
+     "name": "N'Kiyla Jasmine Thomas",
+     "party": "Democratic",
+     "note": null
+    },
+    {
      "name": "Ron Meinhardt",
      "party": "Independent",
      "note": null
@@ -1250,11 +1255,6 @@
     {
      "name": "Curtis Stinnett",
      "party": "Independent",
-     "note": null
-    },
-    {
-     "name": "N'Kiyla Jasmine Thomas",
-     "party": "Democratic",
      "note": null
     },
     {
