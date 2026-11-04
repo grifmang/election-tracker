@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:58:59Z",
+ "generated": "2026-11-04T02:01:47Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -411,6 +411,11 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117794909625192921",
      "created_at": "2026-11-04T01:43:47.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117799223689122088",
+     "created_at": "2026-11-04T02:00:56.000Z"
     }
    ]
   },
@@ -1125,6 +1130,15 @@
    "handle": "ABC",
    "post_url": "https://x.com/ABC/status/2117794909625192921",
    "created_at": "2026-11-04T01:43:47.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117799223689122088",
+   "created_at": "2026-11-04T02:00:56.000Z",
    "source": "x"
   },
   {

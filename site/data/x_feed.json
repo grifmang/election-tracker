@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:58:59Z",
+ "generated": "2026-11-04T02:01:47Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,40 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117799223689122088",
+   "url": "https://x.com/CNN/status/2117799223689122088",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Former Gov. Roy Cooper will win the Senate race in North Carolina, CNN projects, defeating Republican Michael Whatley for a seat that had long evaded Democrats. CNN's Jessica Dean reports from the Cooper campaign in Raleigh.\n\nFollow live updates. https://t.co/V8IvFjWmXp https://t.co/OZPmnEnsow",
+   "created_at": "2026-11-04T02:00:56.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117799151584874672",
+   "url": "https://x.com/FoxNews/status/2117799151584874672",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk projects that Republican Rep. Andy Barr will be the next senator from Kentucky, defeating Democrat Charles Booker.\n\nBarr will fill the seat left by former Senate Majority Leader Mitch McConnell.\n\nIn West Virginia, the Fox News Decision Desk https://t.co/5OmCE4fYCr",
+   "created_at": "2026-11-04T02:00:39.000Z",
+   "races": [
+    "KY Senate",
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117798987927367836",
+   "url": "https://x.com/DecisionDeskHQ/status/2117798987927367836",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 23% in): Pennsylvania US House 1 \n\nBob Harvie (D): 61,260 (67.2%)\nBrian Fitzpatrick (R): 29,925 (32.8%)\n\nFollow more results here:\nhttps://t.co/YmvrMUSw7E https://t.co/GopJPERJAw",
+   "created_at": "2026-11-04T02:00:00.000Z",
+   "races": [
+    "PA-01"
+   ]
+  },
   {
    "id": "2117798572662075506",
    "url": "https://x.com/ABC/status/2117798572662075506",
