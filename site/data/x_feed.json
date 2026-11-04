@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:12:04Z",
+ "generated": "2026-11-04T01:17:49Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,240 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117788168728498600",
+   "url": "https://x.com/DecisionDeskHQ/status/2117788168728498600",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Anna Paulina Luna wins the FL US House 13 General Election\n\n#DecisionMade: 8:16 PM EST\n\nFollow live results here: https://t.co/G2trlGAaMz https://t.co/e9d0lVgWdU",
+   "created_at": "2026-11-04T01:17:00.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117788097567932923",
+   "url": "https://x.com/CBSNews/status/2117788097567932923",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Texas Rep. Jasmine Crockett weighs in on the Texas Senate race between Democrat James Talarico and Republican Ken Paxton.\n\n\"I do believe that him [Donald Trump] saying 'pretend I'm on the ballot,' the Democrats heard it. I don't know if the Republicans heard it.\" https://t.co/SlECFOUiAD",
+   "created_at": "2026-11-04T01:16:43.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117787943167205499",
+   "url": "https://x.com/CBSNews/status/2117787943167205499",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democratic Rep. Jared Moskowitz wins reelection to the U.S. House in Florida’s 25th Congressional District. https://t.co/T5iaja99xp https://t.co/paX6WPHZ8X",
+   "created_at": "2026-11-04T01:16:06.000Z",
+   "races": [
+    "FL-25"
+   ]
+  },
+  {
+   "id": "2117787689340584284",
+   "url": "https://x.com/CBSNews/status/2117787689340584284",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "President Trump told CBS News' Robert Costa that he's prepared to use his executive powers and be \"Mr. Veto\" if Democrats take control of the House.\n\n\"He's willing to really push the Democrats to the brink should they win the House majority,\" @costareports. following a phone call https://t.co/LmEh43hssu",
+   "created_at": "2026-11-04T01:15:06.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117787601856008477",
+   "url": "https://x.com/CookPolitical/status/2117787601856008477",
+   "author_name": "Cook Political Report",
+   "handle": "CookPolitical",
+   "text": "Rep. Jared Moskowitz (D) wins reelection in #FL-25. \n\nCook Political Report race rating: Lean D",
+   "created_at": "2026-11-04T01:14:45.000Z",
+   "races": [
+    "FL-25"
+   ]
+  },
+  {
+   "id": "2117787568028713393",
+   "url": "https://x.com/DecisionDeskHQ/status/2117787568028713393",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 2% in): Michigan US Senate \n\nAbdul El-Sayed (D): 78,372 (66.5%)\nMike Rogers (R): 37,623 (31.9%)\n\nFollow more results here:\nhttps://t.co/C4yzdNBVPS https://t.co/xnb27lZS3C",
+   "created_at": "2026-11-04T01:14:37.000Z",
+   "races": [
+    "MI Senate",
+    "AL-03"
+   ]
+  },
+  {
+   "id": "2117787492766142841",
+   "url": "https://x.com/Reuters/status/2117787492766142841",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "US midterm election results reshaping Congress https://t.co/1PMfxH1wc5",
+   "created_at": "2026-11-04T01:14:19.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117787335311962484",
+   "url": "https://x.com/nytimes/status/2117787335311962484",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Breaking News: Senator Jon Ossoff of Georgia, whose race was a must-win for Democrats, easily won re-election on Tuesday, according to The Associated Press, decisively securing a seat that could help give his party control of the Senate. https://t.co/2rfGk2PCHF",
+   "created_at": "2026-11-04T01:13:41.000Z",
+   "races": [
+    "GA Senate",
+    "Senate control"
+   ]
+  },
+  {
+   "id": "2117787330044125656",
+   "url": "https://x.com/DecisionDeskHQ/status/2117787330044125656",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 0% in): Kansas US Senate \n\nRoger Marshall (R): 459 (69.6%)\nAdam Hamilton (D): 190 (28.8%)\n\nFollow more results here:\nhttps://t.co/3OoVQxxvWo https://t.co/b1LjohuGjE",
+   "created_at": "2026-11-04T01:13:40.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117787225962221760",
+   "url": "https://x.com/nytimes/status/2117787225962221760",
+   "author_name": "The New York Times",
+   "handle": "nytimes",
+   "text": "Our real-time election forecast will estimate which party will control the House and the Senate. Follow the Needle live. https://t.co/QdRNw8QLlL",
+   "created_at": "2026-11-04T01:13:15.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117786978045292882",
+   "url": "https://x.com/CNN/status/2117786978045292882",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic Rep. Jared Moskowitz will win Florida's newly redrawn 25th Congressional District, CNN projects, defeating Republican Scott Singer. Follow live updates. https://t.co/dI4AdhxLgK https://t.co/hoFHJN5aKf",
+   "created_at": "2026-11-04T01:12:16.000Z",
+   "races": [
+    "FL-25"
+   ]
+  },
+  {
+   "id": "2117786853826867305",
+   "url": "https://x.com/CBSNews/status/2117786853826867305",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News’ Anthony Salvanto and Nicole Kagan, Kalshi’s head of research, CBS News’ prediction market sponsor, take a look at how the markets are moving on South Carolina and Iowa’s Senate races. https://t.co/qTz10SMMLV",
+   "created_at": "2026-11-04T01:11:47.000Z",
+   "races": [
+    "IA Senate",
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117786295422373951",
+   "url": "https://x.com/ABC/status/2117786295422373951",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democratic Sen. Jon Ossoff will defeat Republican Rep. Mike Collins in the Georgia Senate race, ABC News projects. \n \nFollow live updates: https://t.co/aCiBiqZfiu",
+   "created_at": "2026-11-04T01:09:34.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117785599054872635",
+   "url": "https://x.com/DecisionDeskHQ/status/2117785599054872635",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Pia Dandiya wins the FL US House 22 General Election\n\n#DecisionMade: 8:05 PM EST\n\nFollow live results here: https://t.co/6S3hFyitO3 https://t.co/P7OGVjemPQ",
+   "created_at": "2026-11-04T01:06:48.000Z",
+   "races": [
+    "FL-22"
+   ]
+  },
+  {
+   "id": "2117785584387133646",
+   "url": "https://x.com/NBCNews/status/2117785584387133646",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Jared Moskowitz wins re-election to the U.S. House in Florida's 25th Congressional District, NBC News projects. https://t.co/M7acPeejIf https://t.co/Ilgefjq1VM",
+   "created_at": "2026-11-04T01:06:44.000Z",
+   "races": [
+    "FL-25"
+   ]
+  },
+  {
+   "id": "2117785436957352350",
+   "url": "https://x.com/CBSNews/status/2117785436957352350",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Juliana Stratton has won the race for U.S. Senate in Illinois, CBS News projects. https://t.co/T5iaja99xp https://t.co/TY4DlHVEeM",
+   "created_at": "2026-11-04T01:06:09.000Z",
+   "races": [
+    "IL Senate"
+   ]
+  },
+  {
+   "id": "2117785317298331697",
+   "url": "https://x.com/ABC/status/2117785317298331697",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democratic Sen. Jon Ossoff will defeat Republican Rep. Mike Collins in the Georgia Senate race, ABC News projects. \n \nFollow live updates: https://t.co/oqsJS6k39W https://t.co/EDZkbVdCLS",
+   "created_at": "2026-11-04T01:05:40.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117785247416816022",
+   "url": "https://x.com/NBCNews/status/2117785247416816022",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Jack Reed wins re-election to the U.S. Senate in Rhode Island, NBC News projects. https://t.co/OC3257rtsB https://t.co/vUOd7OLH3X",
+   "created_at": "2026-11-04T01:05:24.000Z",
+   "races": [
+    "RI Senate"
+   ]
+  },
+  {
+   "id": "2117785127103107291",
+   "url": "https://x.com/NBCNews/status/2117785127103107291",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Cory Booker wins re-election to the U.S. Senate in New Jersey, NBC News projects. https://t.co/W9wHcHl8pq https://t.co/q3NFBtoQ2d",
+   "created_at": "2026-11-04T01:04:55.000Z",
+   "races": [
+    "NJ Senate"
+   ]
+  },
+  {
+   "id": "2117785110418456705",
+   "url": "https://x.com/DecisionDeskHQ/status/2117785110418456705",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Jared Moskowitz wins the FL US House 25 General Election\n\n#DecisionMade: 8:04 PM EST\n\nFollow live results here: https://t.co/ZmkrfBB5o4 https://t.co/DN0QzQxrxs",
+   "created_at": "2026-11-04T01:04:51.000Z",
+   "races": [
+    "FL-25"
+   ]
+  },
+  {
+   "id": "2117784931212349912",
+   "url": "https://x.com/DecisionDeskHQ/status/2117784931212349912",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 9% in): Texas US Senate \n\nJames Talarico (D): 615,255 (67.0%)\nKen Paxton (R): 290,197 (31.6%)\n\nFollow more results here:\nhttps://t.co/BKqhwAWw4P https://t.co/v7Nu39kOyG",
+   "created_at": "2026-11-04T01:04:08.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
   {
    "id": "2117784679135015322",
    "url": "https://x.com/CBSNews/status/2117784679135015322",
@@ -443,239 +677,6 @@
    "created_at": "2026-11-04T00:18:28.000Z",
    "races": [
     "GA Senate"
-   ]
-  },
-  {
-   "id": "2117773146082156771",
-   "url": "https://x.com/DecisionDeskHQ/status/2117773146082156771",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 9% in): Georgia US Senate \n\nJon Ossoff (D): 299,970 (78.3%)\nMike Collins (R): 83,205 (21.7%)\n\nFollow more results here:\nhttps://t.co/iO0684Rw5Y https://t.co/CO3YKhKJDN",
-   "created_at": "2026-11-04T00:17:19.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117772949922939031",
-   "url": "https://x.com/DecisionDeskHQ/status/2117772949922939031",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 44% in): Florida US House 25 \n\nJared Moskowitz (D): 67,446 (55.9%)\nScott Singer (R): 50,871 (42.2%)\n\nFollow more results here:\nhttps://t.co/ldK6bLq45V https://t.co/zhBNuL9jbD",
-   "created_at": "2026-11-04T00:16:32.000Z",
-   "races": [
-    "FL-25"
-   ]
-  },
-  {
-   "id": "2117772744385327342",
-   "url": "https://x.com/DecisionDeskHQ/status/2117772744385327342",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 78% in): Florida US House 27 \n\nEliott Rodriguez (D): 91,533 (51.8%)\nMaria Salazar (R): 85,285 (48.2%)\n\nFollow more results here:\nhttps://t.co/NXQ3APpxwi https://t.co/xivO2UT0fZ",
-   "created_at": "2026-11-04T00:15:43.000Z",
-   "races": [
-    "FL-27"
-   ]
-  },
-  {
-   "id": "2117771965339504887",
-   "url": "https://x.com/CBSNews/status/2117771965339504887",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "\"I have the ultimate power — it's called 'veto,'\" President Trump told CBS News in an exclusive phone interview before polls closed across the country in this year's midterm elections, when asked about the prospect of a Democratic-controlled Congress next year.\n\nTrump says he is https://t.co/PahZ38THnB",
-   "created_at": "2026-11-04T00:12:37.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117771896242782257",
-   "url": "https://x.com/DecisionDeskHQ/status/2117771896242782257",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 29% in): Florida US House 22 \n\nPia Dandiya (D): 54,990 (63.3%)\nCasey Askar (R): 31,846 (36.7%)\n\nFollow more results here:\nhttps://t.co/El2czVChws https://t.co/5zByZYb4RV",
-   "created_at": "2026-11-04T00:12:21.000Z",
-   "races": [
-    "FL-22"
-   ]
-  },
-  {
-   "id": "2117771423934476316",
-   "url": "https://x.com/NBCNews/status/2117771423934476316",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "BREAKING: Democrat Mark Warner wins re-election to the U.S. Senate in Virginia, NBC News projects. https://t.co/9D72Ib1uby https://t.co/O27Rn2OcVa",
-   "created_at": "2026-11-04T00:10:28.000Z",
-   "races": [
-    "VA Senate"
-   ]
-  },
-  {
-   "id": "2117771414971338868",
-   "url": "https://x.com/DecisionDeskHQ/status/2117771414971338868",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 0% in): Virginia US House 5\n\nJohn McGuire III (R): 323 (68.3%)\nTom Perriello (D): 145 (30.7%)\n\nFollow more results here:\nhttps://t.co/CWWpSdwXsl https://t.co/LttglIX4GK",
-   "created_at": "2026-11-04T00:10:26.000Z",
-   "races": [
-    "VA-05"
-   ]
-  },
-  {
-   "id": "2117771337775157362",
-   "url": "https://x.com/CNN/status/2117771337775157362",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "House Democratic Leader Hakeem Jeffries told phone bankers in Washington the country is 'on the brink of a dramatic change of direction.' https://t.co/zW2V62DOj4",
-   "created_at": "2026-11-04T00:10:07.000Z",
-   "races": [
-    "NY-08"
-   ]
-  },
-  {
-   "id": "2117770354995106240",
-   "url": "https://x.com/DecisionDeskHQ/status/2117770354995106240",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 4% in): Florida US House 13 \n\nLeela Gray (D): 5,748 (49.9%)\nAnna Paulina Luna (R): 5,550 (48.2%)\n\nFollow more results here:\nhttps://t.co/Msl38FPOGQ https://t.co/vUzziozbrm",
-   "created_at": "2026-11-04T00:06:13.000Z",
-   "races": [
-    "FL-13"
-   ]
-  },
-  {
-   "id": "2117770201085395122",
-   "url": "https://x.com/CookPolitical/status/2117770201085395122",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "Polls close in GA at 7 p.m. ET and in NC at 7:30. If the margins for Dems in one or both are in the double-digit range, Dems will feel hopeful about their chances in must-win Senate seats in Texas and Ohio. \n\nRead and bookmark our Senate watch guide: https://t.co/rM2ndWQuu3",
-   "created_at": "2026-11-04T00:05:36.000Z",
-   "races": [
-    "OH Senate (special)",
-    "TX Senate"
-   ]
-  },
-  {
-   "id": "2117770085846622383",
-   "url": "https://x.com/CBSNews/status/2117770085846622383",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "At poll closing, CBS News rates the race for U.S. Senate in South Carolina as a toss up. https://t.co/T5iaja99xp https://t.co/btdvQvl6fW",
-   "created_at": "2026-11-04T00:05:09.000Z",
-   "races": [
-    "SC Senate"
-   ]
-  },
-  {
-   "id": "2117769816220258376",
-   "url": "https://x.com/FoxNews/status/2117769816220258376",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: Polls have closed in Georgia, Indiana, Kentucky, South Carolina, Vermont, and Virginia.\n\nVote counting is underway, with control of Congress on the line as Republicans and Democrats await the first results from key races nationwide.\n\nThe night is just getting started, https://t.co/PihINcsQL1",
-   "created_at": "2026-11-04T00:04:05.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117769761723498987",
-   "url": "https://x.com/CBSNews/status/2117769761723498987",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "Democrat Mark Warner has won reelection to the U.S. Senate in Virginia, CBS News projects. https://t.co/T5iaja99xp https://t.co/E6pVPpPdec",
-   "created_at": "2026-11-04T00:03:52.000Z",
-   "races": [
-    "VA Senate"
-   ]
-  },
-  {
-   "id": "2117769682510127334",
-   "url": "https://x.com/CBSNews/status/2117769682510127334",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "At poll closing, CBS News rates the race for U.S. Senate in Georgia as leans Democratic. https://t.co/6ZCkdGgoMc",
-   "created_at": "2026-11-04T00:03:33.000Z",
-   "races": [
-    "GA Senate"
-   ]
-  },
-  {
-   "id": "2117769662146781566",
-   "url": "https://x.com/DecisionDeskHQ/status/2117769662146781566",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 2% in): Florida US Senate Special Election General\n\nAshley Moody (R): 125,078 (65.7%)\nAngie Nixon (D): 63,317 (33.3%)\n\nFollow more results here:\nhttps://t.co/BrgFMM2E5p https://t.co/wST5HhqeyH",
-   "created_at": "2026-11-04T00:03:28.000Z",
-   "races": [
-    "FL Senate (special)"
-   ]
-  },
-  {
-   "id": "2117769268796522621",
-   "url": "https://x.com/DecisionDeskHQ/status/2117769268796522621",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "Decision Desk HQ projects Mark Warner wins the VA US Senate General Election\n\n#DecisionMade: 7:00 PM EST\n\nFollow live results here: https://t.co/rBAsTXm6yy https://t.co/YlcheI8O1j",
-   "created_at": "2026-11-04T00:01:54.000Z",
-   "races": [
-    "VA Senate"
-   ]
-  },
-  {
-   "id": "2117767810223108273",
-   "url": "https://x.com/CookPolitical/status/2117767810223108273",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "Polls are about to close in most of Florida, which more so than any other state, will play a crucial role in determining House control.  \n\nRead and bookmark our hour-by-hour House guide: https://t.co/Y3jzUlFuA5",
-   "created_at": "2026-11-03T23:56:06.000Z",
-   "races": [
-    "House control"
-   ]
-  },
-  {
-   "id": "2117765955963031807",
-   "url": "https://x.com/DecisionDeskHQ/status/2117765955963031807",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 5% in): Kentucky US House 6 \n\nZach Dembo (D): 6,924 (51.0%)\nRalph Alvarado (R): 6,298 (46.4%)\n\nFollow more results here:\nhttps://t.co/1M5v9LkrKU https://t.co/nMcNfOQh0N",
-   "created_at": "2026-11-03T23:48:44.000Z",
-   "races": [
-    "KY-06"
-   ]
-  },
-  {
-   "id": "2117763816843100661",
-   "url": "https://x.com/DecisionDeskHQ/status/2117763816843100661",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Balance of Power Update: House (6:40 PM)\nDemocrats: 2\nRepublicans: 4\n\nFollow more results here: https://t.co/Qkk8JsElNQ https://t.co/o5SSi85iuc",
-   "created_at": "2026-11-03T23:40:14.000Z",
-   "races": [
-    "House control"
-   ]
-  },
-  {
-   "id": "2117763783015755902",
-   "url": "https://x.com/NBCNews/status/2117763783015755902",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "As of 5p.m. ET: Three-quarters of voters say they disapprove of the way Congress is handling its job, while nearly 6 in 10 disapprove of the performance of the Supreme Court and ICE, according to preliminary results from the NBC News Exit Poll. https://t.co/Avnlo1pqv2 https://t.co/9TU2scSdQq",
-   "created_at": "2026-11-03T23:40:06.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117763652505727444",
-   "url": "https://x.com/CNN/status/2117763652505727444",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "Incumbent Republican Sen. Dan Sullivan said Tuesday that thousands of Alaskans could \"throw away their vote\" over confusion for another Dan Sullivan on the ballot. The GOP senator accused Democratic Senate candidate Mary Peltola and Minority Leader Chuck Schumer of devising the https://t.co/4bzR1EZgih",
-   "created_at": "2026-11-03T23:39:35.000Z",
-   "races": [
-    "AK Senate"
    ]
   }
  ]
