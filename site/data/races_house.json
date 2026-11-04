@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T04:38:06+00:00",
+ "generated": "2026-11-04T05:01:36+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383687068,
+ "wikipedia_revid": 1383689522,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -5799,7 +5799,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -5827,7 +5827,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -5944,9 +5944,14 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
+    {
+     "name": "April McClain Delaney",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Robin Ficker",
      "party": "Republican",
@@ -5955,11 +5960,6 @@
     {
      "name": "Moshe Landman",
      "party": "Green",
-     "note": null
-    },
-    {
-     "name": "April McClain Delaney",
-     "party": "Democratic",
      "note": null
     }
    ]
@@ -12349,7 +12349,7 @@
      "note": null
     },
     {
-     "name": "Johnny C. Garcia",
+     "name": "Johnny Garcia",
      "party": "Democratic",
      "note": null
     }

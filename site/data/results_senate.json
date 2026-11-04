@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T04:38:47+00:00",
+ "generated": "2026-11-04T05:02:36+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-04T04:38:10+00:00",
+ "as_of": "2026-11-04T05:01:05+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -15,8 +15,8 @@
  },
  "races": {
   "AR": {
-   "pct_in": 51.12,
-   "total": 712855,
+   "pct_in": 78.0,
+   "total": 870377,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -24,26 +24,26 @@
     {
      "name": "Tom Cotton",
      "party": "R",
-     "votes": 389370,
-     "pct": 54.62
+     "votes": 469850,
+     "pct": 53.98
     },
     {
      "name": "Hallie Shoffner",
      "party": "D",
-     "votes": 300651,
-     "pct": 42.18
+     "votes": 371659,
+     "pct": 42.7
     },
     {
      "name": "Jeff Wadlin",
      "party": "L",
-     "votes": 22834,
-     "pct": 3.2
+     "votes": 28868,
+     "pct": 3.32
     }
    ]
   },
   "FL": {
-   "pct_in": 99.91,
-   "total": 8251884,
+   "pct_in": 99.0,
+   "total": 8256148,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -51,26 +51,26 @@
     {
      "name": "Ashley Moody",
      "party": "R",
-     "votes": 4200395,
-     "pct": 50.9
+     "votes": 4201943,
+     "pct": 50.89
     },
     {
      "name": "Angie Nixon",
      "party": "D",
-     "votes": 3957231,
+     "votes": 3959883,
      "pct": 47.96
     },
     {
      "name": "Neil J. Gillespie",
      "party": "I",
-     "votes": 94258,
+     "votes": 94322,
      "pct": 1.14
     }
    ]
   },
   "GA": {
    "pct_in": 100.0,
-   "total": 4086183,
+   "total": 4143032,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,20 +78,20 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 2403619,
-     "pct": 58.82
+     "votes": 2445285,
+     "pct": 59.02
     },
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 1682564,
-     "pct": 41.18
+     "votes": 1697747,
+     "pct": 40.98
     }
    ]
   },
   "ID": {
-   "pct_in": 25.0,
-   "total": 184680,
+   "pct_in": 38.64,
+   "total": 266703,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -99,32 +99,32 @@
     {
      "name": "Jim Risch",
      "party": "R",
-     "votes": 85085,
-     "pct": 46.07
+     "votes": 130964,
+     "pct": 49.1
     },
     {
      "name": "Todd Achilles",
      "party": "I",
-     "votes": 82723,
-     "pct": 44.79
+     "votes": 111047,
+     "pct": 41.64
     },
     {
      "name": "Natalie M Fleming",
      "party": "I",
-     "votes": 12842,
-     "pct": 6.95
+     "votes": 18061,
+     "pct": 6.77
     },
     {
      "name": "Matt Loesby",
      "party": "L",
-     "votes": 4030,
-     "pct": 2.18
+     "votes": 6631,
+     "pct": 2.49
     }
    ]
   },
   "LA": {
-   "pct_in": 99.46,
-   "total": 1328369,
+   "pct_in": 99.76,
+   "total": 1359971,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -132,53 +132,53 @@
     {
      "name": "Julia Letlow",
      "party": "R",
-     "votes": 707856,
-     "pct": 53.29
+     "votes": 723932,
+     "pct": 53.23
     },
     {
      "name": "Jamie Davis",
      "party": "D",
-     "votes": 620513,
-     "pct": 46.71
+     "votes": 636039,
+     "pct": 46.77
     }
    ]
   },
   "MN": {
-   "pct_in": 44.21,
-   "total": 1047410,
-   "leader": "R",
+   "pct_in": 69.4,
+   "total": 2078129,
+   "leader": "D",
    "called": false,
    "winner": null,
    "candidates": [
     {
-     "name": "Michele Tafoya",
-     "party": "R",
-     "votes": 536237,
-     "pct": 51.2
-    },
-    {
      "name": "Peggy Flanagan",
      "party": "D",
-     "votes": 481926,
-     "pct": 46.01
+     "votes": 1134496,
+     "pct": 54.59
+    },
+    {
+     "name": "Michele Tafoya",
+     "party": "R",
+     "votes": 890169,
+     "pct": 42.84
     },
     {
      "name": "Marisa Simonetti",
      "party": "I",
-     "votes": 16554,
-     "pct": 1.58
+     "votes": 30148,
+     "pct": 1.45
     },
     {
      "name": "Rebecca Whiting",
      "party": "L",
-     "votes": 12693,
-     "pct": 1.21
+     "votes": 23316,
+     "pct": 1.12
     }
    ]
   },
   "NC": {
-   "pct_in": 97.79,
-   "total": 4146476,
+   "pct_in": 98.93,
+   "total": 4174603,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,32 +186,32 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 2431014,
-     "pct": 58.63
+     "votes": 2449210,
+     "pct": 58.67
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 1624701,
-     "pct": 39.18
+     "votes": 1633858,
+     "pct": 39.14
     },
     {
      "name": "Shannon W. Bray",
      "party": "L",
-     "votes": 54914,
-     "pct": 1.32
+     "votes": 55353,
+     "pct": 1.33
     },
     {
      "name": "Michael Dublin",
      "party": "G",
-     "votes": 35847,
-     "pct": 0.86
+     "votes": 36182,
+     "pct": 0.87
     }
    ]
   },
   "TX": {
-   "pct_in": 33.0,
-   "total": 7097876,
+   "pct_in": 39.0,
+   "total": 7513083,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -219,26 +219,26 @@
     {
      "name": "James Talarico",
      "party": "D",
-     "votes": 3822435,
-     "pct": 53.85
+     "votes": 4064158,
+     "pct": 54.09
     },
     {
      "name": "Ken Paxton",
      "party": "R",
-     "votes": 3154817,
-     "pct": 44.45
+     "votes": 3319203,
+     "pct": 44.18
     },
     {
      "name": "Ted Brown",
      "party": "L",
-     "votes": 120624,
-     "pct": 1.7
+     "votes": 129722,
+     "pct": 1.73
     }
    ]
   },
   "VA": {
    "pct_in": 100.0,
-   "total": 3288571,
+   "total": 3341407,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -246,14 +246,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 1973570,
-     "pct": 60.01
+     "votes": 2009092,
+     "pct": 60.13
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1315001,
-     "pct": 39.99
+     "votes": 1332315,
+     "pct": 39.87
     }
    ]
   }

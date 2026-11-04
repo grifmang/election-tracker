@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T04:38:07+00:00",
+ "generated": "2026-11-04T05:01:36+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383687183,
+ "wikipedia_revid": 1383689752,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -1443,16 +1443,16 @@
     "name": "Mike Rounds",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
-    {
-     "name": "Brian Bengs",
-     "party": "Independent",
-     "note": null
-    },
     {
      "name": "Mike Rounds",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Brian Bengs",
+     "party": "Independent",
      "note": null
     }
    ],
