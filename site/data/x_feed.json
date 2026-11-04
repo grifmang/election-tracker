@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:28:31Z",
+ "generated": "2026-11-04T02:37:09Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,50 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117807830388417016",
+   "url": "https://x.com/DecisionDeskHQ/status/2117807830388417016",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Robert Brooks wins the PA US House 7 General Election\n\n#DecisionMade: 9:33 PM EST\n\nFollow live results here: https://t.co/25rxvHsDa8 https://t.co/stQd3WjZOj",
+   "created_at": "2026-11-04T02:35:08.000Z",
+   "races": [
+    "PA-07"
+   ]
+  },
+  {
+   "id": "2117807278166319519",
+   "url": "https://x.com/FoxNews/status/2117807278166319519",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "WATCH LIVE: Ossoff addresses supporters after holding on to Georgia Senate seat https://t.co/75x8sNVjXc",
+   "created_at": "2026-11-04T02:32:56.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117806970249879683",
+   "url": "https://x.com/CBSNews/status/2117806970249879683",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News rates the race for U.S. Senate in Texas as leans Democratic. https://t.co/T5iaja99xp https://t.co/4ZO8tvMR8d",
+   "created_at": "2026-11-04T02:31:43.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117806469856800777",
+   "url": "https://x.com/FoxNews/status/2117806469856800777",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "“Bloodbath across the board.”\n\nCongressional Republican sources are expressing growing pessimism as election results roll in tonight, with one House GOP source using those words to describe how the night is unfolding.\n\nBill Melugin with the new details: 👇 https://t.co/Wd7vjl1ITx",
+   "created_at": "2026-11-04T02:29:44.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
   {
    "id": "2117805611102396880",
    "url": "https://x.com/DecisionDeskHQ/status/2117805611102396880",
@@ -123,8 +167,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-14",
-    "FL-25"
+    "FL-25",
+    "FL-14"
    ]
   },
   {

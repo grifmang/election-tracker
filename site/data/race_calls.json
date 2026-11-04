@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:28:31Z",
+ "generated": "2026-11-04T02:37:09Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -11,11 +11,11 @@
    "conflicting": 0
   },
   "House": {
-   "D": 8,
+   "D": 9,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 9,
+   "called": 10,
    "conflicting": 0
   }
  },
@@ -610,6 +610,20 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117802148964540581",
      "created_at": "2026-11-04T02:12:33.000Z"
+    }
+   ]
+  },
+  {
+   "race": "PA-07",
+   "chamber": "House",
+   "winner_name": "Bob Brooks",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117807830388417016",
+     "created_at": "2026-11-04T02:35:08.000Z"
     }
    ]
   },
@@ -1500,6 +1514,15 @@
    "handle": "CNN",
    "post_url": "https://x.com/CNN/status/2117802148964540581",
    "created_at": "2026-11-04T02:12:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-07",
+   "winner_name": "Bob Brooks",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117807830388417016",
+   "created_at": "2026-11-04T02:35:08.000Z",
    "source": "x"
   },
   {
