@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:55:04Z",
+ "generated": "2026-11-04T04:02:04Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -11,11 +11,11 @@
    "conflicting": 0
   },
   "House": {
-   "D": 19,
+   "D": 20,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 20,
+   "called": 21,
    "conflicting": 0
   }
  },
@@ -871,6 +871,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117824430361522661",
      "created_at": "2026-11-04T03:41:06.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117828567627149696",
+     "created_at": "2026-11-04T03:57:32.000Z"
     }
    ]
   },
@@ -1006,6 +1011,35 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117827479444287629",
      "created_at": "2026-11-04T03:53:13.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117828074037501983",
+     "created_at": "2026-11-04T03:55:34.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117829138820084120",
+     "created_at": "2026-11-04T03:59:48.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117829539980075279",
+     "created_at": "2026-11-04T04:01:24.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX-15",
+   "chamber": "House",
+   "winner_name": "Bobby Pulido",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117829276351525267",
+     "created_at": "2026-11-04T04:00:21.000Z"
     }
    ]
   },
@@ -1063,6 +1097,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117821648539877379",
      "created_at": "2026-11-04T03:30:02.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117828070295912840",
+     "created_at": "2026-11-04T03:55:33.000Z"
     }
    ]
   },
@@ -2152,6 +2191,15 @@
    "source": "x"
   },
   {
+   "race": "PA-10",
+   "winner_name": "Janelle Stelson",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117828567627149696",
+   "created_at": "2026-11-04T03:57:32.000Z",
+   "source": "x"
+  },
+  {
    "race": "RI Senate",
    "winner_name": "Jack Reed",
    "party": "D",
@@ -2314,6 +2362,42 @@
    "source": "x"
   },
   {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117828074037501983",
+   "created_at": "2026-11-04T03:55:34.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117829138820084120",
+   "created_at": "2026-11-04T03:59:48.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117829539980075279",
+   "created_at": "2026-11-04T04:01:24.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-15",
+   "winner_name": "Bobby Pulido",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117829276351525267",
+   "created_at": "2026-11-04T04:00:21.000Z",
+   "source": "x"
+  },
+  {
    "race": "TX-34",
    "winner_name": "Vicente Gonzalez",
    "party": "D",
@@ -2365,6 +2449,15 @@
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117821648539877379",
    "created_at": "2026-11-04T03:30:02.000Z",
+   "source": "x"
+  },
+  {
+   "race": "VA-01",
+   "winner_name": "Shannon Taylor",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117828070295912840",
+   "created_at": "2026-11-04T03:55:33.000Z",
    "source": "x"
   },
   {

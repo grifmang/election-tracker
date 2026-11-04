@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:55:04Z",
+ "generated": "2026-11-04T04:02:04Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,138 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117829539980075279",
+   "url": "https://x.com/CNN/status/2117829539980075279",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic state Rep. James Talarico will win the Senate race in Texas, CNN projects, delivering a stunning defeat to Republican state Attorney General Ken Paxton. Talarico is the first Democrat elected to represent Texas in the US Senate in 38 years. Follow live updates. https://t.co/lgKCttcQb1",
+   "created_at": "2026-11-04T04:01:24.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117829477325562294",
+   "url": "https://x.com/FoxNews/status/2117829477325562294",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that Democrats will control the House in the next Congress.\n\nFour key groups shifted away from the GOP, according to the Fox News Voter Poll. Young, independent, rural and Hispanic voters turned against Republicans in large https://t.co/zvx9uJKjnt",
+   "created_at": "2026-11-04T04:01:09.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117829438616318346",
+   "url": "https://x.com/AP/status/2117829438616318346",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Democrats are marching toward control of the U.S. House after defeating six Republicans in key battleground races. https://t.co/kozt9PZ38i",
+   "created_at": "2026-11-04T04:01:00.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117829276351525267",
+   "url": "https://x.com/DecisionDeskHQ/status/2117829276351525267",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Bobby Pulido wins the TX US House 15 General Election\n\n#DecisionMade: 10:58 PM EST\n\nFollow live results here: https://t.co/M6OnC3u6tK https://t.co/v8BXKp2QNP",
+   "created_at": "2026-11-04T04:00:21.000Z",
+   "races": [
+    "TX-15"
+   ]
+  },
+  {
+   "id": "2117829138820084120",
+   "url": "https://x.com/CBSNews/status/2117829138820084120",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat James Talarico will defeat Republican Ken Paxton in the Texas Senate race, CBS News projects, marking a major flip for Democrats. https://t.co/rlr2Zf165C",
+   "created_at": "2026-11-04T03:59:48.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117828601114427574",
+   "url": "https://x.com/CNN/status/2117828601114427574",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Office Hours panel reacts to Kentucky’s 6th Congressional district flipping for the Democrats. Election Night in America coverage is live now on CNN and streaming with an All Access subscription. Submit your questions now https://t.co/WfBUlfFC0F https://t.co/w4k7gnAJnT",
+   "created_at": "2026-11-04T03:57:40.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117828567627149696",
+   "url": "https://x.com/CBSNews/status/2117828567627149696",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Janelle Stelson has won the race for U.S. House in Pennsylvania’s 10th Congressional District, defeating incumbent Republican Rep. Scott Perry. https://t.co/T5iaja99xp https://t.co/bwVeb8FGFn",
+   "created_at": "2026-11-04T03:57:32.000Z",
+   "races": [
+    "PA-10"
+   ]
+  },
+  {
+   "id": "2117828420910408158",
+   "url": "https://x.com/NBCNews/status/2117828420910408158",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Democrat James Talarico pulls off an election win that was unthinkable for years, flipping a Senate seat in red Texas, beating Republican Ken Paxton, NBC News projects. https://t.co/J79f5VHIZ2",
+   "created_at": "2026-11-04T03:56:57.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117828382188875830",
+   "url": "https://x.com/ABC/status/2117828382188875830",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrat Annie Andrews will beat Sen. Darline Graham in the election for U.S. Senate in South Carolina, ABC News projects, flipping the seat once held by the late Lindsey Graham and notching a major win for Democrats.\n\nhttps://t.co/4c8w46f21y https://t.co/adDLBULQm7",
+   "created_at": "2026-11-04T03:56:48.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117828074037501983",
+   "url": "https://x.com/CBSNews/status/2117828074037501983",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat James Talarico has won the race for U.S. Senate in Texas, defeating Republican Ken Paxton, CBS News projects. Talarico will be the first Democratic U.S. senator elected in Texas since 1988. https://t.co/T5iaja9HmX https://t.co/4n9UuPdARv",
+   "created_at": "2026-11-04T03:55:34.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117828070295912840",
+   "url": "https://x.com/NBCNews/status/2117828070295912840",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Shannon Taylor wins U.S. House race in Virginia's 1st Congressional District, NBC News projects. https://t.co/xGSHzwWG29 https://t.co/gQGdriy3q0",
+   "created_at": "2026-11-04T03:55:33.000Z",
+   "races": [
+    "VA-01"
+   ]
+  },
+  {
+   "id": "2117828006844527086",
+   "url": "https://x.com/CBSNews/status/2117828006844527086",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News' @costareports spoke with Republican House Speaker Mike Johnson who expressed frustration as he watched results come in but notably said there are no disputes right now on his radar. https://t.co/mNBCmsWYBh https://t.co/2fwEBWCVop",
+   "created_at": "2026-11-04T03:55:18.000Z",
+   "races": [
+    "LA-04"
+   ]
+  },
   {
    "id": "2117827479444287629",
    "url": "https://x.com/NBCNews/status/2117827479444287629",
@@ -1179,8 +1311,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-25",
-    "FL-14"
+    "FL-14",
+    "FL-25"
    ]
   },
   {
