@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T02:37:09Z",
+ "generated": "2026-11-04T02:41:24Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
    "D": 10,
-   "R": 4,
+   "R": 5,
    "I": 0,
    "O": 0,
-   "called": 14,
+   "called": 15,
    "conflicting": 0
   },
   "House": {
-   "D": 9,
+   "D": 10,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 10,
+   "called": 11,
    "conflicting": 0
   }
  },
@@ -600,6 +600,20 @@
    ]
   },
   {
+   "race": "NJ-07",
+   "chamber": "House",
+   "winner_name": "Rebecca Bennett",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117808976247046321",
+     "created_at": "2026-11-04T02:39:41.000Z"
+    }
+   ]
+  },
+  {
    "race": "NY-13",
    "chamber": "House",
    "winner_name": "Darializa Avila Chevalier",
@@ -610,6 +624,20 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117802148964540581",
      "created_at": "2026-11-04T02:12:33.000Z"
+    }
+   ]
+  },
+  {
+   "race": "OK Senate",
+   "chamber": "Senate",
+   "winner_name": "Kevin Hern",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117808344329068601",
+     "created_at": "2026-11-04T02:37:10.000Z"
     }
    ]
   },
@@ -1508,12 +1536,30 @@
    "source": "x"
   },
   {
+   "race": "NJ-07",
+   "winner_name": "Rebecca Bennett",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117808976247046321",
+   "created_at": "2026-11-04T02:39:41.000Z",
+   "source": "x"
+  },
+  {
    "race": "NY-13",
    "winner_name": "Darializa Avila Chevalier",
    "party": "D",
    "handle": "CNN",
    "post_url": "https://x.com/CNN/status/2117802148964540581",
    "created_at": "2026-11-04T02:12:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OK Senate",
+   "winner_name": "Kevin Hern",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117808344329068601",
+   "created_at": "2026-11-04T02:37:10.000Z",
    "source": "x"
   },
   {

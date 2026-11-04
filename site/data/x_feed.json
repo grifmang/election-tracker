@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:37:09Z",
+ "generated": "2026-11-04T02:41:24Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,28 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117808976247046321",
+   "url": "https://x.com/NBCNews/status/2117808976247046321",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Rebecca Bennett wins U.S. House race in New Jersey's 7th Congressional District, NBC News projects. https://t.co/ttUGRwlO8b https://t.co/Z7ziwxn5rJ",
+   "created_at": "2026-11-04T02:39:41.000Z",
+   "races": [
+    "NJ-07"
+   ]
+  },
+  {
+   "id": "2117808344329068601",
+   "url": "https://x.com/NBCNews/status/2117808344329068601",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Kevin Hern wins U.S. Senate race in Oklahoma, NBC News projects. https://t.co/vAbML7r0Im https://t.co/h1nQgXv02S",
+   "created_at": "2026-11-04T02:37:10.000Z",
+   "races": [
+    "OK Senate"
+   ]
+  },
   {
    "id": "2117807830388417016",
    "url": "https://x.com/DecisionDeskHQ/status/2117807830388417016",
@@ -167,8 +189,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-25",
-    "FL-14"
+    "FL-14",
+    "FL-25"
    ]
   },
   {
