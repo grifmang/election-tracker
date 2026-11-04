@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T02:50:40+00:00",
+ "generated": "2026-11-04T02:53:25+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383675569,
+ "wikipedia_revid": 1383675928,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -1485,8 +1485,13 @@
     "name": "Bill Hagerty",
     "party": "Republican"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
+    {
+     "name": "Bill Hagerty",
+     "party": "Republican",
+     "note": null
+    },
     {
      "name": "Marquita Bradshaw",
      "party": "Democratic",
@@ -1500,11 +1505,6 @@
     {
      "name": "Andrew Gerena",
      "party": "Independent",
-     "note": null
-    },
-    {
-     "name": "Bill Hagerty",
-     "party": "Republican",
      "note": null
     },
     {
