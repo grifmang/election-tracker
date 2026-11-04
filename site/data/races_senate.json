@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T03:14:30+00:00",
+ "generated": "2026-11-04T03:40:18+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383677091,
+ "wikipedia_revid": 1383679608,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -67,7 +67,7 @@
     "name": "Tommy Tuberville",
     "party": "Republican"
    },
-   "status": "Incumbent retiring to run for governor",
+   "status": "Incumbent retiring to run for governor. Republican hold.",
    "candidates": [
     {
      "name": "Barry Moore",
