@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T04:57:28Z",
+ "generated": "2026-11-04T13:01:16Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
-   "D": 15,
-   "R": 9,
+   "D": 18,
+   "R": 13,
    "I": 0,
    "O": 0,
-   "called": 24,
+   "called": 31,
    "conflicting": 0
   },
   "House": {
-   "D": 27,
-   "R": 1,
+   "D": 40,
+   "R": 5,
    "I": 0,
    "O": 0,
-   "called": 28,
+   "called": 45,
    "conflicting": 0
   }
  },
@@ -45,6 +45,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117825054855893288",
      "created_at": "2026-11-04T03:43:35.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117843651195711841",
+     "created_at": "2026-11-04T04:57:28.000Z"
     }
    ]
   },
@@ -78,6 +83,20 @@
    ]
   },
   {
+   "race": "AR-02",
+   "chamber": "House",
+   "winner_name": "French Hill",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117871559616647487",
+     "created_at": "2026-11-04T06:48:22.000Z"
+    }
+   ]
+  },
+  {
    "race": "AZ-06",
    "chamber": "House",
    "winner_name": "JoAnna Mendoza",
@@ -88,6 +107,20 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117818360519950343",
      "created_at": "2026-11-04T03:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "race": "CA-06",
+   "chamber": "House",
+   "winner_name": "Richard Pan",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117854689278427464",
+     "created_at": "2026-11-04T05:41:20.000Z"
     }
    ]
   },
@@ -482,6 +515,21 @@
      "handle": "FoxNews",
      "post_url": "https://x.com/FoxNews/status/2117840274525200439",
      "created_at": "2026-11-04T04:44:03.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117843845547241780",
+     "created_at": "2026-11-04T04:58:15.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117845352258658694",
+     "created_at": "2026-11-04T05:04:14.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117848171481301151",
+     "created_at": "2026-11-04T05:15:26.000Z"
     }
    ]
   },
@@ -496,6 +544,16 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117837404216213693",
      "created_at": "2026-11-04T04:32:39.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117846354110112129",
+     "created_at": "2026-11-04T05:08:13.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117850362250211563",
+     "created_at": "2026-11-04T05:24:08.000Z"
     }
    ]
   },
@@ -510,6 +568,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117838276300087722",
      "created_at": "2026-11-04T04:36:07.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117849900859937158",
+     "created_at": "2026-11-04T05:22:18.000Z"
     }
    ]
   },
@@ -529,6 +592,30 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117839386859499816",
      "created_at": "2026-11-04T04:40:32.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117845653342560271",
+     "created_at": "2026-11-04T05:05:26.000Z"
+    }
+   ]
+  },
+  {
+   "race": "ID Senate",
+   "chamber": "Senate",
+   "winner_name": "Jim Risch",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117852232268075457",
+     "created_at": "2026-11-04T05:31:34.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117867608284217745",
+     "created_at": "2026-11-04T06:32:40.000Z"
     }
    ]
   },
@@ -602,6 +689,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117840446671986906",
      "created_at": "2026-11-04T04:44:44.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117849110367580559",
+     "created_at": "2026-11-04T05:19:10.000Z"
     }
    ]
   },
@@ -649,6 +741,30 @@
    ]
   },
   {
+   "race": "LA Senate",
+   "chamber": "Senate",
+   "winner_name": "Julia Letlow",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117852450631582199",
+     "created_at": "2026-11-04T05:32:26.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117852705993486569",
+     "created_at": "2026-11-04T05:33:27.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117852851263152374",
+     "created_at": "2026-11-04T05:34:02.000Z"
+    }
+   ]
+  },
+  {
    "race": "MA Senate",
    "chamber": "Senate",
    "winner_name": "Ed Markey",
@@ -659,6 +775,220 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117784835301294248",
      "created_at": "2026-11-04T01:03:45.000Z"
+    }
+   ]
+  },
+  {
+   "race": "ME Senate",
+   "chamber": "Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117850472157450399",
+     "created_at": "2026-11-04T05:24:34.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117852438082285813",
+     "created_at": "2026-11-04T05:32:23.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117856651147456649",
+     "created_at": "2026-11-04T05:49:08.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117857221874962623",
+     "created_at": "2026-11-04T05:51:24.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117857429970940150",
+     "created_at": "2026-11-04T05:52:13.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117857648825475394",
+     "created_at": "2026-11-04T05:53:06.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117862109988130906",
+     "created_at": "2026-11-04T06:10:49.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117864786041917921",
+     "created_at": "2026-11-04T06:21:27.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117865268407869777",
+     "created_at": "2026-11-04T06:23:22.000Z"
+    }
+   ]
+  },
+  {
+   "race": "MI Senate",
+   "chamber": "Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117863335920296120",
+     "created_at": "2026-11-04T06:15:41.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117873305726439452",
+     "created_at": "2026-11-04T06:55:18.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117874572598948084",
+     "created_at": "2026-11-04T07:00:20.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117881667868106909",
+     "created_at": "2026-11-04T07:28:32.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117882333130813685",
+     "created_at": "2026-11-04T07:31:11.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117882405960720606",
+     "created_at": "2026-11-04T07:31:28.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117882425728508021",
+     "created_at": "2026-11-04T07:31:33.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117884246161580436",
+     "created_at": "2026-11-04T07:38:47.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117885735097503790",
+     "created_at": "2026-11-04T07:44:42.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117886076236996708",
+     "created_at": "2026-11-04T07:46:03.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117904258192527825",
+     "created_at": "2026-11-04T08:58:18.000Z"
+    }
+   ]
+  },
+  {
+   "race": "MN Senate",
+   "chamber": "Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117845668421058914",
+     "created_at": "2026-11-04T05:05:29.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117845687639363779",
+     "created_at": "2026-11-04T05:05:34.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117847069528330427",
+     "created_at": "2026-11-04T05:11:03.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117847531346383180",
+     "created_at": "2026-11-04T05:12:53.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117847740646301865",
+     "created_at": "2026-11-04T05:13:43.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117850406944485627",
+     "created_at": "2026-11-04T05:24:19.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117854010199703656",
+     "created_at": "2026-11-04T05:38:38.000Z"
+    }
+   ]
+  },
+  {
+   "race": "MO-02",
+   "chamber": "House",
+   "winner_name": "Fred Wellman",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117849397451182585",
+     "created_at": "2026-11-04T05:20:18.000Z"
+    }
+   ]
+  },
+  {
+   "race": "MT Senate",
+   "chamber": "Senate",
+   "winner_name": "Kurt Alme",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117863637905969341",
+     "created_at": "2026-11-04T06:16:53.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117869098730148194",
+     "created_at": "2026-11-04T06:38:35.000Z"
+    }
+   ]
+  },
+  {
+   "race": "MT-01",
+   "chamber": "House",
+   "winner_name": "Sam Forstag",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117877172983447838",
+     "created_at": "2026-11-04T07:10:40.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117877201614073861",
+     "created_at": "2026-11-04T07:10:47.000Z"
     }
    ]
   },
@@ -728,6 +1058,11 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117799223689122088",
      "created_at": "2026-11-04T02:00:56.000Z"
+    },
+    {
+     "handle": "Reuters",
+     "post_url": "https://x.com/Reuters/status/2117865677625360693",
+     "created_at": "2026-11-04T06:25:00.000Z"
     }
    ]
   },
@@ -742,6 +1077,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117840100629283320",
      "created_at": "2026-11-04T04:43:22.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117849669371822144",
+     "created_at": "2026-11-04T05:21:23.000Z"
     }
    ]
   },
@@ -775,6 +1115,35 @@
    ]
   },
   {
+   "race": "NE Senate",
+   "chamber": "Senate",
+   "winner_name": "Pete Ricketts",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117869129302495539",
+     "created_at": "2026-11-04T06:38:43.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117898169447023030",
+     "created_at": "2026-11-04T08:34:06.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117900511475028258",
+     "created_at": "2026-11-04T08:43:25.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117909238446018864",
+     "created_at": "2026-11-04T09:18:05.000Z"
+    }
+   ]
+  },
+  {
    "race": "NE-02",
    "chamber": "House",
    "winner_name": "Denise Powell",
@@ -790,6 +1159,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117841608678789611",
      "created_at": "2026-11-04T04:49:21.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117859456990195800",
+     "created_at": "2026-11-04T06:00:17.000Z"
     }
    ]
   },
@@ -879,6 +1253,16 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117815267078062284",
      "created_at": "2026-11-04T03:04:41.000Z"
+    },
+    {
+     "handle": "Reuters",
+     "post_url": "https://x.com/Reuters/status/2117856869448335823",
+     "created_at": "2026-11-04T05:50:00.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117864538515415153",
+     "created_at": "2026-11-04T06:20:28.000Z"
     }
    ]
   },
@@ -927,6 +1311,20 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117824284009934997",
      "created_at": "2026-11-04T03:40:31.000Z"
+    }
+   ]
+  },
+  {
+   "race": "NM-02",
+   "chamber": "House",
+   "winner_name": "Gabe Vasquez",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117855300766314970",
+     "created_at": "2026-11-04T05:43:46.000Z"
     }
    ]
   },
@@ -1037,6 +1435,50 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117835740000223654",
      "created_at": "2026-11-04T04:26:02.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117850764672450772",
+     "created_at": "2026-11-04T05:25:44.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117853119082045947",
+     "created_at": "2026-11-04T05:35:06.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117865016074346643",
+     "created_at": "2026-11-04T06:22:22.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117870254835556802",
+     "created_at": "2026-11-04T06:43:11.000Z"
+    }
+   ]
+  },
+  {
+   "race": "OH-09",
+   "chamber": "House",
+   "winner_name": "Marcy Kaptur",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117885343072657568",
+     "created_at": "2026-11-04T07:43:08.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117887498953040179",
+     "created_at": "2026-11-04T07:51:42.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117890720182743363",
+     "created_at": "2026-11-04T08:04:30.000Z"
     }
    ]
   },
@@ -1056,6 +1498,30 @@
      "handle": "FoxNews",
      "post_url": "https://x.com/FoxNews/status/2117811811583992287",
      "created_at": "2026-11-04T02:50:57.000Z"
+    }
+   ]
+  },
+  {
+   "race": "PA-01",
+   "chamber": "House",
+   "winner_name": "Bob Harvie",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117850504118075609",
+     "created_at": "2026-11-04T05:24:42.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117854687416156255",
+     "created_at": "2026-11-04T05:41:19.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117860169929654603",
+     "created_at": "2026-11-04T06:03:07.000Z"
     }
    ]
   },
@@ -1216,6 +1682,35 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117832191660933222",
      "created_at": "2026-11-04T04:11:56.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117844204634145128",
+     "created_at": "2026-11-04T04:59:40.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117866860683112735",
+     "created_at": "2026-11-04T06:29:42.000Z"
+    },
+    {
+     "handle": "Reuters",
+     "post_url": "https://x.com/Reuters/status/2117932395647156274",
+     "created_at": "2026-11-04T10:50:07.000Z"
+    }
+   ]
+  },
+  {
+   "race": "SC-01",
+   "chamber": "House",
+   "winner_name": "Nancy Lacore",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117869632279208031",
+     "created_at": "2026-11-04T06:40:43.000Z"
     }
    ]
   },
@@ -1254,6 +1749,20 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117827292668055590",
      "created_at": "2026-11-04T03:52:28.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TN-09",
+   "chamber": "House",
+   "winner_name": "Brent Taylor",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117863881255039153",
+     "created_at": "2026-11-04T06:17:51.000Z"
     }
    ]
   },
@@ -1323,6 +1832,35 @@
      "handle": "ABC",
      "post_url": "https://x.com/ABC/status/2117838337826590918",
      "created_at": "2026-11-04T04:36:21.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117859436052074685",
+     "created_at": "2026-11-04T06:00:12.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117859526636364088",
+     "created_at": "2026-11-04T06:00:33.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117859985015087499",
+     "created_at": "2026-11-04T06:02:23.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX-09",
+   "chamber": "House",
+   "winner_name": "Leticia Gutierrez",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117880413620236354",
+     "created_at": "2026-11-04T07:23:33.000Z"
     }
    ]
   },
@@ -1337,6 +1875,73 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117829276351525267",
      "created_at": "2026-11-04T04:00:21.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117852021172892061",
+     "created_at": "2026-11-04T05:30:44.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117858002241831312",
+     "created_at": "2026-11-04T05:54:30.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX-23",
+   "chamber": "House",
+   "winner_name": "Katy Padilla Stout",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117868374646460422",
+     "created_at": "2026-11-04T06:35:43.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117870363434778894",
+     "created_at": "2026-11-04T06:43:37.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117878436681134524",
+     "created_at": "2026-11-04T07:15:42.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX-24",
+   "chamber": "House",
+   "winner_name": "Beth Van Duyne",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117851925286986100",
+     "created_at": "2026-11-04T05:30:21.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX-28",
+   "chamber": "House",
+   "winner_name": "Henry Cuellar",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117848649665323170",
+     "created_at": "2026-11-04T05:17:20.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117852748183966017",
+     "created_at": "2026-11-04T05:33:37.000Z"
     }
    ]
   },
@@ -1361,6 +1966,25 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117833891754934283",
      "created_at": "2026-11-04T04:18:41.000Z"
+    }
+   ]
+  },
+  {
+   "race": "TX-35",
+   "chamber": "House",
+   "winner_name": "Johnny Garcia",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117853876535620029",
+     "created_at": "2026-11-04T05:38:06.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117865963177828442",
+     "created_at": "2026-11-04T06:26:08.000Z"
     }
    ]
   },
@@ -1437,6 +2061,20 @@
    ]
   },
   {
+   "race": "VA-05",
+   "chamber": "House",
+   "winner_name": "John McGuire",
+   "party": "R",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117846596318609666",
+     "created_at": "2026-11-04T05:09:10.000Z"
+    }
+   ]
+  },
+  {
    "race": "WA-03",
    "chamber": "House",
    "winner_name": "Marie Gluesenkamp Perez",
@@ -1447,6 +2085,49 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117833891541045251",
      "created_at": "2026-11-04T04:18:41.000Z"
+    }
+   ]
+  },
+  {
+   "race": "WI-01",
+   "chamber": "House",
+   "winner_name": "Mitchell Berman",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117861098749862028",
+     "created_at": "2026-11-04T06:06:48.000Z"
+    }
+   ]
+  },
+  {
+   "race": "WI-03",
+   "chamber": "House",
+   "winner_name": "Rebecca Cooke",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117845621193277914",
+     "created_at": "2026-11-04T05:05:18.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117860766594527423",
+     "created_at": "2026-11-04T06:05:29.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117861598052151445",
+     "created_at": "2026-11-04T06:08:47.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117866059898265853",
+     "created_at": "2026-11-04T06:26:31.000Z"
     }
    ]
   },
@@ -1500,6 +2181,15 @@
    "source": "x"
   },
   {
+   "race": "AL-02",
+   "winner_name": "Shomari Figures",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117843651195711841",
+   "created_at": "2026-11-04T04:57:28.000Z",
+   "source": "x"
+  },
+  {
    "race": "AR Senate",
    "winner_name": "Tom Cotton",
    "party": "R",
@@ -1536,12 +2226,30 @@
    "source": "x"
   },
   {
+   "race": "AR-02",
+   "winner_name": "French Hill",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117871559616647487",
+   "created_at": "2026-11-04T06:48:22.000Z",
+   "source": "x"
+  },
+  {
    "race": "AZ-06",
    "winner_name": "JoAnna Mendoza",
    "party": "D",
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117818360519950343",
    "created_at": "2026-11-04T03:16:58.000Z",
+   "source": "x"
+  },
+  {
+   "race": "CA-06",
+   "winner_name": "Richard Pan",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117854689278427464",
+   "created_at": "2026-11-04T05:41:20.000Z",
    "source": "x"
   },
   {
@@ -2076,6 +2784,33 @@
    "source": "x"
   },
   {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117843845547241780",
+   "created_at": "2026-11-04T04:58:15.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117845352258658694",
+   "created_at": "2026-11-04T05:04:14.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117848171481301151",
+   "created_at": "2026-11-04T05:15:26.000Z",
+   "source": "x"
+  },
+  {
    "race": "IA-01",
    "winner_name": "Christina Bohannan",
    "party": "D",
@@ -2085,12 +2820,39 @@
    "source": "x"
   },
   {
+   "race": "IA-01",
+   "winner_name": "Christina Bohannan",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117846354110112129",
+   "created_at": "2026-11-04T05:08:13.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA-01",
+   "winner_name": "Christina Bohannan",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117850362250211563",
+   "created_at": "2026-11-04T05:24:08.000Z",
+   "source": "x"
+  },
+  {
    "race": "IA-02",
    "winner_name": "Lindsay James",
    "party": "D",
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117838276300087722",
    "created_at": "2026-11-04T04:36:07.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA-02",
+   "winner_name": "Lindsay James",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117849900859937158",
+   "created_at": "2026-11-04T05:22:18.000Z",
    "source": "x"
   },
   {
@@ -2109,6 +2871,33 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117839386859499816",
    "created_at": "2026-11-04T04:40:32.000Z",
+   "source": "x"
+  },
+  {
+   "race": "IA-03",
+   "winner_name": "Sarah Trone Garriott",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117845653342560271",
+   "created_at": "2026-11-04T05:05:26.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ID Senate",
+   "winner_name": "Jim Risch",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117852232268075457",
+   "created_at": "2026-11-04T05:31:34.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ID Senate",
+   "winner_name": "Jim Risch",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117867608284217745",
+   "created_at": "2026-11-04T06:32:40.000Z",
    "source": "x"
   },
   {
@@ -2211,6 +3000,15 @@
    "source": "x"
   },
   {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117849110367580559",
+   "created_at": "2026-11-04T05:19:10.000Z",
+   "source": "x"
+  },
+  {
    "race": "KY Senate",
    "winner_name": "Andy Barr",
    "party": "R",
@@ -2256,12 +3054,327 @@
    "source": "x"
   },
   {
+   "race": "LA Senate",
+   "winner_name": "Julia Letlow",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117852450631582199",
+   "created_at": "2026-11-04T05:32:26.000Z",
+   "source": "x"
+  },
+  {
+   "race": "LA Senate",
+   "winner_name": "Julia Letlow",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117852705993486569",
+   "created_at": "2026-11-04T05:33:27.000Z",
+   "source": "x"
+  },
+  {
+   "race": "LA Senate",
+   "winner_name": "Julia Letlow",
+   "party": "R",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117852851263152374",
+   "created_at": "2026-11-04T05:34:02.000Z",
+   "source": "x"
+  },
+  {
    "race": "MA Senate",
    "winner_name": "Ed Markey",
    "party": "D",
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117784835301294248",
    "created_at": "2026-11-04T01:03:45.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117850472157450399",
+   "created_at": "2026-11-04T05:24:34.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117852438082285813",
+   "created_at": "2026-11-04T05:32:23.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117856651147456649",
+   "created_at": "2026-11-04T05:49:08.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117857221874962623",
+   "created_at": "2026-11-04T05:51:24.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117857429970940150",
+   "created_at": "2026-11-04T05:52:13.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117857648825475394",
+   "created_at": "2026-11-04T05:53:06.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117862109988130906",
+   "created_at": "2026-11-04T06:10:49.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117864786041917921",
+   "created_at": "2026-11-04T06:21:27.000Z",
+   "source": "x"
+  },
+  {
+   "race": "ME Senate",
+   "winner_name": "Troy Jackson",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117865268407869777",
+   "created_at": "2026-11-04T06:23:22.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117863335920296120",
+   "created_at": "2026-11-04T06:15:41.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117873305726439452",
+   "created_at": "2026-11-04T06:55:18.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117874572598948084",
+   "created_at": "2026-11-04T07:00:20.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117881667868106909",
+   "created_at": "2026-11-04T07:28:32.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117882333130813685",
+   "created_at": "2026-11-04T07:31:11.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117882405960720606",
+   "created_at": "2026-11-04T07:31:28.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117882425728508021",
+   "created_at": "2026-11-04T07:31:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117884246161580436",
+   "created_at": "2026-11-04T07:38:47.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117885735097503790",
+   "created_at": "2026-11-04T07:44:42.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117886076236996708",
+   "created_at": "2026-11-04T07:46:03.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MI Senate",
+   "winner_name": "Abdul El-Sayed",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117904258192527825",
+   "created_at": "2026-11-04T08:58:18.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117845668421058914",
+   "created_at": "2026-11-04T05:05:29.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117845687639363779",
+   "created_at": "2026-11-04T05:05:34.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117847069528330427",
+   "created_at": "2026-11-04T05:11:03.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117847531346383180",
+   "created_at": "2026-11-04T05:12:53.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117847740646301865",
+   "created_at": "2026-11-04T05:13:43.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117850406944485627",
+   "created_at": "2026-11-04T05:24:19.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MN Senate",
+   "winner_name": "Peggy Flanagan",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117854010199703656",
+   "created_at": "2026-11-04T05:38:38.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MO-02",
+   "winner_name": "Fred Wellman",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117849397451182585",
+   "created_at": "2026-11-04T05:20:18.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MT Senate",
+   "winner_name": "Kurt Alme",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117863637905969341",
+   "created_at": "2026-11-04T06:16:53.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MT Senate",
+   "winner_name": "Kurt Alme",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117869098730148194",
+   "created_at": "2026-11-04T06:38:35.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MT-01",
+   "winner_name": "Sam Forstag",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117877172983447838",
+   "created_at": "2026-11-04T07:10:40.000Z",
+   "source": "x"
+  },
+  {
+   "race": "MT-01",
+   "winner_name": "Sam Forstag",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117877201614073861",
+   "created_at": "2026-11-04T07:10:47.000Z",
    "source": "x"
   },
   {
@@ -2373,12 +3486,30 @@
    "source": "x"
   },
   {
+   "race": "NC Senate",
+   "winner_name": "Roy Cooper",
+   "party": "D",
+   "handle": "Reuters",
+   "post_url": "https://x.com/Reuters/status/2117865677625360693",
+   "created_at": "2026-11-04T06:25:00.000Z",
+   "source": "x"
+  },
+  {
    "race": "NC-01",
    "winner_name": "Don Davis",
    "party": "D",
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117840100629283320",
    "created_at": "2026-11-04T04:43:22.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NC-01",
+   "winner_name": "Don Davis",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117849669371822144",
+   "created_at": "2026-11-04T05:21:23.000Z",
    "source": "x"
   },
   {
@@ -2418,6 +3549,42 @@
    "source": "x"
   },
   {
+   "race": "NE Senate",
+   "winner_name": "Pete Ricketts",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117869129302495539",
+   "created_at": "2026-11-04T06:38:43.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NE Senate",
+   "winner_name": "Pete Ricketts",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117898169447023030",
+   "created_at": "2026-11-04T08:34:06.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NE Senate",
+   "winner_name": "Pete Ricketts",
+   "party": "R",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117900511475028258",
+   "created_at": "2026-11-04T08:43:25.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NE Senate",
+   "winner_name": "Pete Ricketts",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117909238446018864",
+   "created_at": "2026-11-04T09:18:05.000Z",
+   "source": "x"
+  },
+  {
    "race": "NE-02",
    "winner_name": "Denise Powell",
    "party": "D",
@@ -2433,6 +3600,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117841608678789611",
    "created_at": "2026-11-04T04:49:21.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NE-02",
+   "winner_name": "Denise Powell",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117859456990195800",
+   "created_at": "2026-11-04T06:00:17.000Z",
    "source": "x"
   },
   {
@@ -2580,6 +3756,24 @@
    "source": "x"
   },
   {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "Reuters",
+   "post_url": "https://x.com/Reuters/status/2117856869448335823",
+   "created_at": "2026-11-04T05:50:00.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NH Senate",
+   "winner_name": "Chris Pappas",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117864538515415153",
+   "created_at": "2026-11-04T06:20:28.000Z",
+   "source": "x"
+  },
+  {
    "race": "NJ Senate",
    "winner_name": "Cory Booker",
    "party": "D",
@@ -2631,6 +3825,15 @@
    "handle": "ABC",
    "post_url": "https://x.com/ABC/status/2117824284009934997",
    "created_at": "2026-11-04T03:40:31.000Z",
+   "source": "x"
+  },
+  {
+   "race": "NM-02",
+   "winner_name": "Gabe Vasquez",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117855300766314970",
+   "created_at": "2026-11-04T05:43:46.000Z",
    "source": "x"
   },
   {
@@ -2751,6 +3954,69 @@
    "source": "x"
   },
   {
+   "race": "OH-07",
+   "winner_name": "Brian Poindexter",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117850764672450772",
+   "created_at": "2026-11-04T05:25:44.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-07",
+   "winner_name": "Brian Poindexter",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117853119082045947",
+   "created_at": "2026-11-04T05:35:06.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-07",
+   "winner_name": "Brian Poindexter",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117865016074346643",
+   "created_at": "2026-11-04T06:22:22.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-07",
+   "winner_name": "Brian Poindexter",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117870254835556802",
+   "created_at": "2026-11-04T06:43:11.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-09",
+   "winner_name": "Marcy Kaptur",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117885343072657568",
+   "created_at": "2026-11-04T07:43:08.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-09",
+   "winner_name": "Marcy Kaptur",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117887498953040179",
+   "created_at": "2026-11-04T07:51:42.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH-09",
+   "winner_name": "Marcy Kaptur",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117890720182743363",
+   "created_at": "2026-11-04T08:04:30.000Z",
+   "source": "x"
+  },
+  {
    "race": "OK Senate",
    "winner_name": "Kevin Hern",
    "party": "R",
@@ -2766,6 +4032,33 @@
    "handle": "FoxNews",
    "post_url": "https://x.com/FoxNews/status/2117811811583992287",
    "created_at": "2026-11-04T02:50:57.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-01",
+   "winner_name": "Bob Harvie",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117850504118075609",
+   "created_at": "2026-11-04T05:24:42.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-01",
+   "winner_name": "Bob Harvie",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117854687416156255",
+   "created_at": "2026-11-04T05:41:19.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-01",
+   "winner_name": "Bob Harvie",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117860169929654603",
+   "created_at": "2026-11-04T06:03:07.000Z",
    "source": "x"
   },
   {
@@ -2976,6 +4269,42 @@
    "source": "x"
   },
   {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117844204634145128",
+   "created_at": "2026-11-04T04:59:40.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117866860683112735",
+   "created_at": "2026-11-04T06:29:42.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "Reuters",
+   "post_url": "https://x.com/Reuters/status/2117932395647156274",
+   "created_at": "2026-11-04T10:50:07.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC-01",
+   "winner_name": "Nancy Lacore",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117869632279208031",
+   "created_at": "2026-11-04T06:40:43.000Z",
+   "source": "x"
+  },
+  {
    "race": "SD Senate",
    "winner_name": "Mike Rounds",
    "party": "R",
@@ -3009,6 +4338,15 @@
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117827292668055590",
    "created_at": "2026-11-04T03:52:28.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TN-09",
+   "winner_name": "Brent Taylor",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117863881255039153",
+   "created_at": "2026-11-04T06:17:51.000Z",
    "source": "x"
   },
   {
@@ -3120,12 +4458,120 @@
    "source": "x"
   },
   {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117859436052074685",
+   "created_at": "2026-11-04T06:00:12.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117859526636364088",
+   "created_at": "2026-11-04T06:00:33.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117859985015087499",
+   "created_at": "2026-11-04T06:02:23.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-09",
+   "winner_name": "Leticia Gutierrez",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117880413620236354",
+   "created_at": "2026-11-04T07:23:33.000Z",
+   "source": "x"
+  },
+  {
    "race": "TX-15",
    "winner_name": "Bobby Pulido",
    "party": "D",
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117829276351525267",
    "created_at": "2026-11-04T04:00:21.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-15",
+   "winner_name": "Bobby Pulido",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117852021172892061",
+   "created_at": "2026-11-04T05:30:44.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-15",
+   "winner_name": "Bobby Pulido",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117858002241831312",
+   "created_at": "2026-11-04T05:54:30.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-23",
+   "winner_name": "Katy Padilla Stout",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117868374646460422",
+   "created_at": "2026-11-04T06:35:43.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-23",
+   "winner_name": "Katy Padilla Stout",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117870363434778894",
+   "created_at": "2026-11-04T06:43:37.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-23",
+   "winner_name": "Katy Padilla Stout",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117878436681134524",
+   "created_at": "2026-11-04T07:15:42.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-24",
+   "winner_name": "Beth Van Duyne",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117851925286986100",
+   "created_at": "2026-11-04T05:30:21.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-28",
+   "winner_name": "Henry Cuellar",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117848649665323170",
+   "created_at": "2026-11-04T05:17:20.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-28",
+   "winner_name": "Henry Cuellar",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117852748183966017",
+   "created_at": "2026-11-04T05:33:37.000Z",
    "source": "x"
   },
   {
@@ -3153,6 +4599,24 @@
    "handle": "CBSNews",
    "post_url": "https://x.com/CBSNews/status/2117833891754934283",
    "created_at": "2026-11-04T04:18:41.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-35",
+   "winner_name": "Johnny Garcia",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117853876535620029",
+   "created_at": "2026-11-04T05:38:06.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-35",
+   "winner_name": "Johnny Garcia",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117865963177828442",
+   "created_at": "2026-11-04T06:26:08.000Z",
    "source": "x"
   },
   {
@@ -3237,12 +4701,66 @@
    "source": "x"
   },
   {
+   "race": "VA-05",
+   "winner_name": "John McGuire",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117846596318609666",
+   "created_at": "2026-11-04T05:09:10.000Z",
+   "source": "x"
+  },
+  {
    "race": "WA-03",
    "winner_name": "Marie Gluesenkamp Perez",
    "party": "D",
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117833891541045251",
    "created_at": "2026-11-04T04:18:41.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WI-01",
+   "winner_name": "Mitchell Berman",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117861098749862028",
+   "created_at": "2026-11-04T06:06:48.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WI-03",
+   "winner_name": "Rebecca Cooke",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117845621193277914",
+   "created_at": "2026-11-04T05:05:18.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WI-03",
+   "winner_name": "Rebecca Cooke",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117860766594527423",
+   "created_at": "2026-11-04T06:05:29.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WI-03",
+   "winner_name": "Rebecca Cooke",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117861598052151445",
+   "created_at": "2026-11-04T06:08:47.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WI-03",
+   "winner_name": "Rebecca Cooke",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117866059898265853",
+   "created_at": "2026-11-04T06:26:31.000Z",
    "source": "x"
   },
   {
