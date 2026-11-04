@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:35:16Z",
+ "generated": "2026-11-04T03:43:36Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,127 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117824764282847252",
+   "url": "https://x.com/DecisionDeskHQ/status/2117824764282847252",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 7% in): Minnesota US Senate \n\nMichele Tafoya (R): 114,307 (55.5%)\nPeggy Flanagan (D): 86,119 (41.8%)\n\nFollow more results here:\nhttps://t.co/IPjqYVZaBZ https://t.co/eg6v7b5miO",
+   "created_at": "2026-11-04T03:42:25.000Z",
+   "races": [
+    "MN Senate"
+   ]
+  },
+  {
+   "id": "2117824542986911819",
+   "url": "https://x.com/CBSNews/status/2117824542986911819",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Republican Sen. Tom Cotton wins reelection to the U.S. Senate in Arkansas, defeating Democrat Hallie Shoffner. https://t.co/T5iaja99xp https://t.co/lzCthoRvQf",
+   "created_at": "2026-11-04T03:41:32.000Z",
+   "races": [
+    "AR Senate"
+   ]
+  },
+  {
+   "id": "2117824430361522661",
+   "url": "https://x.com/DecisionDeskHQ/status/2117824430361522661",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Janelle Stelson wins the PA US House 10 General Election\n\n#DecisionMade: 10:39 PM EST\n\nFollow live results here: https://t.co/4BviBtnzyX https://t.co/oRuMS01p1i",
+   "created_at": "2026-11-04T03:41:06.000Z",
+   "races": [
+    "PA-10"
+   ]
+  },
+  {
+   "id": "2117824284009934997",
+   "url": "https://x.com/ABC/status/2117824284009934997",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Democrat Rebecca Bennett will win in New Jersey's 7th Congressional district, ABC News projects, defeating incumbent Republican Rep. Tom Kean Jr. https://t.co/2N46u2prIc https://t.co/Piok6m4AFW",
+   "created_at": "2026-11-04T03:40:31.000Z",
+   "races": [
+    "NJ-07"
+   ]
+  },
+  {
+   "id": "2117824168322359769",
+   "url": "https://x.com/CBSNews/status/2117824168322359769",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Arizona Gov. Katie Hobbs will win the governor's race, CBS News projects, besting Rep. Andy Biggs, who was backed by President Trump and has promoted conspiracy theories about the 2020 presidential election. https://t.co/sM2UNgNLX9",
+   "created_at": "2026-11-04T03:40:03.000Z",
+   "races": [
+    "Other / general"
+   ]
+  },
+  {
+   "id": "2117823818290823280",
+   "url": "https://x.com/NBCNews/status/2117823818290823280",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Tom Cotton wins re-election to the U.S. Senate in Arkansas, NBC News projects. https://t.co/pLBqbYXSfC https://t.co/mUv9Jklp0I",
+   "created_at": "2026-11-04T03:38:40.000Z",
+   "races": [
+    "AR Senate"
+   ]
+  },
+  {
+   "id": "2117823697499074794",
+   "url": "https://x.com/CBSNews/status/2117823697499074794",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Bob Brooks has won the race for U.S. House in Pennsylvania’s 7th Congressional District, defeating incumbent Republican Rep. Ryan Mackenzie. https://t.co/T5iaja99xp https://t.co/YEI62MhQ7s",
+   "created_at": "2026-11-04T03:38:11.000Z",
+   "races": [
+    "PA-07"
+   ]
+  },
+  {
+   "id": "2117823541832016134",
+   "url": "https://x.com/ABC/status/2117823541832016134",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrat Annie Andrews will beat Sen. Darline Graham in the election for U.S. Senate in South Carolina, ABC News projects, flipping the seat once held by the late Lindsey Graham and notching a major win for Democrats.\n\nFollow live updates: https://t.co/lcYxJkbfWi https://t.co/DmNCvHtOAj",
+   "created_at": "2026-11-04T03:37:34.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117823428262514832",
+   "url": "https://x.com/ABC/status/2117823428262514832",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrat Annie Andrews will beat Sen. Darline Graham in the election for U.S. Senate in South Carolina, ABC News projects, flipping the seat once held by the late Lindsey Graham and notching a major win for Democrats.\n\nFollow live updates: https://t.co/wY53yAcJwA",
+   "created_at": "2026-11-04T03:37:07.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117823259261423925",
+   "url": "https://x.com/CNN/status/2117823259261423925",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "CNN's John King and Jake Tapper discuss what election night could mean for Trump-backed candidates in Texas and beyond. As of 10:30pm EST on election night, CNN reports that Texas Republicans, who always anticipated the Senate race between Democratic state Rep. James Talarico and https://t.co/PcINg16hDI",
+   "created_at": "2026-11-04T03:36:26.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117822911566446836",
+   "url": "https://x.com/DecisionDeskHQ/status/2117822911566446836",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Tom Cotton wins the AR US Senate General Election\n\n#DecisionMade: 10:33 PM EST\n\nFollow live results here: https://t.co/mHXWxo6NqR https://t.co/tWuPhUXvir",
+   "created_at": "2026-11-04T03:35:04.000Z",
+   "races": [
+    "AR Senate"
+   ]
+  },
   {
    "id": "2117822641876738404",
    "url": "https://x.com/CNN/status/2117822641876738404",

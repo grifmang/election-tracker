@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:35:16Z",
+ "generated": "2026-11-04T03:43:36Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
@@ -45,6 +45,21 @@
      "handle": "FoxNews",
      "post_url": "https://x.com/FoxNews/status/2117819614206083263",
      "created_at": "2026-11-04T03:21:57.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117822911566446836",
+     "created_at": "2026-11-04T03:35:04.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117823818290823280",
+     "created_at": "2026-11-04T03:38:40.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117824542986911819",
+     "created_at": "2026-11-04T03:41:32.000Z"
     }
    ]
   },
@@ -700,6 +715,11 @@
      "handle": "CBSNews",
      "post_url": "https://x.com/CBSNews/status/2117811980534771725",
      "created_at": "2026-11-04T02:51:37.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117824284009934997",
+     "created_at": "2026-11-04T03:40:31.000Z"
     }
    ]
   },
@@ -780,6 +800,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117818668457271328",
      "created_at": "2026-11-04T03:18:12.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117823697499074794",
+     "created_at": "2026-11-04T03:38:11.000Z"
     }
    ]
   },
@@ -808,6 +833,11 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117818346812911804",
      "created_at": "2026-11-04T03:16:55.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117824430361522661",
+     "created_at": "2026-11-04T03:41:06.000Z"
     }
    ]
   },
@@ -1054,6 +1084,33 @@
    "handle": "FoxNews",
    "post_url": "https://x.com/FoxNews/status/2117819614206083263",
    "created_at": "2026-11-04T03:21:57.000Z",
+   "source": "x"
+  },
+  {
+   "race": "AR Senate",
+   "winner_name": "Tom Cotton",
+   "party": "R",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117822911566446836",
+   "created_at": "2026-11-04T03:35:04.000Z",
+   "source": "x"
+  },
+  {
+   "race": "AR Senate",
+   "winner_name": "Tom Cotton",
+   "party": "R",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117823818290823280",
+   "created_at": "2026-11-04T03:38:40.000Z",
+   "source": "x"
+  },
+  {
+   "race": "AR Senate",
+   "winner_name": "Tom Cotton",
+   "party": "R",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117824542986911819",
+   "created_at": "2026-11-04T03:41:32.000Z",
    "source": "x"
   },
   {
@@ -1912,6 +1969,15 @@
    "source": "x"
   },
   {
+   "race": "NJ-07",
+   "winner_name": "Rebecca Bennett",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117824284009934997",
+   "created_at": "2026-11-04T03:40:31.000Z",
+   "source": "x"
+  },
+  {
    "race": "NY-03",
    "winner_name": "Tom Suozzi",
    "party": "D",
@@ -1975,6 +2041,15 @@
    "source": "x"
   },
   {
+   "race": "PA-07",
+   "winner_name": "Bob Brooks",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117823697499074794",
+   "created_at": "2026-11-04T03:38:11.000Z",
+   "source": "x"
+  },
+  {
    "race": "PA-08",
    "winner_name": "Paige Cognetti",
    "party": "D",
@@ -1990,6 +2065,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117818346812911804",
    "created_at": "2026-11-04T03:16:55.000Z",
+   "source": "x"
+  },
+  {
+   "race": "PA-10",
+   "winner_name": "Janelle Stelson",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117824430361522661",
+   "created_at": "2026-11-04T03:41:06.000Z",
    "source": "x"
   },
   {
