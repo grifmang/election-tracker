@@ -1,7 +1,7 @@
 const $ = s => document.querySelector(s);
 const fmt = v => (v === null || v === undefined) ? '<span class="na">n/a</span>' : Number(v).toLocaleString();
 const pcls = p => /^Democ|^D$/.test(p||'') ? 'D' : /^Repub|^R$/.test(p||'') ? 'R' : 'O';
-const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ELECTION = new Date('2026-11-03T00:00:00-05:00');
 const D = {};
 const isUrl = u => typeof u === 'string' && /^https?:\/\//i.test(u);
@@ -15,7 +15,7 @@ function srcCell(s){
   return parts.join(' · ');
 }
 
-async function load(n){ try { const r = await fetch('data/'+n+'.json',{cache:'no-store'}); return r.ok ? r.json() : null; } catch(e){ return null; } }
+async function load(n){ try { const r = await fetch('data/'+n+'.json',{cache:'no-store'}); return r.ok ? await r.json() : null; } catch(e){ return null; } }
 
 document.querySelectorAll('nav button').forEach(b => b.onclick = () => {
   document.querySelectorAll('nav button,.tab').forEach(x => x.classList.remove('active'));
@@ -122,18 +122,30 @@ function results(){
     `Source: ${esc(H?.source||'n/a')}. Status: <b>${H?.live?'LIVE':'not live yet'}</b>${H?.as_of?' · as of '+H.as_of:''}. 2026 races in feed: House ${Object.keys(H?.races||{}).length}, Senate ${Object.keys(S?.races||{}).length}. This feed passes through official state counts and makes no race calls; it covers about 22 states. Races outside it need AP/DDHQ or per-state feeds.`;
   resTable($('#ressen'), S, 'S'); resTable($('#reshouse'), H, 'H');
 }
+const etTime = iso => { const d = new Date(iso); return isNaN(d) ? '' : d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET'; };
+function xfeed(){
+  const f = D.xf, posts = Array.isArray(f?.posts) ? f.posts : [];
+  $('#xfeedmeta').textContent = f ? `${posts.length} posts · feed updated ${etTime(f.generated)}` : 'No posts loaded yet.';
+  $('#xfeed').innerHTML = posts.map(p => `<article class="card xpost">
+    <div class="who">${esc(p.author_name)} <span class="muted">@${esc(p.handle)}</span></div>
+    <div class="when muted"><time datetime="${esc(p.created_at)}">${etTime(p.created_at)}</time></div>
+    <blockquote>${esc(p.text)}</blockquote>
+    <div class="src">${ext(p.url, 'View original post on X')}</div></article>`).join('');
+}
 function sources(){
   $('#srclist').innerHTML = `<ul>
   <li>Race lists, candidates, Senate ratings & poll-closing times: ${ext(D.house?.source, esc(D.house?.source))}, ${ext(D.sen?.source, esc(D.sen?.source))} (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>
   <li>Early vote: ${ext(D.ev?.source, "UF Election Lab 2026 Early Voting")} — ${esc(D.ev?.attribution)}. Data file: ${ext(D.ev?.data_url, esc(D.ev?.data_url))}. ${D.ev?.caveats?.map(esc).join(' ')}</li>
   <li>District early vote: ${esc(D.evd?.note)}</li>
   <li>Competitive-district flags: ${esc(D.comp?.note)} ${ext(D.comp?.source, "csv")}</li>
-  <li>Results: <a href="https://openamerica.io/elections/api/">Open America results feed</a> — official state counts, no projections.</li></ul>`;
+  <li>Results: <a href="https://openamerica.io/elections/api/">Open America results feed</a> — official state counts, no projections.</li>
+  <li>Election-night posts (Live results tab): public posts from news-desk accounts on X (${esc((D.xf?.accounts||[]).map(h=>'@'+h).join(', '))}), quoted verbatim with a link to each original post. Race calls in those posts are the outlets' own.</li></ul>`;
 }
 
 (async () => {
-  [D.house, D.sen, D.ev, D.evd, D.comp, D.resH, D.resS, D.resH24, D.resS24] = await Promise.all(
-    ['races_house','races_senate','early_vote_states','early_vote_districts','house_competitive','results_house','results_senate','results_test2024_house','results_test2024_senate'].map(load));
+  [D.house, D.sen, D.ev, D.evd, D.comp, D.resH, D.resS, D.resH24, D.resS24, D.xf] = await Promise.all(
+    ['races_house','races_senate','early_vote_states','early_vote_districts','house_competitive','results_house','results_senate','results_test2024_house','results_test2024_senate','x_feed'].map(load));
   overview(); senate(); $('#senfilter').oninput = senate; houseInit(); house(); early(); results(); $('#demo2024').onchange = results; sources();
-  setInterval(async()=>{ const h=await load('results_house'); if(h?.live){ D.resH=h; D.resS=await load('results_senate'); results(); } }, 60000);
+  try { xfeed(); } catch(e){ console.warn('x feed render failed', e); }
+  setInterval(async()=>{ const h=await load('results_house'); if(h?.live){ D.resH=h; D.resS=await load('results_senate'); results(); } const xf=await load('x_feed'); if(xf){ D.xf=xf; try{ xfeed(); }catch(e){} } }, 60000);
 })();
