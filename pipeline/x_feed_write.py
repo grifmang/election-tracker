@@ -19,10 +19,11 @@ START_TIME = "2026-11-03T22:00:00Z"
 # Handles verified via user lookup on 2026-11-03. AP_Politics was dropped (an unrelated 1-post account).
 HANDLES = ["AP", "DecisionDeskHQ", "NBCNews", "CBSNews", "ABC", "CNN", "FoxNews", "nytimes", "Reuters", "CookPolitical"]
 QUERY = ("(" + " OR ".join("from:" + h for h in HANDLES) + ") "
-         '(Senate OR House OR Congress OR congressional OR "balance of power") -Governor -is:retweet -is:reply')
+         '(Senate OR House OR Congress OR congressional OR "balance of power" OR projects OR wins OR reelection OR "re-election") '
+         '-Governor -is:retweet -is:reply')
 ALLOWED = {h.lower() for h in HANDLES}
 # Keep only posts that are about House/Senate/Congress ("White House" alone doesn't count).
-RELEVANT = re.compile(r"\b(Senate|House|Congress|congressional|balance of power)\b", re.I)
+RELEVANT = re.compile(r"\b(Senate|House|Congress|congressional|balance of power|Sen\.|Rep\.)", re.I)
 NOTE = ("Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are "
         "theirs, not this site's. Official counts above come from the Open America feed.")
 

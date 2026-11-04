@@ -132,6 +132,7 @@ function xfeed(){
     <blockquote>${esc(p.text)}</blockquote>
     <div class="src">${ext(p.url, 'View original post on X')}</div></article>`).join('');
 }
+document.addEventListener('click', e => { if (e.target.id === 'xjump') { e.preventDefault(); $('#xfeedhead').scrollIntoView({behavior:'smooth'}); } });
 function sources(){
   $('#srclist').innerHTML = `<ul>
   <li>Race lists, candidates, Senate ratings & poll-closing times: ${ext(D.house?.source, esc(D.house?.source))}, ${ext(D.sen?.source, esc(D.sen?.source))} (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>

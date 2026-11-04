@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T00:48:08Z",
+ "generated": "2026-11-04T00:51:44Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
- "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\") -Governor -is:retweet -is:reply",
+ "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
   "AP",
   "DecisionDeskHQ",
@@ -15,6 +15,46 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117781475697332281",
+   "url": "https://x.com/DecisionDeskHQ/status/2117781475697332281",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 19% in): Ohio US House 7 \n\nBrian Poindexter (D): 44,721 (70.0%)\nMax Miller (R): 19,145 (30.0%)\n\nFollow more results here:\nhttps://t.co/S6XdyW9IwA https://t.co/qT3HmPmrCH",
+   "created_at": "2026-11-04T00:50:24.000Z"
+  },
+  {
+   "id": "2117781426678677556",
+   "url": "https://x.com/Reuters/status/2117781426678677556",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Incumbent Democrat Jon Ossoff wins Georgia's Senate race, news media project. Follow live updates on the US midterm elections: https://t.co/tTw7SuZJV5 https://t.co/GtXlCzat7j",
+   "created_at": "2026-11-04T00:50:13.000Z"
+  },
+  {
+   "id": "2117781039972012091",
+   "url": "https://x.com/CBSNews/status/2117781039972012091",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News Executive Director of Elections &amp; Surveys @SalvantoCBS breaks down the numbers in Georgia's Senate race, as CBS News projects Democrat Jon Ossoff has won reelection. https://t.co/T5iaja99xp https://t.co/ann9REMKDx",
+   "created_at": "2026-11-04T00:48:41.000Z"
+  },
+  {
+   "id": "2117780576279150735",
+   "url": "https://x.com/CBSNews/status/2117780576279150735",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democratic Sen. Jon Ossoff has won re-election against Republican Rep. Mike Collins in the state of Georgia, CBS News projects. https://t.co/y20sxOWnGi https://t.co/6s08KrXaHR",
+   "created_at": "2026-11-04T00:46:50.000Z"
+  },
+  {
+   "id": "2117780140688093695",
+   "url": "https://x.com/NBCNews/status/2117780140688093695",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Democratic Sen. Jon Ossoff has won re-election against Republican Rep. Mike Collins, NBC News projects, prevailing in Georgia after a nationally watched race that was defined, at times, by heated personal attacks. https://t.co/FjFttJvzlA",
+   "created_at": "2026-11-04T00:45:06.000Z"
+  },
   {
    "id": "2117779806351679531",
    "url": "https://x.com/ABC/status/2117779806351679531",
@@ -454,22 +494,6 @@
    "handle": "NBCNews",
    "text": "As of 5p.m. ET: The issue of government corruption was a significant factor influencing voters nationwide, with 90% saying it was a crucial or major factor in their vote for Congress, according to early results from the NBC News Exit Poll. https://t.co/V7IBhUyAo9 https://t.co/ntWbao5hQd",
    "created_at": "2026-11-03T22:44:21.000Z"
-  },
-  {
-   "id": "2117747348533084413",
-   "url": "https://x.com/CBSNews/status/2117747348533084413",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "President Trump’s job approval is currently underwater in nearly all the Senate battleground states, according to early exit polls, including states that he won by double digits in 2024.\n\nIn all the Senate battlegrounds, more say their finances are worse, not better, compared to",
-   "created_at": "2026-11-03T22:34:48.000Z"
-  },
-  {
-   "id": "2117740536039899495",
-   "url": "https://x.com/ABC/status/2117740536039899495",
-   "author_name": "ABC News",
-   "handle": "ABC",
-   "text": "TONIGHT: Which races will decide control of the House and Senate? Watch full ABC News coverage of Election Day 2026 tonight at 7p EST on ABC and streaming on Disney+ and Hulu. https://t.co/tBXwzWFGCS",
-   "created_at": "2026-11-03T22:07:44.000Z"
   }
  ]
 }
