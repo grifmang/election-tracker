@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:16:28Z",
+ "generated": "2026-11-04T02:28:31Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,50 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117805611102396880",
+   "url": "https://x.com/DecisionDeskHQ/status/2117805611102396880",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 3% in): Louisiana US Senate \n\nJamie Davis (D): 27,582 (61.7%)\nJulia Letlow (R): 17,154 (38.3%)\n\nFollow more results here:\nhttps://t.co/b1WChc0NLE https://t.co/M7qeqju08Z",
+   "created_at": "2026-11-04T02:26:19.000Z",
+   "races": [
+    "LA Senate"
+   ]
+  },
+  {
+   "id": "2117805163998028016",
+   "url": "https://x.com/NBCNews/status/2117805163998028016",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Vicente Gonzalez wins re-election to the U.S. House in Texas's 34th Congressional District, NBC News projects. https://t.co/U83hqV6yDl https://t.co/Jh2mavu0yQ",
+   "created_at": "2026-11-04T02:24:32.000Z",
+   "races": [
+    "TX-34"
+   ]
+  },
+  {
+   "id": "2117803912195400087",
+   "url": "https://x.com/NBCNews/status/2117803912195400087",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Andy Barr wins U.S. Senate race in Kentucky, NBC News projects. https://t.co/SA4N6v4fNv https://t.co/d0URCVZOQ5",
+   "created_at": "2026-11-04T02:19:34.000Z",
+   "races": [
+    "KY Senate"
+   ]
+  },
+  {
+   "id": "2117803753755549725",
+   "url": "https://x.com/CNN/status/2117803753755549725",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Supporters at the North Carolina headquarters of former Gov. Roy Cooper (D) celebrate as he is projected to win the Senate seat that has long evaded Democrats.\n\nElection Night in America coverage is live now on CNN and streaming with an All Access subscription: https://t.co/Y7eboBFFcP",
+   "created_at": "2026-11-04T02:18:56.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
   {
    "id": "2117803060088951011",
    "url": "https://x.com/DecisionDeskHQ/status/2117803060088951011",
@@ -79,8 +123,8 @@
    "created_at": "2026-11-04T02:08:03.000Z",
    "races": [
     "FL-22",
-    "FL-25",
-    "FL-14"
+    "FL-14",
+    "FL-25"
    ]
   },
   {
