@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-03T22:49:51+00:00",
+ "generated": "2026-11-04T00:35:37+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383646764,
+ "wikipedia_revid": 1383658721,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -40,7 +40,7 @@
    ],
    "ratings": {
     "Cook Nov 2, 2026": "Tossup",
-    "DDHQ Nov 3, 2026": "Lean D (flip)",
+    "DDHQ Nov 3, 2026": "Tossup",
     "Econ Nov 3, 2026": "Tossup",
     "FPO Nov 2, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
@@ -307,16 +307,16 @@
     "name": "Jon Ossoff",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
-    {
-     "name": "Mike Collins",
-     "party": "Republican",
-     "note": null
-    },
     {
      "name": "Jon Ossoff",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Mike Collins",
+     "party": "Republican",
      "note": null
     }
    ],
@@ -1592,7 +1592,7 @@
    ],
    "ratings": {
     "Cook Nov 2, 2026": "Tossup",
-    "DDHQ Nov 3, 2026": "Lean D (flip)",
+    "DDHQ Nov 3, 2026": "Tossup",
     "Econ Nov 3, 2026": "Tossup",
     "FPO Nov 2, 2026": "Lean D (flip)",
     "Fox Nov 1, 2026": "Tossup",
@@ -1619,16 +1619,16 @@
     "name": "Mark Warner",
     "party": "Democratic"
    },
-   "status": "Incumbent renominated",
+   "status": "Incumbent re-elected",
    "candidates": [
-    {
-     "name": "Bert Mizusawa",
-     "party": "Republican",
-     "note": null
-    },
     {
      "name": "Mark Warner",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Bert Mizusawa",
+     "party": "Republican",
      "note": null
     }
    ],

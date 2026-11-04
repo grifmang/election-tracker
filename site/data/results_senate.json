@@ -1,17 +1,234 @@
 {
- "generated": "2026-11-03T22:50:31+00:00",
+ "generated": "2026-11-04T00:36:17+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
- "live": false,
- "as_of": null,
+ "live": true,
+ "as_of": "2026-11-04T00:35:10+00:00",
  "counts": {
   "called": {},
-  "races": 0,
-  "not_called": 0,
+  "races": 8,
+  "not_called": 8,
   "reporting": 0,
-  "with_precincts": 0
+  "with_precincts": 8
  },
- "races": {}
+ "races": {
+  "AR": {
+   "pct_in": 0.0,
+   "total": 0,
+   "leader": "",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Tom Cotton",
+     "party": "R",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Hallie Shoffner",
+     "party": "D",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Jeff Wadlin",
+     "party": "L",
+     "votes": 0,
+     "pct": null
+    }
+   ]
+  },
+  "FL": {
+   "pct_in": 0.0,
+   "total": 0,
+   "leader": "",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Neil J. Gillespie",
+     "party": "I",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Ashley Moody",
+     "party": "R",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Angie Nixon",
+     "party": "D",
+     "votes": 0,
+     "pct": null
+    }
+   ]
+  },
+  "GA": {
+   "pct_in": 25.16,
+   "total": 1023051,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Jon Ossoff",
+     "party": "D",
+     "votes": 694033,
+     "pct": 67.84
+    },
+    {
+     "name": "Mike Collins",
+     "party": "R",
+     "votes": 329018,
+     "pct": 32.16
+    }
+   ]
+  },
+  "ID": {
+   "pct_in": 0.0,
+   "total": 0,
+   "leader": "",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Todd Achilles",
+     "party": "I",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Natalie M Fleming",
+     "party": "I",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Matt Loesby",
+     "party": "L",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Jim Risch",
+     "party": "R",
+     "votes": 0,
+     "pct": null
+    }
+   ]
+  },
+  "LA": {
+   "pct_in": 0.0,
+   "total": 0,
+   "leader": "",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Jamie Davis",
+     "party": "D",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Julia Letlow",
+     "party": "R",
+     "votes": 0,
+     "pct": null
+    }
+   ]
+  },
+  "MN": {
+   "pct_in": 0.0,
+   "total": 0,
+   "leader": "",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Peggy Flanagan",
+     "party": "D",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Marisa Simonetti",
+     "party": "I",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Michele Tafoya",
+     "party": "R",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Rebecca Whiting",
+     "party": "L",
+     "votes": 0,
+     "pct": null
+    }
+   ]
+  },
+  "NC": {
+   "pct_in": 0.0,
+   "total": 0,
+   "leader": "",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Shannon W. Bray",
+     "party": "L",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Roy Cooper",
+     "party": "D",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Michael Dublin",
+     "party": "G",
+     "votes": 0,
+     "pct": null
+    },
+    {
+     "name": "Michael Whatley",
+     "party": "R",
+     "votes": 0,
+     "pct": null
+    }
+   ]
+  },
+  "VA": {
+   "pct_in": 51.13,
+   "total": 174240,
+   "leader": "D",
+   "called": false,
+   "winner": null,
+   "candidates": [
+    {
+     "name": "Mark R. Warner",
+     "party": "D",
+     "votes": 105369,
+     "pct": 60.47
+    },
+    {
+     "name": "Bert Mizusawa",
+     "party": "R",
+     "votes": 68871,
+     "pct": 39.53
+    }
+   ]
+  }
+ }
 }
