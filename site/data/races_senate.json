@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T01:14:24+00:00",
+ "generated": "2026-11-04T01:27:04+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383663305,
+ "wikipedia_revid": 1383664953,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -938,26 +938,26 @@
     "name": "Thom Tillis",
     "party": "Republican"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Democratic gain.",
    "candidates": [
-    {
-     "name": "Shannon Bray",
-     "party": "Libertarian",
-     "note": null
-    },
     {
      "name": "Roy Cooper",
      "party": "Democratic",
      "note": null
     },
     {
-     "name": "Michael Dublin",
-     "party": "Green",
+     "name": "Michael Whatley",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Michael Whatley",
-     "party": "Republican",
+     "name": "Shannon Bray",
+     "party": "Libertarian",
+     "note": null
+    },
+    {
+     "name": "Michael Dublin",
+     "party": "Green",
      "note": null
     }
    ],
@@ -1047,13 +1047,8 @@
     "name": "Jeanne Shaheen",
     "party": "Democratic"
    },
-   "status": "Incumbent retiring",
+   "status": "Incumbent retiring. Democratic hold.",
    "candidates": [
-    {
-     "name": "Edmond LaPlante",
-     "party": "Constitution",
-     "note": null
-    },
     {
      "name": "Chris Pappas",
      "party": "Democratic",
@@ -1062,6 +1057,11 @@
     {
      "name": "John E. Sununu",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Edmond LaPlante",
+     "party": "Constitution",
      "note": null
     }
    ],
