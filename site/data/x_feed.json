@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:02:04Z",
+ "generated": "2026-11-04T04:20:14Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,237 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117833891754934283",
+   "url": "https://x.com/CBSNews/status/2117833891754934283",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democratic Rep. Vicente Gonzalez wins reelection to the U.S. House in Texas’s 34th Congressional District, defeating Republican Eric Flores. https://t.co/T5iaja99xp https://t.co/6HoaB4HJSx",
+   "created_at": "2026-11-04T04:18:41.000Z",
+   "races": [
+    "TX-34"
+   ]
+  },
+  {
+   "id": "2117833891541045251",
+   "url": "https://x.com/NBCNews/status/2117833891541045251",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Marie Gluesenkamp Perez wins re-election to the U.S. House in Washington's 3rd Congressional District, NBC News projects. https://t.co/eShBmxzzuh https://t.co/JQ7Xlh7eAF",
+   "created_at": "2026-11-04T04:18:41.000Z",
+   "races": [
+    "WA-03"
+   ]
+  },
+  {
+   "id": "2117833782904373311",
+   "url": "https://x.com/CNN/status/2117833782904373311",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democrat Adam Hamilton will win the Kansas Senate race, CNN projects. It's a seismic defeat of Republican Sen. Roger Marshall in a deep-red state. Follow live updates. https://t.co/IWctFIeVsy https://t.co/ChSTCCt0bv",
+   "created_at": "2026-11-04T04:18:15.000Z",
+   "races": [
+    "KS Senate"
+   ]
+  },
+  {
+   "id": "2117833601274302634",
+   "url": "https://x.com/DecisionDeskHQ/status/2117833601274302634",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Josh Turek wins the IA US Senate General Election\n\n#DecisionMade: 11:16 PM EST\n\nFollow live results here: https://t.co/itEu2w1KB6 https://t.co/WftezBYPUV",
+   "created_at": "2026-11-04T04:17:32.000Z",
+   "races": [
+    "IA Senate"
+   ]
+  },
+  {
+   "id": "2117833426435023093",
+   "url": "https://x.com/ABC/status/2117833426435023093",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrat James Talarico will win the Texas Senate race, defeating Republican Texas Attorney General Ken Paxton and becoming the first Democrat to win a Texas statewide race in over 30 years, ABC News projects. https://t.co/qvMIGQTdUW https://t.co/dRWQQU4uMU",
+   "created_at": "2026-11-04T04:16:50.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117833393920492024",
+   "url": "https://x.com/ABC/status/2117833393920492024",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "JUST IN: Democrat Sherrod Brown will defeat Sen. Jon Husted in the Ohio Senate race, flipping the seat for Democrats, ABC News projects. \nhttps://t.co/mbovwiy5p8",
+   "created_at": "2026-11-04T04:16:43.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117833380343738480",
+   "url": "https://x.com/DecisionDeskHQ/status/2117833380343738480",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "Decision Desk HQ projects Sherrod Brown wins the OH US Senate Special Election General\n\n#DecisionMade: 11:15 PM EST\n\nFollow live results here: https://t.co/CvzCIkjrSw https://t.co/mwHQqsqEdf",
+   "created_at": "2026-11-04T04:16:39.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117833164047749362",
+   "url": "https://x.com/ABC/status/2117833164047749362",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "JUST IN: Democrat Sherrod Brown will defeat Sen. Jon Husted in the Ohio Senate race, flipping the seat for Democrats, ABC News projects. \n\nFollow live updates: https://t.co/1cKcYHhfhU https://t.co/eZRQlGN2FH",
+   "created_at": "2026-11-04T04:15:48.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117832698592981498",
+   "url": "https://x.com/CBSNews/status/2117832698592981498",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Retiring North Carolina Sen. Thom Tillis (R) shares his thoughts as CBS News projects Democrat Roy Cooper to win the state's Senate seat.\n\nAsked whether he has any unfinished business before he leaves office, Tillis tells @margbrennan that Defense Secretary Pete Hegseth \"has a https://t.co/WxaoHW3GXL",
+   "created_at": "2026-11-04T04:13:57.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117832676526723351",
+   "url": "https://x.com/NBCNews/status/2117832676526723351",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Democratic former Sen. Sherrod Brown prevails in one of the year’s most combative and expensive Senate races, beating Republican incumbent Jon Husted, NBC News projects. https://t.co/8oekVJcMk9",
+   "created_at": "2026-11-04T04:13:52.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117832613012336857",
+   "url": "https://x.com/CBSNews/status/2117832613012336857",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Sherrod Brown wins Ohio 2026 Senate election, flipping seat for Democrats. https://t.co/MU27WGfs35",
+   "created_at": "2026-11-04T04:13:37.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117832458238369832",
+   "url": "https://x.com/AP/status/2117832458238369832",
+   "author_name": "The Associated Press",
+   "handle": "AP",
+   "text": "Democrat Sherrod Brown wins a comeback bid to the U.S. Senate from Ohio, defeating Republican Sen. Jon Husted. https://t.co/szC4uBdNpC https://t.co/QNMjdztr4R",
+   "created_at": "2026-11-04T04:13:00.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117832367943655809",
+   "url": "https://x.com/FoxNews/status/2117832367943655809",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that James Talarico will defeat Republican Attorney General Ken Paxton in the Texas Senate race.\n\nTune in to Fox News Channel now for live midterm election coverage. https://t.co/hX8tbOigKn",
+   "created_at": "2026-11-04T04:12:38.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117832191660933222",
+   "url": "https://x.com/ABC/status/2117832191660933222",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "ABC News’ Rachel Scott breaks down the vote in South Carolina’s Senate race, where ABC News projects Democrat Annie Andrews will defeat Sen. Darline Graham. ABC News’ Deborah Roberts reports from Graham’s campaign headquarters in Columbia, where she says it is “quiet.” https://t.co/UYVajYhTz0",
+   "created_at": "2026-11-04T04:11:56.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
+  {
+   "id": "2117832097062678584",
+   "url": "https://x.com/FoxNews/status/2117832097062678584",
+   "author_name": "Fox News",
+   "handle": "FoxNews",
+   "text": "BREAKING: The Fox News Decision Desk can project that James Talarico will defeat Republican Attorney General Ken Paxton in the Texas Senate race. https://t.co/8FaYqsweJM",
+   "created_at": "2026-11-04T04:11:34.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117831972051419302",
+   "url": "https://x.com/NBCNews/status/2117831972051419302",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Sherrod Brown wins special election for U.S. Senate seat in Ohio, NBC News projects. https://t.co/D66vDEMXLf https://t.co/WM3NgT227e",
+   "created_at": "2026-11-04T04:11:04.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117831964778746009",
+   "url": "https://x.com/DecisionDeskHQ/status/2117831964778746009",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 15% in): Idaho US Senate \n\nTodd Achilles (I): 49,810 (51.3%)\nJim Risch (R): 39,049 (40.2%)\nNatalie Fleming (I): 6,368 (6.6%)\n\nFollow more results here:\nhttps://t.co/Vd12g1Xv1u https://t.co/5q6fvnOnc6",
+   "created_at": "2026-11-04T04:11:02.000Z",
+   "races": [
+    "ID Senate"
+   ]
+  },
+  {
+   "id": "2117831944851636616",
+   "url": "https://x.com/CBSNews/status/2117831944851636616",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Sherrod Brown has won the race for U.S. Senate in Ohio, defeating incumbent Republican Sen. Jon Husted, CBS News projects. https://t.co/T5iaja9HmX https://t.co/kIrCOO88dG",
+   "created_at": "2026-11-04T04:10:57.000Z",
+   "races": [
+    "OH Senate (special)"
+   ]
+  },
+  {
+   "id": "2117831917274096030",
+   "url": "https://x.com/ABC/status/2117831917274096030",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrat James Talarico will win the Texas Senate race, defeating Republican Texas Attorney General Ken Paxton and becoming the first Democrat to win a Texas statewide race in over 30 years, ABC News projects. \n\nFollow live updates: https://t.co/govpLtyztb https://t.co/sKM3sGUhoc",
+   "created_at": "2026-11-04T04:10:51.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117831876098269229",
+   "url": "https://x.com/ABC/status/2117831876098269229",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democrat James Talarico will win the Texas Senate race, defeating Republican Texas Attorney General Ken Paxton and becoming the first Democrat to win a Texas statewide race in over 30 years, ABC News projects. \nhttps://t.co/RQIiLNaEXH",
+   "created_at": "2026-11-04T04:10:41.000Z",
+   "races": [
+    "TX Senate"
+   ]
+  },
+  {
+   "id": "2117831769588158604",
+   "url": "https://x.com/CBSNews/status/2117831769588158604",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Democrat Annie Andrews defeated GOP Sen. Darline Graham, the late Sen. Lindsey Graham's sister, in the South Carolina Senate race, CBS News projects, in a major upset.\n\nAndrews faced an uphill battle in a state that hasn't elected a Democrat to the Senate since 1998, and which https://t.co/bgWooyOgor",
+   "created_at": "2026-11-04T04:10:15.000Z",
+   "races": [
+    "SC Senate"
+   ]
+  },
   {
    "id": "2117829539980075279",
    "url": "https://x.com/CNN/status/2117829539980075279",
@@ -3092,230 +3323,6 @@
    "handle": "CookPolitical",
    "text": "Polls are about to close in most of Florida, which more so than any other state, will play a crucial role in determining House control.  \n\nRead and bookmark our hour-by-hour House guide: https://t.co/Y3jzUlFuA5",
    "created_at": "2026-11-03T23:56:06.000Z",
-   "races": [
-    "House control"
-   ]
-  },
-  {
-   "id": "2117765955963031807",
-   "url": "https://x.com/DecisionDeskHQ/status/2117765955963031807",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 5% in): Kentucky US House 6 \n\nZach Dembo (D): 6,924 (51.0%)\nRalph Alvarado (R): 6,298 (46.4%)\n\nFollow more results here:\nhttps://t.co/1M5v9LkrKU https://t.co/nMcNfOQh0N",
-   "created_at": "2026-11-03T23:48:44.000Z",
-   "races": [
-    "KY-06"
-   ]
-  },
-  {
-   "id": "2117763816843100661",
-   "url": "https://x.com/DecisionDeskHQ/status/2117763816843100661",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Balance of Power Update: House (6:40 PM)\nDemocrats: 2\nRepublicans: 4\n\nFollow more results here: https://t.co/Qkk8JsElNQ https://t.co/o5SSi85iuc",
-   "created_at": "2026-11-03T23:40:14.000Z",
-   "races": [
-    "House control"
-   ]
-  },
-  {
-   "id": "2117763783015755902",
-   "url": "https://x.com/NBCNews/status/2117763783015755902",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "As of 5p.m. ET: Three-quarters of voters say they disapprove of the way Congress is handling its job, while nearly 6 in 10 disapprove of the performance of the Supreme Court and ICE, according to preliminary results from the NBC News Exit Poll. https://t.co/Avnlo1pqv2 https://t.co/9TU2scSdQq",
-   "created_at": "2026-11-03T23:40:06.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117763652505727444",
-   "url": "https://x.com/CNN/status/2117763652505727444",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "Incumbent Republican Sen. Dan Sullivan said Tuesday that thousands of Alaskans could \"throw away their vote\" over confusion for another Dan Sullivan on the ballot. The GOP senator accused Democratic Senate candidate Mary Peltola and Minority Leader Chuck Schumer of devising the https://t.co/4bzR1EZgih",
-   "created_at": "2026-11-03T23:39:35.000Z",
-   "races": [
-    "AK Senate"
-   ]
-  },
-  {
-   "id": "2117762286764916794",
-   "url": "https://x.com/CookPolitical/status/2117762286764916794",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "Polls have closed in most of Indiana, where Democrats have a long shot opportunity to oust GOP Rep. Spartz. If J.D. Ford wins the 5th District, Democrats are on a path to flip at least 25 seats. Read our hour-by-hour guide to the House from @ercovey: https://t.co/Y3jzUlEWKx",
-   "created_at": "2026-11-03T23:34:09.000Z",
-   "races": [
-    "IN-05"
-   ]
-  },
-  {
-   "id": "2117761862888530273",
-   "url": "https://x.com/NBCNews/status/2117761862888530273",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "The first polls of the 2026 midterm elections have closed. Watch special live coverage of the latest results and what they mean for which party controls Congress in the final two years of President Trump’s term. https://t.co/juXhSv3vJL",
-   "created_at": "2026-11-03T23:32:28.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117761276508013040",
-   "url": "https://x.com/FoxNews/status/2117761276508013040",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "AMERICA DECIDES: The biggest names, fiercest battles, and most consequential races of the midterms are here and control of Congress now hangs in the balance.\n\nDon't miss a moment. Watch Fox News Channel for live Election coverage. https://t.co/ummPt2CYNE https://t.co/zDBP7nx4qX",
-   "created_at": "2026-11-03T23:30:09.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117759644500369494",
-   "url": "https://x.com/DecisionDeskHQ/status/2117759644500369494",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 30% in): Indiana US House 5 \n\nJ.D. Ford (D): 49,541 (63.6%)\nVictoria Spartz (R): 28,390 (36.4%)\n\nFollow more results here:\nhttps://t.co/DpHpmIT6xs https://t.co/ptvRIXqxjY",
-   "created_at": "2026-11-03T23:23:39.000Z",
-   "races": [
-    "IN-05"
-   ]
-  },
-  {
-   "id": "2117758315157426563",
-   "url": "https://x.com/CNN/status/2117758315157426563",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "In a resurfaced video, former President Bill Clinton praised Michigan Democratic Senate candidate Abdul El-Sayed during his 2007 commencement speech at the University of Michigan. https://t.co/8NHccGxuyE",
-   "created_at": "2026-11-03T23:18:23.000Z",
-   "races": [
-    "MI Senate"
-   ]
-  },
-  {
-   "id": "2117757794929541167",
-   "url": "https://x.com/nytimes/status/2117757794929541167",
-   "author_name": "The New York Times",
-   "handle": "nytimes",
-   "text": "The first polls in the midterm elections have closed, and Congress is up for grabs. Follow live updates here for results, analysis and, later, our live forecast needle. https://t.co/y52ZEgjjKY",
-   "created_at": "2026-11-03T23:16:19.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117757759110488139",
-   "url": "https://x.com/Reuters/status/2117757759110488139",
-   "author_name": "Reuters",
-   "handle": "Reuters",
-   "text": "Republican candidate for the US Senate from Michigan Mike Rogers and rival Democrat Abdul El-Sayed spoke to reporters outside polling stations as the midterm race enters its final stretch. Follow live updates: https://t.co/sIGlhDBvF7 https://t.co/SAGrYRgzwO",
-   "created_at": "2026-11-03T23:16:10.000Z",
-   "races": [
-    "MI Senate"
-   ]
-  },
-  {
-   "id": "2117756234589766065",
-   "url": "https://x.com/NBCNews/status/2117756234589766065",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "Sitting presidents typically see their party lose seats in Congress during the midterms. Though he’s headlined 28 rallies since Oct. 1, President Trump hasn’t sounded confident in recent days that Republicans were poised to defy the trend. https://t.co/vLgDWsAGxl",
-   "created_at": "2026-11-03T23:10:06.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117756010769043884",
-   "url": "https://x.com/CookPolitical/status/2117756010769043884",
-   "author_name": "Cook Political Report",
-   "handle": "CookPolitical",
-   "text": "The first polls of the night are closing in Kentucky and Indiana. Keep an eye on #KY06. If this Toss Up race is called for Democrats early in the night, a massive blue wave is on the horizon.\n\nHour-by-hour guide to the House from @ercovey: https://t.co/Y3jzUlEWKx",
-   "created_at": "2026-11-03T23:09:13.000Z",
-   "races": [
-    "KY-06"
-   ]
-  },
-  {
-   "id": "2117755467396980811",
-   "url": "https://x.com/FoxNews/status/2117755467396980811",
-   "author_name": "Fox News",
-   "handle": "FoxNews",
-   "text": "BREAKING: Fox News special election coverage is officially underway as major polls approach closing across the country.\n\nAttention now turns to the vote count as the first results begin coming in, with control of Congress on the line.\n\nTune in to Fox News Channel for LIVE midterm https://t.co/wvvc6JbCU4",
-   "created_at": "2026-11-03T23:07:04.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117754628846600514",
-   "url": "https://x.com/DecisionDeskHQ/status/2117754628846600514",
-   "author_name": "Decision Desk HQ",
-   "handle": "DecisionDeskHQ",
-   "text": "DDHQ Race Update (est. 0% in): Kentucky US Senate \n\nAndy Barr (R): 1,126 (75.0%)\nCharles Booker (D): 359 (23.9%)\n\nFollow more results here:\nhttps://t.co/eCE9ncz68F https://t.co/SYyjjE1wOC",
-   "created_at": "2026-11-03T23:03:44.000Z",
-   "races": [
-    "KY Senate"
-   ]
-  },
-  {
-   "id": "2117753966830465362",
-   "url": "https://x.com/ABC/status/2117753966830465362",
-   "author_name": "ABC News",
-   "handle": "ABC",
-   "text": "ABC News’ Olivia Rubin breaks down the numbers that will determine who takes control of Congress, as Democrats look to win back seats on Capitol Hill. \n\nFollow live updates: https://t.co/icNE9RKnqu https://t.co/plfQNNnsoy",
-   "created_at": "2026-11-03T23:01:06.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117753761682657456",
-   "url": "https://x.com/CNN/status/2117753761682657456",
-   "author_name": "CNN",
-   "handle": "CNN",
-   "text": "The first polls are closing on a critical Election Day as control of Congress hangs in the balance. Watch special coverage on CNN and track every race with the Magic Wall on the CNN app. https://t.co/JaLY5ac7lx https://t.co/XfBdN0UrK4",
-   "created_at": "2026-11-03T23:00:17.000Z",
-   "races": [
-    "Senate control",
-    "House control"
-   ]
-  },
-  {
-   "id": "2117749752766853503",
-   "url": "https://x.com/NBCNews/status/2117749752766853503",
-   "author_name": "NBC News",
-   "handle": "NBCNews",
-   "text": "As of 5p.m. ET: The issue of government corruption was a significant factor influencing voters nationwide, with 90% saying it was a crucial or major factor in their vote for Congress, according to early results from the NBC News Exit Poll. https://t.co/V7IBhUyAo9 https://t.co/ntWbao5hQd",
-   "created_at": "2026-11-03T22:44:21.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117747348533084413",
-   "url": "https://x.com/CBSNews/status/2117747348533084413",
-   "author_name": "CBS News",
-   "handle": "CBSNews",
-   "text": "President Trump’s job approval is currently underwater in nearly all the Senate battleground states, according to early exit polls, including states that he won by double digits in 2024.\n\nIn all the Senate battlegrounds, more say their finances are worse, not better, compared to",
-   "created_at": "2026-11-03T22:34:48.000Z",
-   "races": [
-    "Other / general"
-   ]
-  },
-  {
-   "id": "2117740536039899495",
-   "url": "https://x.com/ABC/status/2117740536039899495",
-   "author_name": "ABC News",
-   "handle": "ABC",
-   "text": "TONIGHT: Which races will decide control of the House and Senate? Watch full ABC News coverage of Election Day 2026 tonight at 7p EST on ABC and streaming on Disney+ and Hulu. https://t.co/tBXwzWFGCS",
-   "created_at": "2026-11-03T22:07:44.000Z",
    "races": [
     "House control"
    ]

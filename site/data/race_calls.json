@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-04T04:02:04Z",
+ "generated": "2026-11-04T04:20:14Z",
  "note": "Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the Open America feed's own call field, if it ever reports one). Not official results. A race counts once; races where desks name different winners are listed as conflicting and not counted.",
  "totals": {
   "Senate": {
-   "D": 13,
+   "D": 15,
    "R": 9,
    "I": 0,
    "O": 0,
-   "called": 22,
+   "called": 24,
    "conflicting": 0
   },
   "House": {
-   "D": 20,
+   "D": 21,
    "R": 1,
    "I": 0,
    "O": 0,
-   "called": 21,
+   "called": 22,
    "conflicting": 0
   }
  },
@@ -413,6 +413,20 @@
    ]
   },
   {
+   "race": "IA Senate",
+   "chamber": "Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117833601274302634",
+     "created_at": "2026-11-04T04:17:32.000Z"
+    }
+   ]
+  },
+  {
    "race": "IL Senate",
    "chamber": "Senate",
    "winner_name": "Juliana Stratton",
@@ -442,6 +456,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117826400237363387",
      "created_at": "2026-11-04T03:48:55.000Z"
+    },
+    {
+     "handle": "CNN",
+     "post_url": "https://x.com/CNN/status/2117833782904373311",
+     "created_at": "2026-11-04T04:18:15.000Z"
     }
    ]
   },
@@ -794,6 +813,50 @@
    ]
   },
   {
+   "race": "OH Senate (special)",
+   "chamber": "Senate",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117831944851636616",
+     "created_at": "2026-11-04T04:10:57.000Z"
+    },
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117831972051419302",
+     "created_at": "2026-11-04T04:11:04.000Z"
+    },
+    {
+     "handle": "AP",
+     "post_url": "https://x.com/AP/status/2117832458238369832",
+     "created_at": "2026-11-04T04:13:00.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117832613012336857",
+     "created_at": "2026-11-04T04:13:37.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117833164047749362",
+     "created_at": "2026-11-04T04:15:48.000Z"
+    },
+    {
+     "handle": "DecisionDeskHQ",
+     "post_url": "https://x.com/DecisionDeskHQ/status/2117833380343738480",
+     "created_at": "2026-11-04T04:16:39.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117833393920492024",
+     "created_at": "2026-11-04T04:16:43.000Z"
+    }
+   ]
+  },
+  {
    "race": "OK Senate",
    "chamber": "Senate",
    "winner_name": "Kevin Hern",
@@ -959,6 +1022,16 @@
      "handle": "AP",
      "post_url": "https://x.com/AP/status/2117825139748323401",
      "created_at": "2026-11-04T03:43:55.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117831769588158604",
+     "created_at": "2026-11-04T04:10:15.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117832191660933222",
+     "created_at": "2026-11-04T04:11:56.000Z"
     }
    ]
   },
@@ -1026,6 +1099,31 @@
      "handle": "CNN",
      "post_url": "https://x.com/CNN/status/2117829539980075279",
      "created_at": "2026-11-04T04:01:24.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117831876098269229",
+     "created_at": "2026-11-04T04:10:41.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117831917274096030",
+     "created_at": "2026-11-04T04:10:51.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117832097062678584",
+     "created_at": "2026-11-04T04:11:34.000Z"
+    },
+    {
+     "handle": "FoxNews",
+     "post_url": "https://x.com/FoxNews/status/2117832367943655809",
+     "created_at": "2026-11-04T04:12:38.000Z"
+    },
+    {
+     "handle": "ABC",
+     "post_url": "https://x.com/ABC/status/2117833426435023093",
+     "created_at": "2026-11-04T04:16:50.000Z"
     }
    ]
   },
@@ -1059,6 +1157,11 @@
      "handle": "DecisionDeskHQ",
      "post_url": "https://x.com/DecisionDeskHQ/status/2117814307463610627",
      "created_at": "2026-11-04T03:00:52.000Z"
+    },
+    {
+     "handle": "CBSNews",
+     "post_url": "https://x.com/CBSNews/status/2117833891754934283",
+     "created_at": "2026-11-04T04:18:41.000Z"
     }
    ]
   },
@@ -1121,6 +1224,20 @@
      "handle": "NBCNews",
      "post_url": "https://x.com/NBCNews/status/2117822372409475440",
      "created_at": "2026-11-04T03:32:55.000Z"
+    }
+   ]
+  },
+  {
+   "race": "WA-03",
+   "chamber": "House",
+   "winner_name": "Marie Gluesenkamp Perez",
+   "party": "D",
+   "status": "called",
+   "called_by": [
+    {
+     "handle": "NBCNews",
+     "post_url": "https://x.com/NBCNews/status/2117833891541045251",
+     "created_at": "2026-11-04T04:18:41.000Z"
     }
    ]
   },
@@ -1651,6 +1768,15 @@
    "source": "x"
   },
   {
+   "race": "IA Senate",
+   "winner_name": "Josh Turek",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117833601274302634",
+   "created_at": "2026-11-04T04:17:32.000Z",
+   "source": "x"
+  },
+  {
    "race": "IL Senate",
    "winner_name": "Juliana Stratton",
    "party": "D",
@@ -1675,6 +1801,15 @@
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117826400237363387",
    "created_at": "2026-11-04T03:48:55.000Z",
+   "source": "x"
+  },
+  {
+   "race": "KS Senate",
+   "winner_name": "Adam Hamilton",
+   "party": "D",
+   "handle": "CNN",
+   "post_url": "https://x.com/CNN/status/2117833782904373311",
+   "created_at": "2026-11-04T04:18:15.000Z",
    "source": "x"
   },
   {
@@ -2110,6 +2245,69 @@
    "source": "x"
   },
   {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117831944851636616",
+   "created_at": "2026-11-04T04:10:57.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117831972051419302",
+   "created_at": "2026-11-04T04:11:04.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "AP",
+   "post_url": "https://x.com/AP/status/2117832458238369832",
+   "created_at": "2026-11-04T04:13:00.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117832613012336857",
+   "created_at": "2026-11-04T04:13:37.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117833164047749362",
+   "created_at": "2026-11-04T04:15:48.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "DecisionDeskHQ",
+   "post_url": "https://x.com/DecisionDeskHQ/status/2117833380343738480",
+   "created_at": "2026-11-04T04:16:39.000Z",
+   "source": "x"
+  },
+  {
+   "race": "OH Senate (special)",
+   "winner_name": "Sherrod Brown",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117833393920492024",
+   "created_at": "2026-11-04T04:16:43.000Z",
+   "source": "x"
+  },
+  {
    "race": "OK Senate",
    "winner_name": "Kevin Hern",
    "party": "R",
@@ -2317,6 +2515,24 @@
    "source": "x"
   },
   {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117831769588158604",
+   "created_at": "2026-11-04T04:10:15.000Z",
+   "source": "x"
+  },
+  {
+   "race": "SC Senate",
+   "winner_name": "Annie Andrews",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117832191660933222",
+   "created_at": "2026-11-04T04:11:56.000Z",
+   "source": "x"
+  },
+  {
    "race": "SD Senate",
    "winner_name": "Mike Rounds",
    "party": "R",
@@ -2389,6 +2605,51 @@
    "source": "x"
   },
   {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117831876098269229",
+   "created_at": "2026-11-04T04:10:41.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117831917274096030",
+   "created_at": "2026-11-04T04:10:51.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117832097062678584",
+   "created_at": "2026-11-04T04:11:34.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "FoxNews",
+   "post_url": "https://x.com/FoxNews/status/2117832367943655809",
+   "created_at": "2026-11-04T04:12:38.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX Senate",
+   "winner_name": "James Talarico",
+   "party": "D",
+   "handle": "ABC",
+   "post_url": "https://x.com/ABC/status/2117833426435023093",
+   "created_at": "2026-11-04T04:16:50.000Z",
+   "source": "x"
+  },
+  {
    "race": "TX-15",
    "winner_name": "Bobby Pulido",
    "party": "D",
@@ -2413,6 +2674,15 @@
    "handle": "DecisionDeskHQ",
    "post_url": "https://x.com/DecisionDeskHQ/status/2117814307463610627",
    "created_at": "2026-11-04T03:00:52.000Z",
+   "source": "x"
+  },
+  {
+   "race": "TX-34",
+   "winner_name": "Vicente Gonzalez",
+   "party": "D",
+   "handle": "CBSNews",
+   "post_url": "https://x.com/CBSNews/status/2117833891754934283",
+   "created_at": "2026-11-04T04:18:41.000Z",
    "source": "x"
   },
   {
@@ -2476,6 +2746,15 @@
    "handle": "NBCNews",
    "post_url": "https://x.com/NBCNews/status/2117822372409475440",
    "created_at": "2026-11-04T03:32:55.000Z",
+   "source": "x"
+  },
+  {
+   "race": "WA-03",
+   "winner_name": "Marie Gluesenkamp Perez",
+   "party": "D",
+   "handle": "NBCNews",
+   "post_url": "https://x.com/NBCNews/status/2117833891541045251",
+   "created_at": "2026-11-04T04:18:41.000Z",
    "source": "x"
   },
   {
