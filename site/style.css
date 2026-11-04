@@ -31,3 +31,5 @@ main:has(#early.active){max-width:none;padding-left:16px;padding-right:16px}
 .xpost .when{font-size:12px}
 .xpost blockquote{margin:0;padding:0 0 0 10px;border-left:3px solid var(--b);white-space:pre-wrap;overflow-wrap:anywhere}
 .xpost .src{margin-top:auto;font-size:13px}
+#news h3.xgroup{margin:18px 0 4px}#news h3.xgroup .muted{font-weight:400;font-size:13px}
+.xpost .races{font-size:12px}

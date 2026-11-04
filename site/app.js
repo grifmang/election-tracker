@@ -125,15 +125,38 @@ function results(){
   resTable($('#ressen'), S, 'S'); resTable($('#reshouse'), H, 'H');
 }
 const etTime = iso => { const d = new Date(iso); return isNaN(d) ? '' : d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET'; };
-function xfeed(){
-  const f = D.xf, posts = Array.isArray(f?.posts) ? f.posts : [];
-  $('#xfeedmeta').textContent = f ? `${posts.length} posts · feed updated ${etTime(f.generated)}` : 'No posts loaded yet.';
-  $('#xfeed').innerHTML = posts.map(p => `<article class="card xpost">
+// Race grouping for news-desk posts: Senate (by state) → House (by district) → chamber control → Other
+const X_OTHER = 'Other / general';
+const raceRank = r => { let m;
+  if ((m = /^([A-Z]{2}) Senate/.exec(r))) return [0, m[1] + r];
+  if ((m = /^([A-Z]{2})-(\d{2})$/.exec(r))) return [1, r];
+  if (r === 'Senate control') return [2, ''];
+  if (r === 'House control') return [3, ''];
+  return [4, r]; };
+const raceCmp = (a, b) => { const x = raceRank(a), y = raceRank(b); return x[0] - y[0] || x[1].localeCompare(y[1]); };
+const postRaces = p => (Array.isArray(p.races) && p.races.length) ? p.races : [X_OTHER];
+const byNewest = (a, b) => String(b.created_at).localeCompare(String(a.created_at));
+const xcard = p => `<article class="card xpost">
     <div class="who">${esc(p.author_name)} <span class="muted">@${esc(p.handle)}</span></div>
-    <div class="when muted"><time datetime="${esc(p.created_at)}">${etTime(p.created_at)}</time></div>
+    <div class="when muted"><time datetime="${esc(p.created_at)}">${etTime(p.created_at)}</time> · <span class="races">${postRaces(p).map(r=>`<span class="tag">${esc(r)}</span>`).join('')}</span></div>
     <blockquote>${esc(p.text)}</blockquote>
-    <div class="src">${ext(p.url, 'View original post on X')}</div></article>`).join('');
+    <div class="src">${ext(p.url, 'View original post on X')}</div></article>`;
+function xfeed(){
+  const f = D.xf, posts = (Array.isArray(f?.posts) ? f.posts : []).slice().sort(byNewest);
+  const groups = {};
+  posts.forEach(p => postRaces(p).forEach(r => (groups[r] = groups[r] || []).push(p)));
+  const races = Object.keys(groups).sort(raceCmp);
+  const sel = $('#xrace'), cur = sel.value;
+  sel.innerHTML = '<option value="">All races</option>' + races.map(r => `<option value="${esc(r)}">${esc(r)} (${groups[r].length})</option>`).join('');
+  sel.value = races.includes(cur) ? cur : '';
+  const race = sel.value, grouped = $('#xgroup').checked;
+  $('#xfeedmeta').textContent = f ? `${posts.length} posts · feed updated ${etTime(f.generated)}` : 'No posts loaded yet.';
+  if (race) $('#xfeed').innerHTML = `<div class="xfeed">${groups[race].map(xcard).join('')}</div>`;
+  else if (grouped) $('#xfeed').innerHTML = races.map(r => `<h3 class="xgroup">${esc(r)} <span class="muted">· ${groups[r].length} post${groups[r].length>1?'s':''}</span></h3><div class="xfeed">${groups[r].map(xcard).join('')}</div>`).join('');
+  else $('#xfeed').innerHTML = `<div class="xfeed">${posts.map(xcard).join('')}</div>`;
 }
+$('#xrace').onchange = () => { try { xfeed(); } catch(e){} };
+$('#xgroup').onchange = () => { try { xfeed(); } catch(e){} };
 function sources(){
   $('#srclist').innerHTML = `<ul>
   <li>Race lists, candidates, Senate ratings & poll-closing times: ${ext(D.house?.source, esc(D.house?.source))}, ${ext(D.sen?.source, esc(D.sen?.source))} (CC BY-SA 4.0). Generated ${D.house?.generated}.</li>

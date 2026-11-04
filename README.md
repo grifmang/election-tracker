@@ -12,3 +12,5 @@ GitHub Actions has no X access, so it's refreshed from the Grok Bot box: run the
 with the `QUERY` in `pipeline/x_feed_write.py` (`start_time` 2026-11-03T22:00:00Z, `sort_order` recency, `max_results` 100,
 `expansions` author_id, `user.fields` name,username, `post.fields` created_at,author_id), save the response to
 `/workspace/x_raw.json`, then run `pipeline/x_feed_publish.sh /workspace/x_raw.json`. Existing posts are kept (max 60, newest first).
+Each post gets a `races` array (e.g. `GA Senate`, `VA-02`, `Senate control`, `Other / general`), tagged deterministically in
+`x_feed_write.py` against `races_senate.json` / `races_house.json`; the tab groups by race by default, with a race filter and a plain newest-first toggle.
