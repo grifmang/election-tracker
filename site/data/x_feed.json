@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:31:09Z",
+ "generated": "2026-11-04T01:46:56Z",
  "note": "Posts are quoted verbatim from the accounts shown and link to the original on X; race calls are theirs, not this site's. Official counts above come from the Open America feed.",
  "query": "(from:AP OR from:DecisionDeskHQ OR from:NBCNews OR from:CBSNews OR from:ABC OR from:CNN OR from:FoxNews OR from:nytimes OR from:Reuters OR from:CookPolitical) (Senate OR House OR Congress OR congressional OR \"balance of power\" OR projects OR wins OR reelection OR \"re-election\") -Governor -is:retweet -is:reply",
  "accounts": [
@@ -15,6 +15,260 @@
   "CookPolitical"
  ],
  "posts": [
+  {
+   "id": "2117795439890014251",
+   "url": "https://x.com/CNN/status/2117795439890014251",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic Sen. Jon Ossoff’s win in Georgia, according to a CNN projection, is no surprise — but his big early margins could boost his party’s hopes of what’s to come later Tuesday in redder states where they also need to notch several victories in Senate races.\n\nElection Night https://t.co/iQJaN2sE1b",
+   "created_at": "2026-11-04T01:45:54.000Z",
+   "races": [
+    "GA Senate"
+   ]
+  },
+  {
+   "id": "2117795402367770969",
+   "url": "https://x.com/NBCNews/status/2117795402367770969",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Democrat Jamie Ager wins U.S. House race in North Carolina's 11th Congressional District, NBC News projects. https://t.co/JbYBSdXce3 https://t.co/jiaAh5Qkmy",
+   "created_at": "2026-11-04T01:45:45.000Z",
+   "races": [
+    "NC-11"
+   ]
+  },
+  {
+   "id": "2117795389927461311",
+   "url": "https://x.com/CNN/status/2117795389927461311",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "President Donald Trump urged supporters to help him “finish the job” in a fundraising appeal as polls began to close Tuesday, warning that Democrats would seek to impeach him if they regained control of Congress. CNN's Kaitlan Collins reports. https://t.co/7UBRqNF7Yi",
+   "created_at": "2026-11-04T01:45:42.000Z",
+   "races": [
+    "Senate control",
+    "House control"
+   ]
+  },
+  {
+   "id": "2117795108615495843",
+   "url": "https://x.com/CBSNews/status/2117795108615495843",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "GOP Sen. Ashley Moody defeated Democrat Angie Nixon in the Florida Senate race, CBS News projects, keeping the seat under Republican control. https://t.co/7gHumjV9QZ",
+   "created_at": "2026-11-04T01:44:35.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117794977769992328",
+   "url": "https://x.com/CNN/status/2117794977769992328",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Democratic Rep. Chris Pappas will win New Hampshire’s open Senate seat, CNN projects, making history as the first out gay man to be elected to the chamber. Election Night in America coverage is live now on CNN and streaming with an All Access subscription. https://t.co/Rpz5y6wo92",
+   "created_at": "2026-11-04T01:44:04.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117794909625192921",
+   "url": "https://x.com/ABC/status/2117794909625192921",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democratic former Gov. Roy Cooper will win the North Carolina Senate race, flipping the seat for Democrats, ABC News projects. https://t.co/7iSxqwe0LK https://t.co/5SIEDPNzbA",
+   "created_at": "2026-11-04T01:43:47.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117794267879940603",
+   "url": "https://x.com/CBSNews/status/2117794267879940603",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Roy Cooper has defeated Republican Michael Whatley in North Carolina's U.S. Senate race, flipping the seat previously held by retiring Republican Sen. Thom Tillis. https://t.co/YA2tn9GPtT https://t.co/oRdLSGHVwO",
+   "created_at": "2026-11-04T01:41:14.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117794254110249243",
+   "url": "https://x.com/CBSNews/status/2117794254110249243",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "Republican Sen. Ashley Moody wins reelection to the U.S. Senate in Florida, defeating Democratic challenger Angie Nixon, CBS News projects. https://t.co/T5iaja9HmX https://t.co/FbJeJu9did",
+   "created_at": "2026-11-04T01:41:11.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117793703137853951",
+   "url": "https://x.com/NBCNews/status/2117793703137853951",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Shelley Moore Capito wins re-election to the U.S. Senate in West Virginia, NBC News projects. https://t.co/hAaOpnvy5e https://t.co/yjGIlQgAuF",
+   "created_at": "2026-11-04T01:39:00.000Z",
+   "races": [
+    "WV Senate"
+   ]
+  },
+  {
+   "id": "2117793530798076165",
+   "url": "https://x.com/DecisionDeskHQ/status/2117793530798076165",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 2% in): Maine US Senate \n\nTroy Jackson (D): 7,541 (55.6%)\nSusan Collins (R): 5,976 (44.0%)\n\nFollow more results here:\nhttps://t.co/TKxw3BVoTL https://t.co/vwYsWMJf7k",
+   "created_at": "2026-11-04T01:38:19.000Z",
+   "races": [
+    "ME Senate"
+   ]
+  },
+  {
+   "id": "2117793198181650798",
+   "url": "https://x.com/ABC/status/2117793198181650798",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Republican Sen. Ashley Moody will win the Florida Senate race, holding the seat for the GOP, ABC News projects.\n\nFollow live updates: https://t.co/pGoi0EFUdQ https://t.co/OCNrwIt6gf",
+   "created_at": "2026-11-04T01:36:59.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117793145119289756",
+   "url": "https://x.com/ABC/status/2117793145119289756",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "Republican Sen. Ashley Moody will win the Florida Senate race, holding the seat for the GOP, ABC News projects.\nhttps://t.co/1oB67CcxBz",
+   "created_at": "2026-11-04T01:36:47.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117793051456204874",
+   "url": "https://x.com/CBSNews/status/2117793051456204874",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "RACE UPDATE: CBS News rates the race for U.S. Senate in Florida as leans Republican. https://t.co/T5iaja99xp https://t.co/6mxjFHAT1q",
+   "created_at": "2026-11-04T01:36:24.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117793048537059592",
+   "url": "https://x.com/DecisionDeskHQ/status/2117793048537059592",
+   "author_name": "Decision Desk HQ",
+   "handle": "DecisionDeskHQ",
+   "text": "DDHQ Race Update (est. 0% in): Mississippi US Senate \n\nScott Colom (D): 1,180 (52.3%)\nCindy Hyde-Smith (R): 1,016 (45.0%)\n\nFollow more results here:\nhttps://t.co/IrBvFS8jqU https://t.co/wBQKZA7UHt",
+   "created_at": "2026-11-04T01:36:24.000Z",
+   "races": [
+    "MS Senate"
+   ]
+  },
+  {
+   "id": "2117792662631706661",
+   "url": "https://x.com/NBCNews/status/2117792662631706661",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "Florida Republican Sen. Ashley Moody defeats Democrat Angie Nixon in the special election for Secretary of State Marco Rubio’s old Senate seat, NBC News projects. https://t.co/CjlzPTq5u0",
+   "created_at": "2026-11-04T01:34:52.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117792612799115521",
+   "url": "https://x.com/CBSNews/status/2117792612799115521",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "As Election Night unfolds, CBS News projects Democrats will control at least 41 Senate seats and Republicans at least 31, with 28 races still uncalled.\n\nDemocrats need to gain three seats to take control of the House and a net four seats to win the Senate, where 51 seats are https://t.co/VvuRBbf5IK",
+   "created_at": "2026-11-04T01:34:40.000Z",
+   "races": [
+    "House control"
+   ]
+  },
+  {
+   "id": "2117792353331134647",
+   "url": "https://x.com/CBSNews/status/2117792353331134647",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": ".@ChueyBurns has a look at the numbers behind the New Hampshire Senate race, as CBS News projects Democrat Chris Pappas has won. https://t.co/rGmIclaalK",
+   "created_at": "2026-11-04T01:33:38.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
+  {
+   "id": "2117792353260126588",
+   "url": "https://x.com/CBSNews/status/2117792353260126588",
+   "author_name": "CBS News",
+   "handle": "CBSNews",
+   "text": "CBS News projects Democrat Pia Dandiya has won the race for U.S. House in Florida’s 22nd Congressional District, defeating Republican Casey Askar. https://t.co/T5iaja9HmX https://t.co/NUQ3kVm0IJ",
+   "created_at": "2026-11-04T01:33:38.000Z",
+   "races": [
+    "FL-22"
+   ]
+  },
+  {
+   "id": "2117792259634520483",
+   "url": "https://x.com/CNN/status/2117792259634520483",
+   "author_name": "CNN",
+   "handle": "CNN",
+   "text": "Former Gov. Roy Cooper will win the Senate race in North Carolina, CNN projects, defeating Republican Michael Whatley for a seat that had long evaded Democrats. Follow live updates. https://t.co/ayrfZudgnj https://t.co/4xwI6kUSAN",
+   "created_at": "2026-11-04T01:33:16.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117792077979468044",
+   "url": "https://x.com/Reuters/status/2117792077979468044",
+   "author_name": "Reuters",
+   "handle": "Reuters",
+   "text": "Democrats flip North Carolina Senate seat as Roy Cooper defeats Republican opponent Michael Whatley, news media projects. Follow live updates: https://t.co/YWpYhEEYtC https://t.co/PGUxt93YDl",
+   "created_at": "2026-11-04T01:32:32.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117792062414151739",
+   "url": "https://x.com/NBCNews/status/2117792062414151739",
+   "author_name": "NBC News",
+   "handle": "NBCNews",
+   "text": "BREAKING: Republican Ashley Moody wins special election for U.S. Senate seat in Florida, NBC News projects. https://t.co/l8XZmPtrI4 https://t.co/tdCjlrIrQb",
+   "created_at": "2026-11-04T01:32:29.000Z",
+   "races": [
+    "FL Senate (special)"
+   ]
+  },
+  {
+   "id": "2117792002695712822",
+   "url": "https://x.com/ABC/status/2117792002695712822",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "BREAKING: Democratic former Gov. Roy Cooper will win the North Carolina Senate race, flipping the seat for Democrats, ABC News projects. \nhttps://t.co/zrNNPenOa3",
+   "created_at": "2026-11-04T01:32:14.000Z",
+   "races": [
+    "NC Senate"
+   ]
+  },
+  {
+   "id": "2117791916423311793",
+   "url": "https://x.com/ABC/status/2117791916423311793",
+   "author_name": "ABC News",
+   "handle": "ABC",
+   "text": "NEW: Democrat Chris Pappas will win the New Hampshire Senate race, holding the seat for the party, ABC News projects. \n\nFollow live updates: https://t.co/DtY1R9cN1C https://t.co/XUbEG6sRKT",
+   "created_at": "2026-11-04T01:31:54.000Z",
+   "races": [
+    "NH Senate"
+   ]
+  },
   {
    "id": "2117791620493959409",
    "url": "https://x.com/DecisionDeskHQ/status/2117791620493959409",
