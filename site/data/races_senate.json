@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T02:04:03+00:00",
+ "generated": "2026-11-04T02:20:26+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383669873,
+ "wikipedia_revid": 1383671133,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -1703,7 +1703,7 @@
     "name": "Cynthia Lummis",
     "party": "Republican"
    },
-   "status": "Incumbent retiring.Republican hold.",
+   "status": "Incumbent retiring. Republican hold.",
    "candidates": [
     {
      "name": "Harriet Hageman",
