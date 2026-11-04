@@ -37,3 +37,21 @@ main:has(#early.active){max-width:none;padding-left:16px;padding-right:16px}
 #news details.xgroup[open]>summary{border-bottom:1px solid var(--b)}
 #news details.xgroup>.xfeed{padding:0 12px;margin:12px 0}
 .xbtn{padding:6px 10px;border:1px solid var(--b);border-radius:6px;background:#fff;cursor:pointer;margin-right:6px}.xbtn:disabled{opacity:.5;cursor:default}
+
+/* seats-won scoreboard (News desks on X tab) */
+.newsgrid{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
+.scoreboard{position:sticky;top:12px;max-height:calc(100vh - 24px);overflow:auto;background:#fff;border:1px solid var(--b);border-radius:8px;padding:12px 14px}
+.scoreboard h3,.scoreboard h4,.sbnums,.sbbig{font-family:Impact,'Haettenschweiler','Arial Narrow Bold',sans-serif;font-weight:normal;letter-spacing:.02em}
+.scoreboard h3{margin:0 0 6px;font-size:28px;text-transform:uppercase}
+.scoreboard h4{margin:12px 0 2px;font-size:22px;text-transform:uppercase;border-top:2px solid #13213a;padding-top:8px}
+.sbnums{display:flex;gap:14px;align-items:flex-end}
+.sbn{display:flex;flex-direction:column;align-items:center;line-height:1}
+.sbn span{font-size:64px}.sbn small{font-size:16px;text-transform:uppercase;margin-top:2px}
+.sbn.D{color:#1a56b8}.sbn.R{color:#b3261e}.sbn.O{color:var(--i)}
+.scoreboard .D{color:#1a56b8}.scoreboard .R{color:#b3261e}
+.sbbig{font-size:22px}
+.sbmeta{margin:6px 0;font-size:13px}.sbnote{margin:6px 0;font-size:12px;font-weight:600}
+.sblist{margin:6px 0;font-size:13px}.sblist summary{cursor:pointer;font-weight:600}
+.sblist ul{margin:6px 0;padding-left:18px}.sblist li{margin:4px 0}
+.sbfoot{font-size:12px;margin:10px 0 0}
+@media(max-width:900px){.newsgrid{grid-template-columns:1fr}.scoreboard{position:static;max-height:none;overflow:visible}}

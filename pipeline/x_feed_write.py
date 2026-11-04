@@ -9,13 +9,15 @@ The X fetch can't run in GitHub Actions; it runs from the Grok Bot box via the b
 
 Inputs may be the raw API JSON ({data, includes.users, meta}) or a tool-output file with text
 wrapped around that JSON. Posts are stored verbatim (exact text), never edited or paraphrased.
-Existing posts in x_feed.json are kept, so the feed accumulates. Prints "changed" or "unchanged".
+Existing posts in x_feed.json are kept, so the feed accumulates (max 300). Explicit race calls are
+extracted into site/data/race_calls.json, which accumulates independently of the post cap. Prints "changed" or "unchanged".
 """
 import html, json, re, sys, datetime, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 OUT = ROOT / "site" / "data" / "x_feed.json"
-MAX_POSTS = 60
+MAX_POSTS = 300
+CALLS_OUT = ROOT / "site" / "data" / "race_calls.json"
 START_TIME = "2026-11-03T22:00:00Z"
 # Handles verified via user lookup on 2026-11-03. AP_Politics was dropped (an unrelated 1-post account).
 HANDLES = ["AP", "DecisionDeskHQ", "NBCNews", "CBSNews", "ABC", "CNN", "FoxNews", "nytimes", "Reuters", "CookPolitical"]
@@ -82,6 +84,11 @@ def build_index():
     for r in house:
         for c in r.get("candidates", []):
             add(r["key"], r["state"], c.get("name"))
+    idx["full_rx"] = {}
+    for full, labs in idx["full"].items():
+        f, l = full.split(" ", 1)
+        idx["full_rx"].setdefault(l.split()[-1], []).append(
+            (re.compile(r"\b" + re.escape(f) + r"(?:\s+[\w.'’-]+){0,2}?\s+" + re.escape(l) + r"\b"), labs))
     return idx
 
 
@@ -106,13 +113,14 @@ def _states_in(s):
 
 def tag_races(text, idx):
     tags = []
+    post_states = _states_in(text)
     def add(t):
         if t not in tags:
             tags.append(t)
     for s in _sentences(text):
         states = _states_in(s)
         # House districts: "Ohio US House 7", "FL US House 14", "Florida's 13th District", "#KY06", "VA-02"
-        for m in re.finditer(r"\b([A-Z][A-Za-z ]+?|[A-Z]{2})(?:'s|’s)?\s+(?:US\s+House|House\s+District|Congressional\s+District)\s+(\d{1,2})\b", s):
+        for m in re.finditer(r"\b(" + "|".join([n for _, n in _ST_NAMES] + list(STATES)) + r")(?:'s|’s)?\s+(?:US\s+House|House\s+District|Congressional\s+District)\s+(\d{1,2})\b", s):
             ab = next((a for a, n in STATES.items() if n == m.group(1).strip() or a == m.group(1).strip()), None)
             if ab and f"{ab}-{int(m.group(2)):02d}" in idx["house_keys"]:
                 add(f"{ab}-{int(m.group(2)):02d}")
@@ -134,8 +142,15 @@ def tag_races(text, idx):
         # Candidates: full first+last name anywhere; a bare last name only right after a title
         # (Rep/Sen/Senator/Congressman/Congresswoman) and with that race's state named in the same sentence
         low = s.lower()
-        for full, labs in idx["full"].items():
-            if re.search(r"\b" + re.escape(full) + r"\b", low):
+        # first + last, allowing up to two middle names/initials ("Anna Paulina Luna", "Dan S. Sullivan");
+        # only names whose last name occurs in the sentence are tested (fast path)
+        for w in set(re.findall(r"[\w'’-]+", low)):
+          for rx, labs in idx["full_rx"].get(w, ()):
+            if rx.search(low):
+                # a name shared by candidates in different races (e.g. Mike Rogers, MI Senate / AL-03)
+                # only counts for the race(s) whose state the post names
+                if len(labs) > 1:
+                    labs = {l for l in labs if l[:2] in post_states}
                 for l in sorted(labs): add(l)
         for ab in states:
             for w in set(re.findall(r"\b(?:Rep|Sen|Senator|Congressman|Congresswoman)\s+([A-Z][a-z'’-]{2,})\b", s)):
@@ -148,6 +163,134 @@ def tag_races(text, idx):
         if re.search(r"\bcontrol of Congress\b", s, re.I):
             add(SENATE_CTRL); add(HOUSE_CTRL)
     return tags or [OTHER]
+
+
+# ---------- Race calls (deterministic; only explicit wins/projections for a named general-election candidate) ----------
+def _party(p):
+    p = (p or "").strip()
+    if re.match(r"(?i)^(D|Dem|Democratic|DFL)", p): return "D"
+    if re.match(r"(?i)^(R|Rep|Republican)", p): return "R"
+    if re.match(r"(?i)^(I|Ind|Independent)", p): return "I"
+    return "O"
+
+
+def _chamber(label):
+    return "Senate" if " Senate" in label else "House"
+
+
+def candidates_by_race():
+    sen, house = _load_races()
+    out = {}
+    for r in sen:
+        out[senate_label(r)] = r.get("candidates", [])
+    for r in house:
+        out[r["key"]] = r.get("candidates", [])
+    return out
+
+
+# "<name> wins / has won / defeats / has defeated / is re-elected / clinches" are declarative calls;
+# "<name> will win / will defeat / is projected to win / projected winner" count only when the post is a projection.
+DECL = r"(?:has\s+won|wins|has\s+defeated|defeats|defeated|is\s+re-?elected|has\s+been\s+re-?elected|clinches)\b"
+PROJ = r"(?:will\s+win|will\s+defeat|is\s+projected\s+to\s+(?:win|defeat)|is\s+(?:the\s+)?projected\s+winner)\b"
+PROJ_MARK = re.compile(r"(?i)\bproject(?:s|ed|ion)?\b|#DecisionMade|\brace call\b|\bcalls? the race\b")
+
+
+def _name_rx(cand):
+    first, last = _name_parts(cand.get("name") or "")
+    if not last:
+        return None
+    full = re.escape(first) + r"(?:\s+[A-Z][\w.'’-]*){0,2}?\s+" + re.escape(last)
+    return r"(?:" + full + r"|(?<![\w.])" + re.escape(last) + r")" + r"(?:\s+(?:Jr\.?|Sr\.?|II|III|IV))?(?:\s*\([A-Z]{1,3}\))?"
+
+
+def extract_calls(post, cands):
+    """Return [(race_label, candidate)] explicitly called as won by this post."""
+    text = post["text"]
+    is_proj = bool(PROJ_MARK.search(text))
+    out = []
+    for race in post.get("races", []):
+        if race not in cands:
+            continue  # control / other tags never produce calls
+        winners = []
+        for c in cands[race]:
+            rx = _name_rx(c)
+            if not rx:
+                continue
+            pat = rx + r",?\s+(?:" + DECL + (r"|" + PROJ if is_proj else "") + r")"
+            pats = [pat, r"(?i:projected winner)[:\s]+" + rx, r"(?i:race call)[:\s]+(?:\S+\s+){0,3}?" + rx]
+            if any(re.search(x, text) for x in pats):
+                winners.append(c)
+        if len(winners) == 1:  # two different winners claimed for one race in one post: ignore as unparseable
+            out.append((race, winners[0]))
+    return out
+
+
+def feed_claims():
+    """Calls from the Open America results feed's own `called`/`winner` fields (none so far)."""
+    out = []
+    d = ROOT / "site" / "data"
+    try:
+        sen = {r["state"]: senate_label(r) for r in _load_races()[0]}
+        for fn, keyf in (("results_senate.json", lambda k: sen.get(k)), ("results_house.json", lambda k: k)):
+            f = json.loads((d / fn).read_text())
+            for k, r in (f.get("races") or {}).items():
+                if r.get("called") and r.get("winner") and keyf(k):
+                    party = next((c.get("party") for c in r.get("candidates", []) if c.get("name") == r["winner"]), "")
+                    out.append({"race": keyf(k), "winner_name": r["winner"], "party": _party(party), "handle": "Open America feed",
+                                "post_url": None, "created_at": f.get("as_of") or f.get("generated"), "source": "feed"})
+    except Exception as e:
+        print(f"warning: feed calls skipped: {e}", file=sys.stderr)
+    return out
+
+
+def write_calls(all_posts):
+    """Accumulate claims in race_calls.json (claims survive posts rolling off x_feed.json) and aggregate per race."""
+    cands = candidates_by_race()
+    old = {}
+    if CALLS_OUT.exists():
+        try: old = json.loads(CALLS_OUT.read_text())
+        except Exception: old = {}
+    seen_urls = {p["url"] for p in all_posts}
+    # keep old X claims whose post is no longer in view; re-extract claims for posts we still have
+    claims = [c for c in old.get("claims", []) if c.get("source") == "x" and c.get("post_url") not in seen_urls]
+    for p in all_posts:
+        for race, c in extract_calls(p, cands):
+            claims.append({"race": race, "winner_name": c["name"], "party": _party(c.get("party")), "handle": p["handle"],
+                           "post_url": p["url"], "created_at": p["created_at"], "source": "x"})
+    claims += feed_claims()
+    claims.sort(key=lambda c: (c["race"], c["created_at"] or "", c["post_url"] or ""))
+    by_race = {}
+    for c in claims:
+        by_race.setdefault(c["race"], []).append(c)
+    calls, conflicting = [], []
+    for race, cs in sorted(by_race.items()):
+        names = sorted({c["winner_name"] for c in cs})
+        by = [{"handle": c["handle"], "post_url": c["post_url"], "created_at": c["created_at"]} for c in cs]
+        if len(names) == 1:
+            calls.append({"race": race, "chamber": _chamber(race), "winner_name": names[0], "party": cs[0]["party"],
+                          "status": "called", "called_by": by})
+        else:
+            conflicting.append({"race": race, "chamber": _chamber(race), "winner_name": None, "party": None, "status": "conflicting",
+                                "claimed_winners": [{"winner_name": n, "party": next(c["party"] for c in cs if c["winner_name"] == n),
+                                                     "called_by": [{"handle": c["handle"], "post_url": c["post_url"], "created_at": c["created_at"]}
+                                                                   for c in cs if c["winner_name"] == n]} for n in names],
+                                "called_by": by})
+    totals = {}
+    for ch in ("Senate", "House"):
+        t = {"D": 0, "R": 0, "I": 0, "O": 0}
+        for c in calls:
+            if c["chamber"] == ch: t[c["party"]] += 1
+        totals[ch] = {**t, "called": sum(t.values()), "conflicting": sum(1 for c in conflicting if c["chamber"] == ch)}
+    body = {"note": ("Seats counted from explicit race calls/projections in posts by the news-desk accounts on X (and the "
+                     "Open America feed's own call field, if it ever reports one). Not official results. A race counts once; "
+                     "races where desks name different winners are listed as conflicting and not counted."),
+            "totals": totals, "calls": calls, "conflicting": conflicting, "claims": claims}
+    old_cmp = {k: v for k, v in old.items() if k != "generated"}
+    if old_cmp == body:
+        return False
+    CALLS_OUT.write_text(json.dumps({"generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), **body},
+                                    indent=1, ensure_ascii=False) + "\n")
+    return True
 
 
 def parse(path):
@@ -189,13 +332,18 @@ def main(paths):
         for p in posts_from(parse(path)):
             new += p["id"] not in by_id
             by_id[p["id"]] = p
-    posts = sorted(by_id.values(), key=lambda p: (p["created_at"], int(p["id"])), reverse=True)[:MAX_POSTS]
+    every = sorted(by_id.values(), key=lambda p: (p["created_at"], int(p["id"])), reverse=True)
     try:
         idx = build_index()
-        for p in posts:  # (re-)tag every post, so tagging rules/race lists apply to the whole feed
+        for p in every:  # (re-)tag every post, so tagging rules/race lists apply to the whole feed
             p["races"] = tag_races(p["text"], idx)
     except Exception as e:  # never block the feed on tagging
         print(f"warning: race tagging skipped: {e}", file=sys.stderr)
+    try:  # calls are extracted from every post seen this run (incl. ones past the cap) and accumulate in race_calls.json
+        print("race_calls.json " + ("changed" if write_calls(every) else "unchanged"))
+    except Exception as e:
+        print(f"warning: race calls skipped: {e}", file=sys.stderr)
+    posts = every[:MAX_POSTS]
     if old_posts == posts:
         print("unchanged"); return
     out = {"generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

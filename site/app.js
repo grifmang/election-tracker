@@ -153,6 +153,46 @@ function openXGroup(id){
   X_PENDING = null; d.open = true; X_OPEN.add(id); $('#xjumpsel').value = id;
   requestAnimationFrame(() => d.scrollIntoView({block:'start'}));
 }
+// ---- Seats-won scoreboard (News desks on X tab). Counts only explicit race calls stored in race_calls.json.
+const PNAME = {D:'Dem', R:'Rep', I:'Ind', O:'Other'};
+function sbCalls(list){
+  return list.slice().sort((a,b)=>raceCmp(a.race,b.race)).map(c => {
+    const seen = new Set(), by = (c.called_by||[]).filter(b => !seen.has(b.handle) && seen.add(b.handle));
+    return `<li><b>${esc(c.race)}</b>: ${esc(c.winner_name)} <span class="${esc(c.party)}">(${esc(c.party)})</span><br><span class="muted">called by</span> ${by.map(b=>`<a href="${esc(b.post_url)}" target="_blank" rel="noopener" title="${esc(etTime(b.created_at))}">@${esc(b.handle)}</a>`).join(', ')}</li>`;
+  }).join('');
+}
+function sbConflicts(list){
+  return list.slice().sort((a,b)=>raceCmp(a.race,b.race)).map(c => `<li><b>${esc(c.race)}</b>: ${(c.claimed_winners||[]).map(w =>
+    `${esc(w.winner_name)} (${esc(w.party)}) per ${(w.called_by||[]).map(b=>`<a href="${esc(b.post_url)}" target="_blank" rel="noopener">@${esc(b.handle)}</a>`).join(', ')}`).join(' vs ')}</li>`).join('');
+}
+function sbChamber(name, total, majority, rc, hold){
+  const t = rc?.totals?.[name] || {D:0,R:0,I:0,O:0,called:0,conflicting:0};
+  const calls = (rc?.calls||[]).filter(c=>c.chamber===name), conf = (rc?.conflicting||[]).filter(c=>c.chamber===name);
+  const io = (t.I||0)+(t.O||0), uncalled = total - (t.called||0);
+  const nums = `<div class="sbnums"><div class="sbn D"><span>${t.D||0}</span><small>Dem</small></div><div class="sbn R"><span>${t.R||0}</span><small>Rep</small></div>${io?`<div class="sbn O"><span>${io}</span><small>Ind/Other</small></div>`:''}</div>`;
+  let line;
+  if (name === 'House') line = `<p class="sbmeta">${uncalled} of ${total} seats uncalled · <b>${majority}</b> for majority</p>`;
+  else {
+    line = `<p class="sbmeta">of ${total} seats up · ${uncalled} uncalled</p>`;
+    if (hold?.not_up) {
+      const h = hold.not_up, dT = h.D + h.I + (t.D||0), rT = h.R + (t.R||0);
+      line += `<p class="sbmeta sbchamber">Whole chamber, seats not up + called:<br><span class="D sbbig">D ${dT}</span> <span class="R sbbig">R ${rT}</span>${io?` <span class="O sbbig">Ind/Other ${io}</span>`:''}<br>${100-dT-rT-io} still open · <b>${hold.majority||51}</b> for majority (Vice President breaks a 50–50 tie)<br><span class="muted">D includes ${h.I} independents who caucus with Democrats. ${h.D+h.I} D / ${h.R} R seats not up: <a href="${esc(hold.source)}?oldid=${esc(hold.wikipedia_revid)}" target="_blank" rel="noopener">Wikipedia</a>.</span></p>`;
+    } else line += `<p class="sbmeta muted">Whole-chamber total not shown: the list of seats not up couldn't be loaded.</p>`;
+  }
+  const n = t.called||0;
+  return `<section class="sbchamber-box"><h4>${name}</h4>${nums}${line}
+    <p class="sbnote">Based on ${n} race call${n===1?'':'s'} posted by news desks on X — not official results</p>
+    ${n ? `<details class="sblist" data-k="${name}-calls"><summary>Counted calls (${n})</summary><ul>${sbCalls(calls)}</ul></details>` : `<p class="muted sbzero">No ${name} races called yet by the desks we follow.</p>`}
+    ${conf.length ? `<details class="sblist sbconf" data-k="${name}-conf"><summary>Conflicting: ${conf.length} (not counted)</summary><ul>${sbConflicts(conf)}</ul></details>` : ''}</section>`;
+}
+function scoreboard(){
+  const el = $('#scoreboard'); if (!el) return;
+  const rc = D.rc, open = new Set([...el.querySelectorAll('details[open]')].map(d=>d.dataset.k));
+  el.innerHTML = `<h3 id="sbhead">Seats won</h3>` + (rc ? '' : `<p class="muted">Race calls couldn't be loaded; showing zero.</p>`)
+    + sbChamber('Senate', D.hold?.seats_up || 35, 51, rc, D.hold) + sbChamber('House', 435, 218, rc, null)
+    + `<p class="muted sbfoot">Counts only explicit calls/projections in the posts on this tab; a race counts once; if desks name different winners it's listed as conflicting and not counted.${rc?.generated?` Updated ${etTime(rc.generated)}.`:''}</p>`;
+  el.querySelectorAll('details').forEach(d => { if (open.has(d.dataset.k)) d.open = true; });
+}
 function xfeed(){
   const f = D.xf, posts = (Array.isArray(f?.posts) ? f.posts : []).slice().sort(byNewest);
   const groups = {};
@@ -183,14 +223,16 @@ function sources(){
   <li>District early vote: ${esc(D.evd?.note)}</li>
   <li>Competitive-district flags: ${esc(D.comp?.note)} ${ext(D.comp?.source, "csv")}</li>
   <li>Results: <a href="https://openamerica.io/elections/api/">Open America results feed</a> — official state counts, no projections.</li>
-  <li>Election-night posts (News desks on X tab): public posts from news-desk accounts on X (${esc((D.xf?.accounts||[]).map(h=>'@'+h).join(', '))}), quoted verbatim with a link to each original post. Race calls in those posts are the outlets' own.</li></ul>`;
+  <li>Election-night posts (News desks on X tab): public posts from news-desk accounts on X (${esc((D.xf?.accounts||[]).map(h=>'@'+h).join(', '))}), quoted verbatim with a link to each original post. Race calls in those posts are the outlets' own.</li>
+  <li>Seats-won scoreboard (News desks on X tab): counts only explicit race calls/projections in those posts, stored in <code>data/race_calls.json</code> so calls aren't lost when posts roll off the feed. A race counts once; if desks name different winners it's shown as conflicting and not counted. Not official results. Senate seats not up in 2026 (for the whole-chamber total) come from Wikipedia's 2026 Senate elections summary table (<code>data/senate_holdovers.json</code>), cross-checked against this site's race list.</li></ul>`;
 }
 
 (async () => {
-  [D.house, D.sen, D.ev, D.evd, D.comp, D.resH, D.resS, D.resH24, D.resS24, D.xf] = await Promise.all(
-    ['races_house','races_senate','early_vote_states','early_vote_districts','house_competitive','results_house','results_senate','results_test2024_house','results_test2024_senate','x_feed'].map(load));
+  [D.house, D.sen, D.ev, D.evd, D.comp, D.resH, D.resS, D.resH24, D.resS24, D.xf, D.rc, D.hold] = await Promise.all(
+    ['races_house','races_senate','early_vote_states','early_vote_districts','house_competitive','results_house','results_senate','results_test2024_house','results_test2024_senate','x_feed','race_calls','senate_holdovers'].map(load));
   overview(); senate(); $('#senfilter').oninput = senate; houseInit(); house(); early(); results(); $('#demo2024').onchange = results; sources();
   try { xfeed(); } catch(e){ console.warn('x feed render failed', e); }
+  try { scoreboard(); } catch(e){ console.warn('scoreboard render failed', e); }
   route();  // re-run now that race groups exist, so a direct #x-<race> link opens its group
-  setInterval(async()=>{ const h=await load('results_house'); if(h?.live){ D.resH=h; D.resS=await load('results_senate'); results(); } const xf=await load('x_feed'); if(xf){ D.xf=xf; try{ xfeed(); }catch(e){} } }, 60000);
+  setInterval(async()=>{ const h=await load('results_house'); if(h?.live){ D.resH=h; D.resS=await load('results_senate'); results(); } const xf=await load('x_feed'); if(xf){ D.xf=xf; try{ xfeed(); }catch(e){} } const rc=await load('race_calls'); if(rc){ D.rc=rc; try{ scoreboard(); }catch(e){} } }, 60000);
 })();

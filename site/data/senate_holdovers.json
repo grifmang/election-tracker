@@ -1,0 +1,17 @@
+{
+ "generated": "2026-11-04T01:28:35+00:00",
+ "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+ "wikipedia_revid": 1383663305,
+ "license": "CC BY-SA 4.0 (Wikipedia)",
+ "not_up": {
+  "D": 32,
+  "R": 31,
+  "I": 2
+ },
+ "independents_caucus_with": "D",
+ "seats_up": 35,
+ "chamber": 100,
+ "majority": 51,
+ "tie_note": "At 50-50 the Vice President (JD Vance, R) breaks ties.",
+ "cross_check": "before 45D/2I/53R minus incumbents up 13D/0I/22R = not up 32D/2I/31R"
+}
