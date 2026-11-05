@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T23:44:44+00:00",
+ "generated": "2026-11-05T06:56:21+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383803594,
+ "wikipedia_revid": 1383865944,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -1955,17 +1955,17 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Jenny Le Roux",
-     "party": "Republican",
+     "name": "Dave Min",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Dave Min",
-     "party": "Democratic",
+     "name": "Jenny Le Roux",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -1983,17 +1983,17 @@
     }
    ],
    "status": [
-    "Incumbent retired."
+    "Incumbent retired. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Jim Desmond",
-     "party": "Republican",
+     "name": "Marni von Wilpert",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Marni von Wilpert",
-     "party": "Democratic",
+     "name": "Jim Desmond",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -8522,7 +8522,7 @@
     }
    ],
    "status": [
-    "Incumbent retiring"
+    "Incumbent retired. Democratic gain."
    ],
    "candidates": [
     {
@@ -8531,13 +8531,13 @@
      "note": null
     },
     {
-     "name": "Lynn Chapman",
-     "party": "Independent American",
+     "name": "David Flippo",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "David Flippo",
-     "party": "Republican",
+     "name": "Lynn Chapman",
+     "party": "Independent American",
      "note": null
     }
    ]
@@ -11584,7 +11584,7 @@
     }
    ],
    "status": [
-    "New member elected. Democratic gain."
+    "Incumbent redistricted. New member elected."
    ],
    "candidates": [
     {
