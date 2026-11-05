@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T06:56:22+00:00",
+ "generated": "2026-11-05T16:31:00+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
- "wikipedia_revid": 1383868137,
+ "wikipedia_revid": 1383921718,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 35,
  "races": [
@@ -1587,7 +1587,7 @@
     "RCP Nov 2, 2026": "Solid R",
     "Sabato Nov 2, 2026": "Safe R",
     "Silver Nov 3, 2026": "Solid R",
-    "ST Nov 2, 2026": ""
+    "ST Nov 2, 2026": "Safe R"
    },
    "calendar": {}
   },

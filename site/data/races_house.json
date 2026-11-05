@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T06:56:21+00:00",
+ "generated": "2026-11-05T16:31:00+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383865944,
+ "wikipedia_revid": 1383921384,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -540,7 +540,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
@@ -7358,8 +7358,8 @@
    ],
    "candidates": [
     {
-     "name": "Tom Bailey",
-     "party": "Libertarian",
+     "name": "Don Davis",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -7368,8 +7368,8 @@
      "note": null
     },
     {
-     "name": "Don Davis",
-     "party": "Democratic",
+     "name": "Tom Bailey",
+     "party": "Libertarian",
      "note": null
     }
    ]
@@ -7519,17 +7519,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Addison McDowell",
-     "party": "Republican",
+     "name": "Cyril Jefferson",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Cyril Jefferson",
-     "party": "Democratic",
+     "name": "Addison McDowell",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -7617,13 +7617,13 @@
    ],
    "candidates": [
     {
-     "name": "Richard Hudson",
-     "party": "Republican",
+     "name": "Richard Ojeda",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Richard Ojeda",
-     "party": "Democratic",
+     "name": "Richard Hudson",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -7735,7 +7735,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
@@ -7768,17 +7768,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Tim Moore",
-     "party": "Republican",
+     "name": "Lakesha Womack",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Lakesha Womack",
-     "party": "Democratic",
+     "name": "Tim Moore",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -9661,7 +9661,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
@@ -10719,7 +10719,7 @@
     }
    ],
    "status": [
-    "Incumbent retired to run for governor."
+    "Incumbent retired to run for governor. Democratic gain."
    ],
    "candidates": [
     {
@@ -11107,7 +11107,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
@@ -11584,7 +11584,7 @@
     }
    ],
    "status": [
-    "Incumbent redistricted. New member elected."
+    "New member elected. Democratic gain."
    ],
    "candidates": [
     {
@@ -12618,7 +12618,7 @@
    ],
    "status": [
     "Incumbent retired. Republican loss.",
-    "Incumbent renominated."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -12656,7 +12656,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
