@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T16:31:00+00:00",
+ "generated": "2026-11-05T23:41:20+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383921384,
+ "wikipedia_revid": 1383972218,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -291,7 +291,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -380,12 +380,12 @@
     }
    ],
    "status": [
-    "Incumbent retiring to run for governor"
+    "Incumbent retired to run for governor. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Monica Alponte",
-     "party": "Libertarian",
+     "name": "Amish Shah",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -394,8 +394,8 @@
      "note": null
     },
     {
-     "name": "Amish Shah",
-     "party": "Democratic",
+     "name": "Monica Alponte",
+     "party": "Libertarian",
      "note": null
     }
    ]
@@ -544,13 +544,13 @@
    ],
    "candidates": [
     {
-     "name": "Juan Ciscomani",
-     "party": "Republican",
+     "name": "JoAnna Mendoza",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "JoAnna Mendoza",
-     "party": "Democratic",
+     "name": "Juan Ciscomani",
+     "party": "Republican",
      "note": null
     },
     {
@@ -1446,16 +1446,16 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Angelica Dueñas",
+     "name": "Luz Rivas",
      "party": "Democratic",
      "note": null
     },
     {
-     "name": "Luz Rivas",
+     "name": "Angelica Dueñas",
      "party": "Democratic",
      "note": null
     }
@@ -2270,9 +2270,14 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
+    {
+     "name": "Jessica Killin",
+     "party": "Democratic",
+     "note": null
+    },
     {
      "name": "Jeff Crank",
      "party": "Republican",
@@ -2281,11 +2286,6 @@
     {
      "name": "Mark Elworth",
      "party": "Libertarian",
-     "note": null
-    },
-    {
-     "name": "Jessica Killin",
-     "party": "Democratic",
      "note": null
     },
     {
@@ -2991,12 +2991,12 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Tony D'Arrigo",
-     "party": "Independent",
+     "name": "Anna Paulina Luna",
+     "party": "Republican",
      "note": null
     },
     {
@@ -3005,8 +3005,8 @@
      "note": null
     },
     {
-     "name": "Anna Paulina Luna",
-     "party": "Republican",
+     "name": "Tony D'Arrigo",
+     "party": "Independent",
      "note": null
     }
    ]
@@ -5555,6 +5555,16 @@
     {
      "name": "Michael Mebruer",
      "party": "Republican",
+     "note": "Runoff:"
+    },
+    {
+     "name": "Chauna Banks",
+     "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Blake Miguez",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -7354,7 +7364,7 @@
     }
    ],
    "status": [
-    "Incumbent re-elected"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -8626,17 +8636,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Chris Gallant",
-     "party": "Democratic",
+     "name": "Nick LaLota",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Nick LaLota",
-     "party": "Republican",
+     "name": "Chris Gallant",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -11107,7 +11117,7 @@
     }
    ],
    "status": [
-    "Incumbent lost re-election. Democratic gain."
+    "Incumbent renominated"
    ],
    "candidates": [
     {
@@ -11221,9 +11231,14 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent re-elected."
    ],
    "candidates": [
+    {
+     "name": "Matt Van Epps",
+     "party": "Republican",
+     "note": null
+    },
     {
      "name": "Darden Copeland",
      "party": "Democratic",
@@ -11237,11 +11252,6 @@
     {
      "name": "Lowell Reynolds",
      "party": "Independent",
-     "note": null
-    },
-    {
-     "name": "Matt Van Epps",
-     "party": "Republican",
      "note": null
     }
    ]
@@ -11317,7 +11327,7 @@
     }
    ],
    "status": [
-    "Incumbent retired."
+    "Incumbent retired. Republican gain."
    ],
    "candidates": [
     {
@@ -12521,9 +12531,14 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent re-elected."
    ],
    "candidates": [
+    {
+     "name": "Blake Moore",
+     "party": "Republican",
+     "note": null
+    },
     {
      "name": "Carlton Bowen",
      "party": "Independent American",
@@ -12542,11 +12557,6 @@
     {
      "name": "Robert Moesinger",
      "party": "Independent",
-     "note": null
-    },
-    {
-     "name": "Blake Moore",
-     "party": "Republican",
      "note": null
     }
    ]
@@ -12622,13 +12632,13 @@
    ],
    "candidates": [
     {
-     "name": "Steven Burt",
-     "party": "Independent",
+     "name": "Mike Kennedy",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Mike Kennedy",
-     "party": "Republican",
+     "name": "Steven Burt",
+     "party": "Independent",
      "note": null
     },
     {
@@ -12793,14 +12803,9 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent re-elected."
    ],
    "candidates": [
-    {
-     "name": "Cooke Harvey",
-     "party": "Independent",
-     "note": null
-    },
     {
      "name": "John McGuire",
      "party": "Republican",
@@ -12809,6 +12814,11 @@
     {
      "name": "Tom Perriello",
      "party": "Democratic",
+     "note": null
+    },
+    {
+     "name": "Cooke Harvey",
+     "party": "Independent",
      "note": null
     }
    ]
