@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-06T15:59:31+00:00",
+ "generated": "2026-11-06T21:35:14+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": false,
- "as_of": "2026-11-06T15:55:27+00:00",
+ "as_of": "2026-11-06T21:30:47+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -16,7 +16,7 @@
  "races": {
   "AR": {
    "pct_in": 100.0,
-   "total": 886093,
+   "total": 886111,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -24,13 +24,13 @@
     {
      "name": "Tom Cotton",
      "party": "R",
-     "votes": 480792,
+     "votes": 480800,
      "pct": 54.26
     },
     {
      "name": "Hallie Shoffner",
      "party": "D",
-     "votes": 375813,
+     "votes": 375823,
      "pct": 42.41
     },
     {
@@ -70,7 +70,7 @@
   },
   "GA": {
    "pct_in": 100.0,
-   "total": 4174833,
+   "total": 4178744,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,14 +78,14 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 2463192,
-     "pct": 59.0
+     "votes": 2466330,
+     "pct": 59.02
     },
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 1711641,
-     "pct": 41.0
+     "votes": 1712414,
+     "pct": 40.98
     }
    ]
   },
@@ -124,7 +124,7 @@
   },
   "LA": {
    "pct_in": 100.0,
-   "total": 1466069,
+   "total": 1466072,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -132,20 +132,20 @@
     {
      "name": "Julia Letlow",
      "party": "R",
-     "votes": 745963,
+     "votes": 745961,
      "pct": 50.88
     },
     {
      "name": "Jamie Davis",
      "party": "D",
-     "votes": 720106,
+     "votes": 720111,
      "pct": 49.12
     }
    ]
   },
   "MN": {
    "pct_in": 100.0,
-   "total": 2828390,
+   "total": 2828386,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -153,13 +153,13 @@
     {
      "name": "Peggy Flanagan",
      "party": "D",
-     "votes": 1520864,
+     "votes": 1520863,
      "pct": 53.77
     },
     {
      "name": "Michele Tafoya",
      "party": "R",
-     "votes": 1233460,
+     "votes": 1233457,
      "pct": 43.61
     },
     {
@@ -178,7 +178,7 @@
   },
   "NC": {
    "pct_in": 100.0,
-   "total": 4203181,
+   "total": 4203218,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,25 +186,25 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 2467963,
+     "votes": 2467972,
      "pct": 58.72
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 1643088,
+     "votes": 1643114,
      "pct": 39.09
     },
     {
      "name": "Shannon W. Bray",
      "party": "L",
-     "votes": 55726,
+     "votes": 55727,
      "pct": 1.33
     },
     {
      "name": "Michael Dublin",
      "party": "G",
-     "votes": 36404,
+     "votes": 36405,
      "pct": 0.87
     }
    ]
@@ -238,7 +238,7 @@
   },
   "VA": {
    "pct_in": 100.0,
-   "total": 3560879,
+   "total": 3566522,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -246,14 +246,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 2183855,
-     "pct": 61.33
+     "votes": 2188311,
+     "pct": 61.36
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1377024,
-     "pct": 38.67
+     "votes": 1378211,
+     "pct": 38.64
     }
    ]
   }
