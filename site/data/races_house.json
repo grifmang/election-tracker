@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T23:41:20+00:00",
+ "generated": "2026-11-06T06:56:43+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1383972218,
+ "wikipedia_revid": 1384030014,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -6096,17 +6096,17 @@
     }
    ],
    "status": [
-    "Incumbent retiring"
+    "Incumbent retired. Republican gain."
    ],
    "candidates": [
     {
-     "name": "Matthew Dunlap",
-     "party": "Democratic",
+     "name": "Paul LePage",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Paul LePage",
-     "party": "Republican",
+     "name": "Matthew Dunlap",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -9403,13 +9403,13 @@
    ],
    "candidates": [
     {
-     "name": "Eric Conroy",
-     "party": "Republican",
+     "name": "Greg Landsman",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Greg Landsman",
-     "party": "Democratic",
+     "name": "Eric Conroy",
+     "party": "Republican",
      "note": null
     },
     {
@@ -9436,13 +9436,13 @@
    ],
    "candidates": [
     {
-     "name": "Jennifer Mazzuckelli",
-     "party": "Democratic",
+     "name": "David Taylor",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "David Taylor",
-     "party": "Republican",
+     "name": "Jennifer Mazzuckelli",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -9558,13 +9558,13 @@
    ],
    "candidates": [
     {
-     "name": "Elizabeth Kirtley",
-     "party": "Democratic",
+     "name": "Michael Rulli",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Michael Rulli",
-     "party": "Republican",
+     "name": "Elizabeth Kirtley",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -9586,13 +9586,13 @@
    ],
    "candidates": [
     {
-     "name": "Max Miller",
-     "party": "Republican",
+     "name": "Brian Poindexter",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Brian Poindexter",
-     "party": "Democratic",
+     "name": "Max Miller",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -9642,11 +9642,6 @@
    ],
    "candidates": [
     {
-     "name": "Matthew Althaus",
-     "party": "Libertarian",
-     "note": null
-    },
-    {
      "name": "Marcy Kaptur",
      "party": "Democratic",
      "note": null
@@ -9654,6 +9649,11 @@
     {
      "name": "Derek Merrin",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Matthew Althaus",
+     "party": "Libertarian",
      "note": null
     }
    ]
@@ -9825,8 +9825,8 @@
    ],
    "candidates": [
     {
-     "name": "Brennan Barrington",
-     "party": "Libertarian",
+     "name": "Don Leonard",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -9835,8 +9835,8 @@
      "note": null
     },
     {
-     "name": "Don Leonard",
-     "party": "Democratic",
+     "name": "Brennan Barrington",
+     "party": "Libertarian",
      "note": null
     }
    ]
@@ -11331,13 +11331,8 @@
    ],
    "candidates": [
     {
-     "name": "Dennis Clark",
-     "party": "Independent",
-     "note": null
-    },
-    {
-     "name": "Michelle Head",
-     "party": "Independent",
+     "name": "Brent Taylor",
+     "party": "Republican",
      "note": null
     },
     {
@@ -11346,8 +11341,13 @@
      "note": null
     },
     {
-     "name": "Brent Taylor",
-     "party": "Republican",
+     "name": "Dennis Clark",
+     "party": "Independent",
+     "note": null
+    },
+    {
+     "name": "Michelle Head",
+     "party": "Independent",
      "note": null
     }
    ]
@@ -13176,17 +13176,17 @@
     }
    ],
    "status": [
-    "Incumbent retired."
+    "Incumbent retired. Republican hold."
    ],
    "candidates": [
     {
-     "name": "John Duresky",
-     "party": "Democratic",
+     "name": "Amanda McKinney",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Amanda McKinney",
-     "party": "Republican",
+     "name": "John Duresky",
+     "party": "Democratic",
      "note": null
     }
    ]
