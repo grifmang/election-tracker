@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-06T21:34:28+00:00",
+ "generated": "2026-11-07T01:59:11+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384136296,
+ "wikipedia_revid": 1384188188,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -512,7 +512,7 @@
     }
    ],
    "status": [
-    "Incumbent retiring to run for governor"
+    "Incumbent retired to run for governor. Republican hold."
    ],
    "candidates": [
     {
@@ -606,17 +606,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Bernadette Greene-Placentia",
-     "party": "Democratic",
+     "name": "Abraham Hamadeh",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Abraham Hamadeh",
-     "party": "Republican",
+     "name": "Bernadette Greene-Placentia",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -2199,17 +2199,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Clifton Brown",
-     "party": "Independent",
+     "name": "Jeff Hurd",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Jeff Hurd",
-     "party": "Republican",
+     "name": "Dwayne Romero",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -2218,8 +2218,8 @@
      "note": null
     },
     {
-     "name": "Dwayne Romero",
-     "party": "Democratic",
+     "name": "Clifton Brown",
+     "party": "Independent",
      "note": null
     }
    ]
@@ -7590,7 +7590,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -9231,7 +9231,7 @@
     }
    ],
    "status": [
-    "Incumbent retiring."
+    "Incumbent retired. Republican hold."
    ],
    "candidates": [
     {
