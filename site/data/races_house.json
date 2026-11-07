@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-07T16:29:50+00:00",
+ "generated": "2026-11-07T21:57:02+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384299142,
+ "wikipedia_revid": 1384358978,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -5057,12 +5057,12 @@
     {
      "name": "James Comer",
      "party": "Republican",
-     "note": null
+     "note": "67.6%"
     },
     {
      "name": "Drew Williams",
      "party": "Democratic",
-     "note": null
+     "note": "32.4%"
     }
    ]
   },
@@ -5085,17 +5085,17 @@
     {
      "name": "Brett Guthrie",
      "party": "Republican",
-     "note": null
+     "note": "62.8%"
     },
     {
      "name": "Megan Wingfield",
      "party": "Democratic",
-     "note": null
+     "note": "35.1%"
     },
     {
      "name": "Thomas Loecken",
      "party": "Independent",
-     "note": null
+     "note": "2.1%"
     }
    ]
   },
@@ -5118,12 +5118,12 @@
     {
      "name": "Morgan McGarvey",
      "party": "Democratic",
-     "note": null
+     "note": "70.3%"
     },
     {
      "name": "Maria Rodriquez",
      "party": "Republican",
-     "note": null
+     "note": "29.7%"
     }
    ]
   },
@@ -5146,17 +5146,17 @@
     {
      "name": "Ed Gallrein",
      "party": "Republican",
-     "note": null
+     "note": "54.2%"
     },
     {
      "name": "Melissa Strange",
      "party": "Democratic",
-     "note": null
+     "note": "40.9%"
     },
     {
      "name": "Jeremy Todd",
      "party": "Libertarian",
-     "note": null
+     "note": "4.9%"
     }
    ]
   },
@@ -5179,22 +5179,22 @@
     {
      "name": "Hal Rogers",
      "party": "Republican",
-     "note": null
+     "note": "71.2%"
     },
     {
      "name": "Ned Pillersdorf",
      "party": "Democratic",
-     "note": null
-    },
-    {
-     "name": "Gerardo Serrano",
-     "party": "Independent",
-     "note": null
+     "note": "25.3%"
     },
     {
      "name": "Mikel Wein",
      "party": "Independent",
-     "note": null
+     "note": "2.1%"
+    },
+    {
+     "name": "Gerardo Serrano",
+     "party": "Independent",
+     "note": "1.4%"
     }
    ]
   },
@@ -5217,22 +5217,22 @@
     {
      "name": "Zach Dembo",
      "party": "Democratic",
-     "note": null
+     "note": "52.7%"
     },
     {
      "name": "Ralph Alvarado",
      "party": "Republican",
-     "note": null
+     "note": "43.3%"
     },
     {
      "name": "Jay Bowman",
      "party": "Independent",
-     "note": null
+     "note": "2.5%"
     },
     {
      "name": "Pete Lynch",
      "party": "Kentucky",
-     "note": null
+     "note": "1.5%"
     }
    ]
   },
