@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-07T08:52:57+00:00",
+ "generated": "2026-11-07T16:29:50+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384243956,
+ "wikipedia_revid": 1384299142,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -2874,7 +2874,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -9063,7 +9063,7 @@
     },
     {
      "name": "Andre Easton",
-     "party": "Independent",
+     "party": "Party for Socialism and Liberation",
      "note": null
     },
     {
@@ -11117,7 +11117,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {

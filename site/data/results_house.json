@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-07T08:54:01+00:00",
+ "generated": "2026-11-07T16:30:29+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-07T08:50:31+00:00",
+ "as_of": "2026-11-07T16:25:19+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 137,
-  "with_precincts": 150
+  "reporting": 140,
+  "with_precincts": 155
  },
  "races": {
   "AR-01": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 253371,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": null,
+   "pct_in": 98.06,
    "total": 291909,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 246275,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": null,
+   "pct_in": 98.14,
    "total": 251776,
    "leader": "D",
    "called": false,
@@ -3523,7 +3523,7 @@
   },
   "VA-03": {
    "pct_in": 100.0,
-   "total": 247291,
+   "total": 247640,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3531,25 +3531,25 @@
     {
      "name": "Robert C. \"Bobby\" Scott",
      "party": "D",
-     "votes": 179838,
-     "pct": 72.72
+     "votes": 180110,
+     "pct": 72.73
     },
     {
      "name": "Edwin Rivera Jr.",
      "party": "R",
-     "votes": 59589,
-     "pct": 24.1
+     "votes": 59643,
+     "pct": 24.08
     },
     {
      "name": "Makiba A. Gaines",
      "party": "I",
-     "votes": 3940,
-     "pct": 1.59
+     "votes": 3951,
+     "pct": 1.6
     },
     {
      "name": "Stephen C. Woll",
      "party": "I",
-     "votes": 3924,
+     "votes": 3936,
      "pct": 1.59
     }
    ]
@@ -3583,7 +3583,7 @@
   },
   "VA-05": {
    "pct_in": 100.0,
-   "total": 361142,
+   "total": 361297,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3591,19 +3591,19 @@
     {
      "name": "John J. McGuire III",
      "party": "R",
-     "votes": 181432,
-     "pct": 50.24
+     "votes": 181471,
+     "pct": 50.23
     },
     {
      "name": "Tom S. P. Perriello",
      "party": "D",
-     "votes": 173895,
-     "pct": 48.15
+     "votes": 174007,
+     "pct": 48.16
     },
     {
      "name": "Cooke C. Harvey",
      "party": "I",
-     "votes": 5815,
+     "votes": 5819,
      "pct": 1.61
     }
    ]
@@ -3730,7 +3730,7 @@
   },
   "VA-10": {
    "pct_in": 100.0,
-   "total": 329247,
+   "total": 331320,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3738,20 +3738,20 @@
     {
      "name": "Suhas Subramanyam",
      "party": "D",
-     "votes": 202609,
-     "pct": 61.54
+     "votes": 204213,
+     "pct": 61.64
     },
     {
      "name": "Dave T. Beckwith",
      "party": "R",
-     "votes": 120712,
-     "pct": 36.66
+     "votes": 121110,
+     "pct": 36.55
     },
     {
      "name": "Ahsen Mujeeb Malik",
      "party": "I",
-     "votes": 5926,
-     "pct": 1.8
+     "votes": 5997,
+     "pct": 1.81
     }
    ]
   },
