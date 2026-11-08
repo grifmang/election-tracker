@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-07T21:57:02+00:00",
+ "generated": "2026-11-08T01:28:54+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384358978,
+ "wikipedia_revid": 1384388802,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -12499,22 +12499,22 @@
     {
      "name": "Ben McAdams",
      "party": "Democratic",
-     "note": null
+     "note": "70.1%"
     },
     {
      "name": "Riley Owen",
      "party": "Republican",
-     "note": null
+     "note": "26.2%"
     },
     {
      "name": "Jesse West",
      "party": "Libertarian",
-     "note": null
+     "note": "2.3%"
     },
     {
      "name": "Elias Montgomery",
      "party": "Independent",
-     "note": null
+     "note": "1.5%"
     }
    ]
   },
@@ -12537,27 +12537,27 @@
     {
      "name": "Blake Moore",
      "party": "Republican",
-     "note": null
-    },
-    {
-     "name": "Carlton Bowen",
-     "party": "Independent American",
-     "note": null
-    },
-    {
-     "name": "Daniel Cottam",
-     "party": "Libertarian",
-     "note": null
+     "note": "50.1%"
     },
     {
      "name": "Peter Crosby",
      "party": "Democratic",
-     "note": null
+     "note": "42.2%"
+    },
+    {
+     "name": "Carlton Bowen",
+     "party": "Independent American",
+     "note": "3.3%"
     },
     {
      "name": "Robert Moesinger",
      "party": "Independent",
-     "note": null
+     "note": "2.6%"
+    },
+    {
+     "name": "Daniel Cottam",
+     "party": "Libertarian",
+     "note": "1.8%"
     }
    ]
   },
@@ -12580,32 +12580,32 @@
     {
      "name": "Celeste Maloy",
      "party": "Republican",
-     "note": null
+     "note": "57.2%"
     },
     {
      "name": "Kent Udell",
      "party": "Democratic",
-     "note": null
+     "note": "35.1%"
     },
     {
      "name": "Cassie Easley",
      "party": "Constitution",
-     "note": null
+     "note": "3.1%"
     },
     {
      "name": "Michael Stoddard",
      "party": "Libertarian",
-     "note": null
+     "note": "2.2%"
     },
     {
      "name": "Ayden Scott",
      "party": "Independent",
-     "note": null
+     "note": "1.6%"
     },
     {
      "name": "Adonis Hooslyn",
      "party": "Independent",
-     "note": null
+     "note": "0.7%"
     }
    ]
   },
@@ -12634,22 +12634,22 @@
     {
      "name": "Mike Kennedy",
      "party": "Republican",
-     "note": null
-    },
-    {
-     "name": "Steven Burt",
-     "party": "Independent",
-     "note": null
+     "note": "53.6%"
     },
     {
      "name": "Jonny Larsen",
      "party": "Democratic",
-     "note": null
+     "note": "38.9%"
+    },
+    {
+     "name": "Steven Burt",
+     "party": "Independent",
+     "note": "4.3%"
     },
     {
      "name": "Taylor Wright",
      "party": "Libertarian",
-     "note": null
+     "note": "3.2%"
     }
    ]
   },
