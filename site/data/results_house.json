@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-08T09:06:45+00:00",
+ "generated": "2026-11-08T16:43:49+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-08T09:05:27+00:00",
+ "as_of": "2026-11-08T16:40:21+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 137,
-  "with_precincts": 150
+  "reporting": 142,
+  "with_precincts": 155
  },
  "races": {
   "AR-01": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 253371,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 291909,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 245794,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 251776,
    "leader": "D",
    "called": false,
@@ -3676,7 +3676,7 @@
   },
   "VA-08": {
    "pct_in": 100.0,
-   "total": 316299,
+   "total": 318521,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3684,26 +3684,26 @@
     {
      "name": "Donald S. Beyer Jr.",
      "party": "D",
-     "votes": 251863,
-     "pct": 79.63
+     "votes": 253780,
+     "pct": 79.67
     },
     {
      "name": "Tony A. Sabio",
      "party": "R",
-     "votes": 56758,
-     "pct": 17.94
+     "votes": 56963,
+     "pct": 17.88
     },
     {
      "name": "Tim S. Sharman",
      "party": "I",
-     "votes": 3969,
-     "pct": 1.25
+     "votes": 4032,
+     "pct": 1.27
     },
     {
      "name": "Shelly M. Arnoldi",
      "party": "L",
-     "votes": 3709,
-     "pct": 1.17
+     "votes": 3746,
+     "pct": 1.18
     }
    ]
   },
