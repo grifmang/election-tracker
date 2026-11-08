@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-08T16:42:54+00:00",
+ "generated": "2026-11-08T22:13:43+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384511889,
+ "wikipedia_revid": 1384558447,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -11121,11 +11121,6 @@
    ],
    "candidates": [
     {
-     "name": "Jacob Anders",
-     "party": "Independent",
-     "note": null
-    },
-    {
      "name": "Victoria Broderick",
      "party": "Democratic",
      "note": null
@@ -11133,6 +11128,11 @@
     {
      "name": "Scott DesJarlais",
      "party": "Republican",
+     "note": null
+    },
+    {
+     "name": "Jacob Anders",
+     "party": "Independent",
      "note": null
     },
     {

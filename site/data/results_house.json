@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-08T16:43:49+00:00",
+ "generated": "2026-11-08T22:14:28+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-08T16:40:21+00:00",
+ "as_of": "2026-11-08T22:10:27+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -160,7 +160,7 @@
   },
   "CT-03": {
    "pct_in": 100.0,
-   "total": 245794,
+   "total": 246468,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -168,19 +168,19 @@
     {
      "name": "Rosa L. DeLauro",
      "party": "D",
-     "votes": 150884,
-     "pct": 61.39
+     "votes": 151261,
+     "pct": 61.37
     },
     {
      "name": "Christopher Lancia",
      "party": "R",
-     "votes": 87598,
-     "pct": 35.64
+     "votes": 87885,
+     "pct": 35.66
     },
     {
      "name": "Thomas Gerard Egan, Jr.",
      "party": "I",
-     "votes": 7312,
+     "votes": 7322,
      "pct": 2.97
     }
    ]
@@ -3583,7 +3583,7 @@
   },
   "VA-05": {
    "pct_in": 100.0,
-   "total": 361297,
+   "total": 361348,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3591,19 +3591,19 @@
     {
      "name": "John J. McGuire III",
      "party": "R",
-     "votes": 181471,
+     "votes": 181493,
      "pct": 50.23
     },
     {
      "name": "Tom S. P. Perriello",
      "party": "D",
-     "votes": 174007,
+     "votes": 174030,
      "pct": 48.16
     },
     {
      "name": "Cooke C. Harvey",
      "party": "I",
-     "votes": 5819,
+     "votes": 5825,
      "pct": 1.61
     }
    ]
@@ -3631,7 +3631,7 @@
   },
   "VA-07": {
    "pct_in": 100.0,
-   "total": 321434,
+   "total": 321485,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3639,25 +3639,25 @@
     {
      "name": "Eugene S. Vindman",
      "party": "D",
-     "votes": 192456,
-     "pct": 59.87
+     "votes": 192494,
+     "pct": 59.88
     },
     {
      "name": "Doug A. Ollivant",
      "party": "R",
-     "votes": 121285,
+     "votes": 121295,
      "pct": 37.73
     },
     {
      "name": "Alaha Ahrar",
      "party": "I",
-     "votes": 3057,
+     "votes": 3058,
      "pct": 0.95
     },
     {
      "name": "Taner E. Demirci Lopez",
      "party": "L",
-     "votes": 2647,
+     "votes": 2649,
      "pct": 0.82
     },
     {
@@ -3709,7 +3709,7 @@
   },
   "VA-09": {
    "pct_in": 100.0,
-   "total": 293944,
+   "total": 293961,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3717,20 +3717,20 @@
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 194107,
-     "pct": 66.04
+     "votes": 194110,
+     "pct": 66.03
     },
     {
      "name": "Joy A. Powers",
      "party": "D",
-     "votes": 99837,
-     "pct": 33.96
+     "votes": 99851,
+     "pct": 33.97
     }
    ]
   },
   "VA-10": {
    "pct_in": 100.0,
-   "total": 331320,
+   "total": 331346,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3738,13 +3738,13 @@
     {
      "name": "Suhas Subramanyam",
      "party": "D",
-     "votes": 204213,
+     "votes": 204236,
      "pct": 61.64
     },
     {
      "name": "Dave T. Beckwith",
      "party": "R",
-     "votes": 121110,
+     "votes": 121113,
      "pct": 36.55
     },
     {
