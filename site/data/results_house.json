@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-08T01:29:35+00:00",
+ "generated": "2026-11-08T09:06:45+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-08T01:25:22+00:00",
+ "as_of": "2026-11-08T09:05:27+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
   "reporting": 137,
-  "with_precincts": 155
+  "with_precincts": 150
  },
  "races": {
   "AR-01": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 79.71,
+   "pct_in": null,
    "total": 253371,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": 61.29,
+   "pct_in": null,
    "total": 291909,
    "leader": "D",
    "called": false,
@@ -159,8 +159,8 @@
    ]
   },
   "CT-03": {
-   "pct_in": 68.85,
-   "total": 246275,
+   "pct_in": null,
+   "total": 245794,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -168,25 +168,25 @@
     {
      "name": "Rosa L. DeLauro",
      "party": "D",
-     "votes": 151204,
-     "pct": 61.4
+     "votes": 150884,
+     "pct": 61.39
     },
     {
      "name": "Christopher Lancia",
      "party": "R",
-     "votes": 87756,
-     "pct": 35.63
+     "votes": 87598,
+     "pct": 35.64
     },
     {
      "name": "Thomas Gerard Egan, Jr.",
      "party": "I",
-     "votes": 7315,
+     "votes": 7312,
      "pct": 2.97
     }
    ]
   },
   "CT-04": {
-   "pct_in": 80.29,
+   "pct_in": null,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 56.52,
+   "pct_in": null,
    "total": 251776,
    "leader": "D",
    "called": false,
