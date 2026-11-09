@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T01:47:01+00:00",
+ "generated": "2026-11-09T09:54:33+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-09T01:45:21+00:00",
+ "as_of": "2026-11-09T09:50:26+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -3391,7 +3391,7 @@
   },
   "UT-03": {
    "pct_in": 100.0,
-   "total": 252233,
+   "total": 252425,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3399,20 +3399,20 @@
     {
      "name": "Celeste Maloy",
      "party": "R",
-     "votes": 143995,
-     "pct": 57.09
+     "votes": 144009,
+     "pct": 57.05
     },
     {
      "name": "Kent S. Udell",
      "party": "D",
-     "votes": 88911,
-     "pct": 35.25
+     "votes": 89087,
+     "pct": 35.29
     },
     {
      "name": "Cassie Easley",
      "party": "C",
-     "votes": 7883,
-     "pct": 3.13
+     "votes": 7884,
+     "pct": 3.12
     },
     {
      "name": "Michael R. Stoddard",
@@ -3429,7 +3429,7 @@
     {
      "name": "Adonis Hooslyn",
      "party": "I",
-     "votes": 1722,
+     "votes": 1723,
      "pct": 0.68
     }
    ]
@@ -3610,7 +3610,7 @@
   },
   "VA-06": {
    "pct_in": 100.0,
-   "total": 316611,
+   "total": 316671,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3618,14 +3618,14 @@
     {
      "name": "Ben L. Cline",
      "party": "R",
-     "votes": 175926,
-     "pct": 55.57
+     "votes": 175944,
+     "pct": 55.56
     },
     {
      "name": "Beth A. Macy",
      "party": "D",
-     "votes": 140685,
-     "pct": 44.43
+     "votes": 140727,
+     "pct": 44.44
     }
    ]
   },
