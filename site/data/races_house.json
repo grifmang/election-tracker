@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T12:43:47+00:00",
+ "generated": "2026-11-10T20:53:05+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384859362,
+ "wikipedia_revid": 1384922294,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -2814,9 +2814,14 @@
     }
    ],
    "status": [
-    "Incumbent lost renomination."
+    "Incumbent lost renomination. Republican hold."
    ],
    "candidates": [
+    {
+     "name": "Ryan Elijah",
+     "party": "Republican",
+     "note": null
+    },
     {
      "name": "Bale Dalton",
      "party": "Democratic",
@@ -2825,11 +2830,6 @@
     {
      "name": "Christopher Dennison",
      "party": "Libertarian",
-     "note": null
-    },
-    {
-     "name": "Ryan Elijah",
-     "party": "Republican",
      "note": null
     }
    ]
@@ -7501,13 +7501,13 @@
    ],
    "candidates": [
     {
-     "name": "Virginia Foxx",
-     "party": "Republican",
+     "name": "Chuck Hubbard",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Chuck Hubbard",
-     "party": "Democratic",
+     "name": "Virginia Foxx",
+     "party": "Republican",
      "note": null
     },
     {
