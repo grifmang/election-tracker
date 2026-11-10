@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-09T20:49:15+00:00",
+ "generated": "2026-11-10T04:10:16+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384722295,
+ "wikipedia_revid": 1384794152,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -1759,7 +1759,8 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent lost re-election. Republican loss.",
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -2878,13 +2879,13 @@
    ],
    "candidates": [
     {
-     "name": "Dan Green",
-     "party": "Republican",
+     "name": "Darren Soto",
+     "party": "Democratic",
      "note": null
     },
     {
-     "name": "Darren Soto",
-     "party": "Democratic",
+     "name": "Dan Green",
+     "party": "Republican",
      "note": null
     }
    ]
@@ -3289,7 +3290,7 @@
     }
    ],
    "status": [
-    "New representative elected. Democratic gain."
+    "New member elected. Democratic gain."
    ],
    "candidates": [
     {
@@ -3406,7 +3407,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -13204,7 +13205,7 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
