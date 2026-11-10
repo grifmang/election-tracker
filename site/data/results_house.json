@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-10T04:11:02+00:00",
+ "generated": "2026-11-10T12:44:25+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-10T04:10:28+00:00",
+ "as_of": "2026-11-10T12:40:20+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 142,
+  "reporting": 137,
   "with_precincts": 155
  },
  "races": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 100.0,
+   "pct_in": 92.75,
    "total": 253371,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": 100.0,
+   "pct_in": 73.55,
    "total": 291907,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": 100.0,
+   "pct_in": 83.06,
    "total": 246468,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 100.0,
+   "pct_in": 89.78,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 100.0,
+   "pct_in": 77.64,
    "total": 253020,
    "leader": "D",
    "called": false,
@@ -1609,7 +1609,7 @@
   },
   "LA-01": {
    "pct_in": 100.0,
-   "total": 263375,
+   "total": 263391,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1617,14 +1617,14 @@
     {
      "name": "Steve Scalise",
      "party": "R",
-     "votes": 159892,
+     "votes": 159896,
      "pct": 60.71
     },
     {
      "name": "Lauren Jewett",
      "party": "D",
-     "votes": 89428,
-     "pct": 33.95
+     "votes": 89440,
+     "pct": 33.96
     },
     {
      "name": "Randall Arrington",
@@ -1642,7 +1642,7 @@
   },
   "LA-02": {
    "pct_in": 100.0,
-   "total": 240582,
+   "total": 240616,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1650,19 +1650,19 @@
     {
      "name": "Troy A. Carter Sr.",
      "party": "D",
-     "votes": 192258,
+     "votes": 192286,
      "pct": 79.91
     },
     {
      "name": "Peter Williams",
      "party": "R",
-     "votes": 36367,
-     "pct": 15.12
+     "votes": 36369,
+     "pct": 15.11
     },
     {
      "name": "Lisa Ballay",
      "party": "L",
-     "votes": 6405,
+     "votes": 6409,
      "pct": 2.66
     },
     {
@@ -1726,7 +1726,7 @@
   },
   "LA-04": {
    "pct_in": 100.0,
-   "total": 230358,
+   "total": 230359,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1734,7 +1734,7 @@
     {
      "name": "Mike Johnson",
      "party": "R",
-     "votes": 134749,
+     "votes": 134750,
      "pct": 58.5
     },
     {
@@ -1765,7 +1765,7 @@
   },
   "LA-05": {
    "pct_in": 100.0,
-   "total": 227921,
+   "total": 227923,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1803,7 +1803,7 @@
     {
      "name": "Antonio Wilson",
      "party": "D",
-     "votes": 27371,
+     "votes": 27373,
      "pct": 12.01
     },
     {
@@ -1828,7 +1828,7 @@
   },
   "LA-06": {
    "pct_in": 100.0,
-   "total": 261953,
+   "total": 261963,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1836,26 +1836,26 @@
     {
      "name": "Chauna Banks",
      "party": "D",
-     "votes": 50879,
+     "votes": 50882,
      "pct": 19.42
     },
     {
      "name": "Blake Miguez",
      "party": "R",
-     "votes": 50213,
+     "votes": 50214,
      "pct": 19.17
     },
     {
      "name": "Rick Edmonds",
      "party": "R",
-     "votes": 49241,
+     "votes": 49242,
      "pct": 18.8
     },
     {
      "name": "Lindsay \"Rubia\" Garcia",
      "party": "D",
      "votes": 33544,
-     "pct": 12.81
+     "pct": 12.8
     },
     {
      "name": "Stephen Wagley",
@@ -1866,19 +1866,19 @@
     {
      "name": "Patrick \"Pat\" Forbes",
      "party": "D",
-     "votes": 23820,
+     "votes": 23822,
      "pct": 9.09
     },
     {
      "name": "Larry Davis III",
      "party": "R",
-     "votes": 11357,
+     "votes": 11359,
      "pct": 4.34
     },
     {
      "name": "Monique Appeaning",
      "party": "R",
-     "votes": 8109,
+     "votes": 8110,
      "pct": 3.1
     },
     {
@@ -3352,7 +3352,7 @@
   },
   "UT-02": {
    "pct_in": 100.0,
-   "total": 253386,
+   "total": 253949,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3360,32 +3360,32 @@
     {
      "name": "Blake D. Moore",
      "party": "R",
-     "votes": 126992,
-     "pct": 50.12
+     "votes": 127079,
+     "pct": 50.04
     },
     {
      "name": "Peter Crosby",
      "party": "D",
-     "votes": 106944,
-     "pct": 42.21
+     "votes": 107373,
+     "pct": 42.28
     },
     {
      "name": "Carlton E. Bowen",
      "party": "IND",
-     "votes": 8402,
+     "votes": 8424,
      "pct": 3.32
     },
     {
      "name": "Robert M. Moesinger",
      "party": "I",
-     "votes": 6502,
-     "pct": 2.57
+     "votes": 6512,
+     "pct": 2.56
     },
     {
      "name": "Daniel Cottam",
      "party": "L",
-     "votes": 4546,
-     "pct": 1.79
+     "votes": 4561,
+     "pct": 1.8
     }
    ]
   },
