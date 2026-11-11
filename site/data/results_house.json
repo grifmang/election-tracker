@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-11T09:32:13+00:00",
+ "generated": "2026-11-11T17:56:51+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-11T09:30:10+00:00",
+ "as_of": "2026-11-11T17:55:20+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 144,
+  "reporting": 139,
   "with_precincts": 155
  },
  "races": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 100.0,
+   "pct_in": 70.29,
    "total": 253375,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": 100.0,
+   "pct_in": 66.45,
    "total": 291907,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": 100.0,
+   "pct_in": 65.57,
    "total": 246468,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 100.0,
+   "pct_in": 84.67,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 100.0,
+   "pct_in": 65.84,
    "total": 253020,
    "leader": "D",
    "called": false,
@@ -2299,7 +2299,7 @@
   },
   "NC-05": {
    "pct_in": 100.0,
-   "total": 286593,
+   "total": 286820,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2307,19 +2307,19 @@
     {
      "name": "Chuck Hubbard",
      "party": "D",
-     "votes": 139672,
+     "votes": 139788,
      "pct": 48.74
     },
     {
      "name": "Virginia Foxx",
      "party": "R",
-     "votes": 139347,
+     "votes": 139453,
      "pct": 48.62
     },
     {
      "name": "Robert B. Luffman",
      "party": "L",
-     "votes": 7574,
+     "votes": 7579,
      "pct": 2.64
     }
    ]
@@ -2401,7 +2401,7 @@
   },
   "NC-09": {
    "pct_in": 100.0,
-   "total": 272258,
+   "total": 272682,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2409,14 +2409,14 @@
     {
      "name": "Richard N. Ojeda II",
      "party": "D",
-     "votes": 139315,
-     "pct": 51.17
+     "votes": 139486,
+     "pct": 51.15
     },
     {
      "name": "Richard Hudson",
      "party": "R",
-     "votes": 132943,
-     "pct": 48.83
+     "votes": 133196,
+     "pct": 48.85
     }
    ]
   },
@@ -2449,7 +2449,7 @@
   },
   "NC-11": {
    "pct_in": 100.0,
-   "total": 343542,
+   "total": 343555,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2457,13 +2457,13 @@
     {
      "name": "Jamie Ager",
      "party": "D",
-     "votes": 196285,
+     "votes": 196291,
      "pct": 57.14
     },
     {
      "name": "Jennifer Capps Balkcom",
      "party": "R",
-     "votes": 141890,
+     "votes": 141897,
      "pct": 41.3
     },
     {
@@ -2497,7 +2497,7 @@
   },
   "NC-13": {
    "pct_in": 100.0,
-   "total": 318185,
+   "total": 318204,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2505,13 +2505,13 @@
     {
      "name": "Paul Barringer",
      "party": "D",
-     "votes": 160826,
-     "pct": 50.54
+     "votes": 160839,
+     "pct": 50.55
     },
     {
      "name": "Brad Knott",
      "party": "R",
-     "votes": 152849,
+     "votes": 152855,
      "pct": 48.04
     },
     {
@@ -3703,7 +3703,7 @@
   },
   "VA-05": {
    "pct_in": 100.0,
-   "total": 363206,
+   "total": 363499,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3711,19 +3711,19 @@
     {
      "name": "John J. McGuire III",
      "party": "R",
-     "votes": 182142,
-     "pct": 50.15
+     "votes": 182339,
+     "pct": 50.16
     },
     {
      "name": "Tom S. P. Perriello",
      "party": "D",
-     "votes": 175183,
-     "pct": 48.23
+     "votes": 175265,
+     "pct": 48.22
     },
     {
      "name": "Cooke C. Harvey",
      "party": "I",
-     "votes": 5881,
+     "votes": 5895,
      "pct": 1.62
     }
    ]
@@ -3751,7 +3751,7 @@
   },
   "VA-07": {
    "pct_in": 100.0,
-   "total": 323933,
+   "total": 323934,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3765,7 +3765,7 @@
     {
      "name": "Doug A. Ollivant",
      "party": "R",
-     "votes": 121883,
+     "votes": 121884,
      "pct": 37.63
     },
     {

@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-11T09:31:32+00:00",
+ "generated": "2026-11-11T17:55:52+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384996922,
+ "wikipedia_revid": 1385052055,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -7431,12 +7431,12 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent lost re-election. Democratic gain."
    ],
    "candidates": [
     {
-     "name": "Daniel Cavender",
-     "party": "Libertarian",
+     "name": "Raymond Smith Jr.",
+     "party": "Democratic",
      "note": null
     },
     {
@@ -7445,8 +7445,8 @@
      "note": null
     },
     {
-     "name": "Raymond Smith Jr.",
-     "party": "Democratic",
+     "name": "Daniel Cavender",
+     "party": "Libertarian",
      "note": null
     }
    ]
@@ -10763,7 +10763,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
