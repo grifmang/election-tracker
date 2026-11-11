@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T20:53:05+00:00",
+ "generated": "2026-11-11T01:58:21+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1384922294,
+ "wikipedia_revid": 1384962384,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 435,
  "races": [
@@ -830,7 +830,7 @@
     }
    ],
    "status": [
-    "Incumbent advanced to general."
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
@@ -2476,7 +2476,7 @@
     },
     {
      "name": "George Austin",
-     "party": "Republican",
+     "party": "Republican/IPC",
      "note": null
     }
    ]
@@ -2565,7 +2565,7 @@
    "candidates": [
     {
      "name": "Jahana Hayes",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
@@ -3440,17 +3440,17 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent re-elected."
    ],
    "candidates": [
     {
-     "name": "Eliott Rodriguez",
-     "party": "Democratic",
+     "name": "María Elvira Salazar",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "María Elvira Salazar",
-     "party": "Republican",
+     "name": "Eliott Rodriguez",
+     "party": "Democratic",
      "note": null
     }
    ]
@@ -6669,17 +6669,17 @@
     }
    ],
    "status": [
-    "Incumbent lost re-election. DFL gain."
+    "Incumbent renominated."
    ],
    "candidates": [
     {
-     "name": "Jake Johnson",
-     "party": "DFL",
+     "name": "Brad Finstad",
+     "party": "Republican",
      "note": null
     },
     {
-     "name": "Brad Finstad",
-     "party": "Republican",
+     "name": "Jake Johnson",
+     "party": "DFL",
      "note": null
     }
    ]
@@ -7497,7 +7497,7 @@
     }
    ],
    "status": [
-    "Incumbent lost re-election. Democratic gain."
+    "Incumbent renominated"
    ],
    "candidates": [
     {
@@ -7558,7 +7558,7 @@
     }
    ],
    "status": [
-    "Incumbent re-elected."
+    "Incumbent renominated."
    ],
    "candidates": [
     {
@@ -8642,12 +8642,12 @@
    "candidates": [
     {
      "name": "Nick LaLota",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
      "name": "Chris Gallant",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     }
    ]
@@ -8670,12 +8670,12 @@
    "candidates": [
     {
      "name": "Andrew Garbarino",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
      "name": "Patrick Halpin",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     }
    ]
@@ -8703,7 +8703,7 @@
     },
     {
      "name": "Mike LiPetri",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -8731,7 +8731,7 @@
     },
     {
      "name": "Jeanine Driscoll",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
@@ -8792,7 +8792,7 @@
     },
     {
      "name": "Joseph Chou",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -8815,12 +8815,12 @@
    "candidates": [
     {
      "name": "Claire Valdez",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Melvin Rivera",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
@@ -8853,7 +8853,7 @@
     },
     {
      "name": "Lewis Mizrahi",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -8881,7 +8881,7 @@
     },
     {
      "name": "Joel Azumah",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -8904,12 +8904,12 @@
    "candidates": [
     {
      "name": "Brad Lander",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Jennifer Moore",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -8932,7 +8932,7 @@
    "candidates": [
     {
      "name": "Nicole Malliotakis",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
@@ -8965,7 +8965,7 @@
     },
     {
      "name": "Caroline Shinkle",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
@@ -8998,12 +8998,12 @@
    "candidates": [
     {
      "name": "Darializa Avila Chevalier",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Jomo Williams",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9026,12 +9026,12 @@
    "candidates": [
     {
      "name": "Alexandria Ocasio-Cortez",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Diamant Hysenaj",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9064,7 +9064,7 @@
     },
     {
      "name": "Andre Easton",
-     "party": "Party for Socialism and Liberation",
+     "party": "PSL",
      "note": null
     },
     {
@@ -9125,12 +9125,12 @@
    "candidates": [
     {
      "name": "Cait Conley",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Mike Lawler",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9153,12 +9153,12 @@
    "candidates": [
     {
      "name": "Pat Ryan",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Jacqueline Auringer",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9181,12 +9181,12 @@
    "candidates": [
     {
      "name": "Josh Riley",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Peter Oberacker",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9209,12 +9209,12 @@
    "candidates": [
     {
      "name": "Paul Tonko",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Ralph Ambrosio",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9265,12 +9265,12 @@
    "candidates": [
     {
      "name": "John Mannion",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Kailee Buller",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9293,12 +9293,12 @@
    "candidates": [
     {
      "name": "Nick Langworthy",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
      "name": "Aaron Gies",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     }
    ]
@@ -9321,12 +9321,12 @@
    "candidates": [
     {
      "name": "Claudia Tenney",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     },
     {
      "name": "Alissa Ellman",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     }
    ]
@@ -9349,12 +9349,12 @@
    "candidates": [
     {
      "name": "Joseph Morelle",
-     "party": "Democratic",
+     "party": "Democratic/WFP",
      "note": null
     },
     {
      "name": "Virginia McIntyre",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -9382,7 +9382,7 @@
     },
     {
      "name": "Dennis Hannon",
-     "party": "Republican",
+     "party": "Republican/Cons.",
      "note": null
     }
    ]
@@ -11118,7 +11118,7 @@
     }
    ],
    "status": [
-    "Incumbent lost re-election. Democratic gain."
+    "Incumbent renominated."
    ],
    "candidates": [
     {
