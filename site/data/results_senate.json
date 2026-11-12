@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-11T17:56:51+00:00",
+ "generated": "2026-11-12T00:49:38+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-11T17:55:20+00:00",
+ "as_of": "2026-11-12T00:45:40+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -238,7 +238,7 @@
   },
   "VA": {
    "pct_in": 100.0,
-   "total": 3604848,
+   "total": 3606790,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -246,14 +246,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 2218289,
-     "pct": 61.54
+     "votes": 2218724,
+     "pct": 61.52
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1386559,
-     "pct": 38.46
+     "votes": 1388066,
+     "pct": 38.48
     }
    ]
   }

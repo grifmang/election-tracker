@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-11T17:55:52+00:00",
+ "generated": "2026-11-12T00:48:31+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1385052055,
+ "wikipedia_revid": 1385115050,
  "license": "CC BY-SA 4.0 (Wikipedia)",
- "count": 435,
+ "count": 434,
  "races": [
   {
    "key": "AK-00",
@@ -2570,34 +2570,6 @@
     },
     {
      "name": "Chris Shea",
-     "party": "Republican",
-     "note": null
-    }
-   ]
-  },
-  {
-   "key": "DE-00",
-   "state": "DE",
-   "district": 0,
-   "pvi": "D+8",
-   "incumbents": [
-    {
-     "name": "Sarah McBride",
-     "party": "Democratic",
-     "first_elected": "2024"
-    }
-   ],
-   "status": [
-    "Incumbent re-elected."
-   ],
-   "candidates": [
-    {
-     "name": "Sarah McBride",
-     "party": "Democratic",
-     "note": null
-    },
-    {
-     "name": "Joseph Arminio",
      "party": "Republican",
      "note": null
     }
@@ -6540,7 +6512,7 @@
     }
    ],
    "status": [
-    "Incumbent retiring to run for U.S. Senate. Democratic hold."
+    "Incumbent retired to run for U.S. Senate. Democratic hold."
    ],
    "candidates": [
     {
@@ -9861,12 +9833,12 @@
     {
      "name": "Mark Tedford",
      "party": "Republican",
-     "note": null
+     "note": "52.3%"
     },
     {
      "name": "John Croisant",
      "party": "Democratic",
-     "note": null
+     "note": "47.7%"
     }
    ]
   },
@@ -9889,17 +9861,17 @@
     {
      "name": "Josh Brecheen",
      "party": "Republican",
-     "note": null
+     "note": "68.0%"
     },
     {
      "name": "Brandon Wade",
      "party": "Democratic",
-     "note": null
+     "note": "29.0%"
     },
     {
      "name": "Ronnie Hopkins",
      "party": "Independent",
-     "note": null
+     "note": "3.1%"
     }
    ]
   },
@@ -9922,12 +9894,12 @@
     {
      "name": "Frank Lucas",
      "party": "Republican",
-     "note": null
+     "note": "64.0%"
     },
     {
      "name": "Suzie Byrd",
      "party": "Democratic",
-     "note": null
+     "note": "36.0%"
     }
    ]
   },
@@ -9950,17 +9922,17 @@
     {
      "name": "Tom Cole",
      "party": "Republican",
-     "note": null
+     "note": "57.6%"
     },
     {
      "name": "Mitchell Jacob",
      "party": "Democratic",
-     "note": null
+     "note": "39.5%"
     },
     {
      "name": "Rocco Bonacci",
      "party": "Independent",
-     "note": null
+     "note": "2.9%"
     }
    ]
   },
@@ -9983,22 +9955,22 @@
     {
      "name": "Stephanie Bice",
      "party": "Republican",
-     "note": null
+     "note": "49.5%"
     },
     {
      "name": "Jena Nelson",
      "party": "Democratic",
-     "note": null
+     "note": "48.2%"
     },
     {
      "name": "Robert Henri",
      "party": "Independent",
-     "note": null
+     "note": "1.5%"
     },
     {
      "name": "Austin Nieves",
      "party": "Independent",
-     "note": null
+     "note": "0.8%"
     }
    ]
   },
@@ -10736,17 +10708,17 @@
     {
      "name": "Nancy Lacore",
      "party": "Democratic",
-     "note": null
+     "note": "49.7%"
     },
     {
      "name": "Jenny Costa Honeycutt",
      "party": "Republican",
-     "note": null
+     "note": "48.6%"
     },
     {
      "name": "Bill Reeside",
      "party": "Libertarian",
-     "note": null
+     "note": "1.6%"
     }
    ]
   },
@@ -10769,17 +10741,17 @@
     {
      "name": "Joe Wilson",
      "party": "Republican",
-     "note": null
+     "note": "49.8%"
     },
     {
      "name": "Zyon Khalifa",
      "party": "Democratic",
-     "note": null
+     "note": "48.8%"
     },
     {
      "name": "Dayna Alane Smith",
      "party": "Workers",
-     "note": null
+     "note": "1.2%"
     }
    ]
   },
@@ -10802,17 +10774,17 @@
     {
      "name": "Sheri Biggs",
      "party": "Republican",
-     "note": null
+     "note": "63.7%"
     },
     {
      "name": "Eunice Lehmacher",
      "party": "Democratic",
-     "note": null
+     "note": "34.4%"
     },
     {
      "name": "Brian Corriea",
      "party": "Libertarian",
-     "note": null
+     "note": "1.9%"
     }
    ]
   },
@@ -10835,17 +10807,17 @@
     {
      "name": "William Timmons",
      "party": "Republican",
-     "note": null
+     "note": "51.7%"
     },
     {
      "name": "Courtney McClain",
      "party": "Democratic",
-     "note": null
+     "note": "45.7%"
     },
     {
      "name": "Jessica Ethridge",
      "party": "Libertarian",
-     "note": null
+     "note": "2.5%"
     }
    ]
   },
@@ -10868,12 +10840,12 @@
     {
      "name": "Wes Climer",
      "party": "Republican",
-     "note": null
+     "note": "52.8%"
     },
     {
      "name": "Mallory Dittmer",
      "party": "Democratic",
-     "note": null
+     "note": "47.1%"
     }
    ]
   },
@@ -10896,12 +10868,12 @@
     {
      "name": "Jim Clyburn",
      "party": "Democratic",
-     "note": null
+     "note": "69.3%"
     },
     {
      "name": "John Peterson",
      "party": "Republican",
-     "note": null
+     "note": "30.6%"
     }
    ]
   },
@@ -10924,12 +10896,12 @@
     {
      "name": "Russell Fry",
      "party": "Republican",
-     "note": null
+     "note": "56.7%"
     },
     {
      "name": "John Vincent",
      "party": "Democratic",
-     "note": null
+     "note": "43.2%"
     }
    ]
   },
@@ -13689,22 +13661,22 @@
     {
      "name": "Chuck Gray",
      "party": "Republican",
-     "note": null
+     "note": "54.2%"
     },
     {
      "name": "Lisa Kinney",
      "party": "Democratic",
-     "note": null
+     "note": "33.5%"
     },
     {
      "name": "Shawn Johnson",
      "party": "Libertarian",
-     "note": null
+     "note": "7.4%"
     },
     {
      "name": "Jeffrey Haggit",
      "party": "Constitution",
-     "note": null
+     "note": "4.3%"
     }
    ]
   }
