@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-12T00:49:38+00:00",
+ "generated": "2026-11-12T09:55:36+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-12T00:45:40+00:00",
+ "as_of": "2026-11-12T09:50:06+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -3511,7 +3511,7 @@
   },
   "UT-03": {
    "pct_in": 100.0,
-   "total": 255296,
+   "total": 256172,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3519,37 +3519,37 @@
     {
      "name": "Celeste Maloy",
      "party": "R",
-     "votes": 144800,
-     "pct": 56.72
+     "votes": 145261,
+     "pct": 56.7
     },
     {
      "name": "Kent S. Udell",
      "party": "D",
-     "votes": 90812,
-     "pct": 35.57
+     "votes": 91137,
+     "pct": 35.58
     },
     {
      "name": "Cassie Easley",
      "party": "C",
-     "votes": 7970,
-     "pct": 3.12
+     "votes": 8011,
+     "pct": 3.13
     },
     {
      "name": "Michael R. Stoddard",
      "party": "L",
-     "votes": 5701,
+     "votes": 5718,
      "pct": 2.23
     },
     {
      "name": "Ayden Scott",
      "party": "I",
-     "votes": 4196,
-     "pct": 1.64
+     "votes": 4223,
+     "pct": 1.65
     },
     {
      "name": "Adonis Hooslyn",
      "party": "I",
-     "votes": 1817,
+     "votes": 1822,
      "pct": 0.71
     }
    ]
