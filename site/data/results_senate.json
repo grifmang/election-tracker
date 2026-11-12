@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-12T09:55:36+00:00",
+ "generated": "2026-11-12T18:24:08+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-12T09:50:06+00:00",
+ "as_of": "2026-11-12T18:20:16+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -16,7 +16,7 @@
  "races": {
   "AR": {
    "pct_in": 100.0,
-   "total": 886250,
+   "total": 886307,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -24,19 +24,19 @@
     {
      "name": "Tom Cotton",
      "party": "R",
-     "votes": 480869,
+     "votes": 480898,
      "pct": 54.26
     },
     {
      "name": "Hallie Shoffner",
      "party": "D",
-     "votes": 375889,
+     "votes": 375916,
      "pct": 42.41
     },
     {
      "name": "Jeff Wadlin",
      "party": "L",
-     "votes": 29492,
+     "votes": 29493,
      "pct": 3.33
     }
    ]
@@ -145,7 +145,7 @@
   },
   "MN": {
    "pct_in": 100.0,
-   "total": 2828411,
+   "total": 2828412,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -159,7 +159,7 @@
     {
      "name": "Michele Tafoya",
      "party": "R",
-     "votes": 1233466,
+     "votes": 1233467,
      "pct": 43.61
     },
     {
@@ -178,7 +178,7 @@
   },
   "NC": {
    "pct_in": 100.0,
-   "total": 4222769,
+   "total": 4222770,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,19 +186,19 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 2481017,
+     "votes": 2481018,
      "pct": 58.75
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 1648945,
+     "votes": 1648946,
      "pct": 39.05
     },
     {
      "name": "Shannon W. Bray",
      "party": "L",
-     "votes": 56091,
+     "votes": 56090,
      "pct": 1.33
     },
     {
@@ -238,7 +238,7 @@
   },
   "VA": {
    "pct_in": 100.0,
-   "total": 3606790,
+   "total": 3618141,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -246,14 +246,14 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 2218724,
-     "pct": 61.52
+     "votes": 2228105,
+     "pct": 61.58
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1388066,
-     "pct": 38.48
+     "votes": 1390036,
+     "pct": 38.42
     }
    ]
   }
