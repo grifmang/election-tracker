@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-12T18:23:06+00:00",
+ "generated": "2026-11-13T01:09:59+00:00",
  "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
- "wikipedia_revid": 1385271300,
+ "wikipedia_revid": 1385373998,
  "license": "CC BY-SA 4.0 (Wikipedia)",
  "count": 434,
  "races": [
@@ -7469,7 +7469,7 @@
     }
    ],
    "status": [
-    "Incumbent renominated"
+    "Incumbent renominated."
    ],
    "candidates": [
     {
@@ -13023,32 +13023,32 @@
     {
      "name": "Becca Balint",
      "party": "Democratic",
-     "note": null
+     "note": "65.2%"
     },
     {
      "name": "Gerald Malloy",
      "party": "Republican",
-     "note": null
+     "note": "30.9% Others"
     },
     {
      "name": "Suz Seymour",
      "party": "Independent",
-     "note": null
+     "note": "1.4%"
     },
     {
      "name": "Ryan Walton",
      "party": "Independent",
-     "note": null
+     "note": "0.9%"
     },
     {
      "name": "Phoenix Altair",
      "party": "Independent",
-     "note": null
+     "note": "0.8%"
     },
     {
      "name": "Adam Ortiz",
      "party": "Independent",
-     "note": null
+     "note": "0.7%"
     }
    ]
   },
