@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-13T01:10:52+00:00",
+ "generated": "2026-11-13T09:40:20+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-13T01:10:32+00:00",
+ "as_of": "2026-11-13T09:36:45+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 139,
-  "with_precincts": 150
+  "reporting": 143,
+  "with_precincts": 154
  },
  "races": {
   "AR-01": {
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 292034,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 246468,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 253020,
    "leader": "D",
    "called": false,
@@ -3472,7 +3472,7 @@
   },
   "UT-02": {
    "pct_in": 100.0,
-   "total": 256016,
+   "total": 256405,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3480,31 +3480,31 @@
     {
      "name": "Blake D. Moore",
      "party": "R",
-     "votes": 127693,
-     "pct": 49.88
+     "votes": 127783,
+     "pct": 49.84
     },
     {
      "name": "Peter Crosby",
      "party": "D",
-     "votes": 108652,
-     "pct": 42.44
+     "votes": 108935,
+     "pct": 42.49
     },
     {
      "name": "Carlton E. Bowen",
      "party": "IND",
-     "votes": 8490,
-     "pct": 3.32
+     "votes": 8497,
+     "pct": 3.31
     },
     {
      "name": "Robert M. Moesinger",
      "party": "I",
-     "votes": 6568,
-     "pct": 2.57
+     "votes": 6572,
+     "pct": 2.56
     },
     {
      "name": "Daniel Cottam",
      "party": "L",
-     "votes": 4613,
+     "votes": 4618,
      "pct": 1.8
     }
    ]
@@ -3676,7 +3676,7 @@
   },
   "VA-04": {
    "pct_in": 100.0,
-   "total": 315383,
+   "total": 315388,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3684,7 +3684,7 @@
     {
      "name": "Jennifer L. McClellan",
      "party": "D",
-     "votes": 229402,
+     "votes": 229407,
      "pct": 72.74
     },
     {
@@ -3991,7 +3991,7 @@
   },
   "WA-03": {
    "pct_in": 100.0,
-   "total": 349797,
+   "total": 349948,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3999,13 +3999,13 @@
     {
      "name": "Marie Gluesenkamp Perez",
      "party": "D",
-     "votes": 189491,
+     "votes": 189565,
      "pct": 54.17
     },
     {
      "name": "John Braun",
      "party": "R",
-     "votes": 160306,
+     "votes": 160383,
      "pct": 45.83
     }
    ]
@@ -4054,7 +4054,7 @@
   },
   "WA-06": {
    "pct_in": 100.0,
-   "total": 347012,
+   "total": 353424,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4062,14 +4062,14 @@
     {
      "name": "Emily Randall",
      "party": "D",
-     "votes": 218338,
-     "pct": 62.92
+     "votes": 221487,
+     "pct": 62.67
     },
     {
      "name": "Teresa Fox",
      "party": "R",
-     "votes": 128674,
-     "pct": 37.08
+     "votes": 131937,
+     "pct": 37.33
     }
    ]
   },
@@ -4138,7 +4138,7 @@
   },
   "WA-10": {
    "pct_in": 100.0,
-   "total": 267547,
+   "total": 270016,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4146,14 +4146,14 @@
     {
      "name": "Marilyn Strickland",
      "party": "D",
-     "votes": 171717,
-     "pct": 64.18
+     "votes": 173416,
+     "pct": 64.22
     },
     {
      "name": "Chris D. Chung",
      "party": "R",
-     "votes": 95830,
-     "pct": 35.82
+     "votes": 96600,
+     "pct": 35.78
     }
    ]
   }
