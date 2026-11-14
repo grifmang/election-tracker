@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T15:10:29+00:00",
+ "generated": "2026-11-14T20:47:31+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-14T15:05:38+00:00",
+ "as_of": "2026-11-14T20:45:20+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -1282,7 +1282,7 @@
   },
   "IN-01": {
    "pct_in": 97.87,
-   "total": 223206,
+   "total": 223216,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1290,7 +1290,7 @@
     {
      "name": "Frank J. Mrvan",
      "party": "D",
-     "votes": 140382,
+     "votes": 140391,
      "pct": 62.89
     },
     {
@@ -1314,7 +1314,7 @@
     {
      "name": "Barb Regnitz",
      "party": "R",
-     "votes": 82824,
+     "votes": 82825,
      "pct": 37.11
     },
     {
@@ -3616,7 +3616,7 @@
   },
   "VA-02": {
    "pct_in": 100.0,
-   "total": 343044,
+   "total": 343081,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3624,13 +3624,13 @@
     {
      "name": "Elaine G. Luria",
      "party": "D",
-     "votes": 182882,
+     "votes": 182909,
      "pct": 53.31
     },
     {
      "name": "Jen A. Kiggans",
      "party": "R",
-     "votes": 152114,
+     "votes": 152124,
      "pct": 44.34
     },
     {
