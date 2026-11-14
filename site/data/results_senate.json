@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T06:36:57+00:00",
+ "generated": "2026-11-14T15:10:29+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-14T06:35:34+00:00",
+ "as_of": "2026-11-14T15:05:38+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -124,7 +124,7 @@
   },
   "LA": {
    "pct_in": 100.0,
-   "total": 1466231,
+   "total": 1466982,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -132,13 +132,13 @@
     {
      "name": "Julia Letlow",
      "party": "R",
-     "votes": 746014,
+     "votes": 746466,
      "pct": 50.88
     },
     {
      "name": "Jamie Davis",
      "party": "D",
-     "votes": 720217,
+     "votes": 720516,
      "pct": 49.12
     }
    ]

@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-14T06:36:57+00:00",
+ "generated": "2026-11-14T15:10:29+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-14T06:35:34+00:00",
+ "as_of": "2026-11-14T15:05:38+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 144,
-  "with_precincts": 155
+  "reporting": 139,
+  "with_precincts": 150
  },
  "races": {
   "AR-01": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 253376,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 292034,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 246468,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 253020,
    "leader": "D",
    "called": false,
@@ -1282,7 +1282,7 @@
   },
   "IN-01": {
    "pct_in": 97.87,
-   "total": 223140,
+   "total": 223206,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1290,13 +1290,13 @@
     {
      "name": "Frank J. Mrvan",
      "party": "D",
-     "votes": 140368,
-     "pct": 62.88
+     "votes": 140382,
+     "pct": 62.89
     },
     {
      "name": "Frank J. Mrvan",
      "party": "D",
-     "votes": 140319,
+     "votes": 140368,
      "pct": 62.88
     },
     {
@@ -1314,8 +1314,8 @@
     {
      "name": "Barb Regnitz",
      "party": "R",
-     "votes": 82821,
-     "pct": 37.12
+     "votes": 82824,
+     "pct": 37.11
     },
     {
      "name": "Barb Regnitz",
@@ -1948,7 +1948,7 @@
   },
   "LA-06": {
    "pct_in": 100.0,
-   "total": 261963,
+   "total": 262712,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -1956,61 +1956,61 @@
     {
      "name": "Chauna Banks",
      "party": "D",
-     "votes": 50882,
-     "pct": 19.42
+     "votes": 51004,
+     "pct": 19.41
     },
     {
      "name": "Blake Miguez",
      "party": "R",
-     "votes": 50214,
-     "pct": 19.17
+     "votes": 50376,
+     "pct": 19.18
     },
     {
      "name": "Rick Edmonds",
      "party": "R",
-     "votes": 49242,
-     "pct": 18.8
+     "votes": 49420,
+     "pct": 18.81
     },
     {
      "name": "Lindsay \"Rubia\" Garcia",
      "party": "D",
-     "votes": 33544,
+     "votes": 33632,
      "pct": 12.8
     },
     {
      "name": "Stephen Wagley",
      "party": "R",
-     "votes": 28169,
+     "votes": 28239,
      "pct": 10.75
     },
     {
      "name": "Patrick \"Pat\" Forbes",
      "party": "D",
-     "votes": 23822,
+     "votes": 23869,
      "pct": 9.09
     },
     {
      "name": "Larry Davis III",
      "party": "R",
-     "votes": 11359,
-     "pct": 4.34
+     "votes": 11388,
+     "pct": 4.33
     },
     {
      "name": "Monique Appeaning",
      "party": "R",
-     "votes": 8110,
+     "votes": 8139,
      "pct": 3.1
     },
     {
      "name": "Rufus Craig",
      "party": "L",
-     "votes": 3461,
+     "votes": 3478,
      "pct": 1.32
     },
     {
      "name": "Michael Mebruer",
      "party": "R",
-     "votes": 3160,
+     "votes": 3167,
      "pct": 1.21
     }
    ]
