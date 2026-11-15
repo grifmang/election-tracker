@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T17:15:52+00:00",
+ "generated": "2026-11-15T22:56:07+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-15T17:15:33+00:00",
+ "as_of": "2026-11-15T22:55:27+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -1513,7 +1513,7 @@
   },
   "IN-06": {
    "pct_in": 97.87,
-   "total": 201843,
+   "total": 201851,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1521,7 +1521,7 @@
     {
      "name": "Jefferson Shreve",
      "party": "R",
-     "votes": 111176,
+     "votes": 111179,
      "pct": 55.08
     },
     {
@@ -1539,7 +1539,7 @@
     {
      "name": "Cynthia (Cinde) Wirth",
      "party": "D",
-     "votes": 90667,
+     "votes": 90672,
      "pct": 44.92
     },
     {
