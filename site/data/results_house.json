@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T09:34:00+00:00",
+ "generated": "2026-11-15T17:15:52+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-15T09:30:22+00:00",
+ "as_of": "2026-11-15T17:15:33+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -1513,7 +1513,7 @@
   },
   "IN-06": {
    "pct_in": 97.87,
-   "total": 201821,
+   "total": 201843,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1521,7 +1521,7 @@
     {
      "name": "Jefferson Shreve",
      "party": "R",
-     "votes": 111169,
+     "votes": 111176,
      "pct": 55.08
     },
     {
@@ -1539,7 +1539,7 @@
     {
      "name": "Cynthia (Cinde) Wirth",
      "party": "D",
-     "votes": 90652,
+     "votes": 90667,
      "pct": 44.92
     },
     {
@@ -1621,7 +1621,7 @@
   },
   "IN-08": {
    "pct_in": 97.87,
-   "total": 213076,
+   "total": 213089,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -1629,8 +1629,8 @@
     {
      "name": "Mark Messmer",
      "party": "R",
-     "votes": 117714,
-     "pct": 55.25
+     "votes": 117716,
+     "pct": 55.24
     },
     {
      "name": "Mark Messmer",
@@ -1647,8 +1647,8 @@
     {
      "name": "Mary Allen",
      "party": "D",
-     "votes": 95362,
-     "pct": 44.75
+     "votes": 95373,
+     "pct": 44.76
     },
     {
      "name": "Mary Allen",
