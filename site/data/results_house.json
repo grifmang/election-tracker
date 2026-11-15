@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T20:47:31+00:00",
+ "generated": "2026-11-15T01:59:05+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-14T20:45:20+00:00",
+ "as_of": "2026-11-15T01:55:28+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -3616,7 +3616,7 @@
   },
   "VA-02": {
    "pct_in": 100.0,
-   "total": 343081,
+   "total": 343112,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3624,25 +3624,25 @@
     {
      "name": "Elaine G. Luria",
      "party": "D",
-     "votes": 182909,
-     "pct": 53.31
+     "votes": 182932,
+     "pct": 53.32
     },
     {
      "name": "Jen A. Kiggans",
      "party": "R",
-     "votes": 152124,
+     "votes": 152130,
      "pct": 44.34
     },
     {
      "name": "J. Matt Baker",
      "party": "I",
-     "votes": 4912,
+     "votes": 4913,
      "pct": 1.43
     },
     {
      "name": "Geral D. \"Bishop\" Staten",
      "party": "I",
-     "votes": 3136,
+     "votes": 3137,
      "pct": 0.91
     }
    ]
@@ -3955,7 +3955,7 @@
   },
   "WA-01": {
    "pct_in": 100.0,
-   "total": 292780,
+   "total": 293086,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3963,14 +3963,14 @@
     {
      "name": "Suzan DelBene",
      "party": "D",
-     "votes": 198059,
-     "pct": 67.65
+     "votes": 198290,
+     "pct": 67.66
     },
     {
      "name": "Mary Silva",
      "party": "R",
-     "votes": 94721,
-     "pct": 32.35
+     "votes": 94796,
+     "pct": 32.34
     }
    ]
   },
@@ -4039,7 +4039,7 @@
   },
   "WA-05": {
    "pct_in": 100.0,
-   "total": 315804,
+   "total": 322437,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -4047,14 +4047,14 @@
     {
      "name": "Michael Baumgartner",
      "party": "R",
-     "votes": 164742,
-     "pct": 52.17
+     "votes": 168345,
+     "pct": 52.21
     },
     {
      "name": "Carmela Conroy",
      "party": "D",
-     "votes": 151062,
-     "pct": 47.83
+     "votes": 154092,
+     "pct": 47.79
     }
    ]
   },
@@ -4081,7 +4081,7 @@
   },
   "WA-07": {
    "pct_in": 100.0,
-   "total": 367813,
+   "total": 368525,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4089,20 +4089,20 @@
     {
      "name": "Pramila Jayapal",
      "party": "D",
-     "votes": 323297,
+     "votes": 323922,
      "pct": 87.9
     },
     {
      "name": "Nirav Sheth",
      "party": "R",
-     "votes": 44516,
+     "votes": 44603,
      "pct": 12.1
     }
    ]
   },
   "WA-08": {
    "pct_in": 100.0,
-   "total": 338367,
+   "total": 338697,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4110,20 +4110,20 @@
     {
      "name": "Kim Schrier",
      "party": "D",
-     "votes": 193482,
-     "pct": 57.18
+     "votes": 193720,
+     "pct": 57.2
     },
     {
      "name": "Spencer Meline",
      "party": "R",
-     "votes": 144885,
-     "pct": 42.82
+     "votes": 144977,
+     "pct": 42.8
     }
    ]
   },
   "WA-09": {
    "pct_in": 100.0,
-   "total": 248500,
+   "total": 249285,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4131,14 +4131,14 @@
     {
      "name": "Adam Smith",
      "party": "D",
-     "votes": 189326,
-     "pct": 76.19
+     "votes": 189965,
+     "pct": 76.2
     },
     {
      "name": "Doug Basler",
      "party": "R",
-     "votes": 59174,
-     "pct": 23.81
+     "votes": 59320,
+     "pct": 23.8
     }
    ]
   },
