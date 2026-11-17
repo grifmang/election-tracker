@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T02:59:39+00:00",
+ "generated": "2026-11-17T13:35:03+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-17T02:55:31+00:00",
+ "as_of": "2026-11-17T13:30:22+00:00",
  "counts": {
   "called": {},
   "races": 155,
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 363.16,
+   "pct_in": 100.0,
    "total": 253376,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": 267.24,
+   "pct_in": 100.0,
    "total": 291834,
    "leader": "D",
    "called": false,
@@ -159,7 +159,7 @@
    ]
   },
   "CT-03": {
-   "pct_in": 172.64,
+   "pct_in": 100.0,
    "total": 246468,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 214.06,
+   "pct_in": 100.0,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 251.56,
+   "pct_in": 100.0,
    "total": 253020,
    "leader": "D",
    "called": false,
@@ -3853,7 +3853,7 @@
   },
   "UT-01": {
    "pct_in": 100.0,
-   "total": 248982,
+   "total": 257207,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -3861,26 +3861,26 @@
     {
      "name": "Ben McAdams",
      "party": "D",
-     "votes": 174492,
-     "pct": 70.08
+     "votes": 181258,
+     "pct": 70.47
     },
     {
      "name": "Riley Owen",
      "party": "R",
-     "votes": 65190,
-     "pct": 26.18
+     "votes": 66221,
+     "pct": 25.75
     },
     {
      "name": "Jesse West",
      "party": "L",
-     "votes": 5707,
-     "pct": 2.29
+     "votes": 5996,
+     "pct": 2.33
     },
     {
      "name": "Elias Henry Montgomery",
      "party": "I",
-     "votes": 3593,
-     "pct": 1.44
+     "votes": 3732,
+     "pct": 1.45
     }
    ]
   },
@@ -3970,7 +3970,7 @@
   },
   "UT-04": {
    "pct_in": 100.0,
-   "total": 268506,
+   "total": 271236,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -3978,25 +3978,25 @@
     {
      "name": "Mike Kennedy",
      "party": "R",
-     "votes": 143290,
-     "pct": 53.37
+     "votes": 144089,
+     "pct": 53.12
     },
     {
      "name": "Jonny Larsen",
      "party": "D",
-     "votes": 104877,
-     "pct": 39.06
+     "votes": 106593,
+     "pct": 39.3
     },
     {
      "name": "Steven Burt",
      "party": "I",
-     "votes": 11616,
+     "votes": 11735,
      "pct": 4.33
     },
     {
      "name": "Taylor Wright",
      "party": "L",
-     "votes": 8723,
+     "votes": 8819,
      "pct": 3.25
     }
    ]
@@ -4243,7 +4243,7 @@
   },
   "VA-09": {
    "pct_in": 100.0,
-   "total": 298394,
+   "total": 298393,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -4251,7 +4251,7 @@
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 195307,
+     "votes": 195306,
      "pct": 65.45
     },
     {
