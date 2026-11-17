@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-16T18:39:19+00:00",
+ "generated": "2026-11-17T02:59:39+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-16T18:35:46+00:00",
+ "as_of": "2026-11-17T02:55:31+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -16,7 +16,7 @@
  "races": {
   "AR": {
    "pct_in": 100.0,
-   "total": 887577,
+   "total": 888134,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -24,19 +24,19 @@
     {
      "name": "Tom Cotton",
      "party": "R",
-     "votes": 481351,
-     "pct": 54.23
+     "votes": 481491,
+     "pct": 54.21
     },
     {
      "name": "Hallie Shoffner",
      "party": "D",
-     "votes": 376706,
-     "pct": 42.44
+     "votes": 377104,
+     "pct": 42.46
     },
     {
      "name": "Jeff Wadlin",
      "party": "L",
-     "votes": 29520,
+     "votes": 29539,
      "pct": 3.33
     }
    ]
@@ -178,7 +178,7 @@
   },
   "NC": {
    "pct_in": 100.0,
-   "total": 4222304,
+   "total": 4222288,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -186,13 +186,13 @@
     {
      "name": "Roy Cooper",
      "party": "D",
-     "votes": 2480640,
+     "votes": 2480636,
      "pct": 58.75
     },
     {
      "name": "Michael Whatley",
      "party": "R",
-     "votes": 1648870,
+     "votes": 1648858,
      "pct": 39.05
     },
     {
