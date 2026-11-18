@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-18T07:39:16+00:00",
+ "generated": "2026-11-18T17:19:59+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-18T07:35:27+00:00",
+ "as_of": "2026-11-18T17:15:31+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -238,7 +238,7 @@
   },
   "VA": {
    "pct_in": 100.0,
-   "total": 3645341,
+   "total": 3645338,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -252,7 +252,7 @@
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1393713,
+     "votes": 1393710,
      "pct": 38.23
     }
    ]

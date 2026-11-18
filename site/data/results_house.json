@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-18T07:39:16+00:00",
+ "generated": "2026-11-18T17:19:59+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-18T07:35:27+00:00",
+ "as_of": "2026-11-18T17:15:31+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
   "reporting": 139,
-  "with_precincts": 154
+  "with_precincts": 155
  },
  "races": {
   "AR-01": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": null,
+   "pct_in": 96.38,
    "total": 253379,
    "leader": "D",
    "called": false,
@@ -138,8 +138,8 @@
    ]
   },
   "CT-02": {
-   "pct_in": 25.81,
-   "total": 291837,
+   "pct_in": 87.1,
+   "total": 291865,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -147,19 +147,19 @@
     {
      "name": "Joe Courtney",
      "party": "D",
-     "votes": 182183,
-     "pct": 62.43
+     "votes": 182195,
+     "pct": 62.42
     },
     {
      "name": "George Patrick Austin",
      "party": "R",
-     "votes": 109654,
-     "pct": 37.57
+     "votes": 109670,
+     "pct": 37.58
     }
    ]
   },
   "CT-03": {
-   "pct_in": 31.69,
+   "pct_in": 90.16,
    "total": 246468,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 30.66,
+   "pct_in": 94.89,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 22.36,
+   "pct_in": 88.82,
    "total": 253035,
    "leader": "D",
    "called": false,
@@ -4243,7 +4243,7 @@
   },
   "VA-09": {
    "pct_in": 100.0,
-   "total": 298394,
+   "total": 298391,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -4251,7 +4251,7 @@
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 195307,
+     "votes": 195304,
      "pct": 65.45
     },
     {
