@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-19T10:28:22+00:00",
+ "generated": "2026-11-19T20:44:56+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-19T10:25:15+00:00",
+ "as_of": "2026-11-19T20:40:15+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -16,7 +16,7 @@
  "races": {
   "AR": {
    "pct_in": 100.0,
-   "total": 888134,
+   "total": 888142,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -24,13 +24,13 @@
     {
      "name": "Tom Cotton",
      "party": "R",
-     "votes": 481491,
+     "votes": 481495,
      "pct": 54.21
     },
     {
      "name": "Hallie Shoffner",
      "party": "D",
-     "votes": 377104,
+     "votes": 377108,
      "pct": 42.46
     },
     {
@@ -70,7 +70,7 @@
   },
   "GA": {
    "pct_in": 100.0,
-   "total": 4182726,
+   "total": 4182728,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -84,7 +84,7 @@
     {
      "name": "Mike Collins",
      "party": "R",
-     "votes": 1713671,
+     "votes": 1713673,
      "pct": 40.97
     }
    ]
@@ -145,7 +145,7 @@
   },
   "MN": {
    "pct_in": 100.0,
-   "total": 2829423,
+   "total": 2829516,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -153,25 +153,25 @@
     {
      "name": "Peggy Flanagan",
      "party": "D",
-     "votes": 1521794,
+     "votes": 1521835,
      "pct": 53.78
     },
     {
      "name": "Michele Tafoya",
      "party": "R",
-     "votes": 1233555,
+     "votes": 1233592,
      "pct": 43.6
     },
     {
      "name": "Marisa Simonetti",
      "party": "I",
-     "votes": 41583,
+     "votes": 41589,
      "pct": 1.47
     },
     {
      "name": "Rebecca Whiting",
      "party": "L",
-     "votes": 32491,
+     "votes": 32500,
      "pct": 1.15
     }
    ]
