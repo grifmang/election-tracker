@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-19T20:44:56+00:00",
+ "generated": "2026-11-20T03:26:51+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-19T20:40:15+00:00",
+ "as_of": "2026-11-20T03:25:08+00:00",
  "counts": {
   "called": {},
   "races": 9,
@@ -70,7 +70,7 @@
   },
   "GA": {
    "pct_in": 100.0,
-   "total": 4182728,
+   "total": 4182732,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -78,7 +78,7 @@
     {
      "name": "Jon Ossoff",
      "party": "D",
-     "votes": 2469055,
+     "votes": 2469059,
      "pct": 59.03
     },
     {
