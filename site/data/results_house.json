@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-20T13:03:49+00:00",
+ "generated": "2026-11-20T21:52:21+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-20T13:00:38+00:00",
+ "as_of": "2026-11-20T21:50:37+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 144,
-  "with_precincts": 155
+  "reporting": 142,
+  "with_precincts": 153
  },
  "races": {
   "AR-01": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 253373,
    "leader": "D",
    "called": false,
@@ -139,7 +139,7 @@
   },
   "CT-02": {
    "pct_in": 100.0,
-   "total": 291865,
+   "total": 290030,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -147,14 +147,14 @@
     {
      "name": "Joe Courtney",
      "party": "D",
-     "votes": 182195,
-     "pct": 62.42
+     "votes": 180834,
+     "pct": 62.35
     },
     {
      "name": "George Patrick Austin",
      "party": "R",
-     "votes": 109670,
-     "pct": 37.58
+     "votes": 109196,
+     "pct": 37.65
     }
    ]
   },
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 100.0,
+   "pct_in": null,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -2689,7 +2689,7 @@
   },
   "NC-01": {
    "pct_in": 100.0,
-   "total": 314115,
+   "total": 314111,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2697,7 +2697,7 @@
     {
      "name": "Don Davis",
      "party": "D",
-     "votes": 157487,
+     "votes": 157483,
      "pct": 50.14
     },
     {
@@ -4333,7 +4333,7 @@
   },
   "VA-09": {
    "pct_in": 100.0,
-   "total": 298391,
+   "total": 298635,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -4341,14 +4341,14 @@
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 195304,
-     "pct": 65.45
+     "votes": 195487,
+     "pct": 65.46
     },
     {
      "name": "Joy A. Powers",
      "party": "D",
-     "votes": 103087,
-     "pct": 34.55
+     "votes": 103148,
+     "pct": 34.54
     }
    ]
   },
