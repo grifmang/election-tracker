@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-20T03:26:51+00:00",
+ "generated": "2026-11-20T13:03:49+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-20T03:25:08+00:00",
+ "as_of": "2026-11-20T13:00:38+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 140,
+  "reporting": 144,
   "with_precincts": 155
  },
  "races": {
@@ -111,7 +111,7 @@
    ]
   },
   "CT-01": {
-   "pct_in": 78.26,
+   "pct_in": 100.0,
    "total": 253373,
    "leader": "D",
    "called": false,
@@ -138,7 +138,7 @@
    ]
   },
   "CT-02": {
-   "pct_in": 70.32,
+   "pct_in": 100.0,
    "total": 291865,
    "leader": "D",
    "called": false,
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": 94.16,
+   "pct_in": 100.0,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -213,7 +213,7 @@
    ]
   },
   "CT-05": {
-   "pct_in": 72.67,
+   "pct_in": 100.0,
    "total": 253035,
    "leader": "D",
    "called": false,
