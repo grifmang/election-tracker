@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-20T21:52:21+00:00",
+ "generated": "2026-11-21T03:16:35+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=Senate",
  "year": 2026,
  "office": "Senate",
  "live": true,
- "as_of": "2026-11-20T21:50:37+00:00",
+ "as_of": "2026-11-21T03:15:58+00:00",
  "counts": {
   "called": {},
   "races": 9,

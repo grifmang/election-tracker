@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-20T21:52:21+00:00",
+ "generated": "2026-11-21T03:16:35+00:00",
  "source": "Open America results feed (official state counts; no projections)",
  "source_url": "https://openamerica.io/elections/results.json?year=2026&office=House",
  "year": 2026,
  "office": "House",
  "live": true,
- "as_of": "2026-11-20T21:50:37+00:00",
+ "as_of": "2026-11-21T03:15:58+00:00",
  "counts": {
   "called": {},
   "races": 155,
   "not_called": 155,
-  "reporting": 142,
-  "with_precincts": 153
+  "reporting": 143,
+  "with_precincts": 154
  },
  "races": {
   "AR-01": {
@@ -186,7 +186,7 @@
    ]
   },
   "CT-04": {
-   "pct_in": null,
+   "pct_in": 100.0,
    "total": 240138,
    "leader": "D",
    "called": false,
@@ -2803,7 +2803,7 @@
   },
   "NC-05": {
    "pct_in": 100.0,
-   "total": 286788,
+   "total": 286790,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -2817,13 +2817,13 @@
     {
      "name": "Virginia Foxx",
      "party": "R",
-     "votes": 139439,
+     "votes": 139440,
      "pct": 48.62
     },
     {
      "name": "Robert B. Luffman",
      "party": "L",
-     "votes": 7579,
+     "votes": 7580,
      "pct": 2.64
     }
    ]
@@ -2926,7 +2926,7 @@
   },
   "NC-10": {
    "pct_in": 100.0,
-   "total": 295382,
+   "total": 295373,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -2934,13 +2934,13 @@
     {
      "name": "Pat Harrigan",
      "party": "R",
-     "votes": 146590,
+     "votes": 146589,
      "pct": 49.63
     },
     {
      "name": "Ashley Bell",
      "party": "D",
-     "votes": 144081,
+     "votes": 144073,
      "pct": 48.78
     },
     {
@@ -4453,7 +4453,7 @@
   },
   "WA-01": {
    "pct_in": 100.0,
-   "total": 294804,
+   "total": 294856,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4461,13 +4461,13 @@
     {
      "name": "Suzan DelBene",
      "party": "D",
-     "votes": 199644,
+     "votes": 199681,
      "pct": 67.72
     },
     {
      "name": "Mary Silva",
      "party": "R",
-     "votes": 95160,
+     "votes": 95175,
      "pct": 32.28
     }
    ]
@@ -4516,7 +4516,7 @@
   },
   "WA-04": {
    "pct_in": 100.0,
-   "total": 243546,
+   "total": 243775,
    "leader": "R",
    "called": false,
    "winner": null,
@@ -4524,14 +4524,14 @@
     {
      "name": "Amanda McKinney",
      "party": "R",
-     "votes": 130980,
-     "pct": 53.78
+     "votes": 131054,
+     "pct": 53.76
     },
     {
      "name": "John Duresky",
      "party": "D",
-     "votes": 112566,
-     "pct": 46.22
+     "votes": 112721,
+     "pct": 46.24
     }
    ]
   },
@@ -4558,7 +4558,7 @@
   },
   "WA-06": {
    "pct_in": 100.0,
-   "total": 359191,
+   "total": 359397,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4566,20 +4566,20 @@
     {
      "name": "Emily Randall",
      "party": "D",
-     "votes": 224825,
-     "pct": 62.59
+     "votes": 224970,
+     "pct": 62.6
     },
     {
      "name": "Teresa Fox",
      "party": "R",
-     "votes": 134366,
-     "pct": 37.41
+     "votes": 134427,
+     "pct": 37.4
     }
    ]
   },
   "WA-07": {
    "pct_in": 100.0,
-   "total": 373036,
+   "total": 373177,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4587,20 +4587,20 @@
     {
      "name": "Pramila Jayapal",
      "party": "D",
-     "votes": 328065,
+     "votes": 328188,
      "pct": 87.94
     },
     {
      "name": "Nirav Sheth",
      "party": "R",
-     "votes": 44971,
+     "votes": 44989,
      "pct": 12.06
     }
    ]
   },
   "WA-08": {
    "pct_in": 100.0,
-   "total": 340870,
+   "total": 340918,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4608,20 +4608,20 @@
     {
      "name": "Kim Schrier",
      "party": "D",
-     "votes": 195285,
+     "votes": 195320,
      "pct": 57.29
     },
     {
      "name": "Spencer Meline",
      "party": "R",
-     "votes": 145585,
+     "votes": 145598,
      "pct": 42.71
     }
    ]
   },
   "WA-09": {
    "pct_in": 100.0,
-   "total": 251532,
+   "total": 251644,
    "leader": "D",
    "called": false,
    "winner": null,
@@ -4629,14 +4629,14 @@
     {
      "name": "Adam Smith",
      "party": "D",
-     "votes": 191877,
-     "pct": 76.28
+     "votes": 191970,
+     "pct": 76.29
     },
     {
      "name": "Doug Basler",
      "party": "R",
-     "votes": 59655,
-     "pct": 23.72
+     "votes": 59674,
+     "pct": 23.71
     }
    ]
   },
